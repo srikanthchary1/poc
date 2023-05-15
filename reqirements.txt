@@ -1,4 +1,8 @@
+streamlit
 PyPDF2
 numpy
+requests
+urllib3
 panda
 tkinter
+
