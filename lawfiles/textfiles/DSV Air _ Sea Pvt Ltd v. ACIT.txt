@@ -1,0 +1,774 @@
+IN THE INCOME TAX APPELLATE TRIBUNAL, 
+MUMBAI BENCH “K”, MUMBAI 
+ 
+BEFORE SHRI BASKARAN BR, ACCOUNTANT MEMBER 
+AND  
+SHRI KULDIP SINGH, JUDICIAL MEMBER 
+ 
+ITA No.796/M/2022 
+Assessment Year: 2017-18 
+ 
+M/s. DSV Air & Sea Pvt. 
+Ltd. [Successor to 
+Panalpina World Transport 
+(India) Pvt. Ltd.]  
+B-201, B-204, The Qube, 
+MV Road, 
+Off International Airport 
+Approach Road, 
+Marol, Andheri (East), 
+Mumbai – 400 059  
+PAN: AAACP7676A  Vs.  
+ Addl/JT/ACIT/ITO/ 
+NFAC 
+Delhi – 110002  
+ 
+         (Appellant)                             (R espondent) 
+ 
+Present for:  
+Assessee by   : Shri Nikhil Tiwari, A.R.  
+Revenue by    : Ms. Samruddhi Dhananjay Hande, Sr. A.R.  
+ 
+Date of Hearing   :  07 . 11 . 2022  
+Date of Pronouncement  :  06 . 02 . 2023 
+ 
+O R D E R 
+ 
+Per : Kuldip Singh, Judicial Member:  
+ 
+Appellant, M/s. DSV Air & Sea Pvt. Ltd. (hereinafte r 
+referred to as ‘the taxpayer’) by filing the presen t appeal sought to 
+set aside the impugned order dated 26.02.2022 passe d by the 
+Assessing Officer (AO) in consonance with the order  passed by the 
+Ld. Dispute Resolution Panel (DRP)/Transfer Pricing  Officer 
+(TPO) under section 143(3) read with section 144C(1 3) of theITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 2
+Income Tax Act, 1961 (for short 'the Act') qua the assessment year 
+2017-18 on the grounds inter-alia that: 
+“General Ground  
+ 
+1. erred in assessing the total income of the Appel lant at INR 
+4,21,99,209 against a total (loss) of Rs (11,70,61, 334) as offered by the 
+Appellant in its return of income;  
+ 
+2.  erred in making additions to the total taxable income without 
+issuing a show cause notice (i.e. draft order of pr oposed additions) as 
+per the provision of Section 144B(1)(xvi)(b) of the  Act and thereby 
+vitiating the process of law. Hence, the draft orde r (and consequent 
+orders) are invalid and had in law. 
+ 
+3.  erred in issuing two assessment orders (in the name of non-existing 
+entity Le Panalpina India) under Section 143(3) of the Act for the same 
+AY on the same day on conclusion of single assessme nt proceedings. 
+ 
+4.  erred in issuing the transfer pricing order (da ted 31 January 2021), 
+the draft assessment order (dated 30 April 2021), t he directions of the 
+Hon'ble DRP (dated 28 January 2022), the subsequent  first final 
+assessment order (dated 30 April 20211, and the sec ond final 
+assessment order (dated 26 February 2022) in the na me of non-existing 
+entity is Panalpina India disregarding the fact tha t the merger had 
+been already been intonated to the learned AO/Hon'b le DRP/ learned 
+TPO, Thereby, the entire proceedings is invalid and  bad in law. 
+ 
+5.  erred in appreciating the fact that the first d raft assessment order 
+was issued on 30 April 2021 21:30 and a subsequent first final 
+assessment order was issued on the same day (ie. 30  April 2021) at 
+23:20 and therefore, the entire DRP proceedings and  final assessment 
+issued on 30 April 2021 stand as invalid and bad in  law. 
+ 
+6.  erred in appreciating the fact that the first d raft assessment order 
+(dated 30 April 20213 was passed vitiating the prov isions of Section 
+1448 of the Act which are compulsory in the process  of law, Hence, the 
+entire proceedings are invalid and bad in law. 
+ 
+7.  In view of the above grounds the entire proceed ings are bad in law 
+as the same are not in line with the provisions of the Act, hence the 
+orders passed as bad in law, void and should be qua shed.   
+ 
+Without prejudice to the above grounds of objection  on maintainability 
+of order, we wish to raise the below grounds of obj ection:ITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 3
+Transfer Pricing grounds  
+Reference to the TPO 
+8.  erred in making a reference of the Appellant's case to the TPO, 
+without complying to provisions of Section 92CA, th ereby making a 
+transfer pricing (TP") adjustment of Rs.7,36.21,080  in respect of the 
+international transaction of provision of freight f orwarding services, 
+which is bad in law; 
+ 
+Rejection of economic analysis undertaken by the Ap pellant 
+ 
+9.  erred in rejecting the transfer pricing analysi s undertaken by the 
+Appellant for the international transaction of prov ision of freight 
+forwarding services in accordance with the provisio ns of the Act read 
+with the Rules and imputing a transfer pricing adju stment by modifying 
+the economic analysis for determination of arm's le ngth price: 
+ 
+Rejection of comparables selected by the Appellant in its TP 
+documentation 
+ 
+10. erred in rejecting functionally comparable comp any i.e. Atlas 
+Logistics Private Limited on the basis that it is i ncurring losses in two 
+out of three years without appreciating that only p ersistent loss-making 
+companies (i.e. losses in continuous three years) s hould be rejected: 
+ 
+Suo-motto rejection of comparables selected by the Appellant in its TP 
+documentation 
+ 
+11. erred in disregarding the Appellant's plea for rejecting one of its 
+own comparables (i.e. Patel Integrated Logistics Lt d) without 
+appreciating that the Appellant cannot be estopped from pointing out 
+its own mistake as the company is functionally diff erent and owns 
+significant assets as compared to the Appellant whi ch is a Non-vehicle 
+owning common carrier (NVOCCE’); 
+ 
+Introduction of additional comparables by the learn ed TPO 
+ 
+12. erred in considering Anil Mantra Logistix Pvt L td. Prudential 
+Global Logistics (India) Pvt Ltd. Continental Carri ers Pvt Ltd and CTA 
+Logistics Ltd as comparables for benchmarking the i nternational 
+transaction of provision of freight forwarding serv ices, disregarding 
+the Fact that it is functionally different from the  Appellant. 
+ 
+Margin computation of tested party  
+ 
+13. erred in considering liabilities no longer requ ired written back, 
+gain on foreign exchange fluctuation", "provision f or bad debts written 
+back and miscellaneous income as non- operating in nature for the 
+purpose of computing the operating margin of the Ap pellant, withoutITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 4
+appreciating that the same are operating in nature and related to the 
+day to day business operations of the Appellant;  
+ 
+14 without prejudice to the above ground , the learned AO/TPO erred in 
+not applying a consistent approach for treatment of  ‘liabilities no 
+longer required written back’, ‘foreign exchange fl uctuations’, 
+‘provisions for bad debts written back’ and ‘miscel laneous income as 
+non- operating in nature, while computing the opera ting profitability of 
+the comparable companies;  
+ 
+15. without prejudice to the above ground , the learned AO/ TPO erred 
+in not treating certain items of expenses i.e. ‘bad  debts' and 
+'miscellaneous expenses as non-operating items whil e computing the 
+operating profitability of the Appellant, whereas t he corresponding 
+items of income pertaining to the said expenses i.e . 'provision for bad 
+debts written back’ and miscellaneous income have b een considered as 
+non-operating;  
+ 
+16. without prejudice to the above , the learned AO/ TPO erred in 
+passing rectification order under Section 154 of th e Act for considering 
+the issue of margin computation and treatment of it ems of income, 
+without appreciating that the said issue is debatab le in nature and 
+cannot be rectified by passing order under section 154 of the Act, 
+ 
+17. erred in incorporating the rectification order dated 24 January 
+2022 passed by the learned TPO in the final assessm ent order dated 26 
+February 2022 passed pursuant to the DRP directions  issued on 28 
+January 2022, whereas separate draft order was requ ired to be passed, 
+which makes enhancement made pursuant to rectificat ion order as bad 
+in law: 
+ 
+Grant of economic adjustment  
+ 
+18. erred in not allowing Appellant the benefit of working capital 
+adjustment which is required to be undertaken to ac count for the 
+difference in working capital levels between the co mparable companies 
+and the Appellant; 
+ 
+Incorrect consideration of losses to compute the re vised assessed 
+income.  
+ 
+19. has erred in considering an amount of Rs.3,14,2 1,871 (being 
+book loss reported under Section 115JB of the Act a s against 
+Rs.11,70,61,334 (being net loss reported under the normal provisions 
+of the Act) as the starting point to arrive at the revised assessed 
+income. The same is evidenced side the final assess ment order dated 26 
+February 2022.  
+ 
+The Appellant prays that the learned AO be directed  to consider an 
+amount of Rs.11,70,61,334 (being net loss reported under the normalITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 5
+provisions of the Act) as against Rs.3,14,21,871 (b eing book loss 
+reported under Section 115JB of the Act) as the sta rting point for 
+purpose of computing the revised assessed income. 
+ 
+Penalty Proceedings  
+ 
+20.  erred in initiating penalty proceedings under Section 270A of the 
+Act; 
+ 
+21. erred in initiating penalty proceedings under S ection 271AA of the 
+Act.” 
+ 
+2.  Briefly stated facts necessary for consideratio n and 
+adjudication of the issues at hand are : Panalpina India, the taxpayer 
+now merged with DSV Air and Sea Private Ltd.  (is an Indian Pvt. 
+Ltd. Company) incorporated on 22.12.1986 under the Companies 
+Act, 1986.  The taxpayer is an asset freight compan y primarily 
+engaged in the business of freight forwarding and l ogistic services 
+specialising in international air and sea freight c onsignments and 
+associated supply chain management services. During  the year 
+under consideration the taxpayer entered into inter national 
+transactions with its Associate Enterprise (AE) as under:   
+Sl. No.  Nature of Transactions Method 
+Applied Value (INR) 
+1.  Trademark fees  CUP  9,02,65,149  
+ 
+2.  
+ Freight Forwarding expenses   
+ 3,21,08,08,063  
+3.  Freight Forwarding income   
+ 2,53,19,87,051  
+4.  Internal Communication   
+ 23,10,293  
+5.  
+ IT Expenses  
+  
+ 65,131  
+ 
+6.  
+ Personnel Income    
+ 1,24,90,009  
+ 
+7.  
+ Assignment Service fee  
+ 13,27,959ITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 6
+8.  
+ Business Support Cost allocation  
+  
+ 38,39,33\351  
+ 
+9.  Interest paid on loan   
+ 53,07,534  
+ 
+10.  
+ Claims (payable)   
+ -7,28,820  
+ 
+11.  
+ Recovery of travel expenses  
+  
+ 6,36,361  
+ 
+12.  
+- ••. 
+ Training/Conference        and        
+personnel expenses  
+  
+ 39,45,414  
+ 
+13.  
+ Claims (receivable)  
+  
+ 29,410  
+ 
+14.  
+ Recovery of Travel Expenses  
+  
+ 23,937  
+ 
+Total  
+ 624,38,58,482  
+ 
+ 
+3.  Taxpayer in order to benchmark its internationa l transactions 
+applied CUP with OP/OC as the profit level indicato r (PLI) and 
+computed its margin as per TP study at (-) 0.15% OP /OC. Transfer 
+Pricing Officer (TPO) after applying various filter s finally selected 
+6 comparables having margin of (-)1.50% as against taxpayer's 
+margin of (-)0.15% and thereby proposed the proport ionate 
+adjustment at Rs.4,19,53,631/-.  
+ 
+4.  The taxpayer carried the matter before the Ld. DRP by way 
+of filing objections which have been disposed of pa rtly in favour of 
+the taxpayer.  Feeling aggrieved with the impugned order passed by 
+the Ld. DRP the taxpayer has come up before the Tri bunal by way 
+of filing present appeal.ITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 7
+5.  We have heard the Ld. Authorised Representative s of the 
+parties to the appeal, perused the orders passed by  the Ld. Lower 
+Revenue Authorities and documents available on reco rd in the light 
+of the facts and circumstances of the case and law applicable 
+thereto.   
+ 
+6.  The taxpayer has come up by moving an applicati on for 
+raising additional ground of appeal as under :- 
+“Validity of TP order  
+ 
+18. Without prejudice to Ground Nos 1 to 17, the TP  order passed 
+under Section 92CA(3) is invalid and unsustainable in law since 
+the same is passed on 31 January 2021 which is beyo nd the time 
+limit available for completion of proceedings under  Section 
+92CA(3A) of the Act. 
+ 
+Validity of Assessment order  
+ 
+19. The learned AO has erred in law, in incorporati ng the TP 
+adjustment proposed in the TP order which is invali d and bad in 
+law into the Final Assessment order passed under Se ction 143(3) 
+read with Section 144C(13) of the Act.” 
+ 
+on the grounds inter alia that the draft assessment  order passed by 
+the ld. AO is without jurisdiction having been pass ed beyond the 
+prescribed time limit and as such, consequent asses sment order is 
+liable to be annulled; that additional ground can b e raised at any 
+stage of proceedings and relied upon the judgments passed by 
+Hon’ble Apex Court in case of Jute Corporation of I ndia Ltd. 
+vs. CIT 187 ITR 688 and National Thermal Power Corp oration 
+Ltd. 229 ITR 383 . 
+ 
+7. However, on the other hand, ld. DR for the Reven ue opposed 
+the application for additional ground on the ground s inter alia that 
+application is not maintainable having been filed a fter undue delay;ITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 8
+that no such plea has been taken by the taxpayer be fore the lower 
+Revenue authorities; and that no prejudice has been  caused to the 
+taxpayer as he has been duly represented before the  ld. Revenue 
+authorities in passing the TP order/assessment orde r. 
+ 
+8. Keeping in view the settled principle of law tha t 
+jurisdictional issue is a legal issue which can be taken by the 
+aggrieved party at any stage of the proceedings bef ore the 
+judicial/quasi judicial bodies, particularly when a ssessee has come 
+up with the pleading that TP order and consequent a ssessment order 
+has been passed beyond the period of limitation.  S o, application 
+raising additional ground by the taxpayer is allowe d without 
+prejudice to the merits of this case. 
+ 
+9. Since taxpayer has raised jurisdictional issue w hich goes to 
+the roots of the case, we would decide the addition al ground nos.18 
+& 19 first before going into the grounds raised on merits. 
+ 
+10.  The Ld. A.R. for the taxpayer challenging the impugned 
+order passed by the AO/DRP/TPO contended inter-alia  that the 
+order passed by the TPO dated 31.01.2021 was barred  by limitation 
+and as such consequent assessment order is also not  sustainable 
+being passed on the basis of time barred TP order; that the due date 
+for passing the TP order under section 92CA(3) i.e.  60 days prior to 
+the date prescribed under section 153 of the Act i. e. due date for 
+passing TP order under section 92CA(3A) was 29.01.2 021 whereas 
+the impugned order has been passed on 31.01.2021 an d relied upon 
+Hon’ble Madras High Court in case of M/s. Pfizer He althcare India 
+Pvt. Ltd. vs. JCIT WP No.32699/2019 judgment dated 07.09.2020.ITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 9
+11. However on the other hand the Ld. D.R. for the Revenue to 
+repel the argument addressed by the Ld. A.R. for th e taxpayer 
+contended that the Ld. TPO has passed TP order in t his case well 
+within time on 31.01.2021 i.e. within 2 months as p rescribed under 
+section 153 of the Act and the decisions relied upo n by the Ld. A.R. 
+for the taxpayer are not applicable to the facts an d circumstances of 
+the case.   
+ 
+12. In order to determine if the order dated 31.01. 2021 passed by 
+Ld. TPO is barred by limitation as contended by Ld.  A.R. for the 
+taxpayer we would advert to the provisions containe d under section 
+92CA(3) read with section 153 of the Act.   
+ 
+13. Undisputedly, sub-section (3A) to section 92CA has been 
+inserted w.e.f. 01.06.2007 providing time limit for  the Transfer 
+Pricing Officer to pass the order i.e. within a per iod of 60 days prior 
+to the date of completion of assessment as per sect ion 153.  So, u/s 
+92CA (3A) read with section 153, TPO was required t o pass the 
+order within the period of 60 days prior to the dat e on which the 
+period of limitation referred to in section 153 exp ires i.e. 21 
+months. 
+ 
+14.  In the instant case undisputedly assessment or der in this case 
+was passed on 26.02.2022 and the Ld. TPO was requir ed to pass the 
+order within 60 days prior to the date on which per iod of limitation 
+as prescribed under section 153 of the Act expires.  
+ 
+15. Now, the question arises as to how the period o f 60 days 
+prior to the date of TP order i.e. 31.03.2013 is to  be computed.ITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 10 
+ 
+ 
+16. Hon’ble Madras High Court in case of M/s. Pfize r Healthcare 
+India Pvt. Ltd. (supra) while dealing with the issu e held that for 
+computing the period of 60 days, the last date as p er section 153 
+should be excluded.  Operative part of the judgment  is extracted for 
+ready perusal as under :- 
+ 
+ “30.   Now, coming to the question of how the 60 d ay period is to be 
+computed, the critical question would be whether th e period of 60 days 
+would be computed including the 31st of December or  excluding it. 
+Section 153 states that no order of assessment shal l be made at any 
+time after the expiry of 21 months from the end of the assessment year 
+in which the income was first assessable. The submi ssion of the revenue 
+is to the effect that limitation expires only on 12  a m of 01.01.2020. 
+However, this would mean that an order of assessmen t can be passed at 
+12 a m on 01.01.2020, whereas, in my view, such an order would be 
+held to be barred by limitation as proceedings for assessment should be 
+completed before 11.59.59 of 31.12.2019. The period  of 21 months 
+therefore, expires on 31.12.2019 that must stand ex cluded since Section 
+92CA(3A) states ’before 60 days prior to the date o n which the period 
+of limitation referred to Section 153  expires’.  E xcluding 31.12.2019,  
+the period of 60 days would expire on 01.11.2019 an d the transfer 
+pricing orders thus ought to have been passed on 31 .10.2019 or any 
+date prior thereto. Incidentally, the Board, in the  Central Action Plan 
+also indicates the date by which the Transfer Prici ng orders are to be 
+passed as 31.10.2019. The impugned orders are thus,  held to be barred 
+by limitation.” 
+ 
+17.  In the case at hand Ld. A.R. for the taxpayer computed the 
+limitation period under section 92CA(3A) for the ye ar under 
+consideration in tabulated form as under: 
+Financial Year 2016-17 
+Assessment Year 2017-18 
+End of Assessment Year 31-03-2018 
+Due date for completion of assessment under Section  153(1) i.e. 21 
+months from the end of A.Y. 31-12-2019 
+Extension of 12 months in case of transfer pricing as per Section 153(4) 
+of the Act 31-12-2020 
+ 
+Extension of 3 months to pass the order as per the CBDT notification 
+dated 24 June 2020 (copy enclosed as Annexure 1) 31-03-2021ITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 11 
+ 
+18.  Identical issue has also been dealt with by th e coordinate 
+Bench of the Tribunal in case of Honda Trading Corp oration vs. 
+DCIT in ITA No.1132/Del/2015 order dated 15.09.2015  by 
+returning following findings :- 
+“5.27.  It is, therefore, summed up that the time l imit for completion 
+of assessment, or in other words, passing of the fi nal assessment 
+order pursuant to the order of the TPO, is containe d in section 
+144C(4) and (13); the time limit given u/s 153 has no relation 
+whatsoever with the passing of the draft order, whi ch should be 
+passed within a reasonable time; and the time limit  given in section 
+153 is relevant for determining the time available with the TPO for 
+passing order u/s 92CA(3).  
+5.28.  Turning to the facts of the instant case, we  find that the AO 
+passed the final assessment order on 29.1.2015, whi ch is well 
+within a period of one month from the end of the mo nth in which 
+direction was received from the DRP on 24.12.2014. As such, we 
+hold that the final assessment order passed by the AO is within the 
+time prescribed u/s 144C(13). Further since the dra ft order has 
+also been passed within a reasonable time, the same  is also not 
+barred by limitation. The contention of the ld. AR that the draft 
+order passed in this case was barred by limitation,  is therefore, 
+found to be without any substance and hence repelle d.  
+B.  Time limit for passing of order by the TPO  
+6.1.  The ld. AR also challenged the passing of the  order by the 
+TPO. It was submitted that the TPO passed order on 31.5.2014, Time Limit for passing the order under section 92CA (3A) i.e. 60 days 
+prior to the date prescribed under Section 153  
+ 
+Date on which limitation expires under section 153 i.e. 31-03-2021 1 day 
+ 
+Less: Remaining days of March 30 days 
+ 
+Less: Remaining days of February 28 days 
+ 
+Less: Remaining days of January 2 days 
+ 
+Due date for passing the TPO order under Section 92 CA(3) i.e. 61 from 
+31 March 2021 29-01-2021 
+ 
+Date of passing the TP order under Section 92CA(3) 31-01-2021ITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 12 
+which was time barred and, hence, the same should b e annulled 
+leading to the quashing of the final assessment ord er. In the 
+opposition, the ld. DR supported the Revenue's stan d.  
+6.2.  We have heard the rival submissions and perus ed the 
+relevant material on record. It has been noticed ab ove that the 
+provisions of section 92CA requiring the passing of  the order by 
+the TPO determining the ALP of the international tr ansactions, 
+came into being by the Finance Act, 2002. As per su b-section (3) of 
+section 92C, the TPO is required to pass the order determining the 
+ALP of the international transactions. No time limi t was initially 
+given for the passing of order by the TPO. It is on ly by the Finance 
+Act, 2007, that sub-section (3A) was inserted provi ding time limit 
+for the passing an order by the TPO. No amendment h as been 
+carried out in this provision thereafter. Sub-secti on (3A) of section 
+92CA containing the relevant time limit for the pas sing of the order 
+by the TPO, reads as under : -  
+`(3A) Where a reference was made under sub-section (1) 
+before the 1st day of June, 2007 but the order unde r sub-
+section (3) has not been made by the Transfer Prici ng 
+Officer before the said date, or a reference under sub-
+section (1) is made on or after the 1st day of June , 2007, an 
+order under sub-section (3) may be made at any time  before 
+sixty days prior to the date on which the period of  limitation 
+referred to in section 153, or as the case may be, in section 
+153B for making the order of assessment or reassess ment or 
+recomputation or fresh assessment, as the case may be, 
+expires.'.  
+6.3.  It transpires from a reading of the above pro vision that 
+where a reference is made to the TPO after 1.6.2007 , an order 
+under sub-section (3) may be made at any time befor e 60 days 
+prior to the date on which the period of limitation  referred to in 
+section 153, or, as the case may be, in section 153 B, for making the 
+order of assessment or re-assessment, etc., expires .  
+6.4.  The ld. DR vehemently contended that the use of the word 
+`may' in this provision for the passing of the orde r by the TPO 
+within a period of 60 days of the limitation set ou t in section 153 
+indicates that the adherence to this time limit is not mandatory. He 
+contended that even if the order is passed after th e period of 60 
+days from the period of limitation as given u/s 153 , still it would be 
+treated as having been passed within time. This arg ument was 
+countered by the ld. AR.  
+6.5.  There is no doubt that the legislature has us ed the word 
+`may' in sub-section (3A) of section 92CA. There is  further no 
+doubt that the ambit of the word `may' is different  from the word 
+`shall'. Whereas, ordinarily the use of the word `s hall' signifiesITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 13 
+mandatory compliance, the word 'may' signifies dire ctory 
+compliance. But at times, the word `may' can also b e read as `shall' 
+and vice versa. In fact, all depends upon the conte xt and the 
+background of the provision in which such a word is  used.  
+6.6.  Section 127 deals with the power to transfer cases. Sub-
+section (1) of this provision provides that : `The Director General 
+or Chief Commissioner or Commissioner may, after gi ving the 
+assessee a reasonable opportunity of being heard in  the matter, 
+wherever it is possible to do so, and after recordi ng his reasons for 
+doing so, transfer any case from one or more Assess ing Officers 
+subordinate to him (whether with or without concurr ent 
+jurisdiction) to any other Assessing Officer or Ass essing Officers 
+(whether with or without concurrent jurisdiction) a lso subordinate 
+to him'. Dispute arose in Sahara Hospitality Ltd. v s. CIT (2013) 
+352 ITR 38 (Bom) as to whether or not giving the as sessee a 
+reasonable opportunity of being heard before the tr ansfer of case 
+by the Chief Commissioner, in the backdrop of the u se of the word 
+`may' in the provision, be considered as mandatory.  The Hon'ble 
+Bombay High Court has held that the word `may' in s ection 127 
+should be read as `shall' and hence the granting op portunity to the 
+assessee is mandatory.  
+6.7. Section 16 of the Wealth-tax Act, 1957 deals w ith the 
+assessment of wealth. Section 16A having marginal n ote of 
+`Reference to Valuation Officer' provides through s ub-section (1) 
+that : `For the purpose of making an assessment (in cluding an 
+assessment in respect of any assessment year commen cing before 
+the date of coming into force of this section) unde r this Act, where 
+under the provisions of section 7 read with the rul es made under 
+this Act or, as the case may be, the rules in Sched ule III, the market 
+value of any asset is to be taken into account in s uch assessment, 
+the Assessing Officer may refer the valuation of an y asset to a 
+Valuation Officer- (a) in a case where the value of  the asset as 
+returned is in accordance with the estimate made by  a registered 
+valuer if the Assessing Officer is of opinion that the value so 
+returned is less than its fair market value; (b) in  any other case, if 
+the Assessing Officer is of opinion- (i) that the f air market value or 
+the asset exceeds the value of the asset as returne d by more than 
+such percentage of the value of the asset as return ed or by more 
+than such amount as may be prescribed in this behal f; or (ii) that 
+having regard to the nature of the asset and other relevant 
+circumstances, it is necessary so to do'. In Raj Pa ul Oswal vs. CWT 
+(1988) 171 ITR 489 (P&H), there arose a quarrel as to the 
+meaning of the word `may' used in section 16A in th e context of 
+making reference to the Valuation Officer. Settling  the controversy, 
+the Hon'ble High Court held that the word `may' use d in section 
+16A(1)(b), should be read as `shall'. It held that if the legislative 
+intent had been to accord total discretion to the W TO to make a 
+reference to the Valuation Officer or not in cases which wereITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 14 
+covered by cls. (a) & (b) of sub-s. (1) of s. 16A o f the WT Act, then 
+there was no necessity of providing the guidelines in cl. (a) or in 
+sub-cls. (i) and (ii) of cl. (b) of sub-s. (1) of s . 16A. It was, 
+therefore, held that the legislature by prescribing  the 
+contingencies, in which, by implication, it would n ot be necessary 
+to make a reference, also again by necessary implic ation be taken 
+to have intended that the reference to Valuation Of ficer was must if 
+the given contingencies did not exist. In this rega rd, the Hon'ble 
+High Court observed that : `There is no doubt about  the fact that 
+the use of expression "may" and "shall" to some ext ent serves an 
+indicia to the intention of the legislature and hel ps in deciding as to 
+whether the given requirement is directory or manda tory in 
+character, but the use of expression "may" or "shal l" is never 
+considered decisive in that regard'. It was thus he ld that the 
+moment the estimated value exceeded the returned va lue of the 
+asset by more than what is envisaged by r. 3B, then  the WTO had 
+no option, but to make a reference and he is not to  wait for a 
+request from the assessee to make a reference. Simi lar view has 
+been expressed by the Hon'ble Delhi High Court in S harbati Devi 
+Jhalani vs. CWT & Ors. (1986) 159 ITR 549 (Del). It  is vivid from 
+the above discussion that the use of word `may' or `shall' in a 
+provision is not conclusive of its mandatory or dir ectory nature. 
+One needs to go through the text of the provision a nd the context in 
+which such a word has been used.  
+6.8.  Reverting to section 92CA, we find that the F inance Act, 
+2007 inserted sub-section (3A) carrying the time li mit of sixty days 
+for passing of the order by the TPO before the expi ry of time limit 
+for completion of assessment by the AO u/s 153. Des pite the use of 
+the word `may', the time limit for passing the orde r by the TPO is 
+mandatory, as in the otherwise situation of the TPO  having been 
+allowed more time by implication, say of three mont hs or more, 
+could at that time have frustrated the provisions o f section 153 for 
+the passing of the assessment order by the AO. Thus  we have no 
+hesitation in holding that the use of the word `may ' in sub-section 
+(3A) of section 92CA is to be construed as `shall',  thereby making 
+this time limit as mandatory and not directory. As such, it is held 
+that the TPO is bound by the given time limit for p assing of his 
+order.  
+6.9.  Having held that the word `may' in section 92 CA(3A) 
+should be read as `shall', we once again note that prior to the 
+insertion of section 144C by the Finance Act, 2009,  the time limit 
+for completion of assessment was contained in secti on 153 and 
+accordingly the time limit for the passing of the o rder by the TPO 
+was also set out accordingly in section 92CA w.r.t.  the time limit 
+for the completion of assessment as per section 153 . However, with 
+the insertion of section 144C, the time limit for t he completion of 
+assessment, or in other words, for passing of the f inal assessment 
+order, stood shifted to sub-sections (4) or (13) of  section 144C andITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 15 
+got detached from section 153. Along with this, pas sing of draft 
+order also became mandatory, for which we have held  above that 
+the same is required to be passed within a reasonab le time and it 
+has got no relation with the time limit given in se ction 153. When 
+the position is such that the draft order has to be  passed 
+independent of the time limit given in section 153,  there appears 
+some logic in not continuing with the time limit fo r the passing of 
+the order by the TPO tagged with the time limit giv en in section 
+153. It has led to incoherence in the provisions. T his position can 
+be set right only with a suitable legislative amend ment.  
+6.10.  Having held that the time limit given in sub -section (3A) of 
+section 92CA is mandatory for the passing of the or der by the TPO, 
+let us find out the time available with the TPO for  the passing of his 
+order. It has been noticed above that the time limi t as per section 
+153(1) read with the third proviso and clause (viii ) of the 
+Explanation to the section, comes at 7th June, 2014 . Period of 60 
+days prior to such time limit coming as per section  153, available 
+with the TPO for passing his order, comes to an end  on 8th April, 
+2014. As against this, the order was actually passe d by the TPO on 
+31st May, 2014. Thus, the order passed by the TPO i s patently time 
+barred.  
+C.  Consequences of valid draft order and TPO's tim e barred 
+order  
+7.  The ld. AR argued that since the draft order as  well as the 
+order of the TPO were time barred, the final assess ment order 
+passed by the AO was liable to be set aside. We hav e held above 
+that the draft order was passed within time and onl y the order of 
+the TPO is time-barred. When an order is passed wit hout 
+jurisdiction or beyond the permissible time, it is considered as null 
+and void. The effect of passing a null and void ord er is that it is 
+considered as non est, meaning thereby, that it ent ails all the 
+consequences of not having been passed at all and i s ignored for 
+all practical purposes. The Hon'ble Madras High Cou rt in Vijay 
+Television (P.) Ltd. vs. DRP (2014) 369 ITR 113 (Ma d) considered 
+a case in which the assessment order was directly p assed without 
+routing through draft order or DRP. The Hon'ble Cou rt held it to 
+be a non- curable defect and resultantly the assess ment was 
+quashed. It was held that when there is an omission  on the part of 
+the AO to follow the mandatory procedure prescribed  under the 
+Act, such an omission cannot be termed as a mere pr ocedural 
+irregularity and it cannot be cured. Extantly, we a re confronted 
+with a situation in which the draft order has been passed in time 
+but the lapse has come in the passing of the order by the TPO. The 
+consequence of the above scenario is that the passi ng of a valid 
+and properly timed draft order cannot lead to the s etting aside of 
+the final assessment order. However the passing of the time barred 
+order by the TPO, which is again a mandatory proced ureITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 16 
+prescribed under the Act, would be a non-curable de fect, having 
+the consequence as if it was not passed. In such ci rcumstances, 
+though the final assessment order would be saved bu t the addition 
+on account of transfer pricing adjustment arising f rom the 
+determination of the ALP of the international trans actions by the 
+TPO as emanating from his time barred order, would be 
+unsustainable. We hold accordingly and direct the d eletion of 
+addition on account of transfer pricing adjustment made in the 
+final assessment order.”   
+19.  Computation period of 60 days given by the tax payer 
+extracted in the preceding para 14 cannot be faulte d with on any 
+ground because from 26.02.2022, the date of passing  order of the 
+AO, 60 days was to be computed by excluding the dat e of order i.e. 
+31.01.2021.  so while excluding the date of passing  assessment 
+order i.e. 26.02.2022, the order was required to be  passed by the 
+Ld. TPO by 29.01.2021 whereas the impugned order ha s been 
+passed on 31.01.2021 which is barred by limitation.    
+ 
+20. In view of what has been discussed above and fo llowing the 
+decision rendered by Hon’ble Madras High Court and the order 
+passed by the coordinate Bench of the Tribunal in c ases of          
+M/s. Pfizer Healthcare India Pvt. Ltd. and Honda Tr ading 
+Corporation (supra) respectively and mandate of sec tion 92CA (3) 
+read with section 153 of the Act, impugned order pa ssed by the ld. 
+TPO is barred by limitation which was required to b e passed by 
+29.01.2021 and as such is hereby quashed. 
+ 
+21. Consequently addition made on account of transf er pricing 
+adjustment by way of determining the ALP of interna tional 
+transactions by the Ld. TPO are not sustainable in the eyes of law, 
+the order of TPO (Supra) being barred by limitation .  So the 
+consequent assessment framed qua the determination of ALP ofITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 17 
+international transactions is also barred by limita tion and the 
+assessment order to that extent is not sustainable,  hence ordered to 
+be set aside.   
+ 
+22. However the taxpayer has raised corporate groun ds 
+challenging the incorrect consideration of losses t o compute the 
+revised assessed income by virtue of ground number 19. However 
+the Ld. A.R. for the taxpayer brought on record the  fact that the 
+taxpayer's application for rectification dated 07.0 4.2022 is already 
+pending adjudication with the AO to rectify the inc orrect 
+consideration of losses to compute the revised asse ssed income.  
+Since prima-facie the ground number 19 raised by th e taxpayer is a 
+mistake apparent on record which can be rectified u nder section 
+154 of the Act the AO is directed to dispose of the  application 
+within a period of 2 months from the date of receip t of the order.  
+ 
+23. In view of what has been discussed above, the a ppeal filed by 
+the taxpayer is partly allowed.    
+    
+Order pronounced in the open court on 06.02.2023. 
+ 
+ 
+                      Sd/-  Sd/-   
+         (BASKARAN BR)                              (KULDIP SINGH) 
+ ACCOUNTANT MEMBER                  JUDICIAL MEMBER  
+ 
+Mumbai, Dated: 06.02.2023.  
+ 
+* Kishore, Sr. P.S.   
+ 
+ 
+Copy to:  The Appellant 
+              The Respondent 
+              The CIT, Concerned, MumbaiITA No.796/M/202  
+M/s. DSV Air & Sea Pvt. Ltd.  
+[Successor to Panalpina World Transport (India) Pvt . Ltd.]  
+ 18 
+              The CIT (A) Concerned, Mumbai 
+              The DR Concerned Bench                 
+   
+ 
+//True Copy// 
+                                                            
+                                                        
+                                         By Order 
+ 
+ 
+                                               
+                                             Dy/Ass tt. Registrar, ITAT, Mumbai.

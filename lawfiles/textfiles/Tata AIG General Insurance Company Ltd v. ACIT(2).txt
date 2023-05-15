@@ -1,0 +1,1542 @@
+IN THE  INCOME  TAX  APPELLATE  TRIBUNAL ,  ‘E‘ BENCH 
+MUMBAI  
+ 
+ 
+BEFORE : SHRI  M.BALAGANESH, A CCOUNTANT MEMBER  
+      & 
+       SHRI  AMARJIT SINGH , JUDICIAL MEMBER  
+     
+ITA No. 1718 /Mum/ 2020 
+(Assessment Year : 2015 -16) 
+M/s. Tata AIG General 
+Insurance Company Limit ed 
+15th Floor, Tower -A 
+Peninsula Business Park  
+G.K. Marg, Lower Parel  
+Mumbai – 400 013  Vs. Deputy Commissioner of 
+Income Tax -8(3)(1),  
+Mumbai  
+PAN/GIR No. AABCT3518Q  
+(Appellant ) .. (Respondent ) 
+ 
+Assessee by  Shri Madhur Aggarwal  
+Revenue by    Shri Mehul Ja in 
+Date of Hearing        18/02/2022 
+Date of Pronouncement         25/04 /202 2 
+  
+आदेश  / O R D E R  
+ 
+PER M. BALAGANESH (A.M) : 
+ 
+ 
+  This appeal in ITA No. 1718/Mum/2020  for A.Y. 2015-16 arises out 
+of the order by the ld. Commissioner of Income Tax (Appeals) -15, 
+Mumbai in appeal No. CIT(A) -15, Mumbai/10628/2019 -20 dated 
+28/02/2020 (ld. CIT(A) in short) against the order of assessment passed 
+u/s.143(3)  of the Income Tax Act, 1961 (hereinafter referred to as Act) 
+dated 31/12/2018  by the ld. Dy. Commissioner of In come Tax -8(3)(1), 
+Mumbai  (hereinafter referred to as ld. AO).ITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 2 
+2.  The ground Nos. 1 & 2 raised by the assessee are general in nature 
+and does not require any specific adjudication. It would be relevant to 
+mention here that the assessee being a general ins urance company is 
+bound to prepare the accounts in accordance with the provisions of the 
+first schedule to the Income Tax Act, 1961 (hereinafter referred to as 
+„Act‟). The computation of income of insurance company would be 
+prepared  on these accounts subje ct to the adjustments that are provided 
+in Rule 2 and Rule 5 of the first schedule of the Act. In effect as per Rule 
+5 of the first schedule to the Act, the assessee‟s income would be profits  
+as disclosed in the profit and loss account prepared as per the Insurance 
+Act, 1938 excluding the amounts disallowable u/s.  30 to 43B of the 
+Income Tax Act. This has been duly followed by the assessee in the 
+instant case.  
+ 
+3. The ground Nos. 3 & 4 raised by the assessee are challenging the 
+disallowance of re-insurance premium paid to non -resident reinsurers , 
+who do not have a place of business / branch in India , u/s.37(1) of the 
+Act. The alternative disallowance that was made by the ld. AO in this 
+regard was u/s.40(a)(i) of the Act for payments made without deduction 
+of tax at source.  
+ 
+3.1. We have heard rival submissions and perused the materials 
+available on record. We find that assessee is in the business of general 
+insurance. During the year, the assessee paid an amount of 
+Rs.681,13,22,176/ - to non -resident companie s (foreign reinsurers)  as 
+reinsurance premium. The assessee had not withheld tax o n these 
+outward remittances except  one payment of Rs.45,55,87,765 /- made to 
+Swiss Reinsurance Co. Ltd., The ld. AO observed that the remaining 
+reinsurance premium paid in the  sum of Rs.635,57,94,411/ - was liable forITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 3 
+disallowance u/s.37 of the Act in view of the provisions contained in 
+Section 101A r.w.s. 2(9) of the Insurance Act, 1938. Additionally, the ld. 
+AO, on without prejudice basis , also observed that since the said pay ment 
+of Rs.635,57,94,411/ - was made without deduction of tax at source, the 
+same would be liable for disallowance u/s.40(a)(i) of the Act also. When 
+assessee was show -caused in this regard, the assessee gave a detailed 
+explanation before the ld. AO which w as not considered. Accordingly, the 
+ld. AO proceeded to make disallowance of reinsurance premium of 
+Rs.635,57,94,411/ - u/s.37( 1) and alternatively also stated that the same 
+would be liable for disallowance u/s.40(a)(i) of the Act.  
+ 
+3.2. The ld. CIT(A) con sidering the fact that there was a n amendment in 
+Section 2(9) of the Insurance Act, 1938 w.e.f. 26/12/2014  held that the 
+assessee  shall be allowed deduction on payments made prior to 
+26/12/2014 and payments made on or after 26/12/2014 shall be covered 
+within the ambit of Explanation  1 to Section 37 of the Income Tax Act 
+liable for disallowance thereon. The ld. CIT(A) however, said that since 
+the entire payment was made without deduction of tax at source, the ld. 
+AO was justified in alternatively making disa llowance u/s.40(a)(i) of the 
+Act.  
+ 
+3.3. We find that assessee is an independent insurance company 
+registered with Insurance Regulatory and Development Authority of India  
+(IRDA) as provided in Section 3(2A) of the Insurance Act, 1938. It is not 
+in dispute  that the assessee has paid reinsurance premium to non -
+resident insurance companies. It is not in dispute that the said non -
+resident reinsurance companies do not have any branch or any place of 
+business in India. The case of the Revenue is that the payment s made to 
+non-resident reinsurance companies were in violation of provisions ofITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 4 
+Insurance Act 1938 and accordingly , not allowable as deduction in terms 
+of Explanation -1 to Section 37 of the Act. Hence, the two points that are 
+to be decided in this appeal a re as under: - 
+ 
+a) Whether the re -insurance premium paid to non -resident 
+reinsurance companies was in violation of provisions of the 
+Insurance Act and consequently whether the provisions of 
+Explanation to Section 37(1) of the Act after 26/12/2 014 could be 
+brought into force ?  
+b) Whether reinsurance payment made would be in violation of 
+provisions  of Section 40(a)(i) of the Act ?  
+ 
+3.4. We find that the ld. AO had heavily placed reliance on the decision of 
+the Co -ordinate Bench of Chennai Tribunal in the case of DCI T vs. 
+Cholamandalam M S General Insurance Co. Ltd  where the provisions of 
+Section 2(9 ) r.w.s. 101A(7) of the Insurance Act, 1938 were dealt with 
+and the issue in dispute was decided against the assessee. In this regard, 
+it would be relevant to reproduce the  provisions of Section 2(9) and 
+Section 101A of the Insurance Act, 1938 as under: - 
+ 
+ (9) "Insurer" means - 
+(a) any individual or unincorporated body of individuals or body corporate 
+incorporated under the law  of any country other than India, carrying on 
+insurance business not being a person specified in sub -clause  (c)of this clause 
+which - 
+ 
+(i)  carries on that business in India, or  
+ 
+(ii) has his or its principal place of business  or is domiciled in  India, or  
+ 
+ (iii) with the o bject of obtaining insurance bus iness, employs a representative, 
+or maintains a place of business in India;  
+ 
+(b) any body corporate [not being a person specified in sub -clause (c) of this 
+clause] carrying on the business of insurance, which is a body corporate 
+incorporated under any law for the time being in force in India, or stands to anyITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 5 
+such body corporate in the relation of a subsidiary company within the meaning 
+of the Indian Companies Act, 1913 (7 of 1913), as defined by sub -section (2) of 
+section 2 of that Act, and  
+ 
+(c) any perso n who in India has a standing contract with underwriters who are 
+members of the Society of Lloyd’s whereby such person is authorised within the 
+terms of such contract to issue protection notes, cover notes, or other 
+documents granting insurance cover to ot hers on behalf of the underwriters.  
+ 
+But does not include a principal agent’ chief agent, special agent’ or an 
+insurance agent or a provident society as defined in Part III;  
+ 
+ 
+ 
+PART  IV-A 
+RE-INSURANCE  
+Re-insurance with Indian reinsurers  
+101A. (1) Every insu rer shall re insure with Indian rc -insurers such percentage 
+of the sum assured on each policy as may be specified by the Authority with the 
+previous approval of the Central Government under sub -section (2).  
+ 
+(2) For the purposes of sub -section (1), the Aut hority may, by notification in the 
+official Gazette, — 
+ 
+(a)  specify the percentage of the sum assured on each policy to be reinsured 
+and  different percentages may be specified for different classes of insurance:  
+ 
+Provided that no percentage so specified s hall exceed thirty per cent of the sum 
+assured on such policy; and  
+ 
+(b)  also specify the proportions in which the said percentage shall be allocated 
+among   the Indian re -insurers.  
+ 
+(3) Notwithstanding anything contained in sub -section (1), an insurer car rying 
+on fire -insurance business in India may, in lieu of re -insuring the percentage 
+specified under sub -section (2) of the sum assured on each policy in respect of 
+such business, re -insure with Indian re -insurers such amount out of the first 
+surplus in re spect of that business as he thinks fit, so however that the 
+aggregate amount of the premiums payable by him on such re -insurance in any 
+year is not less than the said percentage of the premium income (without taking 
+into account premiums on re -insurance c eded or accepted) in respect of such 
+business during that year   
+ 
+Explanation - For the purposes of this -section. the year 1961 shall be deemed to 
+mean the period from the 1st April to the 31st December of that year.  
+ 
+(4) A notification under subsection (2) may also specify the terms and 
+conditions in respect of any business of re -insurance required to be transacted 
+under this section and such terms and conditions shall be binding on Indian re -
+insurers and other insurers.ITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 6 
+(5) No notification under sub -section  (2) shall be issued except after 
+consultation with the Advisory Committee constituted under Section 101B.  
+ 
+(6) Every notification issued under this section shall be laid before each House 
+of Parliament, as soon as  may be, after it is made.  
+ 
+(7) For the re moval of doubts, it is hereby declared that nothing in subsection 
+(I) shall be const rued as  preventing an insurer from reinsuring with any Indian 
+re-insurer or other insurer the entire sum assured on any  policy or any portion 
+thereof in excess of the perce ntage specified under  sub-section (2). ‖ 
+ 
+ 
+3.5. Further w.e.f. 26/12/2014, Insurance Laws (Amendment ) Act, 2015 
+was brought into force wherein the erstwhile Section 2(9) of the 
+Insurance Act, 1938 was amended. The amended definition of “insurer” 
+as per Sect ion 2(9) of the Insurance Act is as under: - 
+(9) "insurer" means —  
+(a) an Indian Insurance Company, or  
+(b) a statutory body established by an Act of Parliament to carry on 
+insurance business, or  
+ (c) an insurance co -operative society, or  
+ 
+(d) a foreign co mpany engaged in re -insurance business through a branch 
+established in India.  
+ 
+Explanation. —For the purposes of this sub -clause, the expression "foreign 
+company" shall mean a company or body established or incorporated under a 
+law of any country outside I ndia and includes Lloyd's established under the 
+Lloyd's Act, 1871 (United Kingdom) or any of its Members; ‖ 
+ 
+3.6. From the amended definition of term “insurer” u/s.2(9) of the 
+Insurance Act w.e.f. 26/12/2014, it could be seen that a foreign company 
+engaged in reinsurance business through a branch established in India 
+would also fall within the definition of “insurer”. Prior to 26/12/2014 this 
+amended definition was not in force and hence, not applicable. That‟s 
+why the ld. CIT(A) had granted relief to the as sessee by holding that any 
+payment of reinsurance premium made to non -resident reinsurers would 
+not be in violation of provisions of Insurance Act and consequently the 
+provisions of Explanation -1 to Section 37 of the Income Tax Act could not 
+be applied the reon. Against this finding, the Revenue is not in appealITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 7 
+before us and hence, this particular finding had attained finality. Hence, 
+what is required for us to be adjudicated is only whether the payments 
+made on or after 26/12/2014 would be in violation of provisions of 
+Insurance Act and consequently liable for disallowance in terms of 
+Explanation 1 to Section 37 of the Income Tax Act. As stated earlier, 
+undisputedly, reinsurers to whom assessee had made payment, does not 
+have any place of business or branch  in India. So, even after 26/12/2014, 
+the amended definition of Section 2(9) of the Insurance Act could not be 
+made applicable to the facts of the instant case.  
+ 
+3.7. The provisions of Section 101A of Insurance Act  has already been 
+reproduced hereinabove.  The relevant provision  which is applicable 
+thereon to the facts of the instant case is Section 101A(7). For the sake of 
+convenience, the Section 101A(7) of the Insurance Act alone is 
+reproduced hereunder: - 
+ 
+101A(7) : 
+ 
+―For the removal of doubts, it is here by declared that nothing in sub -section (1) 
+shall be construed as preventing an insurer from re -insuring with any Indian re -
+insurer or other insurer the entire sum assured on any policy or any portion 
+thereof in excess of the percentage specified under sub -section (2). ‖ 
+ 
+3.8. From the aforesaid provision, the expression “other insurer”  assumes 
+significance . Whether the aforesaid expression “other insurer” would 
+include foreign re -insurers?  If the answer is in the affirmative, then the 
+assessee has not viola ted any provisions of the Insurance Act, 1938 and 
+consequently there cannot be any disallowance in terms of Explanation 1 
+to Section 37(1) of the Income Tax Act. If the answer is in the negative, 
+then the assessee had violated the provisions of Insurance A ct and 
+consequently would be liable for disallowance in terms of Explanation 1 to 
+Section 37 of the Income Tax Act.ITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 8 
+ 
+3.9. As stated earlier, the provisions of Insurance Act i.e. Section 2(9) and 
+Section 101A(7) were subject matter of adjudication by the Ch ennai 
+Tribunal in the case of Cholamandalam M S General Insurance Co. Ltd  
+referred to supra which was heavily relied upon by the ld. AO. The 
+relevant operative portion of the said judgement as reproduced in the 
+order of the ld. CIT(A) is reproduced herein f or the sake o f convenience: - 
+ 
+― The question now arises for consideration is when the provisions of Section 2(9) 
+of the Insurance Act, 1938 is applicable with effect from 26.12.2014, why it is not 
+applicable for earlier assessment years? This Tribunal is o f the considered opinion 
+that the provisions of Section 2(9) of the Insurance Act, 1938 is applicable as it 
+stood at relevant point of time even for earlier assessment years.  
+ 
+The word "other insurer" provided in Section 101A(7) of the Insurance Act, 1938  
+enables the Indian insurers for re -insuring over and above the percentage fixed by 
+the Insurance Regulatory And Development Authority of India. The re -insurance 
+may be either with Indian re -insurer or other insurer. By taking advantage of the 
+term "other insurer", now the assessee claims that they can re -insure with non -
+resident re -insurance company ignoring the provisions of Indian Insurance Act, 
+1938. This Tribunal is of the considered opinion that there is no merit in the 
+contention of the Ld. Sr. couns el for the assessee. The term "other insurer" as 
+provided in Section 101A(7) of the Insurance Act, 1938 is only the insurer which 
+was defined in Section 2(9) of the Insurance Act, 1938. There cannot be any 
+extended meaning which can be given to the term "o ther insurer". The definition 
+given in Section 2(9) of Insurance Act, 1938 is not inclusive one. It is an 
+exhaustive one. Therefore, an Indian insurer cannot have any re -insurance 
+arrangement with re -insurance company other than the insurer as defined / 
+referred in Section 2(9) of Insurance Act, 1938.  
+ 
+3.10. This was the strong contention of the Revenue to deny the 
+disallowance of reinsurance premium payment made to non -resident 
+reinsurers in the instant case. We find that the aforesaid finding of 
+Chennai T ribunal has been reversed by the Hon‟ble Madras High Court in 
+the case of Cholamandalam M S General Insurance Co. Ltd  vs. DCIT 
+reported in 102 taxmann.com 292 dated 12/12/2018. It would be relevant 
+to reproduce the questions raised before the Hon‟ble Madras  High Court 
+as under: -ITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 9 
+―2.The common legal issue arising in these appeals relates to disallowance of 
+reinsurance premium ceded to non -resident reinsurers. The assessees have 
+raised the following substantial questions of law for consideration: - 
+―(i) Whether  the ITAT erred in deciding the validity of reinsurance ceded to 
+the non -resident reinsurers when such issue was not even raised before it by 
+either the Department or the Appellant?  
+ 
+(ii) Whether the ITAT erred in holding that the IRDA (General Insurance – 
+Reinsurance) Regulation, 2000 is contrary to  section 101A  of the Insurance 
+Act, 1938 when it does not have the power to decide the validity of 
+regulations made by the IRDA?  
+ 
+(iii) Whether the ITAT erred  in holding that reinsurance payments to non -
+residents are prohibited by law and therefore hit by Explanation 1 to  section 
+37 of the Act?  
+ 
+(iv) Whether the ITAT   erred in failing to follow co -ordinate b ench decisions 
+on the very question of reinsurance payments to non -residents when it ought 
+to have referred the matter to a larger bench if it disagreed with such 
+judgments?‖  
+ 
+3.11. The Hon‟ble Madras High Court considered Cholamandalam M S 
+General Insuranc e Co. Ltd  case in TCA No.754 of 2018 as the lead case. 
+Out of the aforesaid four questions, the question Nos. 2 & 3 would be 
+relevant for our adjudication in the instant case. The aforesaid questions 
+were addressed by the Hon‟ble Madras High Court by obser ving as 
+under: - 
+―12.The sum and substance of the conclusion of the Tribunal is that the 
+entire reinsurance arrangement of the assessee -company is in violation and 
+contrary to the provisions of  Section 2(9 ) of the Insurance Act and 
+therefore, the entire reinsurance premium has to be disallowed 
+under  Section 37  of the Act. The Tribunal holds that there is a clear 
+prohibition for payment of reinsurance pr emium to the non - resident 
+reinsurance companies.  
+13.As noticed above, it is neither the case of the Revenue, nor the case of 
+the assessee that the claim for deduction was made under  Section 37  of the 
+Act. The Tribunal suo motu has non -suited the assessee by referring 
+Explanation 1 to  Section 37  of the Act. Under the said Explanation, it was 
+declared that any expenditure incurred by an assessee for an y purpose, 
+which is an offence or which is prohibited by law, shall not have beenITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 10 
+deemed to be incurred for the purpose of business or supervision and no 
+allocation or allowance shall be made in respect of such expenditure. 
+Admittedly, the Tribunal did not  render any finding that the assessee has 
+incurred expenditure for a purpose, which is an offence. However, the 
+Tribunal holds that expenditure incurred by the assessee is prohibited by 
+law. 
+14.The larger question would be whether at all this is an expendi ture? 
+However, we do not propose to deal with this, as that was never decided by 
+the Tribunal in the impugned order and leave the issue open. Thus, we are 
+required to examine as to whether in the facts and circumstances, the 
+Tribunal was right in holding t hat payment of reinsurance premium to non -
+resident insurance companies is prohibited and to be disallowed 
+under  Section 37  of the Act.  
+15.As pointed out earlier, neither the Revenue, nor the assessee re ferred 
+to Section 37  of the Act. Thus, the error committed by the Tribunal firstly is 
+in exceeding the scope of the order of remand passed by the Division Bench 
+of this Court in the earlier decision not ed above. Secondly, the Tribunal has 
+no jurisdiction to declare a transaction to be either prohibited or illegal 
+occurring under a different statute over which, it has no control. In other 
+words, the Income -tax Officer cannot declare a transaction as illeg al under 
+the provisions of the  Insurance Act  or the Regulations framed thereunder. 
+The Income - tax Officer can examine as to whether any income accrued in 
+the hands of the assessee is required to be tax ed. In the instant case, neither 
+the Assessing Officer, nor the Commissioner of Income -tax (Appeals) -II (for 
+brevity ―the CIT(A)‖) has made any such endeavour, but the Tribunal has 
+done such an exercise which, in our considered  opinion, was without 
+jurisdi ction. Nevertheless, as we have heard elaborate arguments on the 
+side of the assessees as well as the Revenue, we are constrained to test the 
+correctness of the order passed by the Tribunal in this regard. Thus, we 
+have to decide as to whether there is a p rohibition under law for insurance 
+payments to non -residents so as to attract the rigour of Explanation 1 
+to Section 37  of the Act.  
+16.In this regard, we may straightaway refer to the statement of objec ts and 
+reasons for the Insurance (Amendment) Bill, 1961, which was introduced in 
+the Lok Sabha on 14th February, 1961. This Bill was passed and 
+the Insurance Act  stood amended. The Hon'ble Finance Minis ter for the 
+Union of India would state that re -insurance is an essential part of general 
+insurance business and at present (1961), insurance companies, operating 
+in India, are dependent on companies outside India for a very large part of 
+their requirements  in this connection and more often than not enter into dis -
+advantageous arrangements. Moreover, re -insurance with companies 
+outside India results in loss of foreign exchange and the Bill is intended to 
+foster the growth of Indian re -insurance companies and  also to save foreign 
+exchange. The Bill sought to provide that every insurance company 
+operating in India must re -insure a certain percentage of its business withITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 11 
+Indian re -insurance companies approved in this behalf by the  Central 
+Government. The Central  Government was given power to fix the 
+percentage and this power to be exercised in consultation with the Advisory 
+Committee so constituted. The power was also conferred on the Central 
+Government to allocate the percentage so fixed amongst the approved 
+Indian re -insurance companies. With the aforesaid object, the Bill proposed 
+to insert Part IVA under the head ―Re - insurance‖ containing two 
+provisions, viz.,  Sections 101A  and 101B . 
+17.The Bill had been passed by the Parliament and the  Insurance Act  stood 
+amended with effect from 01.04.1961 . For better appreciation, the same is 
+quoted hereinbelow: - 
+―Re-insurance with Indian re -insurers.  Section 101A :- 
+(1) Every insurer shall re -insure with Indian re -insurers such percentage of 
+the sum assured on each policy as may be specified by the [the Authority 
+with the previous approval of the Central Government] under sub -section 
+(2). 
+(2) For the purposes of sub -section (1), [the Authority] may, by notification 
+in the Official Gazette, - 
+(a) specify the percentage of the sum assured on each policy to be re -insured 
+and different percentages may be specified for different classes of insurance:  
+Provided that no percentage so specified shall exceed thirty per cent. of the 
+sum assured on  such policy; and  
+(b) also specify the proportions in which the said percentage shall  be 
+allocated among the Indian re -insurers.  
+(3) Notwithstanding anything contained in sub -section (1), an insurer 
+carrying on fire insurance business in India may, in lieu of re -insuring the 
+percentage specified under sub -section (2) of the sum assured on each policy 
+in respect of such business, re -insure with Indian re -insurers such amount 
+out of the first surplus in respect of that business as he thinks fit, so however 
+that, the aggregate amount of the premiums payable by him on such re -
+insurance in any y ear is not less than the said percentage of the premium 
+income (without taking into account premiums on re -insurance ceded or 
+accepted) in respect of such business during that year.  
+Explanation . —For the purposes of this sub - section, the year 1961 shall b e 
+deemed to mean the period from 1st April to the 31st December of that year.  
+(4) A notification under sub -section (2) may also specify the terms and 
+conditions in respect of any business of re -insurance required to be 
+transacted under this section and suc h terms and conditions shall be binding 
+on Indian re -insurers and other insurers.  
+(5) No notification under sub -section (2) shall be issued except after 
+consultation with the Advisory Committee constituted under  section 101B . 
+(6) Every notification issued under this  section shall be laid before each 
+House of Parliament, as soon as may be, after it is made.  
+(7) For the removal of doubts, it is hereby declared that nothing in sub -
+section (1) shall be constru ed as preventing an insurer from re -insuring with 
+any Indian re -insurer or other insurer the entire sum assured on any policy 
+or any portion thereof in excess of the percentage specified under sub -
+section (2).ITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 12 
+(8) In this section, — 
+(i) ―policy‖ means a pol icy issued or renewed on or after the 1st day of 
+April, 1961, in respect of general insurance business transacted in India and 
+does not include a re -insurance policy; and [(ii) ―Indian re -insurer‖ means 
+an Indian insurance company which has been granted a certificate of 
+registration under sub -section (2A) of  section 3  by the Authority to carry on 
+exclusively the re -insurance business in India.]‖  
+18.The interpretation given by the Tribunal is with regard to the meaning of 
+the term ―other insurer‖ occurring in sub -Section (7) of  Section 101A  of the 
+Insurance Act. Sub -Section (7) of  Section 101A  starts w ith the words ―For 
+the removal of doubts‖, which would denote that it is clarificatory with 
+regard to what has been stated in sub - Section (1) of  Section 101A . It was 
+clarified and declared that nothing in sub -Section (1) of  Section 101A  shall 
+be construed as preventing an  insurer from re -insuring with any Indian re -
+insurer or other insurer, the entire sum on any policy or any portion thereof 
+in excess of the percentage specified under sub -Section 2 of Section 101A. 
+The Tribunal while explaining the meaning of the words ―other insurer‖, 
+held that the definition of ―insurer‖ under sub -Section (9) of  Section 2  of 
+the Act alone should be relied upon and that is the only definition of 
+―insurer‖ and if such a definition is applied, re -insurance with foreign 
+companies is prohibited by law. The Tribunal held that the word ―other 
+insurer‖ provided in  Section 101A(7)  of the Insurance Act enables the 
+Indian insurer for reinsuring over and above the percentage fixed by the 
+Regulatory Authority and the reinsurance may be either with Indian re -
+insurer or other ins urer. It further held that by taking advantage of the term 
+―other insurer‖, the assessee claims that they can re -insure with non -
+resident reinsurance company ignoring the provisions of the  Insurance Act . 
+It further proceeded to hold that the term ―other insurer‖ as provided 
+in Section 101A(7)  of the Insurance Act is only the insurer, which is defined 
+in Section 2(9)  of the Insurance Act and there cannot be any extended 
+meaning, which can be given to the term ―other insurer‖. Thus, it held an 
+Indian insurer cannot have any reinsurance arrangement with reinsurance 
+company other than the insurer, as def ined in  Section 2(9)  of the Insurance 
+Act. In our considered view, the conclusion of the Tribunal is not \ 
+sustainable. We support such conclusion with the following reasons.  
+19.In exercise of the powers  under  Section 114A  of the Insurance Act, 
+and Sections 14  and 26 of the Insurance Regulatory an d Development 
+Authority Act , 1999, the Central Government framed the Insurance 
+Regulatory and Development Authority Regulations pertaining to General 
+Insurance – Reinsurance called Insurance Regulatory a nd Development 
+Authority (General Insurance – Reinsurance) Regulations, 2000. Chapter II 
+of the said Regulations deals with procedure to be followed for re -
+insurance arrangements and it would be beneficial to refer to the said 
+provision, which reads as fol lows: - 
+―Chapter II: -ITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 13 
+ 
+ 3.    Procedure        to     be      followed        for Reinsurance 
+Arrangements: - 
+(1)   The     Reinsurance       Programme         shall  continue to be guided by 
+the following objectives to:  
+a) maximise retention within the count ry; 
+b) develop adequate capacity;  
+c) secure the best possible protection for the reinsurance costs incurred;  
+d) simplify the administration of business.  
+(2) Every insurer shall maintain the maximum possible retention 
+commensurate with its financial strengt h and volume of business. The 
+Authority may require an insurer to justify its retention policy and may give 
+such directions as  considered necessary in order to ensure that the Indian 
+insurer is not merely fronting for a foreign insurer.  
+(3) Every insurer s hall cede such percentage of the sum assured on each 
+policy for different classes of insurance written in India to the Indian 
+reinsurer as may be specified by the Authority in accordance with the 
+provisions of Part IVA of the Insurance Act, 1938.  
+(4) The r einsurance programme of every insurer shall commence from the 
+beginning of every financial year and every insurer shall submit to the 
+Authority, his reinsurance programmes for the forthcoming year, 45 days 
+before the commencement of the financial year;  
+(5) Within 30 days of the commencement of the financial year, every insurer 
+shall file with the Authority a photocopy of every reinsurance treaty slip and 
+excess of loss cover covernote in respect of that year together with the list of 
+reinsurers and their sh ares in the reinsurance arrangement  
+ 
+(6)   The    Authority     may   call   for    further   information      or    
+explanations    in   respect      of    the  reinsurance programme of an insurer 
+and may issue such direction, as it considers necessary;  
+(7) Insurers shall place their reinsurance business outside India with only 
+those reinsurers who have over a period of the past five years counting from 
+the year preceding for which the business has to be placed, enjoyed a rating 
+of at least BBB (with Standar d & Poor) or equivalent rating of any 
+other  international rating agency. Placements with other reinsurers shall 
+require the approval of the Authority. Insurers may also place reinsurances 
+with Lloyd’s syndicates taking care to limit placements with individ ual 
+syndicates to such shares as are commensurate with the capacity of the 
+syndicate.  
+ 
+(8) The Indian Reinsurer shall organise domestic pools for reinsurance 
+surpluses in fire, marine hull and other classes in consultation with all 
+insurers on basis, limit s and terms which are fair to all insurers and assist in 
+maintaining the retention of business within India as close to the level 
+achieved for the year 1999 -2000 as possible. The arrangements so made shall 
+be submitted to the Authority within three months of these regulations coming 
+into force, for approval.  
+ 
+(9) Surplus over and above the domestic reinsurance arrangements class wise 
+can be placed by the insurer independently with any of the reinsurers 
+complying with sub -regulation (7)  subject to a limit of  10% of the total 
+reinsurance premium ceded outside India being placed with any one 
+reinsurer. Where it is necessary in respect of specialised insurance to cede aITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 14 
+share exceeding such limit to any particular reinsurer, the insurer may seek 
+the specific app roval of the Authority giving reasons for such cession.  
+(10) Every insurer shall offer an opportunity to other Indian insurers 
+including the Indian Reinsurer  to participate in its facultative and treaty 
+surpluses before placement of such cessions outside I ndia.  
+(11) The Indian Reinsurer shall retrocede at least 50% of the obligatory 
+cessions received by it to the ceding insurers after protecting the portfolio by 
+suitable excess of loss covers. Such retrocession shall be at original terms 
+plus an over -riding  commission to the Indian Reinsurer not exceeding 2.5%. 
+The retrocession to each ceding insurer shall be in proportion to its cessions 
+to the Indian Reinsurer.  
+(12) Every insurer shall be required to submit to the Authority statistics 
+relating to its reins urance transactions in such forms as the Authority may 
+specify, together with its annual accounts.‖ The above Regulations are 
+Statutory Regulations, which bind the stakeholders.  
+20.A conjoint reading of Regulation 3 and sub -Regulations (1) to (10) will 
+clearly show that the objectives were to maximize the retention of revenue 
+within the country. What we are required to see is whether there is any 
+indication in the Insurance Regulatory and Development Authority 
+(General Insurance – Reinsurance) Regulations, 2000 prohibiting re -
+insurers with a foreign insurer. A reading of Regulations 3(2), 3(4), 3(7), 
+3(9) and 3(10) clearly show that there is no bar.  
+21.The sum and substance of the Regulations is that every  insurer shall 
+cede such percentage of sum assured on  each policy, for different classes of 
+insurance written in India to the Indian re -insurer as may be specified by 
+the Authority under  Section 101A  of the Insurance Act. Therefore, every 
+Indian insurer is  to cede, such specified/notified percentage of the sum 
+assured and not the whole. The commencement date for the re -insurance 
+programme is also spelt out in the Regulations. The insurer has to disclose 
+payments made outside India and there is also a restri ction on with whom, 
+they can enter into a contract of re -insurance, as the Regulations place an 
+embargo stating that such entity should have enjoyed the rating of at least 
+BBB or equivalent rating of any other international rating agency. Thus, 
+the reading  of the Regulations will clearly show there is absolutely no 
+prohibition for re -insurance with a foreign re -insurance company.  
+22.The observations made in the finding rendered by the Tribunal stating 
+that the Regulations are inconsistent with the provision s of the Act are 
+utterly perverse and to be outrightly rejected.  In 2008, the Standing 
+Committee on Finance proposed the amendment to the Insurance Laws and 
+the Insurance Laws (Amendment) Bill, 2008 was introduced. The report of 
+the Committee states that t he General Insurance Corporation Re is the only 
+national re -insurer operating in India and also has re -insurance business 
+in international market and its share of international business is 44 per 
+cent. The Chairman of the General Insurance Corporation (GIC ), who isITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 15 
+one of the respondents in these appeals, has deposed before the Standing 
+Committee on Finance and would state that the legal position as of 2008, 
+there was no bar on doing re -insurance business by any foreign re -
+insurance company in India. The Ch airman, GIC expressed deep concern 
+that when GIC has to transact international business in various countries, 
+they are subjected to lot of crosschecks and regulation and there is no 
+corresponding regulation in India, as a result of which, foreign re -
+insura nce companies can accept re -insurance business without taking any 
+licence and without opening any branch in India. Thus, the suggestion was 
+there is a need for regulation for any foreign country coming into India and 
+doing re -insurance business. Ultimately , the Standing Committee on 
+Finance noted that there is no bar on foreign re -insurance business 
+companies carrying on re - insurance business in the country without any 
+licence or opening a branch, nor there was a regulation to control the 
+transaction of fo reign re -insurers. This ultimately, led to the amendment to 
+the Insurance Act  by amending the definition of ―insurer‖ in  Section 2(9)  of 
+the Insuranc e Act to mean a foreign company engaged in re -insurance 
+business through a branch established in India. The Tribunal was of the 
+view that unless and until a branch is opened by the foreign re - insurance 
+company, the question of conducting re -insurance busi ness in India cannot 
+be done. In our considered view, this conclusion of the Tribunal is not 
+sustainable. The answer lies not in any recent proceedings but, a circular 
+issued by the CBDT as early as on 03.10.1956 bearing Circular No. 
+38(XXXIII -7) [F.No.51( 5)-IT/54]. The operative portion of the circular 
+reads as follows: - 
+―Liability to tax or freedom therefrom of the foreign reinsurer 
+will depend on various factors, such as the existence of 
+reciprocity between the Indian insurer and the foreign reinsurer, 
+the magnitude of local retention as compared with the 
+reinsurance premium paid by the Indian insurer to the foreign 
+reinsurer and so on. The Income -tax Officers will, therefore, have 
+to examine each case in the light of its facts and decide where tax 
+liabil ity is attracted, what portion of the income from the 
+reinsurance should be assessed under  section 42(2)  of the 1922 
+Act [corresponding to  section 92  of the 1961 Act].‖  
+ 
+23.A reading of the above circular would clearly reveal that at no point of 
+time, the Income -tax Department took a stand that the re -insurance 
+business with a foreign re -insurance company was a prohibited business. 
+Further, the Tribuna l fell in error in rendering such a finding without 
+noticing the Re -insurance Regulations, which has been provided by the 
+Insurance Regulatory and Development Authority of India. In the said 
+Regulations, the highlights of the statement and objects for intr oduction of 
+Chapter IVA to the  Insurance Act  in the  amendment, in the year 1961, had 
+been brought into after which, there is an order of Preference for Re -
+insurance Cessions. In the order of preference,  the last among them is what 
+can be offered to Indian insurers and overseas insurers. Thus, theITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 16 
+regulations does not wholly prohibit any re -insurance with overseas re -
+insurance companies subject to the condition that the other priorities 
+contained in Claus es 1, 2 and 3 of the regulations are exhausted. 
+Furthermore, the Reserve Bank of India, Exchange Control Department, 
+Central Office, Mumbai notified the Foreign Exchange Management 
+(Insurance) Regulations, 2000. The major changes in the procedure as per 
+the memorandum of Exchange Control Regulations relating to General 
+Insurance in India (GIM) were summarised and the relevant Regulation, 
+pertaining to re - insurance arrangement, is as follows: - 
+ 
+S.No.  Subject Matter  Changes  
+1 Reinsurance 
+Arrangement  The rei nsurance arrangement of public sector 
+general insurance companies registered with 
+ITDA are to be decided by the Reinsurance 
+respective Boards of the insurance companies 
+and IRDA is to be kept informed. ADs 
+designated by these insurance companies are 
+now pe rmitted to make remittances falling 
+under such approved reinsurance 
+arrangements without reference to the bank . 
+24.The above will clearly show that re -insurance arrangement with a 
+foreign insurance company is permissible . Thus, it is evidently clear that on 
+and after the introduction of  Section 101A  to the  Insurance Act , there is a 
+mandatory requirement for other insurer to  re-insure with the Indian r e-
+insurers and such percentage is put to a maximum of 30% and the language 
+of Section 101A  nowhere prohibits the re -insurance with foreign re -
+insurance companies above the percentage specified by the aut hority with 
+previous approval by the Central Government.  That apart, the Tribunal 
+erred in drawing a presumption regarding prohibition of re -insurance with 
+foreign re - insurance companies. This presumption is erroneous for the 
+simple reason that the statem ent of objects of the  Insurance Act  itself 
+clearly stipulates wherever there is a prohibition. By way of illustration, we 
+can refer to  Sections 2(c ), 2(c)(b) , 2(9), 32(a) , 40, 41, 42(a)  and 52(a) . 
+Therefore, no inference could have been drawn, as drawn by the Tribunal 
+and conseque ntly, to be held that there can be no bar or prohibition under 
+the Insurance Act , which prohibits ceding of re - insurance with a foreign 
+re-insurer outside India . 
+25.Section 2(16B)  defines ―re -insurance‖ to mean the insurance of all or 
+part of one insurer's risk by another insurer who accepts the risk for a 
+mutually acceptable premium. There is no distinction drawn between an 
+Indian re -insurer and a fo reign re - insurer . As rightly submitted by 
+Mr.M.Vijayaraghavan, learned counsel for CIG, the words ―other insurer‖ 
+occurring in sub -Section 7 of Section 101 A of the Insurance Act  cannot be 
+treated as a ―pronoun‖ or a ―noun‖ and should be read as a ―verb‖.  This 
+is more so because, there  is no separate definition provided for ―otherITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 17 
+insurer‖ and considering the scheme of  Section 101A  of the Insurance Act , 
+―other insurer‖ should mean the insurer, who is outside India and not a 
+person in terms of the definition under  Section 2(9)  of the Act. In the light of 
+the above discussion, we are of the clear view t hat the Tribunal erred in 
+coming to a conclusion that it is not the intention of the Parliament to 
+authorize an Indian insurer to have re -insurance outside the country 
+ignoring the provisions of  Insuranc e Act  referred above. The Tribunal had 
+no jurisdiction to declare any provisions of the regulations to be 
+inconsistent with the provisions of the  Insurance Act . This was wholly 
+outside the purview of t he Tribunal. Thus, the Tribunal clearly exceeded its 
+jurisdiction in stating that the assessees have engaged in a transaction, 
+which is prohibited by law and therefore, not entitled for deduction 
+under  Section 37  of the Act. This has never been the case of the Revenue 
+either before the Assessing Officer or before the CIT(A) or before the 
+Tribunal, when they filed appeals challenging that portion of the order 
+passed by the CIT(A), which was against the Re venue.  
+26.The Tribunal while upholding the order of the Assessing Officer did not 
+assign any independent reasons. The discussion in the impugned order 
+relates to the validity of re -insurance business outside India done by an 
+Indian insurer. The Tribunal di d not consider the correctness of the order 
+passed by the Assessing Officer or that of the  CIT(A). Therefore, the 
+Tribunal could not have held that the Assessing Officer rightly disallowed 
+the re -insurance premium under  Section 40(a)(i) . This finding is not 
+supported with any reasons. Therefore, the Tribunal misdirected itself, 
+exceeded the scope of remand as ordered by the Division Bench and 
+ventured into a jurisdiction, which is wholly prohibited in the  light of the 
+plain language of  Section 254(1)  of the Act.  
+27.Thus, for the above reasons, we are of the clear view that the order 
+passed by the Tribunal calls for interference. Accordingly, the appeals , filed 
+by the assessee are allowed and the substantial questions of law framed are 
+answered in favour of the assessee.  
+28.In the light of the above, the matter stands remanded to the Tribunal to 
+take a decision on the following points: - 
+(i) Whether the As sessing Officer was right in disallowing the re -insurance 
+premium under  Section 40(a)(i)  of the Act;  
+(ii) Whether the CIT(A) was right in rejecting partially the appeal filed by 
+the assessee; and  
+(iii) W hether the CIT(A) was justified in restricting the claim of the assessee 
+to 15% instead of confirming the order passed by the Assessing Officer.  
+29.We make it clear that the Tribunal shall decide the above questions 
+alone and nothing more and the decision shall be taken based on theITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 18 
+available material and the assessee and the Revenue are not entitled to 
+place any fresh material before the Tribunal so as to enable the Tribunal to 
+take a decision as expeditiously as possible. No costs. Consequently, the 
+conne cted miscellaneous petitions are closed.  
+(Underlining provided by this Tribunal while placing reliance on the 
+decision of Hon’ble Madras High Court ) 
+ 
+3.12.  Hence, from the aforesaid decision of Hon‟ble Madras High Court, it 
+could be safely concluded that payment of re -insurance premium by the 
+assessee to foreign reinsur ers who do not have place of business or 
+branch established in India, is not in violation of provisions with Insurance 
+Act and consequently the provisions of Explanation -1 to Section 37 of t he 
+Act could not be applied in the facts of the instant case. To this extent , 
+the assessee succeeds. Accordingly, the bifurcation of payments prior to 
+26/12/2014 and after 26/12/2014 as done by the ld. CIT(A) in his order 
+need not be gone into as they woul d become redundant.  
+ 
+3.13.  It is also pertinent to note that assessee vide letter dated 
+29/04/2014 had written a letter to IRDA submitting the final re -insurance 
+programme for the year 2014 -15 while giving complete list thereon. 
+These documents are enclo sed in pages 245 -249 of the paper book filed 
+before us. Further the assessee vide letter dated 28/04/2014 had 
+addressed to IRDA seeking approval as per reinsurance regulations 3(11) -
+2013 in respect of reinsurance premium for the year 2014 -15 giving 
+complet e details thereon. These documents are enclosed from pages 250 -
+258 of the paper book filed before us. In response to the same, after 
+analyzing the reinsurance programme for the  year 2014 -15, IRDA had 
+addressed a letter of the assessee dated 27/04/2015 appr oving the 
+requests of the assessee.  This goes to prove that the reinsurance 
+premium sought to be paid to foreign reinsurers outside India was taken 
+due cognizance by the IRDA , being the regulatory authority for insuranceITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 19 
+companies , and had not found anythi ng adverse or in any violation of 
+provisions of Insurance Act and insurance regulations thereon. Further we 
+find that IRDA vide letter dated 12/02/2020 had given clarification in 
+respect of assessment proceedings of the assessee company for 
+A.Y.2016 -17 and  2017-18 directly addressed to the ld. AO , wherein , it 
+was specifically clarified that the reinsurance premium paid by the 
+assessee to foreign reinsurers outside India who do not have any 
+business presence in India , was permitted in law and was permitted 
+activity under the insurance Act 1938 and IRDA (General Insurance -
+Reinsurance) Regulations issued by the authority. It was also mentioned 
+in the said letter that the regulations issued by the authority i.e. IRDA are 
+subordinate legislation which are also pl aced before both the Houses of 
+Parliament. Hence, in view of the above, it could be safely concluded that 
+the payment of reinsurance premium by the assessee to foreign 
+reinsurers could not be construed as payment made in violation of 
+provisions of Insuranc e Act and IRDA regulations.  
+ 
+3.14. We find that the ld. CIT(A) had considered the entire issue in 
+dispute before us by applying the amended definition of Section 2(9) of 
+the Insurance Amendment Act, 2015 which came into force from 
+26/12/2014 wherein , it wa s mentioned that insurer means foreign 
+insurance company having  a branch established in India. The ld. CIT(A) 
+observed that since  the foreign reinsurer in the instant case does not 
+have a branch or place of business in India, the amended definition of 
+Section 2(9) of the Act w.e.f. 26/12/2014 would go against the assessee. 
+Accordingly, the ld. CIT(A) had granted relief to the assessee in respect of 
+payments made prior to 26/12/2014. But we find that the Hon‟ble Madras 
+High Court had already held that the de finition of Section 2(9) of theITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 20 
+Insurance Act has no role to play in the instant case. Hence, there was no 
+need to get into the amendment in Section 2(9) thereon.  
+ 
+3.15. We find that the ld. CIT(A) had adjudicated the issue in the instant 
+case by observin g as under: - 
+ ―4.2.5 Having gone through the decision of the Chennai High Court as well 
+as the Income -tax Appellate Tribunal (ITAT) in the case of DCIT vs. 
+Cholamandalam Ms General insurance Company Ltd, it is clear that the 
+question for consideration was whether the provisions of section 2(9) of the 
+Insurance Act, 1938 was applicable with effect from 26 -12-2014 or applicable 
+for earlier assessment years. ITAT held that it was applicable for earlier years 
+as well which was reversed by Hon'ble High Court. Th e A.Y. involved in the 
+said case pertained to A.Y.2003 -04 to 2009 -10. There has been an amendment 
+carried out by the Parliament in Section 2(9) of the Act by Insurance Laws 
+(Amendment) Act, 2015 with retrospective effect from 26.12.2014. After the 
+said ame ndment Section 2(9) of Insurance Act, 1938 is applicable in respect of 
+re-insurance premium paid to non -resident companies as well and it enables 
+foreign company engaged in re -insurance business to establish a branch in 
+India. Therefore, unless a branch is  established in India, the non -resident 
+insurance company cannot do any business after 2014. Before 2014, in 
+absence of any specific provision, I am in agreement with Hon'ble High 
+Court's decision that Indian insurance companies can reinsure with non -
+resid ent companies. However once when specific provisions have been 
+incorporated in the Insurance Act relating to reinsurance as well as non 
+resident reinsurance the applicability of "other insurer" becomes redundant as 
+far as non resident reinsurance is concer ned. AO therefore has rightly held 
+that payments made in respect of reinsurance premium to non -resident 
+reinsurance companies were in violation of the Insurance Act, 1938 
+(Insurance Act) and not admissible as business expenditure as per 
+Explanation (1) to section of 37 of the Act.  
+ 
+4.2.6 Further, the said amount was also disallowed without prejudice basis 
+under section 40(a){i) of the Act as no TDS was deducted by the appellant 
+company. Income -tax Appellate Tribunal (ITAT) in the case of DCIT vs. 
+Cholamanda lam Ms General insurance Company Ltd held that the profit of 
+non-resident reinsurance company or the person in India who has standing 
+contract with underwriters, who are members of the Lloyds, is taxable in 
+India. Accordingly, it was held that the insuranc e companies had to 
+necessarily deduct tax on the premium paid to foreign companies for 
+reinsurance. Appellant has not deducted TDS on the ground that income 
+related to reinsurance with non residents is not deemed to accrue or arise in 
+lndia. As per the app ellant there are certain treaties which provides that 
+insurance business except reinsurance business would be deemed to be a PE 
+of the non resident in the other contracting state. AO has allowed reinsurance 
+premium ceded to such non resident where there is  a specific exclusion for the 
+insurance compa nies from the purview of PE. As a corollary i mplies that 
+where there is no specific exclusion, the reinsu rance business would be 
+deemed to be a PE in the other contracting stat e. The business gets generatedITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 21 
+in the contracting state and independent brokers sco ut for business on behalf 
+of the non resident reinsurers and habitually secures orders on their behalf. 
+When the appellant company enters into a reinsurance contract with a non 
+resident through a broker it im plicitly means that the broker has canvassed for 
+orders for the non resident assessee. Accepting appellant's contention of non 
+deduction of IDS creates an inverted structure where appellant is deducting 
+IDS on reinsurance premium in case of non residents w hich have a branch in 
+India and not deducting any IDS in cases where the non residents have no 
+branch. Interestingly appellant has informed that some non residents procure 
+order u/s 197 of the I.T.Act and in those case it has withheld tax from the 
+payment made to such non -resident reinsurers.  
+ 
+4.2.7 The issue of applicability of TDS on reinsurance premium paid to non 
+residents now gets further clarified after amendment in Section 2(9} by 
+Insurance Laws (Amendment) Act, 2015 with retrospective effect from 
+26.12.2014 which enables foreign company engaged in re -insurance business 
+to establish a branch in India. In view of the above discussion, it is clear that 
+appellant was liable to deduct TDS on reinsurance premium paid to non 
+residents and hence action of th e AO to disallow the same under section 
+40(a)(i) of the Act is accordingly upheld. Ground 2 and 3 of the appellant is 
+hereby dismissed. ‖ 
+ 
+3.16. We find that the Hon‟ble Madras High Court in the aforesaid case 
+had held that definition in Section 2(9) of the  Insurance Act is 
+irrelevant for the purpose of Section 101A read with IRDA regulations. 
+Hence, the observation made by the ld. CIT(A) in para 4.2.5, in our 
+considered opinion, is wrong.  
+ 
+3.17. Let us now examine the applicability of provisions of Section 
+40(a)(i) of the Act in respect of reinsurance premium paid to foreign 
+reinsurers. We find that the ld. CIT(A) had placed reliance on the 
+decision of Chennai Tribunal in the case of Cholamandalam M S 
+General Insurance Co. Ltd  to drive home the point that the  said 
+payment shall be liable for deduction of tax at source in terms of 
+Section 40(a)(i) of the Act. We find that  though the Hon‟ble Madras 
+High Court in para 26 had held that Chennai Tribunal decision in 
+confirming the action of the ld. AO in invoking p rovisions of Section 
+40(a)(i) of the Income Tax Act was not supported with any reasons, 
+finally in para 28, the Hon‟ble Madras High Court had remanded thisITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 22 
+question to the Tribunal to decide whether the ld. AO was right in 
+disallowing the reinsurance premi um u/s. 40(a)(i) of the Act. Hence, 
+that question needs to be decided by the Tribunal. Accordingly, the  
+issue of applicability of provisions of section 40(a)(i) of the Act is  
+adjudicated by us independently. We find that the Co -ordinate Bench 
+of this Mumba i Tribunal in the case of DCIT vs. ICICI Lombard General 
+Insurance Co. Pvt. Ltd., in ITA Nos. 6837 & 6832/Mum/2014 for A.Y. 
+2005-06 and 2009 -10 vide order dated  04/10/2016 had adjudicated 
+the very same issue in respect of payments made to M/s. Odyssey 
+America Reinsurance Corporation, Singapore for providing reinsurance 
+business, without deduction of tax at source and applicability of 
+provisions of Section 40(a)(i) of the Act. We find that the Tribunal in 
+the aforesaid case placed reliance in assessee‟s own case for 
+A.Y.2004 -05 reported in 152 ITD 855 and also in yet another case 
+rendered in the context of revision proceedings u/s.263 of the Act in 
+ITA No.5777/Mum/2011 , had quashed the revision proceedings 
+u/s.263 of the Act by observing as under: - 
+ ―2.3. Thu s, the Tribunal by the aforesaid order held that invocation 
+of revisional jurisdiction was not valid. In view of this uncontroverted 
+factual matrix, the appeal of the Revenue is dismissed as 
+infructuous. ‖ 
+ 
+3.18. We further find that the Co -ordinate Bench o f this Tribunal in the 
+case of General Reinsurance AG, General Reinsurance AG India Branch 
+vs. DCIT in ITA No.7433/Mum/2018 for A.Y.2015 -16 dated 14/06/2019 
+had an occasion to address the same issue from the perspective of the 
+recipient foreign company. In  the said Tribunal order dated 
+14/06/2019, in para 5 , this Tribunal had categorically stated that 
+assessee company in that case had challenged the decision of the 
+income tax authorities in treating the receipt of reinsurance premium 
+as taxable in India. He nce, the question that was raised beforeITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 23 
+Mumbai Tribunal in that said case was from the perspective of foreign 
+reinsurance company. The decision rendered thereon could be made 
+applicable to the assessee‟s case before us also by drawing  the same 
+analogy.   The relevant operative portion of the judgement is 
+reproduced hereinbelow: -  
+ ―11. We have carefully considered the rival submissions and perused the 
+relevant material and record. As our discussion in the earlier paras show, 
+the substantive dispute in this  appeal relates to the taxability or otherwise 
+in India of the reinsurance premium earned by the non - resident foreign 
+assessee by underwriting the risks of various Indian insurance companies. 
+It is not in dispute that the appellant before us is an entity incorporated in 
+Germany and is a tax resident of Germany. The manner in which the 
+reinsurance premium is earned by the assessee is   also not in dispute. But 
+to recapitulate, we may note that the appellant is a global re -insurance 
+company which has entered into re -insurance contracts with various 
+Indian insurance companies. For underwriting the risks of the Indian 
+insurance companies, assessee earns reinsurance premiums, which is the 
+subject -matter of dispute before us. So far as the nature of receipts in 
+question is concerned, there is a convergence between the assessee and the 
+Revenue that the same are in the nature of business receipts. It is quite well 
+understood that in such like cases where the foreign company earns 
+business income, the same can be taxe d in India only if it has a PE in India 
+or 'business connection' so as to fall within the scope of Indian tax laws. At 
+the outset, it has been asserted by the appellant before us that in such 
+situations, the onus is on the Revenue to establish that the for eign company 
+has a 'business connection' or a PE in India so as to invite any tax liability 
+under the Indian tax laws. Ostensibly, the aforesaid is supported by the 
+judgment of the Hon'ble Supreme Court in the case of E funds  IT Solution 
+Inc vs ADIT , (2017) 86 taxmann.com 240. Therefore, in this background, 
+we may now examine the facts of the instant case as to whether such an 
+onus has been discharged by the Revenue or not .” 
+ 
+17. It has been asserted be fore us that the instant year is the first year 
+when the assessee has filed a return of income as it had some taxable 
+income, while in the past years there was no taxable income. In the past, 
+there was no income other than premium on reinsurance business, yet the 
+existence of LO since 2007 is in the knowledge of the assessing authority 
+and no steps have been taken in any of the earlier years to construe the 
+activities of the LO as constituting a 'business connection' or a PE of 
+assessee in India. The learne d representative asserted that it is only in this 
+year that the function of the LO (for part of the year) has been understood 
+by the Assessing Officer to be giving rise to a 'business connection' or 
+existence of PE in India so as to hold that the income fr om the premium onITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 24 
+reinsurance earned by the assessee is taxable in India. In our considered 
+opinion, factually as well as on point of law, we do not find any merit in 
+the stand of the Revenue that the activities of the LO of   assessee generate 
+any scope fo r treating it as a PE of assessee in India or a 'business 
+connection' in India. We say so for the reason that the conditions under 
+which the LO has been allowed to operate clearly bring out that the 
+activities were preparatory or auxiliary in nature and th e same cannot 
+lead to determination of a PE in India, considering the provisions 
+of Article 5(4)(e)  of the India -Germany Tax Treaty. As per the statement 
+made by the learned representative at the Bar, t he LO has complied with 
+the conditions imposed by IRDA and there is no adverse view determined 
+by IRDA. Thus, on facts we do not find any force in the plea of the 
+Revenue; and, even on the point of law, as has been brought out by the 
+Hon'ble Delhi High Cou rt in the case of National Petroleum Construction 
+Co. (supra), the LO merely acts as a channel of communication between 
+the Head office and the parties in India and cannot undertake any 
+commercial, trading or industrial activity, and thus, the activities o f the LO 
+cannot give rise to a 'business connection' within the meaning of Sec. 
+9(1)(i) of the Act or a PE of the assessee in India, considering that the 
+activities are compliant with the approval granted by IRDA.  
+18. We may now address the point as to whe ther the operations of the 
+Indian subsidiary, which have indeed been carried out from India, can be 
+construed as enabling invoking of 'business connection' of the assessee as 
+envisaged under  Section 9(1) (i) of the Act or whether the Indian subsidiary 
+constitutes a PE of assessee in India. Article 5(1) of the India - Germany 
+Tax Treaty provides that PE means a fixed place of business through 
+which the business or enterprise is wholly or partially carried o n. On this 
+aspect, the case set -up by the Revenue is that the key functions of 
+reinsurance business, namely, actuarial services and underwriting services 
+are provided by the Indian subsidiary. Such discussion is contained in 
+paras 9.7.2 to 9.8 of the final  order of the Assessing Officer. On this 
+aspect, we have carefully examined the contentions put forth by the 
+Revenue as well as the material on record, namely, the Master Service 
+Agreement and the Addendum to the Master Service agreement between 
+assessee a nd the Indian subsidiary and find that the approach of the 
+Assessing Officer is quite misdirected. In fact, the services that have been 
+provided by the Indian subsidiary are support services in the field of 
+actuarial and underwriting functions undertaken b y the assessee and not 
+services of actuarial or underwriting of insurance risks per se. We have 
+already quite succinctly noted the nature and scope of the services 
+rendered by the Indian subsidiary in the earlier paras 12 and 13 above. In 
+fact, the Assessi ng Officer is grossly wrong in holding in para 9.7.8 of his 
+order that all the functions with respect to the claim settlement are carried 
+out by the Indian subsidiary itself; rather, it is a case where the Indian 
+subsidiary provides support functions and a ssists the assessee in such 
+matters. The privity of contract is between the assessee and the Indian 
+insurance companies and, it is abundantly clear from the terms ofITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 25 
+engagement between the assessee and the Indian subsidiary that the Indian 
+subsidiary is no t authorised to execute any contract or settle claims on its 
+own or on behalf of the assessee. In fact, there is no factual support for the 
+stand of the Assessing Officer, as there is nothing either as per the Service 
+agreement or any material to say that the Indian subsidiary has provided 
+actuarial and risk underwriting services, which are   core and crucial 
+activities of the reinsurance business. Even the use of 'Electronic 
+Underwriting Software' by the Indian subsidiary is a misnomer. The 
+software is a st andard tool which is used by global entities of the group for 
+entering the data in respect of the reinsurance transactions of the assessee. 
+The software is owned by the assessee and not the Indian subsidiary, and 
+the software is used by the Indian subsidia ry to enter the data of the Indian 
+insurance companies, but no further recommendations are made by the 
+Indian subsidiary. It is only the assessee through its own personnel who 
+examines the proposal and negotiates the terms and conditions of the 
+reinsurance  contracts. There is nothing to dispute the assertions of the 
+assessee that the infrastructure, personnel and approvals to carry out 
+reinsurance activities are from outside India. Thus, there is nothing to 
+suggest that the core activities of the reinsuranc e business of the assessee 
+are carried out in or from India by the Indian subsidiary.  
+19. Moreover, in the context of  Article 5(1)  of the India -Germany Tax 
+Treaty, what is essential is to examine whethe r there exists an assessee's 
+fixed place of business in India or not. Factually or legally speaking, the 
+place of business of Indian subsidiary per -se can in no way be equated to 
+mean the fixed place of business of the assessee in India. In fact, in this 
+connection, the observations of the Hon'ble Supreme Court in the case of E 
+funds IT Solution Inc (supra) are very apt. In para 12 of its order, the 
+Hon'ble Supreme Court has dealt with in detail, by making reference to the 
+findings of the Hon'ble High Court , and concluded that there was no fixed 
+place PE of the assessee before it on the facts of the case before it.One of 
+the points noted by the Hon'ble High Court was that the foreign company 
+was dependent on the Indian subsidiary for earning its income. This  aspect 
+was specifically negated and held not to be a relevant criteria to determine 
+whether there existed a fixed place PE or not. Similarly, the manner and 
+mode of carrying on of transaction was also not found to be a proper test 
+to determine as to wheth er there existed a fixed place of business or not. 
+Taking a cue from the reasoning approved by the Hon'ble Supreme Court, 
+in the present case too, the mere rendering of support services in 
+connection with actuarial or underwriting services cannot be a grou nd to 
+say that there exists a fixed place or a PE of the assessee in India. 
+Therefore, on parity of reasoning which prevailed with the Hon'ble 
+Supreme Court in the case of E funds IT Solution Inc (supra), in the 
+present case too, the arguments of the Reven ue do not deserve any 
+indulgence. Accordingly, the same are rejected.  
+20. So far as the case of the Revenue that there is a dependent PE in India 
+is concerned, herein also, the Revenue has merely brushed aside the claimITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 26 
+of the assessee that the Indian subs idiary does not have any authority to 
+secure contracts or solicit business on its behalf in India independent of 
+the assessee. According to the Revenue, the Indian subsidiary uses brand 
+name of the assessee while carrying out its activities in India. In ou r view, 
+the same cannot be a ground to say that there existed a dependent PE in 
+India. In fact, a point which has been emphasised before us is that the 
+assertions of the Revenue that the Indian subsidiary has a decision making 
+authority is a mere bald asse rtion and is devoid of any factual support. We 
+have perused the order of the   Assessing Officer as well as of the DRP and 
+find that the assertions of the assessee in this regard have been completely 
+brushed aside. The income - tax authorities have not refer red to any 
+particular arrangement or agreement or any other piece of evidence to 
+show that the Indian subsidiary could enter into contracts or was 
+authorised to enter into any business in India on behalf of the assessee. 
+Considering that it was imperative for the Revenue to bring out instances 
+where the Indian subsidiary had concluded contract or secured orders on 
+behalf of the assessee, we find that such burden has not been discharged 
+by the Revenue. In fact, at the time of hearing, the learned representat ive 
+for the assessee referred to an illustrative agreement placed at pages 28 to 
+102 of the Paper Book, which is a reinsurance arrangement with SBI 
+Group Life, which has been entered into by assessee and the Indian 
+insurance company, i.e. SBI Group Life di rectly. Therefore, factually also, 
+we find no support for the case of the Revenue that the Indian subsidiary 
+constitutes a dependent PE of assessee in India.  
+21. Before we conclude, we may also refer to some of the precedents which 
+have been cited before u s in order to establish that in somewhat similar 
+situations, foreign companies engaged in reinsurance business have not 
+been found to be having a fixed PE or an agency PE in India in the form of 
+an Indian subsidiary. In this context, reference has been inv ited to the 
+decision of the Mumbai Bench of the Tribunal in the case of Swiss re -
+Insurance Co. Ltd. vs DDIT(IT ), [2015] 55 taxmann.com 520 (Mumbai - 
+Trib.), which according to the learned representativ e, is directly on the 
+point. We have perused the said decision and find that the   factual matrix 
+which prevails in the instant case before us is similar to what has been 
+considered in the case of Swiss re -Insurance Co. Ltd. (supra). In para 2.1 
+of the orde r, the relevant facts have been noted and the discussion reveals 
+that the facts before us are quite similar to the case before our co -ordinate 
+Bench. It was the case of a reinsurance company based in Switzerland 
+which was receiving income for providing rei nsurance to various 
+insurance companies in India. Swiss re -Insurance company had a wholly 
+owned subsidiary in India which was rendering administrative, market 
+intelligence and other risk assessment services, which is quite similar to 
+the services being ren dered to assessee before us by its Indian subsidiary. 
+Therein also, the appellant was remunerating its Indian subsidiary on the 
+basis of cost plus mark -up. Therein also, the Assessing Officer had sought 
+to tax the income by invoking 'business connection' i n terms of Sec. 9(1)(i) 
+of the Act as well as treating the Indian subsidiary as a PE in India. InITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 27 
+nutshell, the facts as well as the dispute before our co -ordinate Bench in 
+the case of Swiss re -Insurance Co. Ltd. (supra) stood on a similar footing 
+as is th e case before us. Our co - ordinate Bench considered the provisions 
+of Explanation -2 to Sec. 9(1) of the Act as well as the provisions of India -
+Switzerland DTAA, which was the subject matter before it, and concluded 
+that the foreign company therein did not have any 'business connection' in 
+India or a PE in India. The aforesaid precedent fully supports the 
+inference which has been drawn by us in the earlier paras. Similarly, in the 
+context of  Sections 201 /201(1A)  of the Act proceedings in the ITA Nos. 
+4805 to 4808/Mum/2015 dated 05.07.2017 in the case of M/s. Bharti -AXA 
+Life Insurance Co. Ltd., the foreign company in India was held not to be 
+liable   for ta x in India on its reinsurance premium earned from the Indian 
+insurance companies. In fact, our co -ordinate Bench in the case of M/s. 
+Bharti -AXA Life Insurance Co. Ltd. (supra) followed the earlier decision 
+in the case of Swiss re -Insurance Co. Ltd. (supra) . Similar was the 
+situation in the case of Bajaj Allianz General Insurance Co. Ltd., ITA No. 
+2560/PN/2012 dated 03.02.2016 wherein also, payments by Indian 
+concerns to the foreign reinsurance company was disallowed on the 
+ground of failure to deduct the re quisite tax at source. Our co -ordinate 
+Bench held that the foreign reinsurance company earning reinsurance 
+premium from the Indian concerns was not liable for tax in India and, 
+therefore, the action of the Assessing Officer was set aside.  
+22. All these dec isions as well as our discussion aforesaid enables us to 
+come to a conclusion that the income -tax authorities have erred in holding 
+that there exists a 'business connection' in India under  Section 9(1)(i ) of 
+the Act and also that there exists a PE in India within the meaning 
+of Article 5(1)  and/or 5(4) of the India -Germany Tax Treaty. In view of the 
+aforesaid discussion, we hereby set -aside the order of Assessing Officer 
+and uphold the stand of the assessee. As a consequence, so far as Ground 
+of appeal nos. 1 to 4 are concerned, the same are treated as allowed . 
+ 
+3.19.  Similar view was taken by the Co -ordinate Bench of Pune 
+Tribunal in the case of Baja j Alliance General Insurance Co. Ltd. ,vs. 
+DCIT in ITA No.2560/PN/2012 for A.Y.2008 -09 dated 03/02/2016 vide 
+paras 26-43. For the sake of brevity, the relevant operative portion of 
+that Pune Tribunal order is not reproduced herein.  
+ 
+3.20. It is a fact that  in the impugned case of the assessee before us, 
+i.e. Tata AIG Insurance, it is not in dispute that foreign reinsurer does 
+not have any place of business or branch or any business connectionITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 28 
+or permanent establishment in India. Hence, the payments made by 
+the assessee company to the said foreign insurer is not chargeable to 
+tax in India in the hands of the foreign reinsurer in terms of Section 
+195(1) of the Income Tax Act. Hence, there is no obligation on the 
+part of the assessee payer to deduct  tax at sour ce thereon. Reliance in 
+this regard is placed on the decision of the Hon‟ble Supreme Court in 
+the case of GE India Technology Centre Pvt. Ltd., vs CIT reported in 
+327 ITR 456.  Accordingly, the provisions of Section 40(a)(i) of the Act 
+would not come into o peration at all. Moreover, these decisions were 
+duly quoted by the assessee before the ld. CIT(A) vide its submission 
+dated 25/02/2020 which was completely ignored by the ld. CIT(A) 
+while adjudicating the issue.  
+ 
+3.21. We further find that the Co -ordinate Bench decision of this 
+Tribunal in Swiss Reinsurance Co. Ltd., vs. DDIT International 
+Taxation, Mumbai reported in 55 taxmann.com 520 (Mumbai Trib.) 
+dated 13/02/2015 for A.Y.2010 -11 had also addressed the very same 
+issue. The relevant operative portion of the said order is reproduced 
+hereunder: - 
+ 
+“5.3 Assuming that conditions of (i) & (ii) mentioned herein above are 
+fulfilled, we do not find that the employees of SRSIPL are providing services to 
+the assessee as if they were the employees of the assessee. Th erefore, condition 
+laid down under Article -5 of the Treaty are also not fulfilled to treat SRSIPL as 
+PE of the assessee. Article 5(4) of the Treaty reads as under: - 
+"Notwithstanding the preceding provisions of this Article, an insurance 
+enterprise of Contr acting State shall, except in regard to re -insurance, 
+be deemed to have a permanent establishment in other Contracting 
+State if it collects premiums in the territory of that other State or 
+insures risks situated therein through a person other than an agent  of 
+an independent status to whom paragraph 6 applies."  
+ 
+3.22. From the perusal of the relevant clause of Article 5(4) of the 
+treaty reproduced supra, it could be concluded that the said Article isITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 29 
+not at all applicable for reinsurer. This is relevant in v iew of the 
+observations made by the ld. CIT(A) in 4.2.6 as under: - 
+ ―As per the appellant there are certain treaties which provides that insurance 
+business except reinsurance business would be deemed to be a PE of the non 
+resident in the other contracting state. AO has allowed reinsurance premium 
+ceded to such non resident where there is a specific exclusion for the 
+insurance compa nies from the purview of PE. As a corollary implies that 
+where there is no specific exclusion, the reinsurance business would be  
+deemed to be a PE in the other contracting state. ‖ 
+ 
+(Underlining provided by this Tribunal ) 
+ 
+3.23. We hold that the aforesaid observation of the ld. CIT(A) is 
+incorrect in view of the aforesaid decision of Mumbai Tribunal dated 
+13/02/2015 and in view of t he fact that Article 5(4) of the treaty does 
+not apply to reinsurer. Moreover, the ld. CIT(A) accepts the existence 
+of independent brokers involved and if it is so, it cannot constitute a 
+PE. 
+ 
+3.24. Hence, the entire observations of the lower authorities h ad been 
+duly addressed in the aforesaid findings by us. At the cost of 
+repetition, we would like to reiterate the fact that there is absolutely 
+no dispute that the foreign reinsurers does not have any place of 
+business in India / permanent establishment in  India / branch 
+established  in India /  Liaison office in India. Hence, any payment 
+made by the assessee company to such foreign insurers would not be 
+chargeable to tax in the hands of the foreign reinsurers in India in 
+terms of Section 195(1) of the Act . Accordingly, as stated earlier , there 
+would be no obligation on the part of the assessee , being a payer , to 
+deduct tax at source and consequently there cannot be any 
+disallowance u/s.40(a)(i) of the Act. Accordingly, assessee succeeds on 
+this ground also.ITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 30 
+3.25. Accordingly, in view of the aforesaid observations the ground 
+Nos.3 & 4 raised are allowed.  
+ 
+4. The ground No.10 raised by the assessee is with regard to claim of 
+depreciation.  
+ 
+4.1. We have heard rival submissions and perused the materials 
+availa ble on record. We find that assessee had debited depreciation in 
+its profit and loss account and also claimed depreciation as per the 
+provisions of Section 32 of the Act in the return of income. The ld. AO 
+placed reliance on the decision of the Co -ordinate  Bench of this 
+Tribunal in the case of New India Assurance Company Ltd., vs. 
+Additional CIT reported in 12 taxmann.com 465 and disallowed the 
+claim of depreciation as per Section 32 of the Act by holding that no 
+deductions are permissible from the profits as per the profit and loss 
+account while assessing insurance companies as per Rule 5 of the first 
+schedule to the Act read with Section 44 of the Act. We find that the 
+assessee had added back the book depreciation while filing its return 
+of income. Hence b y this process, the assessee was neither granted 
+deduction for book depreciation nor granted deduction for income tax 
+depreciation computed u/s.32 of the Income Tax Act. Hence, it had 
+resulted in a situation that no depreciation at all was granted 
+deductio n to the assessee. This action was upheld by the ld. CIT(A). 
+This, in our considered opinion , had resulted in gross injustice to the 
+assessee. In any case, the depreciation computed u/s.32 of the Act is 
+to be granted mandatorily to the assessee as per Explanation 5 to 
+Section 32 of the Act. In our considered opinion, the effect of Rule 5, 
+Clause „a‟ of schedule -1 is that, if the insurance company has claimed 
+a deduction for any expenditure / allowance or as debited in theITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 31 
+accounts to the profit and loss acc ount by way of provision or reserve, 
+which is not admissible as per the provisions of Section 30 to 43B of 
+the Income Tax Act, the same shall be liable for disallowance. The 
+natural corollary to this would be that deduction s that are otherwise 
+specified u/ s.30 to 43B would become allowable under the provisions 
+of the Act and the same would get allowed to insurance company. 
+Hence, logically if book depreciation is not allowed to the assessee , 
+then the depreciation computed as per Section 32 of the Act would 
+become automatically allowable to the assessee. This is irrespective of 
+the fact that income tax depreciation u/s.32 is to be mandatorily 
+allowed to the assessee as per Explanation -5 to Section 32 of the Act. 
+In this regard , the language of the Section and  the computation 
+provisions mentioned in Rule 5 of first schedule to the Income Tax Act 
+applicable for insurance companies cannot be given a literal 
+interpretation as it manifestly produces unjust result. Reliance in this 
+regard has been rightly placed by the ld. AR on the decision of the 
+Hon‟ble Supreme Court  in the case of CIT vs. J  H Gotl a reported in 156 
+ITR 323 wherein the relevant portion is reproduced hereunder: - 
+“46. Where the plain literal interpretation of a statutory provision 
+produces a manifest ly unjust result which could never have been intended 
+by the Legislature, the Court might modify the language used by the 
+Legislature so as to achieve the intention of the Legislature and produce 
+a rational construction. The task of interpretation of a sta tutory provision 
+is an attempt to discover the intention of the Legislature from the 
+language used. It is necessary to remember that language is at best an 
+imperfect instrument for the expression of human intention. It is well to 
+remember the warning admin istered by judge, the learned hand that one 
+should not make a fortress out of dictionary but remember that statutes 
+always have some purpose or object to accomplish and sympathetic and 
+imaginative discovery is the surest guide to their meaning. ‖ 
+ 
+4.2. We w ould like to make it clear that the aforesaid purposive 
+interpretation of the provisions are being considered in the instant 
+case only to avoid unjust and absurd results that would otherwiseITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 32 
+prevail in the event of assessee not getting even statutory deduc tions / 
+allowances while computing the taxable income. The pro duction of 
+unjust and absurd results could never be the intention of the 
+legislature and we are not inclined to make the computation provisions 
+of Ru le 5 of first schedule to the Income Tax Act unworkable . Hence, 
+in order to prevent that gross injustice, we are inclined to give 
+purposive interpretation of the provisions instead of literal 
+interpretation.  
+ 
+4.3.  We also find that the Finance Act 2020 had addressed the very 
+same anomaly  by amendi ng the Rule 5 of the first schedule to the 
+Income Tax Act by inserting the proviso after Clause -C of Rule 5 to 
+provide deduction of amounts previously disallowed u/s.43B in the 
+year in which the same is actually paid . The Explanatory Memorandum 
+to the Fina nce Bill 2020 explaining the provisions relating to direct tax 
+amendments while proposing an amendment in Section 43B to 
+insurance companies had stated as under: - 
+ 
+―Section 44 of the Act provides that computation of profits and gains of 
+any business of ins urance, including any such business carried on by a 
+mutual insurance company or a co -operative society shall be computed 
+in accordance with the rules contained in the First Schedule to the Act.  
+ 
+Section 43B of the Act provides for allowance of certain ded uctions, 
+irrespective of the previous year in which the liability to pay such sum 
+was incurred by the assessee according to the method of accounting 
+regularly employed by the assessee, only in the previous year in which 
+such sum is actually paid.  
+ 
+Rule 5 of the said Schedule provides for computation of profits and gains 
+of other insurance business. It states that profits and gains of any 
+business of insurance other than life insurance shall be taken to be the 
+profit before tax and appropriations as disclos ed in the profit and loss 
+account prepared in accordance with the provisions of the Insurance 
+Act, 1938 or the rule made thereunder or the provisions of the Insurance 
+Regulatory and Development Authority Act, 1999 or the regulationsITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 33 
+made thereunder, subjec t to the condition that any expenditure debited to 
+the profit and loss account which is not admissible under the provisions 
+of sections 30 to 43B shall be added back; any gain or loss on 
+realisation of investment shall be added or deducted, as the case may  be, 
+if the same is not credited or debited to the profit and loss account; any 
+provision for diminution in the value of investment debited to the profit 
+and loss account shall be added back. Thus, there is no specific 
+provision, in this rule, in the case of other insurance companies, to allow 
+deduction for any payment of certain expenses specified in section 43B if 
+they are paid in subsequent previous year. There is a possibility that 
+such sum may not be allowed as deduction in the previous year in which 
+the payment is made. This has not been the intention of the legislature.  
+ 
+Therefore, it is proposed to insert a proviso after clause (c) of the said 
+rule 5 to provide that any sum payable by the assessee which is added 
+back under section 43B in accordance with clause (a) of the said rule 
+shall be allowed as deduction in computing the income under the rule in 
+the previous year in which such sum is actually paid.  
+ 
+This amendment will take effect from 1st April, 2020 and will, 
+accordingly, apply in relation t o the assessment year 2020 -21 and 
+subsequent assessment years. ‖  
+ 
+4.4. From the logical reading and understanding of the aforesaid 
+Explanatory Memorandum of Finance Bill 2020, it could be safely 
+inferred and concluded that the legislature never wanted to d eny any 
+deduction or allowance that was otherwise allowable to the assessee 
+under the very same provisions of Section s 30 to 43B of the Income 
+Tax Act. It also impliedly mention ed that by this process, the double 
+disallowance that would occur shall be avoi ded. There would be cases 
+where assessee while making certain provision for certain expenses or 
+provision for certain reserves would add it back voluntarily in the 
+return of income even though the same is an item of legitimate 
+expenditure in the P & L acco unt. When the very same expenditure is 
+actually paid by the assessee in different assessment year, the same 
+should be logically and legally liable for deduction / allowance to the 
+assessee in the year in which such payments are made. This aloneITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 34 
+would addre ss the clear intention of the legislature. Moreover these 
+benefits are otherwise available to all other types of the assessee and 
+there is no logical reason that an Insurance company alone should be 
+deprived of the same. This would be more relevant from th e point of 
+discrimination of assessee. Considering the totality of these 
+observations, it could be safely concluded that the amendment 
+brought in Finance Act 2020 addressing this anomaly  is merely 
+curative in nature and hence has to be construed as clarifi catory 
+having retrospective effect as it was brought in to avoid unintended 
+consequences and to avoid discrimination with other assessees. In this 
+regard , we find that the reliance has been rightly placed by the ld. AR 
+on the decision of the Hon‟ble Suprem e Court in the case of Allied 
+Motors (P) Ltd., vs CIT reported in 224 ITR 677 wherein it was held 
+that  when a proviso is inserted to remedy unintended consequences 
+and to make the section workable, a proviso which supplies an obvious 
+omission in the secti on and which proviso is required to be read into 
+the section to give it a reasonable interpretation, it could be read to be 
+retrospective in operation, particularly to give effect to the section as a 
+whole.  This direction, in our considered opinion , would make 
+computation provisions mentioned in Rule 5 of the first schedule of the 
+Income Tax Act workable.  In view of the above observations, we 
+direct the ld. AO to grant allowance of depreciation u/s.32 of the Act 
+for the year under consideration. Needless t o mention that the ld. AO 
+should rework the depreciation of subsequent years accordingly due to 
+change in the written  down value of the block of assets. Accordingly, 
+the ground No.10 raised by the assessee is allowed.ITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 35 
+5. The ground Nos.  5 to 9 raised by the assessee are in the same line 
+of ground No.10 wherein certain deductions were claimed by the 
+assessee. The same are detailed hereinbelow: - 
+ 
+(a) Ground No.5 is seeking deduction in respect of profit on sale of 
+fixed assets from the assessee‟s total income – Since we have 
+already directed the ld. AO to grant depreciation as per Ground 
+No.10 hereinabove u/s.32 of the Act, then consequently on sale of 
+fixed assets would also have to be as per the provisions of Income 
+Tax Act, hence, this ground No.5 becomes con sequential in nature.  
+ 
+(b)  Ground No.6 is challenging the action of the ld. CIT(A) not 
+excluding the reversal of expenses credited by the assessee to its 
+profit and loss account which had been disallowed in the previous 
+years.  
+ 
+(c) Ground No.7 is challenging the action of the ld. CIT(A) disallowing 
+the claim of expenses u/s.40(a)(ia) of the Act which was 
+disallowed in the preceding previous year and on which tax had 
+been deducted at source and paid to the credit of the Central 
+Government in the previous year under  appeal . 
+ 
+(d) Ground No.8 is challenging the disallowance of deduction of bonus 
+and leave encashment paid during the year under appeal which 
+was disallowed in earlier years u/s.43B of the Act.  
+ 
+(e) Ground No.9 is challenging the disallowance of reversal of provis ion 
+of doubtful debts which was disallowed by the assessee in earlier 
+years.ITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 36 
+ 
+5.1. We find that all the aforesaid items from (b) to (e) above are to be 
+granted deduction and excluded from the total income of the assessee in 
+order to avoid double disallowan ce. The amendment brought in Finance 
+Act, 2020 also impliedly concluded that there should be no double 
+disallowance. In this regard, assessee has given detailed submissions 
+before the ld. CIT(A) that are enclosed in pages 217 -222 of the paper 
+book filed be fore us justifying the claim of deduction. The same reasoning 
+that was given by us in ground No.10 hereinabove would apply to these 
+grounds also. Accordingly, the ground Nos. 6  to 9 raised by the assessee 
+are allowed.  
+ 
+6. The ground No.11 raised by the ass essee is seeking credit for tax 
+deducted at source.  
+ 
+6.1. We have heard rival submissions and perused the materials available 
+on record. We find that the ld. AO had not granted the credit of additional 
+tax deduced at source claimed by the assessee during t he assessment 
+proceedings. Since this matter requires factual verification, we direct the 
+ld. AO to verify the claim of the assessee and grant TDS credit in 
+accordance with law. Accordingly, the ground No.11 raised by the 
+assessee is allowed for statistica l purposes.  
+ 
+7. The ground No.12 raised by the assessee was stated to be not pressed 
+by the ld. AR at the time of hearing and accordingly, the same is hereby 
+dismissed as not pressed.ITA No.1718/Mum/2020  
+M/s. Tata AIG General Insurance Co. Ltd.,  
+ 
+ 37 
+8. The ground No.13 is an additional ground claiming deduction for 
+education cess which was also stated to be not pressed by the ld. AR at 
+the time of hearing and accordingly dismissed as not pressed.  
+ 
+9.  In the result, appeal of the assessee is allowed for statistical 
+purposes.  
+ 
+ 
+Order pronounced  on       25/ 04/2022 by way o f proper mentioning in 
+the notice board.  
+        
+ 
+ 
+Sd/- 
+ (AMARJIT SINGH ) Sd/-                             
+(M.BALAGANESH)                 
+JUDICIAL MEMBER  ACCOUNTANT MEMBER  
+ 
+Mumbai ;    Dated         25/04/2022   
+KARUNA , sr.ps 
+ 
+ 
+ 
+ 
+ 
+Copy of the Order forwarded  to  :   
+                     
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BY ORDER,  
+ 
+ 
+                                                                                       
+(Asstt.  Registrar)  
+ITAT, Mumbai  
+ 1. The Appellant   
+2. The Respondent.  
+3. The CIT(A), Mumbai.  
+4. CIT  
+5. DR, ITAT, Mumbai  
+6. Guard file.  
+ 
+//True Copy//

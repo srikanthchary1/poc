@@ -1,0 +1,196 @@
+ITA No.44/Bang/2023 
+M/s. Gokulam Shelters Private Limited, Bangalore  
+IN THE INCOME TAX APPELLATE TRIBUNAL  
+“C’’ BENCH: BANGALORE 
+ 
+BEFORE SHRI N.V. VASUDEVAN, VICE PRESIDENT  
+AND  
+SHRI CHANDRA POOJARI, ACCOUNTANT MEMBER 
+ 
+  ITA No.44/Bang/2023 
+  Assessment Year: 2019-20  
+ 
+Gokulam Shelters Private 
+Limited 
+Gokulam Complex 
+Doddakallasandra Post 
+Vaanthapura 
+Bangalore 560 062 
+ 
+PAN NO : AADCG6505C Vs.   
+ 
+ 
+ITO Ward-3(1)(1) 
+Bangalore 
+APPELLANT          RESPONDENT 
+ 
+Appellant  by  : Shri Sandeep Chalapathy, A.R. 
+Respondent by  : Smt. Priyadarshini Besaganni, D.R. 
+ 
+Date of Hearing :        14.03.2023  
+Date of Pronouncement  :        14.03.2023  
+ 
+O R D E R 
+ 
+PER CHANDRA POOJARI, ACCOUNTANT MEMBER: 
+ 
+  This appeal  by assessee is directed against order  of 
+NFAC dated 8.12.2022 for the assessment year 2019-2 0.   
+ 
+2. The assessee has raised the first ground that NF AC erred in 
+not considering the Deferred Tax Asset at Rs.4,77,6 56/- while 
+computing the MAT u/s 115JB of the Income-tax Act,1 961 ['the Act' 
+for short].ITA No.44/Bang/2023 
+M/s. Gokulam Shelters Private Limited, Bangalore  
+ 
+Page 2 of 5 
+3. Facts of the case are that for the purpose of co mputation of book 
+profits u/s. 115JB of the Act, the assessee started  with the profit after 
+tax of Rs.1,61,80,699. Therefore, the tax expense o f Rs. 40,36,670/- 
+and Deferred tax income of Rs. 4,83,088/- has to be  given effect for 
+arriving at the book profits u/s. 115JB of the Act.   The net effect of tax 
+expense and deferred tax income is Rs. 35,53,5827/- .  However, the 
+amount entered in the ITR Form is Rs. 35,59,014/- a nd the difference 
+is Rs.5,432/- which is interest on TDS included in interest expenses 
+claimed in the Statement of Profit and Loss. The br eakup of the above 
+is tabulated below; 
+Particulars  
+ Amount in Rs.  
+ Tax expense  40,36,670  
+Interest on TDS  5,432  
+Deferred tax income  (4,83,088)  
+Total tax expenses  
+ 35,59,014  
+  
+ 
+3.1 The computation of book profits in the ITR form  filed is 
+reproduced below; 
+Schedule MAT – Computation of Minimum Alternate Tax  payable under section 
+115JB  
+1 Whether the profit and Loss account is prepared i n 
+accordance with the provisions of Parts II of Sched ule III to 
+the Companies Act, 2013 (If yes, write ‘Y’, if no w rite ‘N’  Yes 
+2 If 1 is no, whether profit and loss account is pr epared in 
+accordance with the provisions of the Act governing  such 
+company (If yes, write ‘Y’, if no write ‘N’)  Yes 
+3 Whether, for the Profit and Loss account referred  to in item 
+1 above, the same accounting policies accounting st andards 
+and same method and rates for calculating depreciat ion have 
+been followed as have been adopted for preparing ac counts 
+laid before the company as its annual general body meeting? 
+(If yes, write ‘Y’, if no write ‘N’  Yes 
+4 Profit after tax as shown in the Profit and Loss Account 
+(enter item 56 of Part-A-P&L) (enter item 56 of Par t-
+A – P&L Ind AS) (as applicable)  4 16180699  
+5 Additions (if debited in Profit and loss account  
+ a Income-tax paid or payable or its provision 
+including the amount of deferred tax and the 
+provision thereof  5a 3559014 
+ b Reserve (except reserve under section 33 AC  5b  0ITA No.44/Bang/2023 
+M/s. Gokulam Shelters Private Limited, Bangalore  
+ 
+Page 3 of 5 
+ 
+ 
+3.2 From the above extract also it was found that t he appellant has 
+added tax expenses net of deferred tax asset/income  amounting to 
+Rs. 35,59,014/- to the profit after taxes as per th e statement of profit 
+and loss account of the appellant as per the clause  (a) of Explanation 1 
+to section 115JB(2) of the Act. However, the learne d assessing officer 
+and the learned Commissioner of Income Tax (Appeals ) without 
+considering the above fact that the deferred tax as set is in the nature of 
+income and not expense, added back Rs. 40,36,670/- to arrive at the 
+book profit. 
+ 
+3.3 Principally, as per explanation 1 to section 11 5JB(2) of the Act, 
+the 'book profit' means the profit as shown in the statement of profit 
+and loss which is computed in accordance with the p rovisions of the 
+Companies Act, 2013 as increased or decreased by th e items 
+mentioned in Explanation 1 of section 115JB of the Act. Clause (a) of 
+Explanation 1 of section 115JB(2) of the Act states  that "the amount of 
+income-tax paid or payable, and the provision there for"  has to be added 
+to the profit as mentioned earlier. Therefore, a co nclusion can be drawn 
+that for the purposes of computation of book profit s under section 
+115JB of the Act, the profit before giving any adju stment to tax expense 
+(including tax expense relating to the current year , MAT credit, Tax 
+expense relating to the prior years, deferred tax) has to be 
+considered. In this connection, if the profit befor e tax is considered 
+then it can be said that the effect of clause (a) o f Explanation 1 of 
+section 115JB(2) of the Act is already provided. He nce, if is 
+considered that the 'profit before tax' as computat ion of book profits 
+then the deferred tax adjustment in the statement o f profit and loss 
+of the appellant which is provided after arriving a t 'profit before taxes' 
+has nothing to do with any adjustments as specified  in clause (b) toITA No.44/Bang/2023 
+M/s. Gokulam Shelters Private Limited, Bangalore  
+ 
+Page 4 of 5 
+clause (k) to Explanation 1 of section 115JB(2) of the Act.  In view of 
+the above, the ld. A.R. requested to allow the abov e grounds. 
+ 
+4. We have heard the rival submissions and perused the 
+materials available on record.  In our opinion, the  claim of assessee 
+requires to be examined after verifying the records  by the AO as the 
+NFAC has wrongly observed that from 1.4.2016 i.e. f rom assessment 
+year 2016-17, sub clause – (h) of explanation (1) o f sub section (2) of 
+section 115JB of the Act is applicable and as per w hich the 
+adjustment made by the CPC while processing return u/s 143(1) of 
+the Act is justified.  However, CPC as well as NFAC  has not 
+considered the actual computation made by assessee in its return of 
+income.  In other words, while computing the book p rofit, the AO has 
+not considered netting of tax expenses with interes t on TDS and deferred 
+tax income.  In other words, the assessee has taken  net of tax expenses 
+after deducting interest on TDS and deferred tax ex penses as below:- 
+ 
+1.  Tax expenses       40,36,670/- 
+2.  Interest on TDS   (+)    5,432/- 
+3.  Deferred tax income       (-)4,83,088/- 
+(-)4,77,656/-   (-)      4,77,656/- 
+    35,59,014/- 
+4.1 This figure of Rs.35,59,014/- is to be reduced from profit before 
+tax of Rs.19,73,438/- and the net figure of book pr ofit is computed 
+as follows:- 
+1.  Profit before tax           1,97,34,281/- 
+2.  Total tax expenses              (-)     35,59,014/-  
+Book profit               1,61,80,699/- 
+ 
+4.2 However, the lower authorities without noticing  the above 
+made further addition of Rs.4,77,656/- while comput ing the book 
+profit.ITA No.44/Bang/2023 
+M/s. Gokulam Shelters Private Limited, Bangalore  
+ 
+Page 5 of 5 
+ 
+4.3 Being so, we remit this issue to the file of AO  to go through the 
+records and recompute the book profit accordingly.    
+ 
+5. In the result, the appeal of the assessee is par tly allowed. 
+ 
+Order pronounced in the open court on  14 th  Mar, 2023. 
+         
+ 
+          Sd/- 
+    (N.V. Vasudevan )              
+     Vice President                            
+ 
+                     Sd/- 
+              (Chandra Poojari) 
+           Accountant Member  
+  
+Bangalore,  
+Dated  14 th  Mar, 2023. 
+VG/SPS 
+ 
+ 
+Copy to: 
+ 
+1.  The Applicant 
+2.  The Respondent 
+3.  The CIT  
+4.  The CIT(A) 
+5.  The DR, ITAT, Bangalore.  
+6.  Guard file  
+          By order 
+ 
+ 
+ 
+       Asst. Registrar, ITAT, Bangalore.

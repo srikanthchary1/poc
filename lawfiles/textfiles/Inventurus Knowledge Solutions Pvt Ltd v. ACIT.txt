@@ -1,0 +1,269 @@
+IN THE INCOME TAX APPELLATE TRIBUNAL “K” BENCH, MUM BAI 
+  
+BEFORE SHRI PRASHANT MAHARISHI, AM AND  
+MS. KAVITHA RAJAGOPAL, JM 
+ 
+IT(TP)A No. 2222/Mum/2017 
+(Assessment Year: 2012-13) 
+ 
+Inventurus Knowledge Solutions Private 
+Limited 
+M/s. Serene Properties Private Limited 
+(SEZ) 
+Unit No. 204, Building No.5, 
+Mindspace, Airoli, Mumbai-400 708 Vs. The Assistant CIT, Range 3(2)(1) 
+Mumbai 
+ 
+PAN/GIR No. AABC 15573 J 
+(Appellant ) : (Respondent ) 
+ 
+Assessee by  : Shri S. C. Tiwari 
+Revenue by   : Ms. Samruddhi Dhananjay Hande 
+ 
+Date of Hearing  : 30.11.2022 
+Date of Pronouncement  : 22.02 .20 23 
+ 
+O R D E R  
+ 
+Per Kavitha Rajagopal, J M:  
+ 
+ 
+This appeal has been filed by the assessee, challen ging the assessment order 
+passed u/s. 143(3) r.w.s. 144C(5) & 144C(13) r.w.s.  92CA(3) of the Income Tax Act, 
+1961 (‘the Act'), in pursuance to the direction iss ued by the Hon’ble Dispute Resolution 
+Panel (ld. DRP for short), relevant to the Assessme nt Year (‘A.Y.’ for short) 2012-13.  
+ 
+2. The assessee has challenged the addition/disallo wance made by the Assessing 
+Officer (A.O. for short) on transfer pricing ground s along with the other grounds of 
+appeal.  
+ 
+3. The brief facts are that the assessee is engaged  in providing Revenue Cycle 
+Management (RCM for short) to companies in US healt h care sector and has set up a 
+subsidiary called Inventurus Knowledge Solution Inc  (IKS Inc for short) in US to assist 
+in the marketing and onsite support activity for th e RCM business, which is wholly2 
+IT(TP)A No. 2222/Mum/2017 (A.Y.2012-13) 
+Inventurus Knowledge Solutions Private Limited vs. Asst. CIT  
+ 
+ owned subsidiary of the assessee company. The asses see filed its return of income dated 
+29.11.2013, declaring total loss of Rs.15,43,61,384 /-. The assessee’s case was selected 
+for scrutiny and the assessment order dated 27.01.2 017 was passed u/s. 143(3) r.w.s. 
+144C(5) and 144C(13) r.w.s. 92CA(3) of the Act, whe re the A.O. determined the total 
+loss of Rs.13,98,27,598/-, as against the returned loss of Rs.15,43,61,384/-, pursuant to 
+the direction of the ld. DRP. It was observed that from Form No. 3CEB, the assessee 
+company has entered into the international transact ion with its associated enterprises 
+amounting to Rs.42,14,02,500/-. The assessee’s case  was referred to the Transfer Pricing 
+Officer (‘TPO’ for short) to determine the Arm’s Le ngth Price (‘ALP’ for short) of the 
+international transaction with AE’s, whereby the TP O determined an upward adjustment 
+of Rs.1,32,93,815/- vide order dated 29.01.2016. It  is observed that the TPO had adopted 
+the OP/OC of the AE’s segment of the assessee at 22 .63% as against 15.89% determined 
+by the assessee, whereby resulting in an addition o f Rs.1,32,93,815/- to the total income 
+of the assessee. The A.O. had also made an addition  u/s. 36(1)(va) r.w.s. 2(24)(x) of the 
+Act for delayed payment of employees contribution t o provident fund (‘PF’ for short) and 
+Employees State Insurance Corporation (‘ESIC’ for s hort), aggregating to Rs.12,39,971/-. 
+The assessee has raised an objection before the ld.  DRP on various grounds against the 
+draft assessment order dated 29.03.2016, where the total income was assessed at 
+Rs.58,90,86,366/-. The ld. DRP has disposed of the objections raised by the assessee on 
+the adjustments/additions proposed by the A.O. in t he draft assessment order and had 
+upheld the adjustment made by the TPO/A.O.  
+ 
+4. The assessee is in appeal before us, challenging  the final assessment order dated 
+27.01.2017 passed in pursuance to the direction giv en by the DRP as under:3 
+IT(TP)A No. 2222/Mum/2017 (A.Y.2012-13) 
+Inventurus Knowledge Solutions Private Limited vs. Asst. CIT  
+ 
+ i.  The assessee has challenged the transfer pricing ad justment on the ground that the 
+assessee being an India headquarters company wherei n substantial portion of its 
+profits are derived from tax holiday units, thereby  contending that there was no 
+intention to shift profit out of India and, hence, the transfer pricing provisions 
+were not to be applied in assessee’s case. 
+ 
+ii.  The assessee has challenged the transfer pricing ad justment on the ground that the 
+TPO/A.O. had rejected the AE as the tested party fo r bench marking the 
+international transaction of RCM services and had e rred in taking the assessee as 
+tested party by disregarding the functional profile s of the assessee and the AE. 
+ 
+iii.  The A.O./TPO has rejected the bench marking analysi s undertaken by the assessee 
+for the international transaction of RCM services a nd has erroneously rejected the 
+AE as the tested party for the international transa ction inspite of the fact that the 
+annual reports of the comparable companies selected  by the assessee was available 
+in the public domain and the same was not looked in to while making the TP 
+adjustment.  
+ 
+iv.  The assessee has also challenged the ground that th e bench marking analysis 
+should be undertaken by using three years average d ata of the comparables instead 
+of only single year data and has also challenged th e application of filter for 
+rejecting companies which followed a financial year  other than April to March.  
+ 
+v.  The assessee has also challenged the search proceed ing applied by the TPO, 
+wherein eight companies selected as comparable by t he A.O./TPO without sharing 
+the search process undertaken for identifying the c omparables.  
+ 
+vi.  The assessee also challenged the comparables namely  Excel Infoways Ltd., 
+University Prince System Ltd. and BNR Udyog Ltd. as  comparable for bench 
+marking the international transaction.  
+ 
+vii.  The assessee has challenged, on the ground that the  assessee was not allowed 
+benefit of working capital adjustment to account fo r the difference in working 
+capital level between the assessee and the comparab le companies. The assessee 
+contended that the arms length price should be limi ted to the lower end of 5% 
+range as per proviso to section 92C of the Act.4 
+IT(TP)A No. 2222/Mum/2017 (A.Y.2012-13) 
+Inventurus Knowledge Solutions Private Limited vs. Asst. CIT  
+ 
+ 5. The assessee contended that it operates from spe cial category zone units in 
+Mumbai and Hyderabad for which tax holiday u/s. 10A A of the Act for the profits earned 
+were availed by the assessee. The assessee further contended that the assessee being a 
+parent entity of the group has headquarters in Indi a and the shareholders are also based in 
+India, stating that the assessee does not intend to  shifts its profits out of India. The 
+assessee also stated that the assessee’s AE, IKS In c is in USA where the corporate tax 
+rate is higher than that in India which negates the  fact that the assessee wants to shift 
+profit out of India. The assessee relied on the dec ision of Tata Consultancy Services Ltd. 
+vs. Addl. CIT  (in ITA No. 7513/Mum/2010 vide order dated 04.09.2 015) where the 
+Tribunal held that no TP adjustment can be made in cases where the assessee is benefited 
+out of section 10A or section 80HHE or where the ta x rate of the AE’s country is higher 
+than that in India. The assessee’s contention was n ot accepted by the ld. DRP/TPO/A.O. 
+Though the assessee has raised various contentions in the grounds of appeal, it is 
+pertinent to consider the grounds where the A.O./TP O has rejected the assessee as a 
+tested party for bench marking the international tr ansaction of provision of RCM services 
+and had bench marked the said transaction by using the assessee as tested party. The 
+assessee submits that the IKS India is the risk bea ring entrepreneur entity which was 
+solely responsible for the entire risk and reward o f the client contracts and that IKS Inc 
+acts only as a contracting entity with the clients,  which is a risk free entity. The assessee 
+contended that the foreign AE, i.e. IKS Inc is cons idered to be least complex entity and 
+has to be selected as the tested party. The assesse e relied on the decision of the co-
+ordinate bench in the case of Tata Motors European Technology Centre Plc vs. ADIT  (in 
+ITA No. 7630/Mum/2012 vide order 22.12.2014) which held that the foreign5 
+IT(TP)A No. 2222/Mum/2017 (A.Y.2012-13) 
+Inventurus Knowledge Solutions Private Limited vs. Asst. CIT  
+ 
+ comparables cannot be rejected for bench marking th e ALP. The lower authorities had 
+rejected the assessee’s contention for the reason t hat the assessee has taken weighted 
+average of three years of comparables which also ha ve different financial year ending 
+other than April to March and that the assessee has  not used the current year data 
+exclusively for all the comparable companies which violates Rule 10B(4) of the IT Rule 
+where the proviso to the said Rules states that the  earlier two years data can also be used 
+when it is shown that the earlier year data had an influenced in determining the price. The 
+TPO/AO further held that the earlier year data can be used when the conditions are 
+satisfied and it has to be used in addition to the current year data. The TPO/A.O. also 
+stated that the assessee has failed to give any cog ent reason as to why the earlier year data 
+has an influence over the pricing in neither in ass essee’s case nor in uncontrolled 
+enterprises. The TPO considered the comparable sele cted by the assessee as different in 
+activities which involved human resources, finance accounting, advisory and marketing, 
+whereas in assessee’s case, it was into information  technology service sector where the 
+role of AE was limited to identifying clients, nego tiation of contracts and co-ordination. 
+The TPO/A.O. held that the comparable companies sel ected by the assessee are 
+functionally different and that the information per taining to the comparables was difficult 
+to be sourced and also was difficult to get reliabl e information. The TPO/A.O. stated that 
+only Indian entities are to be taken as tested part y in assessee’s case and that the AE 
+cannot be taken as the tested party for the above m entioned reason.    
+ 
+6. The ld. AR for the assessee contended that the c o-ordinate bench in the case of the 
+assessee for A.Y. 2011-12 has held that the foreign  associated enterprises is considered as 
+a least complex functions and can be considered as an tested party. The ld. AR further6 
+IT(TP)A No. 2222/Mum/2017 (A.Y.2012-13) 
+Inventurus Knowledge Solutions Private Limited vs. Asst. CIT  
+ 
+ contended that the usage of data of three years sho uld not be a ground for the ld. 
+TPO/A.O. to reject the said comparable. The ld. AR stated that the foreign AE satisfies 
+all the conditions required for a tested party.  
+ 
+7. The learned Departmental Representative (ld. DR for short) for the Revenue, on 
+the other hand, controverted the same and relied on  the order of the lower authorities. 
+ 
+8. Having heard the rival submissions and perused t he materials on record. It is 
+observed that the assessee is an Indian entity wher e its units are located in the Special 
+Economic Zone units in Mumbai and Hyderabad for whi ch it avails the tax holidays u/s. 
+10AA of the Act for substantial amount of its profi t. The assessee here has contended that 
+it has no intention of shifting of profits outside India and that the corporate tax rate of its 
+AE (IKS Inc.) is based in USA where the corporate t ax rate is higher than that in India. 
+The assessee has also relied on the decision of the  co-ordinate bench in the case of Tata 
+Consultancy Services Ltd. (supra), wherein it has held that the TP adjustment s should not 
+be made in case where the assessee is benefited u/s .10A or section 80HHE of the Act or 
+where the tax of the AE’s country is higher than th at of the rate in India. The assessee has 
+also contended on the ground that the foreign AE ha s to be taken as a tested party for the 
+fact that it is the least complex functions. We wou ld like to place our reliance on the 
+decision of the co-ordinate bench, which has been a uthored by us in ITA No. 
+2403/Mum/2018 & CO No.249/Mum/2019 for A.Y. 2011-12  vide order dated 
+21.10.2022, where we have taken a view that the for eign AE can be taken as the tested 
+party whose functions are least complex in nature a nd for the reason that it does not own7 
+IT(TP)A No. 2222/Mum/2017 (A.Y.2012-13) 
+Inventurus Knowledge Solutions Private Limited vs. Asst. CIT  
+ 
+ any intangible and can be verified by using reliabl e data base. The relevant extract of the 
+said decision is cited hereunder for ease of refere nce:  
+016.  The learned CIT (A) held that there is no inf irmity in taking the foreign Associated 
+Enterprises as a tested party. The learned CIT (A) in Para 9 held as under: -  
+ 
+“9. The matter is examined. I find that the appella nt has rebutted each of the items listed 
+by Assessing officer for not treating IKS Inc as te sted party. In this case there is only one 
+AE, and such AE need not be based in India. The 3-y ear data and F.Y. difference are 
+adjustable issues when comparable are selected and analysis for inclusion/elimination. If 
+usage of data of 3 years is not acceptable, Assessi ng Officer after recording reasons can 
+change the same but usage of data of 3 years is not  a determining factor as to who the 
+tested party should be. Moreover, the assessee has provided single year date during 
+course of proceedings before Transfer Pricing Offic er. Here method to be adopted is 
+TNMM and broad comparability is sufficient. Hence, I hold that the Transfer Pricing 
+Officer has wrong in not holding IKS Inc as not tes ted party in the case.”  
+ 
+017.  The OECD guideline states that choice of the tested party should be constant with the 
+functional analysis of the transaction. Generally, the tested party is the one to which a transfer 
+pricing method can be applied in the most reliable manner and for which the most reliable 
+comparable can be found and further it would be mos t often the party that is the less complex 
+functional analysis. UN transfer pricing guidelines  are also on the similar lines. Further, the 
+Indian Jurisprudence is also on the similar princip les. Therefore, the principle emerges that it is 
+better if a tested party is taken whose functions a re less complex in nature, does not own any 
+intangible generally and the results which can be v erified by using reliable data base. In the 
+present case, the foreign Associated Enterprises is  admittedly least complex functions and does 
+not know any intangible and further the assessee ha s used the Standard and Poor’s CompStat 
+and Merchant Database. The comparability analysis s hows that the total population of 285 
+companies was available with respect to market sale s support and customer relationship services 
+and 940 companies were available in provision of re venue cycle management services by using 
+one source global business process database. Thus, foreign Associated Enterprises satisfied all 
+the criteria for being taken as a tested party. The  learned Transfer Pricing Officer merely 
+rejected the same as Associated Enterprises is loca ted in different geographical locations. We do 
+not find it a proper justification by the learned T ransfer Pricing Officer to reject the foreign 
+Associated Enterprises as a tested party. Ld CIT (A ) order is affirmed. 
+ 
+9. From the above, we are of the view that a consis tent approach has to be taken in 
+case of no variation in the facts. It is now a sett led proposition that a foreign AE can be 
+considered as a tested party for the reason that it  has a least complex function and the 
+information about the comparable are easily accessi ble. The ld. TPO has not given proper 
+justification for rejecting the AE to a tested part y. We hereby allow ground nos. 1 to 14 
+raised by the assessee on the transfer pricing adju stment.8 
+IT(TP)A No. 2222/Mum/2017 (A.Y.2012-13) 
+Inventurus Knowledge Solutions Private Limited vs. Asst. CIT  
+ 
+ 10. Ground nos. 15, 16 & 17 pertains to the disallo wance of contribution made 
+towards PF & ESIC. As these grounds are covered by the decision of the Hon'ble Apex 
+Court in the case of Checkmate Services Pvt. Ltd. vs. CIT  (in Civil Appeal No. 2833 of 
+2016 vide order dated 12.10.2022), wherein it was h eld that belated payment of PF & 
+ESIC after the due date prescribed under the releva nt Act warrants disallowance u/s. 
+36(1)(v)(a) of the Act. By respectfully following t he said decision, we confirm the 
+disallowance made by the lower authorities. We here by dismiss ground nos. 15, 16 & 17 
+raised by the assessee. 
+ 
+11. Ground nos. 18, 19 & 20 requires no adjudicatio n.  
+ 
+12. In the result, the appeal filed by the assessee  is partly allowed.  
+Order pronounced in the open court on 22.02.2023 
+ 
+ 
+                                   Sd/-                                                                    Sd/- 
+ 
+                      (Prashant Maharishi)                                          (Kavitha Rajagopal ) 
+                     Accountant Member                                              Judicial Member 
+Mumbai; Dated :  22.02.2023 
+Roshani , Sr. PS 
+Copy of the Order forwarded  to  :   
+1. The Appellant  
+2. The Respondent 
+3. The CIT(A) 
+4. CIT - concerned 
+5. DR, ITAT, Mumbai 
+6. Guard File 
+                                                                BY ORDER, 
+  
+       
+                                                                              
+(Dy./Asstt.  Registrar) 
+ITAT, Mumbai

@@ -1,0 +1,645 @@
+IN THE INCOME TAX APPELLATE TRIBUNAL  
+“I” BENCH, MUMBAI  
+ 
+BEFORE SHRI PRASHANT MAHARISHI , ACCOUNTANT MEMBER AND  
+SHRI SANDEEP SINGH KARHAIL, JUDICIAL MEMBER  
+ 
+ITA No.1521/Mum./2022  
+(Assessment Year : 2018 –19)  ITA No. 1520 /Mum./20 22 
+(Assessment Year : 201 9–20) 
+ 
+American Chemical Society  
+C/o Deloitte Haskins & Sells LLP  
+7th Floor, Building –10, Tower –B 
+DLF Cyber City Complex  
+DLF City, Phase –II, Gurgaon 1222002  
+PAN – AALCA4959L   
+……………. Appellant  
+v/s 
+Deputy  Commissioner of Income Tax  
+International Taxation  
+Circle –1(1)(1), Mumbai   
+……………. Respondent  
+ 
+      Asses see by  :   Shri Vishal Kalra  
+            Shri S.S. Tomar  
+Revenue by   :   Shri H.S. Usmani  
+ 
+Date of Hearing – 16/08 /2022   Date of Order – 29/09/2022  
+ 
+O R D E R  
+PER SANDEEP SINGH KARHAIL, J.M.  
+ 
+The present appeal s have been filed by the assessee challenging 
+separate final assessment orders of even date 20/04/2022, passed under 
+section 143(3) r/w section 144C(13)  of the Income Tax Act, 1961 (“ the Act ”) 
+for the assessment year 2018 –19 and 2019 –20. 
+ 
+2. Since both the appeals pertain to the same assessee and issues 
+involved are also , inter -alia, common, therefore these appeals were heardAmerican Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 2  together as a matter of convenience and are being adjudicated by way of this 
+consolidated order.  With the consent of the parties, the appeal by the 
+assessee for the assessment year 2018 –19 is taken up as a lead case and the 
+decision therein would apply mutatis mutandis  to the appeal for the 
+assessment year 2019 –20 as well, except with variance in figures.  
+ 
+ITA no.1521/Mum./2022  
+Assessment Year : 2018 –19 
+ 
+3. In its appeal, the assessee  has raised following grounds:  
+ 
+“Appeal under section 253(1)(d) of the Income -tax Act, 1961 
+(hereinafter referred to as the "Act"), against the order dated 20 April 
+2022 (received on 21 April 2022), pas sed by the Deputy Commissioner 
+of Income Tax, International Taxation Circle 1(1)(1), Mumbai (L. AO") 
+under section 143(3) read with section 144C(13) of the Act.  
+ 
+1. That on the facts and circumstances of the case and in law, the Ld. 
+AO has erred in assessi ng the total income of the Appellant under 
+section 143(3) read with section 144C(13) of the Act at INR 
+73,00,83,910 as against Nil returned income.  
+ 
+2. That on the facts and circumstances of the case and in law, the Ld. 
+AO/ Dispute Resolution Panel ("DRP")  have erred in holding that the 
+receipts from Indian customers amounting to INR 73,00,83,910 are 
+chargeable to tax as royalty in terms of Article 12(3) of India -US Double 
+Tax Avoidance Agreement ("DTAA") and under section 9(1)(vi) of the 
+Act. 
+ 
+2.1 That on the facts and in the circumstances of the case and in law, 
+the Ld. AO/ DRP have erred in holding that the subscription charges 
+received under Chemical Abstract Service (CAS) division and 
+Publications (PUBS) division would be chargeable to tax in India unde r 
+India-US DTAA being received for use or right to use of copyright in 
+artistic, literary or scientific work and/or for use of information 
+concerning industrial, commercial or scientific experience and/ or for use 
+of industrial, commercial or scientific eq uipment.  
+ 
+2.2 That on the facts and circumstances of the case and in law, the Ld. 
+AO/ DRP have erred in holding that the subscription charges received 
+under CAS and PUBS divisions would be chargeable to tax in India under 
+India-US DTAA being received for u se of ACS databases / software.American Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 3  2.3 That on the facts and circumstances of the case and in law, the Ld. 
+AO/DRP have erred in disregarding the decision of the Hon'ble Supreme 
+Court in the case of Engineering Analysis Centre of Excellence Private 
+Limited (C ivil Appeal No. 8733 -8734 of 2018) while holding that the 
+receipts of the Appellant be treated as being received for the use or 
+right to use copyright in a literary or scientific work within the meaning 
+of royalty as per section 9(1)(vi) of the Act as well  as Article 12(3) of 
+India-US DTAA.  
+ 
+2.4 That on the facts and circumstances of the case and in law, the Ld. 
+AO/DRP have erred in not following the decision passed by the Hon'ble 
+Mumbai Bench of the Income -tax Appellate Tribunal ("ITAT") in 
+Appellant's own  case for immediately preceding assessment years l.e. 
+2014-15 to 2017 -18, wherein on similar facts and circumstances, the 
+Hon'ble ITAT held that the revenue from CAS and PUBS division cannot 
+be taxed as royalty under section 9(1)(vi) of the Act as well as Article 
+12(3) of India -US DTAA.  
+ 
+3. Without prejudice to the above grounds of appeal, the Ld. AO has 
+erred in computing the tax payable on assessed income at the rate of 15 
+percent, instead of 10 percent (inclusive of surcharge and cess), as per 
+the benefi cial provisions of the Act.  
+ 
+4. That on the facts and circumstances of the case and in law, the Ld. 
+AO has erred in not granting credit of taxes deducted at source (TDS) 
+amounting to INF 1,38,19,694, duly claimed by the Appellant in the 
+return of income an d als appearing in the Form 26AS.  
+ 
+5. That on the facts and circumstances of the case and in law, the Ld. 
+AO has erred i n levying interest of INR 5,36,61,125 under section 234B 
+of the Act. ”  
+ 
+ 
+4. Ground no.1, raised in assessee‟s appeal being general in natur e, 
+hence, no separate adjudication is required.  
+ 
+5. The issue arising in ground no.2, raised in assessee‟s appeal , is with 
+regard to taxability of subscription charges received by the assessee as 
+“Royalty”  under the provisions of  Article –12(3) of Ind ia–USA Do uble Taxation 
+Avoidance Agreement ( „DTAA ’) and under section 9(1)(vi) of the Act.  
+ 
+6. The brief facts of the case pertaining to the issue, as emanating from 
+the record, are: The assessee is a Corporation based in USA, established toAmerican Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 4  promote and support development of knowledge in the field of chemistry  and 
+is organised into various divisions including Chemical Abstracts Service and 
+Publications division. For the year under consideration, the assessee filed its 
+return of income on 14/0 9/2018, declaring total income of Rs. Nil. During the 
+year, the assessee claimed that the aforesaid two divisions are engaged in 
+the following activities.  
+  
+“Re: CAS  
+ 
+CAS collects and organizes publicly disclosed chemistry and related scientific 
+information  in databases and offers its customers online access to such 
+database (via research tools viz. STN and SciFinder) to view the databases 
+and obtain standardized reports/ research articles therein, in consideration for 
+an annual fee/subscription charge.  
+ 
+The information/content is maintained and stored on data server(s) located in 
+the US . 
+ 
+Re: PUBS  
+ 
+PUBS division reviews and publishes research work submitted by scientists 
+worldwide, organizes the same into research journals/ e -books etc and online 
+access to t he same is granted, in consideration for an annual fee/ subscription 
+charges through a secure network as prescribed in the agreements. The 
+information content is maintained on data server(s) located outside India. ” 
+ 
+7. During the year, the assessee received following payment for providing 
+products / services from outside India to Indian customers : 
+  
+1. Fee for providing access (by 
+subscription) toonline chemistry 
+databases (CAS division)  Rs.46,90,60,533  
+2. Subscription revenue from sale 
+of online journals (PUBS division)  Rs.26,91,23,375  
+3. Subscription revenue from 
+membership of M&SA division  Rs.49,22,425  
+4. Advertising revenues  Rs.7,93,498American Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 5  8. It was contended  by the assessee that none of these receipts qualify as 
+royalty or fee for included services under the India –USA DTAA. During the 
+course of assessment proceedings, it was found that the return of income of 
+the assessee for the assessment year s 2014–15 to 2 017–18 were also 
+scrutinized and in these years, the Assessing Officer has treated all the above 
+revenues of the assessee except membership revenue and advertisement 
+revenue as its income from Royalty taxable under the provisions of India USA 
+DTAA. Further , during the course of assessment, the assessee submitted that 
+its business model has remained same and streams of revenue are also same 
+in comparison to previous year s and that no other income was earned by the 
+assessee from India. The Assessing Officer, vide draft assessment order 
+dated 30/06/2021, after noting that similar issue has been decided in favour 
+of the assessee in all the aforesaid assessment years by the Co –ordinate 
+Bench of the Tribunal , followed the approach adopted in earlier years and 
+taxed subscription revenue earned by the assessee as “Royalty”  income on 
+the basis that the Department has gone in further appeal before the Hon‟ble 
+High Court in earlier a ssessment years.  
+ 
+9. Being aggrieved, the assessee filed detailed objections before the 
+Dispute Resolution Panel ( „DRP’), Vide Directions dated 09/03/2022, issued 
+under section 144C(5) of the Act, the DRP, following its observations 
+rendered in assessee‟s own  case for the assessment year s 2014–15 to 2016 –
+17, rejected the objections filed by the assessee. In conformity, the Assessing 
+Officer passed impugned final assessment order dated 20/04/2022. Being 
+aggrieved, the assessee is in appeal before us.American Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 6   
+10. During th e course of hearing, the learned Authorised Representative 
+(“learned A.R.” ) submitted that this issue has been decided in favour of the 
+assessee by the decision of the Co –ordinate Bench of the Tribunal in 
+assessee‟s own case for preceding assessment year s. The learned A.R. 
+further submitted that even lower authorities have accepted that facts for the 
+year under consideration are similar to the facts of the preceding assessment 
+years, wherein this issue has been decided in favour of the assessee.  
+ 
+11. On the oth er hand, the learned Departmental Representative ( “learned 
+D.R.”) vehemently relied upon the order of the authorities below.  
+ 
+12. We have considered the rival submissions and perused the material 
+available on record. We find that the Co –ordinate Bench of the T ribunal in 
+assessee‟s own case in American Chemical Society v/s DCIT, ITA no.6811/ 
+Mum./2017, for the assessment year 2014 –15, vide order dated 26/10/2011, 
+held that subscription revenue received by the assessee in Chemical Extract 
+Service and Publication division does not qualify as “Royalty”  in terms of 
+section 9(1)(vi) of the Act as well as Article –12(3) of the India –USA DTAA. 
+The relevant findings of the Co –ordinate Bench of the Tribunal are as under: – 
+  
+“7. We have carefully considered the rival submissions, perused the relevant material, 
+including the orders of the lower authorities as well as the case laws referred at the 
+time of hearing. Notably, the controversy before us primarily revolves around the 
+characterization of the income earned by th e assessee from the Indian subscribers. 
+The income -tax authorities have invoked section 9(1)(vi) of the Act and/or Article 
+12(3) of the India -USA Treaty in order to say that the receipts are in the nature of 
+royalty, and therefore the same is taxable in In dia. On the contrary, as per the 
+assessee, the impugned receipts are in the nature of business profits, and in the 
+absence of any PE in India, the same are not taxable in India. In the earlier part of 
+this order, we have noted in sufficient detail, the man ner in which the assessee earns 
+the CAS fee from Indian subscribers, and the same is not being repeated for the sakeAmerican Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 7  of brevity. "Factually speaking, it is evident that the assessee merely accumulates and 
+organizes information already available in public d omain / publicly disclosed 
+information, and organizes the same at one place, thereby creating a database which 
+is accessed by its customers against payment of subscription fee termed as CAS fee. 
+Thus, prima facie, there is no copyright or intellectual prop erty lying with the assessee 
+itself in relation to such information or the contents of the database. Thus, there 
+cannot be a case that the assessee company has transacted in the copyrights or 
+intellectual property rights of the contents of the database of information which is 
+merely collated and collected by it. It is abundantly clear from a perusal of some of 
+the sample agreements with customers (placed in the Paper book at pages 15 to 42) 
+that what the customers get is only the right to search, view and d isplay information 
+(whether online or by taking a print) and reproducing or exploiting the same in any 
+manner; and its use for purposes other than personal use is strictly prohibited. 
+Further, in para 7.12 of the assessment order, the Assessing Officer has  stated that 
+the assessee has a wealth of industrial, commercial and scientific experience 
+collected, developed and systemized over a period of time. Further, in para 7.13 of 
+the assessment order, the Assessing Officer has also referred to paragraph 11 of 
+OECD commentary on Article 12 to hold that the payment in question is to be 
+understood as 'royalty. As per the  Assessing Officer, the technical, commercial or 
+scientific information provided by the assessee to the Indian customers through 
+SciFinder arises from its previous experience which gives economic benefit to the 
+customers. The Assessing Officer also points out that ACS Network and SciFinder 
+serve as a platform as well as a tool/gateway for access to such information. All these 
+have been referred by t he Assessing Officer to arrive at an inference that the CAS fee 
+is in the nature of 'royalty'; and, for that purpose, the Assessing Officer has referred 
+to para 11 of the OECD commentary on Article 12. In fact, the OECD commentary 
+which has been referred t o by the Assessing Officer itself provides an answer and 
+belies the stand taken by the Assessing Officer. The OECD commentary referred in 
+para 7.13 of the assessment order brings out that the payments which are to be 
+understood as 'royalty' in the context of information concerning industrial, commercial 
+or scientific experience ought to be in relation to information which is undivulged 
+and/or arises from previous experience. In other words, in order to be understood as 
+'royalty', the payment must be for inf ormation which is exclusively possessed or 
+secret under the ownership of the grantor of such information. In our considered 
+opinion, the fact -situation in the instant case does not comply with the aforesaid 
+requirement so as to be treated as a payment for 'royalty'.  
+ 
+8. As discussed earlier, in the instant case, the assessee merely identifies, 
+aggregates, and organizes publicly disclosed chemistry related scientific information or 
+publishes research work submitted by scientists worldwide. Thus, this information is 
+clearly not undivulged; rather, it is an Information which is available in public domain, 
+as is also evident from the factual position noted by the Assessing Officer himself in 
+the assessment order. Further, chemistry and related scientific i nformation 
+accumulated by the assessee in the form of a database is the experience of various 
+scientists, researchers and various other persons and not that of the assessee. Thus, 
+what the assessee collates is experience of others and provides access there to. The 
+database does not provide any information arising from assessee's own previous 
+experience or knowledge of the subject. The assessee's experience lies in the creation 
+and maintaining the database, which cannot be labelled as industrial or commercial  or 
+scientific in any way in the context of the receipts in question. In fact, it is nobody's 
+plea that such experience is shared by the assessee with the Indian customers. The 
+Indian customers do not make payments for availing the knowledge of assessee's 
+experience of creating/maintaining database; what they pay for is access to 
+information that such database encompasses. By granting access to the information 
+forming part of the database, the assessee neither shares its own experience, 
+technique or methodo logy employed in evolving databases with the users, nor imparts 
+any information relating to them.American Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 8   
+9. In this context, the learned Counsel pointed out that similar situation has been 
+considered by the AAR ruling in the case of Dun and Bradstreet Espana S.A .(supra), 
+which has been upheld by the Hon'ble Bombay High Court in the case of DIT vs. Dun 
+and Bradstreet information Services Indio (P) Ltd. (supra). In this case, the applicant, 
+a non -resident company of Spain was engaged in the business of compilation and 
+selling Business Information Reports (BIR) in their local markets and to other 
+associate companies worldwide. On the issue of whether the payment made for the 
+purchase of BIRS would be in the nature of Royalty, the AAR opined that the applicant 
+has rig htly equated the transaction of sale of Business Information Reports  in 
+electronic form to a sale of book, which does not involve any transfer of intellectual 
+property and held that the payment to non -resident company for downloading BIRS is 
+not in the nat ure of Royalty or fee for technical services. The AAR held that the 
+purchase of standardized reports publicly available on the internet upon payment of 
+subscription charges is akin to payment for a copyrighted article and accordingly does 
+not constitute Ro yalty. Relevant extract of the AAR ruling is as follows:  
+ 
+"1. This application......  
+DB US is the leading seller of BIRS enabling business -to-business commerce for about 
+160 years. The operating subsidiaries and associates of D& B US in each country are 
+engaged in compilation and selling BIRS in their local markets and to other associate 
+companies worldwide as their core business. Each associate company of D&B compiles 
+the information in respect of companies functioning in its cou ntry in the standardized D&B 
+format which is electronically uploaded on the server of the associates companies and is 
+copied (mirrored) on the Central data base server situated in US. DBIS is also engaged in 
+a similar business of compilation and selling BI Rs in respect of business entities, either 
+they are incorporated in their respective countries or doing business in their country. The 
+US server farm is owned and operated by D&B US and it contains mirror servers of all the 
+D&B associate companies. The mod us operandi of the business of DBIS is that whenever 
+an Indian customer places an order for a BIR in respect of a company situated in Spain, 
+DBIS would access the master server of D&B US. Thereupon, the master server would 
+identify DBIS and would allow acc ess to connect to the mirror server of the applicant 
+which is situated in US server farm. It was then DBIS would request the applicant for a 
+BIR of the company for which the Indian customer has placed an order. On locating the 
+required BIR, DBIS would down load, print and deliver a copy thereof to the customer. 
+DBIS is under an obligation not to take additional copies or reproduce the BIR in any 
+manner or sell it to any customer other  than Indian customer on whose requisition the 
+BIR is ordered because the B IR is copyright protected with the copy right vested in the 
+applicant who prepares the BIR. There is further obligation on the Indian customer to use 
+the BIR for its own purpose, the copyright in the BIR would neither be licensed nor 
+assigned to either the  DBIS or the Indian customer  ………….  
+ 
+7. It will be  ………….  
+The instant case it is not a case of paying consideration for the use of or right to use any 
+copyright of literary, artistic or scientific work or any patent trade mark or for information 
+of commercia l experience. The Commissioner sought to bring the payments under 
+royalty/fees for technical service for the reason that the BIRS are copyright protected and 
+end-users are required to use for their own purpose and the analysis of raw data provided 
+in the B IRS would be similar to that of providing a technical or consultancy services. We 
+have already mentioned above that a BIR is a standardized product of D&B, it provides 
+factual information on the existence, operation, financial condition, management and 
+experience line of business, facility and location of a company; it also provides special 
+events like any suit, lien, judgment or previous or pending bankruptcy. Further, banking 
+relationship and accountants, information like whether it is a patent company or  authority 
+concerned, has any branches etc. It also gives a rating of the company. The informations 
+that are provided in a BIR are said to be publicly available; they are collected and 
+complied by D&B associates. A BIR is accessible by any subscriber on pa yment of requisite 
+price with regular internet access for which no particular software or hardware is 
+required . The applicant states that access to data base of the applicant is available to 
+public at large at a price as in case of buying a book and it is not a pre -requisite, that BIR 
+must be downloaded by DBIS only and in fact some clients, such as Expert credit 
+guarantee corporation, in fact, access the server themselves to download BIR. The 
+applicant does not have any server in India for the use of DBIS.  Indeed the applicant hasAmerican Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 9  specifically averred that the copyright in the BIR would neither be licensed nor assigned 
+to either  the DBIS or the Indian customer. From these aspects it is clear that the 
+aforementioned ruling of the Authority is distinguishable  on facts. If a group of companies 
+collects information about the historical places and places of interest for tourists in each 
+country and all informations are maintained on a central computer which is accessible to 
+each constituent of the Group in each c ountry, can a supply of such information 
+electronically on payment of price be treated as royalty or fee for technical services? We 
+think not . 
+(underlined for emphasis by us)  
+ 
+10. In this context, we also think it apposite to refer to the judgment rendered  by the 
+Hon'ble Madhya Pradesh High Court in the case of CIT vs. HEG Limited [2003] 263 
+ITR 230 (MP). In the aforesaid case, the assessee paid certain amount to a firm of 
+USA for purchase of some information. The Assessing Officer held that the said 
+transa ction involved imparting of information concerning technical, industrial, 
+commercial or scientific knowledge, experience or skill, and, therefore, the payment 
+was royalty for purchase of data of confidential nature and the assessee was liable to 
+deduct TDS  thereon. The matter travelled to the High Court and it held that purchase 
+of any and every type of commercial information cannot earn the status of royalty. To 
+have the status of royalty, the information transacted should have some special 
+features, which  is hitherto not available in public domain. The relevant extract of the 
+said ruling is as follows:  
+ 
+"20...... That apart we have already indicated that every information would not have in 
+the status of royalty. There are various kinds of categories of inf ormation. Solely because 
+an entry of the commercial nature would not make it a royalty. That cannot be exclusive 
+base or foundation. Some sort of expertise or skill is required. The aforesaid  factor would 
+be the requite one. We are not inclined to accept t he bio of M. Arye that every 
+information if it concerns the Industres commercial venture would be a royalty. That 
+would tamount to state the low quite broadly That does not seem to be the purpose of 
+the statute or that of the treaty."  
+(Emphasis supplied ) 
+ 
+11. With respect to the subscription fee for the CAS division being considered as 
+Royalty for "use" of or "right to use" of a copyright, a reference to Copyright Act, 1957 
+is also relevant. A person can be said to have acquired a copyright or the right to use 
+the copyright in a computer software or database (as described by the Assessing 
+Officer), where he is authorized to do all or any of the acts as per the definition of the 
+term "copyright" under Section 14 of the Copyright Act, 1957. However, mere acces s 
+to that work or permission to use the work cannot imply that the payer is paying for 
+use or right to use the copyright. In other words, when no copyright is acquired by 
+the payer, question of using it or getting a right to use it does not arise . 
+ 
+12. In the present context, we may also examine the issue from another angle as 
+follows. The transfer of a copyrighted right means that the recipient has a right to 
+commercially exploit the database/software, eg. reproduce, duplicate or sub -license 
+the same; such  payments may be classified as royalty, but factually speaking in the 
+present no such rights in database or search tools (SciFinder or STN) are acquired by 
+the customers, as is evident from the terms of the sample agreement of CAS 
+customers in our consider ed view, transfer of any right in a copyrighted article is  
+analogous to the rights acquired by the purchaser of a book. In the case of a book, 
+the publisher of the book grants the purchaser certain rights with respect to the use of 
+the content of the book,  which is copyrighted, but the purchaser of the book does not 
+acquire the right to exploit the underlying copyright. When the purchaser reads the 
+book, he only enjoys its contents. Similarly, the user of the copyrighted software does 
+not receive the right to exploit the copyright in the software; he only enjoys the 
+product/benefits of the product in the normal course of his business. Similarly, in the 
+instant case, customers of the assessee only enjoy the benefits of using SciFinder and 
+STN and do not acqui re the right to exploit any copyright in these software. TheAmerican Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 10  difference between a copyright and a copyrighted article in context of software has 
+been brought out very clearly by the Hon'ble Supreme Court of India in the case of 
+Tata Consultancy Services vs . State of Andhra Pradesh (supra).  
+ 
+13. In view of the aforesaid discussion, in our considered view, the income earned by 
+the assessee from the Indian Customers with respect to the subscription fees for CAS 
+cannot be taxed as royalty as per section 9(1)(vi ) of the Act as well as Article 12(3) of 
+the India -USA DTAA. Thus, assessee succeeds on this issue.  
+ 
+14. We shall now advert to another issue, which pertains to whether income earned 
+by the assessee from the Indian Customers with respect to the subscriptio n fees for 
+PUBS division be taxed as royalty in terms of section 9(1)(vi) of the Act as well as 
+Article 12(3) of the India -USA DTAA . 
+ 
+15. Before us, the Ld. Senior Counsel pointed out that the characteristics of the PUBS 
+divisions is similar to CAS division, which has been dealt at length by us in the 
+foregoing paragraphs. The Learned Senior Counsel submitted that the PUBS division 
+of the assessee reviews and publishes research work submitted by scientists 
+worldwide, organizes the same into research journals/ e -books and engages in 
+subscription sales of internet and print copies of such research journals. The assessee 
+grants online/ web based access to e -journals, e -books, chapters, articles, 
+proceedings, etc., stored on the server, in consideration f or an annual fee 
+/subscription charges. Such e -journals/ e -books can be searched by a subscriber by 
+using relevant keywords on PUBS website after logging in by using their log -in 
+credentials. Customers are merely granted access to search and view the e jou rnals 
+and obtain standardized reports/research articles available therein with no right to use 
+the copyright in the e -journals/ articles. The agreements (as filed in the Paper book at 
+page 43 to 71) entered by the assessee with the customers provide that c opyright in 
+the e-books, e -journals etc., remain with the assessee and the customers do not have 
+any right of ownership on the same. The access to e -journals etc. is given only for 
+limited users and the same is restricted to specified authorized sites /use rs per 
+customer through the IP address of customers. The web access journals can only be 
+accessed by the customers/authorized users through a secure network as prescribed 
+in the agreements.  
+ 
+16. On the other hand, the Ld. Departmental Representative for th e Revenue has 
+merely reiterated the stand of the lower authorities on the PUBS division similar to 
+stand with respect to taxability of the CAS fee.  
+ 
+17. We have heard the rival submissions and perused the relevant material on record 
+including the order of the lower authorities on the issue in dispute. We find that issue 
+with respect to the PUBS division coincides with the issues on the CAS fee. The journal 
+provided by the PUBS division do not provide any information arising from assessee's 
+previous experien ce. The assessee's experience lies in the creation of maintaining 
+such information online. By granting access to the journals, the assessee neither 
+shares its experiences, techniques or methodology employed in evolving databases 
+with the users, nor imparts  any information relating to them. As is clearly evident 
+from the sample agreements, all that the customers get is the right to search, view 
+and display the articles (whether online or by taking a print) and reproducing or 
+exploiting the same in any manner  other than for personal use is strictly prohibited. 
+Further, the customers do not get any rights to the journal or articles therein. They 
+can only view the article in the journal that they have subscribed to and cannot 
+amend or replicate or reproduce the journal. Thus, the customers are only able to 
+access journal/articles for personal use of the information. No 'use or right to use' in 
+any copyright or any other intellectual property of any kind is provided by the 
+assessee to its customers. Furthermore, t he information resides on servers outside 
+India, to which the customers have no right or access, nor do they possess control orAmerican Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 11  dominion over the servers in any way. Therefore, the question of such payments 
+qualifying as consideration for use or right to u se any equipment, whether industrial, 
+commercial or scientific, does not arise.  
+ 
+18. To put a comparison, if someone purchases a book, then the consideration paid is 
+not for the use of the copyright in the book/article. The purchaser of a book does not 
+acquire the right to make multiple copies for re -sale or to make derivative works of 
+the book, i.e., the purchaser of a book does not obtain the copyright in the book. 
+Similarly, the purchaser of the assessee's journals, articles or database access does 
+not h ave the right to make copies for re -sale and does not have the right to make 
+derivative works. In short, the purchaser has not acquired the copyright of the article 
+or of the database. What the buyer gets is a copyrighted product, and accordingly the 
+consideration paid is not royalty, but for purchase of a product. In the instant case 
+too, what is acquired by the customer is a copyrighted article, copyrights of which 
+continue to lie with assessee for all purposes. It is a well settled law that copyrighted 
+article is different from a copyright, and that consideration for the former, i.e. a 
+copyrighted article does not qualify as royalties.  
+ 
+19. Thus, the principles noted by us in the earlier part of this order in the context of 
+the income earned by way of CAS  fee are squarely applicable to the subscription 
+revenue received from customers of PUBS division for sale of journal also, and 
+accordingly PUBS fee also does not qualify as 'Royalty' in terms of section 9(1)(vi) of 
+the Act as well as Article 12(3) of the India-USA DTAA. ” 
+ 
+ 
+13. We further find that the Co –ordinate Bench of the Tribunal in assessee‟s 
+own case in American Chemical Society v/s DCIT, ITA no.5928/Mum./2018, 
+for the assessment year 2015 –16, vide order dated 21/08/2019, rendered 
+similar finding s following the aforesaid decision in the immediately preceding 
+assessment year. Similar ly was held in assessment year 2016 –17 and 2017 –
+18 by the Co –ordinate Bench of the Tribunal in assessee‟s own case in ITA 
+no. 6952/Mum./2019 and ITA no.1030/Mum./2021, vide or der dated 
+13/12/2019 and 26/10/2021, respectively.  
+ 
+14. The learned Departmental Representative ( “learned D.R. ”) could not 
+show us any reason to deviate from the aforesaid decisions rendered in 
+assessee‟s own case and no change in facts and law was alleged in the 
+relevant assessment year. The issue arising in the present appeal is recurring 
+in nature and has been dec ided by the Co –ordinate Bench of the Tribunal inAmerican Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 12  preceding assessment years. Thus, respectfully following the orders passed 
+by the Co –ordinate Bench of the Tribunal  in assessee‟s own case cited supra, 
+we uphold the plea of the assessee and delete the impug ned addition in 
+respect of subscription fee received by the assessee under Chemical Abstract 
+Service and Publications division. As a result, ground no.2, raised by the 
+assessee is allowed.  
+ 
+15. Ground no.3, relates to alternate plea that the Assessing Officer has 
+erred in determining the tax payable on assessed income at 15%  instead of 
+10%. Since we have allowed ground no.2, of the appeal holding that the 
+income of the assessee is not liable to be taxed in India, therefore, this 
+ground of appeal is rendered aca demic.   
+ 
+16. Ground  no.4, raised in assessee‟s appeal is pertaining to non –grant of 
+credit of TDS.  This issue is restore d to the file of the Assessing Officer with 
+direction to grant TDS credit, in accordance with law , after conducting 
+necessary verification.  As a result, ground no.4 raised in assessee‟s appeal is 
+allowed for statis tical purpose.  
+ 
+17. Insofar as ground no .5, raised in assessee‟s appeal is concerned, the 
+same relates to charging of interest under section 234B of the Act, which is 
+consequential in nature . Therefore,  ground no.5 is allowed for statistical 
+purpose.  
+ 
+18. In the result,  appeal by the assessee is allowed for statistical purpose .American Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 13  ITA no.1520/Mum./2022  
+Assessment Year : 2019 –20 
+ 
+19. In its appeal, the assessee has raised following grounds: – 
+ 
+“Appeal under section 253(1)(d) of the Income -tax Act, 1961 (hereinafter 
+referred to as the "Act"), against the order dated 20 April 2022 (received on 
+21 April 2022), passed by the Deputy Commissioner of Income Tax, 
+International Taxation Circle 1(1)(1), Mu mbai CLd. AO") under section 143(3) 
+read with section 144C(13) of the Act.  
+ 
+1.  That on the facts and circumstances of the case and in law, the Ld. AO has 
+erred in  assessing the total income of the Appellant under section 143(3) read 
+with section  144C(13) of the Act at INR 2,72,29,58,740 as against Nil 
+returned income.  
+ 
+2. That on the facts and circumstances of the case and in law, the Ld. AO / 
+Dispute Resolution Panel ("DRP") have erred in holding that the receipts from 
+Indian customers amounting to INR 2, 72,29,58,740 are chargeable to tax as 
+royalty in terms of Article 12(3) of India -US Double Tax Avoidance Agreement 
+("DTAA") and under section 9(1)(vi) of the Act.  
+ 
+2.1 That on the facts and in the circumstances of the case and in law, the Ld. 
+AO/ DRP have erred in holding that the subscription charges received under 
+Chemical Abstract Service (CAS) division and Publications (PUBS) division 
+would be chargeable to tax in India under India -US DTAA being received for 
+use or right to use of copyright in artistic,  literary or scientific work and / or 
+for use of information concerning industrial, commercial or scientific 
+experience and / or for use of industrial, commercial or scientific equipment.  
+ 
+2.2 That on the facts and circumstances of the case and in law, the  Ld. AO/ 
+DRP have erred in holding that the subscription charges received under CAS 
+and PUBS divisions would be chargeable to tax in India under India -US DTAA 
+being received for use of ACS databases / software.  
+ 
+2.3 That on the facts and circumstances of t he case and in law, the Ld. 
+AO/DRP have erred in completing ignoring the decision of the Hon'ble 
+Supreme Court in the case of Engineering Analysis Centre of Excellence 
+Private Limited (Civil Appeal No. 8733 -8734 of 2018) while holding that the 
+receipts of the Appellant be treated as being received for the use or right to 
+use copyright in a literary or scientific work within the meaning of royalty as 
+per section 9(1)(vi) of the Act as well as Article 12(3) of India -US DTAA.  
+ 
+2.4 That on the facts and circums tances of the case and in law, the Ld. 
+AO/DRP have erred in not following the decision passed by the Hon'ble 
+Mumbai Bench of the Income -tax Appellate Tribunal ("ITAT") in Appellant's 
+own case for immediately preceding assessment years i.e. AY 2014 -15 to 
+2017-18, wherein on similar facts and circumstances, the Hon'ble ITAT held 
+that the revenue from CAS and PUBS division cannot be taxed as royalty 
+under section 9(1)(vi) of the Act as well as Article 12(3) of India -US DTAA.American Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 14  3.  That on the facts and circumstances of the case and in law, the Ld. AO has 
+erred in  levying interest of INR 10,17,03,380  under section 2348 of the Act. ” 
+ 
+20. Ground no.1, raised in assessee‟s appeal being general in nature, 
+hence, no separate adjudication is required.  
+ 
+21. The issue arising in ground no.2, raised in assessee‟s appeal , is with 
+regard to taxability of subscription charges received by the assessee as 
+“Royalty”  under the provisions of  Article –12(3) of India –USA DTAA and under 
+section 9(1)(vi) of the Act . As similar issue has been decided in assessee‟s 
+appeal for assessment year 201 8-19, the decision rendered therein will apply 
+mutatis mutandis  to this year also . As a result, ground no.2, raised by the 
+assessee is allowed.  
+ 
+22. Insofar as ground no.3, raised in assessee‟s appeal is concerned, the 
+same relates to charging of interest under section 234B of the Act, which is 
+consequential in nature. Therefore, ground no. 3 is allowed for statistical 
+purpose.  
+ 
+23. In the result, appeal by the assessee is allowed for statistical purp ose. 
+ 
+24. To sum up, both the appeals by the assessee are allowed for statistical 
+purposes.  
+Order pronounced in the open Court on 29/09/2022 
+ 
+Sd/- 
+PRASHANT MAHARISHI  
+ACCOUNTANT MEMBER   
+ 
+ 
+   Sd/- 
+SANDEEP SINGH KARHAIL  
+JUDICIAL MEMBER  
+MUMBAI,   DATED:   29/09/2022American Chemical Society  
+ITA No s. 1521/Mum./2022  and  
+1520/Mum./2022  
+Page | 15  Copy of the order forwarded to : 
+ 
+(1) The Assessee;  
+(2) The Revenue;  
+(3) The CIT(A);  
+(4) The CIT, Mumbai City concerned;  
+(5) The DR, ITAT, Mumbai;  
+(6) Guard file . 
+                          True Copy  
+                   By Order  
+Pradeep J. Chowdhury  
+Sr. Private Secretary  
+ 
+               Assistant Registrar  
+           ITAT, Mumbai

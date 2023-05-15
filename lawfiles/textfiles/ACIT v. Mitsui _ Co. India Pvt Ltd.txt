@@ -1,0 +1,360 @@
+IN THE INCOME TAX APPELLATE TRIBUNAL 
+ DELHI BENCH, ‘D’: NEW DELHI 
+ 
+BEFORE SHRI SHAMIM YAHYA, ACCOUNTANT MEMBER AND 
+SHRI ANUBHAV SHARMA, JUDICIAL MEMBER 
+ 
+ITA No.8569/DEL/2019 
+[Assessment Year: 2009-10] 
+ 
+ACIT, 
+Circle-17(1), 
+Room No.185, C.R. Building, 
+I.P. Estate,  
+New Delhi-110002  
+ 
+Vs M/s Mitsui & Co. India Pvt. Ltd. 
+Plot No.D-1, 4 th  Floor,  
+Salcon Ras Vilas,  
+Distt. Centre, Saket,  
+New Delhi-110017 
+  PAN-AADCM4488J  
+Revenue   Assessee 
+ 
+Revenue  by Sh. Sanjay Kumar Bharati, CIT-DR 
+Assessee by Sh. Ved Jain, Adv. &  
+Supriya Mehta, CA 
+  
+Date of Hearing  23.02.2023  
+Date of Pronouncement     02.03.2023  
+ORDER  
+PER SHAMIM YAHYA, AM,  
+This appeal by the Revenue is directed against the order of the Ld. 
+CIT(A)-37, New Delhi, dated 25.07.2019 and pertains  to Assessment Year 
+2009-10. 
+2. The grounds of appeal reads as under:- 
+1. Whether on fact and in circumstances of the case  Ld. 
+CIT(A) is legally justified in deleting the disallo wance of Rs. 
+16,94,51,775/- on account of non-deduction of TDS, u/ s 40(a) (i) 
+of the Income Tax Act 1961 (the Act) by ignoring fi nding of facts 
+recorded by the Assessing Officer (the AO) that the  AO of Mitsui 
+Japan attributed 50% of the gross profit i.e. Rs. 28,5 6,46,263/- 
+(50% of Rs. 57,12,92,527 /-) as income attributable to In dia PE. 
+2. Whether on facts and in circumstances of the cas e, the Ld. 
+CIT(A) is legally justified in deleting the disallo wance of Rs. 
+16,94,51,775/- on account of non-deduction of TDS, u/ s 40(a) (i) 
+of the Income Tax Act 1961 (the Act) by ignoring fi ndings of the 
+fact recorded by the AO that Mitsui Japan being a n on-resident, 
+tax is payable by it in India on income attributabl e to India PE. 
+Mitsui India should have deducted an amount of Rs.2  
+    
+11,42,58,505/- (40% of Rs. 28,56,46,263/-) as final tax  
+payment of non-resident by way of TDS on its receip ts, out of 
+the payments of Rs. 16,94,51,775/- it made to Mitsui Japan?  
+3. Whether on facts and in circumstances of the cas e, the Ld. 
+CIT(A) is legally justified in deleting the disallo wance of Rs. 
+16,94,51,775/- on account of non-deduction of TDS, u/ s 40(a) (i) 
+of the Act by ignoring the fact that Mitsui India i s a Dependent 
+Agent PE of Mitsui Japan, the same was also held by the AO of 
+Mitsui Japan in the his order dated 22.02.2012. This fact has 
+also been confirmed by the CIT(A) in his order date d 29.05.2015 
+wherein it is stated that "Respectfully following t he order of my 
+predecessor CIT(A) for immediate preceding year 2008- 09, I hold 
+that the action of the AO to the extent of holding Mits ui India Pvt. 
+Ltd. as DAPE is upheld? 
+3.  Brief facts of the case are that the assessee c ompany is a subsidiary 
+company of its parent company in Japan namely Mitsu i & Co. Ltd. 
+(Japan). During the year under consideration the pa rent company has 
+made supplies worth Rs.37,33,93,80,834/ - to the In dian customers which 
+included purchases by the appellant company of Rs. 16,94,51,775/-. The 
+AO in the assessment order has observed that the as sessee company is a 
+dependent agent PE of its parent company in Japan b ased on the 
+assessment completed in the case of parent company vide order u/s.143(3) 
+dated 22.02.2012 for the year under consideration i .e. AY. 2009-10. Based 
+on the derivation that the assessee company is depe ndent PE agent of the 
+parent company, the AO observed that profit element  in the purchases 
+made by the appellant company from the parent compa ny is directly 
+attributable to the PE and the profit element in th e purchases made by the 
+other Indian customers is indirectly' attributable to the Indian PE of the 
+Mitsui Japan i.e. assessee company. Accordingly, th e AO based on the 
+observations of the AO of the Mitsui Japan that 50%  of its gross profit is 
+attributable to the Indian operations, has drawn a conclusion that 50% of 
+the gross profit of the Mitsui Japan i.e. Rs.28,56, 46,263/- is the income3  
+    
+attributable to Indian PE i.e. assessee company. Fu rther on said basis the 
+AO concluded that the income of Mitsui Japan is att ributable to Indian PE 
+(assessee company) and there are payment of Rs.16,9 4,51,775/-. 
+4. Upon assessee’s appeal, the Ld. CIT(A) noted tha t the assessee has 
+claimed that the disallowance made by the Assessing  Officer is based on 
+the assessment completed in the case of Mitusi & Co . Ltd. Japan for the 
+year under consideration i.e. AY 2009-10 wherein th e Assessing Officer of 
+the said company has relied upon the finding of the  Assessing Officer of 
+that company in the AY 2005-06, wherein it was obse rved that the 
+assessee company i.e. Mitusi India is the dependent  agent PE of the Mitusi 
+& Co. Ltd. Japan. It was further stated before the Ld. CIT(A) that the said 
+issue has now been adjudicated in favour of Mitusi & Co. Ltd. Japan 
+holding that Mitusi India (assessee company) is not  the dependent agent 
+PE of Mitusi & Co. Ltd. Japan. The Ld. CIT(A) quote d the relevant finding  
+of ITAT in the case of Mitusi & Co. Japan for Asses sment Year 2005-06 as 
+under:- 
+"4. The Second ground is regarding finding of the le arned CIT 
+(Appeals) holding that no income is liable to be at tributed in India 
+even if MIPL is considered to be Dependent Agent PE  in India. On 
+this issue the learned CIT-DR though stated that th ough in view of 
+the TPO order under Section 92CA (3) holding the tr ansactions 
+between the assessee and the MIPL at arm's length, a ddition may 
+not be sustainable, yet argued that MIPL be consider ed as 
+Dependent Agent PE In India in terms of Article 5(7 ) of DTAA 
+between India and Japan. It was contended by the lea rned CIT-DR 
+on the basis of the allegation levied by the Assess ing Officer in the 
+assessment order that MIPL habitually secures order  for the 
+assessee in India and MIL is economically dependent  on the 
+assessee as major revenue of MIPL is from the asses see company. 
+Accordingly, it has to be examined whether MIPL can be considered 
+to be a Dependent Agent of the assessee company. In this regard it 
+may be relevant to refer to Article 5(7) of DTAA be tween India and 
+Japan, which reads as under :-4  
+    
+Notwithstanding the provisions of paragraphs 1 and 2)  where a 
+person--other than an agent of an independent statu s to whom 
+paragraph 8 applies--is acting in a Contracting Sta te on behalf of an 
+enterprise of the other Contracting State; that ent erprise shall be 
+deemed to have a permanent establishment in the fir st-mentioned 
+Contracting State) if 
+(a) he has and habitually exercises in that Contrac ting State an 
+authority to conclude contracts on behalf of the en terprise} unless 
+his activities are limited to those mentioned in pa ragraph 6 which; if 
+exercised through a fixed place of business} would not make this 
+fixed place of business a permanent establishment u nder the 
+provisions of that paragraph; 
+(b) he has no such authority, but habitually mainta ins in the first 
+mentioned Contracting State a stock of goods or mer chandise from 
+which he regularly delivers goods or merchandise on  behalf of the 
+enterprise; or 
+(c) he habitually secures orders in the first-menti oned Contracting 
+State, wholly or almost wholly for the enterprise it self or for the 
+enterprise and other enterprises controlling, contro lled by, or subject 
+to the same common control as that enterprise. 
+8. An enterprise shall not be deemed to have a perman ent 
+establishment in a Contracting State merely because  it carries on 
+business in that Contracting State through a broker , general 
+commission agent or any other agent of an independe nt status, 
+provided that such persons are acting in the ordina ry course of their 
+business. 
+9. The fact that a company which is resident of a Co ntracting State 
+controls or is controlled by a company which is a r esident of the 
+other Contracting State, or which carries on busines s in that other 
+Contracting State whether through a permanent establ ishment or 
+otherwise), shall not of itself constitute either co mpany a permanent 
+establishment of the other. 
+4.1 As per above clause (7) a person other than an i ndependent 
+agent is treated as PE if he fulfills any of the thre e conditions, (a), (b) 
+or (c). It is not the case of the Assessing Officer that MIL habitually 
+exercised authority to conclude contracts. It is als o not the case of 
+the Assessing Officer that MIPL habitually maintain s a stock of 
+goods or merchandise. Thus, the condition of (a) and  (b) are not 
+fulfilled. The third condition in (c) is habitually  securing orders for 
+the assessee. In this regard we note that the Assess ing Officer has 
+made this allegation on the basis that commission h as been paid by 
+the assessee company to the MIPL. On this basis it has been 
+assumed that MIPL is securing orders. This contenti on of the 
+Assessing Officer does not appear to be correct. As  per the 
+agreement which has been quoted by the Assessing Of ficer in the 
+assessment order, MIPL is supposed to put best effort  to collect 
+information with regard to Instant Noodle project e tc. to make the5  
+    
+best effort to find the best candidate, to attend/ta ke care of the 
+visitor from Japan, to make the best effort to anal yze the feasibility 
+report. None of these clauses can be interpreted to m ean that MIPL 
+is securing orders. On the basis of this clause the Assessing Officer 
+was wrong in assuming that MIL is securing orders. The Assessing 
+Officer has not brought any other material to subst antiate his 
+allegation that may demonstrate that MIL has secure d orders for the 
+assessee. It is to be noted that this clause (c) use s the word 
+'habitually secures orders. Thus, there has to be pr ocurement of 
+orders habitually. As against this the assessee's c ontention has 
+been that MIPL is only providing support services an d it is not 
+securing order on behalf of assessee company. It may  be relevant to 
+further mention that the expression 'has' shall mea n a legal 
+existence. Whereas 'habitually secures orders' shall  mean a 
+systematic conduct on the part of the agent. Thus it  is not only a 
+legal right to secure order but also it is to be fo und, as a matter of 
+fact that agent has habitually secured order. 
+4.2. Further, in this case the TP study of MIPL was subject matter of 
+examination by the TPO. The FAR (Function performed, Assets 
+deployed and Risk assumed) analysis has been accept ed by the 
+TPO. These agreement on the basis of which Assessing  Officer has 
+levied the allegation were also before the TPO. Thus, there cannot be 
+any allegation that MIPL has performed any function  beyond what 
+has been stated. Functional and economic analysis o f the 
+transactions entered into having been examined noth ing further can 
+be imputed. The services of MIL to assessee company were support 
+services similar to the activities of a Liaison off ices. This fact gets 
+also supported from the finding recorded by the Ass essing Officer 
+himself in the assessment order on page 26 whereby it has been 
+stated by the Assessing Officer that MIL is functio ning in the same 
+manner as the LOs of the assessee are functioning i n India. It has 
+already been held that Is do not constitutes PE in India. Thus, the 
+functioning of MIL though a subsidiary and a compan y incorporated 
+in India. but its activities vis-a-vis assessee com pany were akin to 
+liaison office. It does not have authority to concl ude contract, it was 
+not maintaining any stocks of goods and merchandise  nor it was 
+securing order for the assessee company. 
+In view of the above facts we reject the contention  of the learned 
+CIT-DR that MIPL habitually secures order for the a ssessee 
+company. And accordingly, none of the condition pres cribed in 
+Article 5(7) are fulfilled. 
+4.3. The second contention of the learned DR was tha t MIL is 
+economically dependent on assessee company as major  revenue of 
+MIPL is from assessee company. We are of the view t hat this per se 
+cannot be ground to hold that MIPL is a Dependent A gent. For 
+invoking this clause, first one of the three condit ions needs to be 
+fulfilled. As we have held hereinabove that MIL does  not get covered 
+Agent. The learned DR also made a reference to Conv entions on 
+Double Taxation by Klaus Vogel to support its conte ntion that where6  
+    
+a person works only for one principle such person is economically 
+dependent on the principal. In these circumstances the agent though 
+not legally but will be bound to obey his principal' s instructions and 
+be regarded as being Dependent Agent. This contentio n of the 
+learned CIT-DR again ignores the basic requirement ie. fulfilling one 
+of the three conditions. It is also important to not e that the DTAA 
+provide for treating a person as Dependent Agent. The  DIA A has to 
+be strictly interpreted. The DTAA having prescribed t he conditions, 
+no further conditions can be read. What learned CIT- DR is 
+canvassing will mean adding new condition in the DT AA. Further, it 
+may be relevant to note that as per Para 9 of this Article 5 in DTAA, 
+it has been specifically provided that if a company in the contracting 
+state is controlled by a company in the other contr acting state that 
+itself shall not itself constitute either of compan y a permanent 
+establishment of the other. Thus, the fact that MIPL  is controlled by 
+the assessee company shall not mean that MIPL is a PE of the 
+assessee company. 
+4.4 Our view gets supported by the judgment of Honor able Delhi 
+High Court in the case of Director of Income Tax An d Others Versus 
+M/S E Funds IT Solutions and Others 364 ITR 256 Delhi 
+4.5 In view of the above, We hold that MIPL is not a  Dependent 
+Agent PE of the assessee.” 
+5. Accordingly, considering the above, the Ld. CIT( A) concluded as 
+under:- 
+“5.2.3 On perusal of submissions of the appellant and  
+observations of the AO in the assessment order, it is noticed that 
+the whole premise of the AO in making disallowance under 
+section 40(a) (i) was the assessment completed in th e case of 
+Mitusi & Co. Ltd (Japan) for the year under consider ation where 
+the AO of the said company has relied upon the obse rvations of 
+the AO in the assessment completed in the case of s aid company 
+for the A.Y. 2005-06. It is further noticed that the  assessment 
+order for the AY. 2005-06 in the case of Mitusi & Co . Ltd (Japan) 
+was challenged by the assessee in ITAT and the appe al before 
+the ITAT now stands disposed off (relevant extract of the order of 
+ITAT quoted above) wherein the observations of the AO that the 
+Mitsui India Pvt. Ltd. (appellant company in the ins tant case) is a 
+Dependent PE agent of Mitusi & Co. Ltd (Japan) have now been 
+decided by the ITAT. The ITAT has already held that  the 
+appellant is not the PE of Mitusi & Co. Ltd (Japan) , hence in view 
+of said findings of the Honorable ITAT there is no question of 
+attribution of any profit of Mitusi & Co. Ltd (Japa n) to the 
+appellant company. Accordingly, there is no question  of 
+deduction of tax on the same. In view of the same, t he 
+disallowance made by the AO under section 40(a)(i) of the Act, is 
+directed to be deleted.”7  
+    
+6. Against the above order, the Revenue is in appea l before us. 
+7. We have heard both the parties and perused the r ecords. The Ld. 
+Counsel for the assessee stated that this issue is squarely covered in 
+favour of the assessee by a series of orders of ITA T and also the matter has 
+travelled to Hon’ble Delhi High Court. The case law s relied upon by the 
+assessee is as under:- 
+i. CIT (International Taxation)-2 vs M/s Mitsui and Co . (ITA 
+No.38/2023)(Del. HC) 
+ii. CIT (International Taxation)-2 vs M/s Mitsui and Co . (ITA 
+No.321/2018)(Del. HC) 
+iii. DCIT vs M/s Mitsui & Company India Pvt. Ltd. (ITA N o.1608 
+& 1672      /Del/2016) 
+iv. M/s Mitsui & Company Ltd. vs ADIT (ITA 
+No.2335/Del/2011) 
+v. DDIT vs Mitsui & Co. Ltd. (ITA Nos.2801, 4329 & 
+4367/Del/2011, ITA No.794 & 795/Del/2012) 
+vi. DCIT (International Taxation) vs M/s Mitsui & Co. ( 5106 & 
+5108/Del/2015 and CO Nos.296 & 297/Del/2016) 
+vii. Mitsui & Co. Ltd. vs DDIT (ITA No.4377/Del/2016) 
+viii. ACIT (International Taxation) vs Mitsui & Co. Ltd. (ITA 
+No.4764/Del/2016 & CO No.363/Del/2016) 
+ix. ACIT (International Taxation) vs Mitsui & Co. Ltd. (ITA 
+No.5901/Del/2016 & CO No.28/Del/2017) 
+8. It may be gainful to refer the order of the Hon’ ble Delhi High Court 
+in ITA No.321/Del/2018 vide order dated 31.01.2023 in this regard as 
+under:- 
+“1. This appeal concerns Assessment Year (AY) 2009-2 010, and 
+is directed against the order dated 04.01.2022 pass ed by the 
+Income Tax Appellate Tribunal [in short “Tribunal”].8  
+    
+2. The appellant/revenue has proposed the following questions 
+of law.  
+“A. Whether on the facts and circumstance of the cas e 
+and in law, the Ld. ITAT erred in holding that the 
+amount received to assessee on account of off-shore  
+supplies in respect of Teesta and Purulia projects a re 
+not taxable under the provisions of Section 44BBB o f 
+the Act?  
+B. Whether on the facts and circumstance of the cas e 
+and in law, the Ld. ITAT erred in holding that the 
+Liaison Office of the assessee did not constitute a  
+Permanent Establishment, liable to tax in India whe n 
+the said office was clearly a fixed place and the 
+activities carried out could not be said to be prep aratory 
+or auxiliary in nature?  
+C. Whether on the facts and circumstance of the cas e 
+and in law, the Ld. ITAT erred in holding that Liais on 
+Office of the assessee does not constitute a PE in India?   
+D. Whether on the facts and circumstance of the case  
+and in law, the Ld. ITAT has erred in holding that no 
+income is liable to be attributed in India as Mitsu i India 
+Pvt. Ltd. (MIPL), the liaison office of the assessee, do not 
+constitute a Dependent Agency Permanent 
+Establishment (DAPE) of the assessee in India?  
+E. Whether on the facts and circumstance of the case  
+and in law, the Ld. ITAT erred in holding that the 
+assessee's income from Teesta and Purulia Projects 
+should be taxed on cash basis instead of Mercantile  
+basis?”  
+3. To be noted, this appeal emerges out of the cross objections 
+raised on behalf of the respondent/assessee. There i s no 
+dispute, that the only issue which arose for conside ration before 
+the Tribunal concerned the following aspect i.e., whet her or not 
+the respondent/assessee had a Dependent Agency Perm anent 
+Establishment (DAPE) in India. Therefore, the questio ns of law, 
+as noticed above, have been proposed in the appeal.  
+4. Clearly, only questions shown as B, C and D arise for 
+consideration in the present appeal.  
+5. Mr Sanjay Kumar, learned senior standing counsel, who 
+appears on behalf of the appellant/revenue, does no t dispute 
+this position. Therefore, Mr Kumar says that he does  not wish to 
+press the proposed questions, shown as A and E in th e instant 
+appeal.9  
+    
+6. Insofar as the remaining questions are concerned i.e., those 
+shown as B, C and D, they are covered, even according to Mr 
+Sanjay Kumar, by the judgment of the coordinate ben ch dated 
+09.11.2022 passed in ITA 321/2018 titled The Commiss ioner of 
+Income Tax-International Tax v. Mitsui & Company Ltd.  
+7. Accordingly, this appeal is closed, as no substan tial 
+questions of law arise for our consideration.” 
+9. Respectfully following the precedent as above, w e do not find any 
+infirmity in the order of the Ld. CIT(A).  Accordin gly, we uphold the same. 
+10. In the result, this appeal by the Revenue stand s dismissed. 
+Order pronounced in the open court on 02 nd  March, 2023. 
+     Sd/-                                    Sd/- 
+       [ANUBHAV SHARMA]                               [SHAMIM YAHYA]  
+        JUDICIAL MEMBER     ACCOUNTANT MEMBER 
+Delhi; Dated: 02.03.2023. 
+f{x~{tÜ f{x~{tÜ f{x~{tÜ f{x~{tÜ? ? ??     
+Copy forwarded to:  
+1. Appellant 
+2. Respondent 
+3. CIT     
+4. CIT(A)   
+5.     DR                                 
+ Asst. Registrar,  
+ITAT, New Delhi

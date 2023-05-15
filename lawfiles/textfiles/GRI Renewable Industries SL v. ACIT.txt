@@ -1,0 +1,548 @@
+IN THE INCOME TAX   APPELLATE TRIBUNAL 
+PUNE BENCH, ‘C’ PUNE  
+ 
+BEFORE SHRI R.S. SYAL, VICE PRESIDENT AND 
+SHRI PARTHA SARATHI CHAUDHURY, JUDICIAL MEMBER 
+ 
+आयकर  अपील  सं. / ITA No.202/PUN/2021 
+नधारण  वष / Assessment Year : 2016-17 
+ 
+GRI Renewable Industries S.L., 
+(Formerly Known as Gonvarri Eolica S.L.,  
+12 th  Floor, Planta 11-12, 
+Calle del Ombu, 
+3, Madrid, Spain 
+PAN : AAFCG4517Q      Vs. ACIT (IT),  
+Circle-1,   
+Pune 
+Appellant  Respondent  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+आदेश   / ORDER  
+ 
+PER R.S. SYAL, VP :  
+ 
+This appeal by the assessee is directed against the final 
+Assessment order dated 26-03-2021 passed by the Assess ing Officer 
+(AO) u/s.143(3) r.w.s. 144C(13) of the Income-tax Act, 1961 
+(hereinafter also called ‘the Act’) in relation to the assessmen t year 
+2016-17.   
+2. The first issue raised in this appeal is against applying th e tax 
+rate as per section 115A of the Act instead of the tax rate  as per the 
+DTAA between India and Spain (hereinafter also called  ‘the 
+DTAA’) read with the Protocol thereof. Assessee by Shri Siddhesh Chaugule  
+Revenue by Shri Shivraj B More 
+  
+Date of hearing 14-02-2022 
+Date of pronouncement  15-02-2022ITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 2
+3. Pithily put, the factual panorama of the case is that the assessee 
+is a foreign company incorporated in Spain.  The return w as filed 
+declaring total income of Rs.2,88,38,464/-, comprising of r eceipt of  
+Rs.2,25,29,742/- from M/s. Shrenik Industries Pvt. Ltd. tow ards 
+providing technical support, financial support and advice, lega l 
+support, commercial support etc., and Rs.63,08,722/- rec eived 
+towards SAP software and implementation of process model.  The 
+assessee declared the above amounts as ‘fees for technic al services’ 
+and ‘royalties’ respectively, claiming them as covered unde r Article 
+13 of the DTAA.  Relying on the Protocol to the DTAA having M ost 
+Favoured Nation (MFN) clause along with Article 12 of the Doub le 
+Taxation Avoidance Agreement between India and Portugal 
+(Portuguese DTAA), the assessee claimed that the above gr oss 
+receipts of ‘royalties’ and ‘fees for technical services’ w ere taxable 
+@10% instead of 20% as provided in the DTAA.  The AO did  not 
+dispute the amount or the nature of income offered by the  assessee.  
+He, however, held that the tax rate of 10% applied by the as sessee 
+under Portuguese DTAA could not be applied because section 90(1) 
+specifically requires the issuance of necessary Notification by  the 
+Government of India.  In order to import an MFN clause from 
+another DTAA having lower rate of tax or narrower scope ofITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 3
+definition of certain clause, it is necessary that such importing  of 
+clause must be notified. In the absence of any notification  of the 
+MFN clause from the Portuguese DTAA, the AO held that the 
+benefit of the relevant Article of the Portuguese DTAA was not 
+available to the assessee in terms of the Protocol and hence,  the ‘fees 
+for technical services’ and ‘royalty’ was chargeable to ta x at 10% 
+plus applicable Surcharge and Education Cess in terms of se ction 
+115A of the Act, which was more beneficial vis-à-vis  20% rate of tax 
+provided in the DTAA.  No succor was provided by the Disp ute 
+Resolution Panel. In the final assessment order, the AO taxed the 
+amount of ‘fees for technical Services’ and ‘royalty’ at 10 % plus 
+applicable Surcharge and Education cess u/s.115A of the Act as 
+against 20% straight rate in the DTAA. Aggrieved thereby, the  
+assessee has come up in appeal before the Tribunal. 
+4.   We have heard the rival submissions and scanned  the relevant 
+material on record.  It is amply borne out from the facts r ecorded 
+above that there is no dispute on the quantum, nature or taxa bility of 
+the amount of ‘fees for technical services’ or ‘royalty’ of the 
+assessee.  The core of controversy is only anent to the r ate of tax to 
+be applied on such income. Section 115A of the Act, dealing  with tax 
+on ‘royalty’ and ‘fees for technical services’ etc. in the case ofITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 4
+foreign companies, provides through clause (b) of sub-se ction (1) 
+that where the total income of a non-resident (not being a com pany) 
+or a foreign company includes income by way of ‘royalty’  or ‘fees 
+for technical services’ etc., the amount of income-tax shall b e 
+calculated @10%.  It goes without saying that such rate of tax  is 
+liable to be loaded with the applicable Surcharge and Education cess.  
+Section 90 of the Act provides that where the Central Govern ment 
+has entered into an Agreement with the Government of any co untry 
+outside India for granting relief in respect of income on whic h tax is 
+payable both in India and the other country, then, in relation to the 
+assessee to whom such Agreement applies, the provisions o f the Act 
+shall apply to the extent they are more beneficial to that assess ee.  To 
+put simply, if the provisions of the concerned DTAA are more 
+beneficial to the assessee vis-a-vis  their counterparts under the Act, 
+then the assessee can choose to be governed by the bene ficial 
+provisions contained in the DTAA.   
+5. The assessee is a resident of Spain and the DTAA betwe en 
+India and Spain was notified in 1995.  Article 13 of the DTAA  
+contains provisions relating to ‘royalties’ and ‘fees for tech nical 
+services’, whose relevant part runs as under: -ITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 5
+`1. Royalties and fees for technical services arising in a 
+Contracting State and paid to a resident of the other 
+Contracting State may be taxed in that other State. 
+2. However, such royalties and fees for technical service s may 
+also be taxed in the Contracting State in which they arise and  
+according to the law of that State, but if the recipient is the 
+beneficial owner of the royalties or fees for technical servic es, 
+the tax so charged shall not exceed : 
+(i) in the case of royalties relating to the payments for the us e 
+of, or the right to use, industrial, commercial or scientific 
+equipment, 10% of the gross amount of the royalties; 
+(ii) in the case of fees for technical services and other 
+royalties, 20% of the gross amount of fees for technical 
+services or royalties. 
+3. The term "royalties" as used in this Article means paymen ts 
+of any kind received as a consideration for the use of, or the 
+right to use, any copyright of literary, artistic or scientific 
+work, including cinematographic films or films or tapes used  
+for radio or television broadcasting, any patent, trade mark , 
+design or model, plan, secret formula or process, or for  the use 
+of, or the right to use, industrial, commercial or scientific 
+equipment, or for information concerning industrial, 
+commercial or scientific experience.  
+4.  …..’ 
+6.  Para 1 of Article 13 provides that ‘royalties’ and ‘fees  for 
+technical services’ arising in India and paid to resident of Spa in may 
+be taxed in Spain.  Para 2 states that such ‘royalties’ or ‘f ees for 
+technical services’ may also be taxed in India. It is undispute d that 
+insofar as the copyright royalty under consideration is conc erned, the 
+same is liable to tax at the rate of 20% as per para 13(2)( ii) of the 
+DTAA. In the same manner, fees for technical services als o attractsITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 6
+tax rate of 20% as per the DTAA.  Going with Article 13 of the 
+DTAA, it is clear that the rate of tax in case of ‘fees for te chnical 
+services’ and `other royalties’ as received by the assess ee, is 20%.   
+7.    At this stage, it is relevant to take note of the Protocol to the 
+DTAA,  which provides vide para 7, as follows :  
+‘7. The competent authorities shall initiate the ap propriate 
+procedures to review the provisions of Article 13 ( Royalties and 
+fees for technical services) after a period of five  years from the 
+date of its entry into force. However, if under any Convention or 
+Agreement between India and a third State which is a Member of 
+the OECD, which enters, into force after 1st Januar y, 1990, India 
+limits  its taxation at source on royalties or fees for tec hnical 
+services to a rate lower or a scope more restricted than the rate or 
+scope provided for in this Convention on the said items of 
+incomes, the same rate or scope as provided for in that 
+Convention or Agreement on the said items of income  shall also 
+apply under this convention  with effect from the date on which the 
+present Convention comes into force or the relevant  Indian 
+Convention or Agreement, whichever enters into forc e later.’ 
+8. A cursory glance at the above para unfolds that if und er any 
+convention between India and a third State which is a Member o f the 
+OECD, entered into force after 01-01-1990, India limits its taxation 
+for ‘royalties’ or ‘fees for technical services’ “ to a rate lower ” or 
+“scope  more restricted ” than the rate or scope as set out in the 
+DTAA, such beneficial rate or scope shall also apply under this 
+Convention.  Thus, the MFN clause contained in the above p ara 7 of 
+the Protocol manifests that if India has entered into a Conventio n 
+after 01-01-1990 with a third country which is a Member of theITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 7
+OECD and under such Convention it has, inter alia,  agreed for a 
+lower rate of taxation vis-à-vis  that provided in the DTAA with 
+Spain, such lower rate of tax will apply under the DTAA with S pain. 
+India entered into a DTAA with Portuguese Republic vide 
+Notification dated 16-06-2000. Article 12 of the DTAA with 
+Portugal, which is an OECD member country and fulfils all oth er 
+conditions as prescribed in the Protocol, provides that the ‘ro yalties’ 
+and ‘fees for technical services’ shall, in the circumstance s as are 
+obtaining in the extant case, be taxed at 10% of the gross amount.  
+Taking assistance of 10% tax rate as provided in Article 12 o f the 
+Portuguese DTAA, the assessee claimed that the tax rate of 2 0% as 
+provided under Article 13 of the DTAA between India and Sp ain 
+shall not apply and it will be governed by the reduced rate of taxation 
+of 10% as per Article 12 of the Portuguese DTAA.  The Rev enue 
+jettisoned the applicability of India and Portugal DTAA on the 
+ground that the import of MFN clause from the Portuguese DTA A 
+was not notified and hence the Protocol under the DTAA betw een 
+India and Spain would have no application.  
+9. At this juncture, it is relevant to note that the Agreement 
+entered into between India and Spain was signed by both the 
+countries on 08-02-1993, which entered into force on 12- 01-1995ITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 8
+and was notified on 21-04-1995.  The Protocol was appen ded and 
+made a part of the Agreement between India and Spain, inter alia,  
+providing for the MFN clause qua  ‘royalties’ and ‘fees for technical 
+services’ under para 7.  Such Protocol was also signed by  both the 
+Governments on the same date, namely, 08-02-1993.  The  opening 
+part of the Protocol states that:  `At the moment of signing the 
+Convention between the Government of the Republic of India a nd 
+the Government of the Kingdom of Spain for the Avoidance o f 
+Double Taxation and the Prevention of Fiscal Evasion with respec t to 
+taxes on Income and on Capital, the undersigned have agre ed upon 
+the following provisions which shall be an integral part of the 
+Convention .’ It is overt from the opening part of the Protocol, duly 
+signed by the competent authorities of both the countries along  with 
+and on the same date on which the main Agreement or Conve ntion 
+was signed, that the Protocol has been treated as “ an integral part of 
+the Convention ”.  Once the Agreement between India and Spain was 
+notified on 21-04-1995, the Protocol, which is an integral par t of the 
+Agreement, also got automatically notified along with the 
+Agreement.  In such a scenario, it is difficult to comprehen d the need 
+for any separate notification for the import of the MFN clause .ITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 9
+10.    It would be prudent to take cognizance of the CBDT  Circular 
+No.3/2022 dated 03-02-2022 providing clarification and laying  down 
+certain pre-requisites for deriving the benefit of the MFN claus e in 
+the Protocol to India’s DTAAs with certain countries.  The CBD T 
+has summed up its opinion in para 5 of the Circular, readin g as 
+under:- 
+“5.  In view of the above, it is hereby clarified that the 
+applicability of the MFN clause and benefit of the lower rate or 
+restricted scope of source taxation rights in relation to certain  
+items of income (such as dividends, interest income, royalties , 
+Fees for Technical Services, etc.) provided in India's DTAAs  
+with the third States will be available to the first (OECD) State 
+only when all the following conditions are met:  
+ 
+(i) The second treaty (with the third State) is entered into after  
+the signature/ Entry into Force (depending upon the language o f 
+the MFN clause) of the treaty between India and the first Sta te;  
+ 
+(ii) The second treaty is entered into between India and a Sta te 
+which is a member of the OECD at the time of signing the 
+treaty with it;  
+ 
+(iii) India limits its taxing rights in the second treaty in relation 
+to rate or scope of taxation in respect of the relevant items o f 
+income; and  
+ 
+(iv) A separate notification has been issued by India, importing 
+the benefits of the second treaty into the treaty with the first 
+State, as required by the provisions of sub-section (1) of S ection 
+90 of the Income Tax Act, 1961 .  
+ 
+If all the conditions enumerated in Paragraph 5(i) to (iv) are 
+satisfied, then the lower rate or restricted scope in the treaty  
+with the third State is imported into the treaty with an OECD 
+State having MFN clause from the date as per the provisions ofITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 10 
+the MFN clause in the DTAA, after following the due 
+procedure under the Indian tax law.” 
+ 
+11.   A look at the above para deciphers that the benefit o f a lower 
+rate of taxation or restricted scope of source taxation rights , as 
+contained in the MFN clause with reference to ‘royalty’ and ‘ fees for 
+technical services’ etc. provided in the India’s DTAAs with s econd 
+State, can be availed under the DTAA with the first State only when 
+the four conditions are fulfilled.  There is no dispute that co nditions 
+enshrined under points (i) to (iii) are fulfilled in the instant c ase.  The 
+condition under point (iv) states that a separate notification sho uld be 
+issued by India importing the benefit of the second treaty in to treaty 
+with the first State as required u/s 90(1) of the Act.  Thus, it becomes 
+ostensible that the CBDT has mandated the issuance of a sepa rate 
+notification for importing the benefits of a treaty with second State 
+into the treaty with the first State by relying on provisions of sub-
+section (1) of Section 90 of the Income Act, 1961.  Let u s examine 
+the prescription of section 90(1) of the Act which has been  invoked  
+as a shield for stipulating the fourth requirement. This section 
+provides that: `The Central Government may enter into an agr eement 
+with the Government of any country outside India or specified  
+territory outside India,— (a) for the granting of relief in res pect of—  
+(i) income on which have been paid both income-tax under th is ActITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 11 
+and income-tax in that country or specified territory, as the case may 
+be, or…….and may, by notification in the Official Gazette, make 
+such provisions as may be necessary for implementing the 
+agreement. ’ In our opinion, the Circular specifying the need for a 
+separate notification for importing the beneficial treatment fr om 
+another Agreement as a corollary of section 90(1) of the A ct, 
+overlooks the plain language of the section seen in juxtapositio n to 
+the language of the Protocol, which treats the MFN clause an in tegral 
+part of the Agreement. What is amply borne out from the lan guage of 
+section 90(1) is that a notification may be made for implementing the 
+agreement  that the Central Government has entered into with the 
+Government of any country outside India for the granting the  relief.  
+Reference to the expression ` make such provisions as may be 
+necessary’  for the purpose of notification in the Official Gazette, is 
+to adopt the manner of notifying as may be necessary for 
+implementing the agreement  and not that the notification is to be 
+issued piecemeal and in a truncated manner . On notifying the 
+Agreement or Convention, all its integral parts, get automaticall y 
+notified. As such, there remains no need to again notify th e 
+individual limbs of the Agreement so as to make them operationa l 
+one by one.ITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 12 
+12.    It is trite law that a circular issued by the CBDT is bind ing on 
+the AO and not on the assessee or the Tribunal or other a ppellate 
+authorities. It has been held so authoritatively  in CIT Vs. Hero 
+Cycles Pvt. Ltd. (1997) 228 ITR 463 (SC) as reiterated in CCE Vs. 
+M/s. Ratan Melting and Wire Industries (2008) 220 CTR 98 (S C) .  Ex 
+consequenti , the Circular transgressing the boundaries of section 
+90(1) of the Act, cannot bind the Tribunal.   
+13.   Notwithstanding the above, it can be seen that the CB DT has 
+panned out a fresh requirement of separate notification to be  issued 
+for India importing the benefits of the DTAA from second State to 
+the DTAA with the first State by virtue of its Circular, relying on  
+such requirement as supposedly contained in section 90(1) o f the 
+Act. In our considered opinion, the requirement contained in the 
+CBDT circular No.03/2022 cannot primarily be applied to the period 
+anterior to the date of its issuance as it is in the nature of a n 
+additional detrimental stipulation mandated for taking benefit 
+conferred by the DTAA.  It is a settled legal position that a p iece of 
+legislation which imposes a new obligation or attaches a new 
+disability is considered prospective unless the legislative intent is 
+clearly to give it a retrospective effect.  We are confronted  with a 
+circular, much less an amendment to the enactment, which attaches aITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 13 
+new disability of a separate notification for importing the ben efits of 
+an Agreement with the second State into the treaty with first State .  
+Obviously, such a Circular cannot operate retrospectively to the 
+transactions taking place in any period anterior to its issuance . In 
+view of the foregoing discussion, we are satisfied that the 
+requirement of a separate notification for implementing the MFN 
+clause, as per the recent CBDT circular dt. 03-02-2022, cannot be 
+invoked for the year under consideration, which is much pr ior to the 
+CBDT circular of the year 2022. 
+14.     To summarize, the DTAA between India and Spain,  having the 
+Protocol containing the MFN clause as its integral part, was du ly 
+notified on 21-04-1995, after having entered into force on 12-01-
+1995.  On such notification of the DTAA, the Protocol contain ing the 
+MFN clause triggering the importing of any other DTAA fulfilling  
+the requisite requirements, including the Portuguese DTAA, got 
+automatically notified pro tanto , in terms of section 90(1) of the Act 
+leaving no room for any separate notification for the importa tion. 
+The sequitur is that that the authorities below were not justified in  
+denying the benefit of the straight rate of tax at 10% as pe r the 
+DTAA read with Portuguese DTAA and also additionally charging 
+Surcharge and  Education cess.ITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 14 
+15.    The next ground raised is about taxing Rs.35,67, 719/- as 
+income from royalty or fees for technical services, whic h the assessee 
+claimed to have received as reimbursement and hence not includible 
+in its gross revenue for taxability.  
+16.   Tersely stated, the facts of this ground are that the assessee 
+claimed a sum of Rs.35,67,719/- as reimbursement on cost-to-cost 
+basis and did not include the same in the total revenues for  the 
+purpose of offering income for taxation.  The AO called u pon the 
+assessee to furnish complete evidence like all invoices, agree ments, 
+ledger extracts and etc. in support of recovery/reimburse ment of the 
+expenses.  In the absence of any response coming from  the side of 
+the assessee, the AO treated this amount as a part and parc el of ‘fees 
+for technical services/royalties’ and thus applied tax rate o f 10% plus 
+applicable surcharge and education cess thereon.  The ass essee filed 
+certain evidence before the Dispute Resolution Panel in suppor t of its 
+contention that the amount was in the nature of reimbursemen t of 
+certain expenses by contending that the draft assessment ord er was 
+notified on 20-12-2019 and the assessee’s submission on 
+reimbursement with relevant evidence filed on 19-12-2019, remained 
+unconsidered.  The DRP called for the comments of the A O, who 
+raised objection to the assessee’s contention.  The DRP repelle d theITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 15 
+assessee’s claim of exclusion of the amount of Rs.35,6 7,716/- from 
+gross revenue.  It further held that the in the scheme of taxation 
+u/s.115A of the Act, all the receipts shown on gross bas is are 
+considered and hence, the assessee’s stand on reducing  certain costs 
+was not acceptable.  As such, no succor was allowed by th e DRP, 
+which culminated into the addition by the AO in the final order.  
+17.    We have heard both the sides and gone through th e relevant 
+material on record.  It is seen that the assessee offered its  income 
+from ‘royalties’ and ‘fees for technical services’ on gro ss basis, 
+albeit at the concessional rate of tax.  The assessee claimed that a 
+sum of Rs.35.67 lakh was received as reimbursement of expenses 
+which was not liable to be included in the gross receipts.  Pri marily, 
+we find that the basic details about the nature of expenses etc . are not 
+forthcoming.  It is not known as to whether such expenses  claimed to 
+be reimbursed were in furtherance of the rendering of ‘ fees for 
+technical services’ or de hors  the same.  The assessee has not placed 
+on record invoices raised to the Indian parties towards ‘fe es for 
+technical services/royalties’ to demonstrate if such amounts cla imed 
+as reimbursement were part of ‘royalties/fees for technic al services’.  
+Even the claim of reimbursement without any mark-up has  not been 
+properly established before the Tribunal. In the absence of  suchITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 16 
+relevant details, it is difficult to conclude as to whether the amou nt 
+claimed as reimbursement should form part of total revenu e base for 
+applying concessional rate of tax. 
+18.    We accentuate that there is an inherent difference between the 
+scheme of taxation of an item of income por una parte  u/s 115A of 
+the Act or under the concerned Article of the DTAA and por otra 
+parte  under the normal provisions of the Act or the Articles of the  
+DTAA providing for taxation at normal rate.  In the former case, 
+revenue or gross receipt itself is charged to tax though at a  
+concessional rate of 10% etc., in the latter, it is the income e mbedded 
+in the revenue or gross receipt which is charged to tax at normal rate. 
+Any reimbursement in the latter case cannot be charged to ta x 
+because of the absence of any element of income therein, which is 
+sine qua non for the chargeability in such a situation. However, in the 
+former case which proceeds with taxation of the gross 
+receipts/revenue at a concessional rate of tax, reimburs ement of costs 
+that have contributed to the earning of the revenue have to be 
+necessarily included.  In all cases of taxation of revenue o r gross 
+basis, a fundamental question which needs to be asked is w hether a 
+particular cost has contributed to the earning of the reven ue.  If the 
+answer is in affirmative, then its corresponding receipt need s to beITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 17 
+included in the revenue for applying the concessional rate of  tax 
+irrespective of the nomenclature given to the parties as 
+reimbursement or revenue. Thus in all cases of concessio nal taxation 
+on gross receipt or revenue basis, splitting of total receipt in to 
+reimbursement or revenue, remains neutral to its chargeab ility.  Both 
+such cases, invariably warrant inclusion of the receipt in the revenue 
+base for taxation so long as the receipt is relatable to costs  incurred 
+contributing to the earning of the revenue. An assessee c annot be 
+permitted to opt for concessional rate of taxation on gross re ceipt 
+basis and then claim that some part of the receipts should b e left out 
+by describing it as reimbursement. It is patently an absurd  
+proposition.  
+19.    In view of the fact that necessary details for determ ining the 
+above issues are not available on record, we set aside th e impugned 
+order on this score and remit the matter to the file of the AO for 
+deciding the point on the touchstone of the discussion made supra .  
+Needless to say, the assessee will be allowed a reasonable 
+opportunity of hearing. 
+ 
+20.    Ground No.3 is about the short TDS credit of Rs.47, 68,155/-.  
+The claim of the assessee is that the AO did not grant bene fit of theITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 18 
+TDS.  The AO is directed to verify the facts and allow necess ary 
+TDS credit as per law. 
+21.   The next ground about levy of interest is consequentia l and 
+disposed off accordingly. 
+22.    In the result, the appeal is partly allowed. 
+Order pronounced in the Open Court on 15 th   February, 2022. 
+ 
+ 
+                   Sd/-                         Sd/- 
+       ( PARTHA SARATHI CHAUDHURY )         ( R.S.SYAL ) 
+            JUDICIAL MEMBER                     VIC E PRESIDENT 
+ 
+पुणे Pune; िदनांक   Dated :  15 th   February, 2022                                                
+सतीश    
+ 
+आदेश  की ितिलिप  अेिषत /Copy of the Order is forwarded to : 
+ 
+1. अपीलाथ  / The Appellant; 
+2. थ  / The respondent  
+3. The CIT (DRP-3) Mumbai-1, CIT (DRP-3) Mumbai-2, 
+CIT (DRP-3) Mumbai-3, 
+4. DR, ITAT, ‘C’ Bench, Pune 
+5. गाड फाईल  / Guard file.     
+  
+         आदेशानुसार / BY ORDER,  
+ 
+// True Copy //  
+ 
+                                           Senior P rivate Secretary 
+       आयकर  अपीलीय  अिधकरण  , पुणे / ITAT, PuneITA No.202/PUN/2021 
+GRI Renewable Industries S.L. 
+ 
+ 
+ 
+ 19 
+ 
+  Date  
+1. Draft dictated on  14-02-2022 Sr.PS 
+2. Draft placed before author 15-02-2022 Sr.PS 
+3. Draft proposed & placed before 
+the second member   JM 
+4. Draft discussed/approved by 
+Second Member.  JM 
+5. Approved Draft comes to the 
+Sr.PS/PS  Sr.PS 
+6. Kept for pronouncement on  Sr.PS 
+7. Date of uploading order  Sr.PS 
+8. File sent to the Bench Clerk  Sr.PS 
+9. Date on which file goes to the 
+Head Clerk   
+10. Date on which file goes to the 
+A.R.   
+11. Date of dispatch of Order.   
+*

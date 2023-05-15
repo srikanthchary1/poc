@@ -1,0 +1,736 @@
+IN THE INCOME TAX APPELLATE TRIBUNAL  
+“A” BENCH, MUMBAI  
+ 
+BEFORE SHRI KULDIP SIN GH, HON'BLE JUDICIAL MEMBER AND  
+SHRI S. RIFAUR RAHMAN, HON'BLE  ACCOUNTANT MEMBER  
+ 
+ITA NO.  645/MUM/20 22 (A.Y: 2013 -14) 
+ 
+M/s. Sumit Export  
+DW-5030, 5th Floor  
+D.Tower, Bharat Diamond Bourse  
+Bandra Kurla Complex  
+Bandra (E), Mumbai -400051  
+ 
+PAN: AACFS3599Q  
+ v. ACIT – 19(3)  
+Matru Mandir, Tardev Road  
+Mumbai – 400 007  
+(Appellant)   (Respondent)  
+ 
+Assessee Represented by  : Shri Rahul Sarda  
+Department Represented by : Shri Manoj Sinha   
+   
+Date of Hearing  : 29.08.2022  
+Date of Pronouncement  : 10.11.2022  
+ 
+O R D E R  
+ 
+PER S. RIFAUR RAHMAN (A M) 
+1. This appeal is filed by the assessee against order of the  Learned 
+Commissioner of Income Tax , National Faceless Appeal Centre, Delhi 
+[hereinafter in short “Ld.CIT(A)”] dated 1 1.03.2022 for the A.Y. 2013 -14. 
+2. Brief facts of the case are, assessee filed its return of income on 
+28.09.2013 declaring total income of ₹. 1,67,34,250/-.  The return was2 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+processed u/s. 143(1) of Income -tax Act, 1961 (in short “Act”).  
+Subsequently case was selected for scrutiny under CASS and notice 
+u/s.143(2) and 142(1) of the Act were issued and served on the assessee. 
+In response AR of the  assessee attended and submitted the relevant 
+information as called for.  
+3. Assessee is engaged in the business of manufacturing and trading 
+in Cut and polished  diamonds.  During the assessment proceedings, 
+Assessing Officer observed that vide Sale Deed d ated 19.05.2012 
+assessee entered with M/s. Veer Gems and sold the office premises 
+bearing No. BC4021 in Bharat Diamond Bourse, Bandra Kurla Complex for 
+a consideration of ₹. 1.93 crores.  He observed that assessee has declared 
+the computation  of income under th e head Capital gain relating to above 
+sale transaction  as under: -  
+Transfer Price  1,93,00,000  
+Indexed cost of acquisition  (32,91,000*852/351) [1998 -99] 79,88,410  
+Indexed cost of improvement  (1,62,000*852/447) [2002 -03] 31081779  
+Indexed cost of improvement  (2,43,000*852/463) [2003 -041 447,162  
+Indexed cost of improvement  (4,86,000*852/480) (2004 -05) 862,650  
+Indexed cost of improvement  (3,97,000*852/497) [2005 -061 509,143  
+Indexed cost of improvement  (9,64,800*852/519) 12006 -07] 1,583,834  
+Indexed cost of improvement  (1,35,000*852/389) (1999 -2000]  295,681  
+Long Term Capital gain  73,04,341  
+4. Assessing Officer observed that as per the working  submitted by the 
+assessee , assessee has shown acquisition  of property in Financial Year3 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+1998-99 and in subsequent few years assessee has carried out 
+improvement in the property.  However, he observed that when pursing  
+the sale agreement , he observed that the assessee had received allotment 
+of the above said premises only on 29.07.2010 as such the asset so 
+transferred  becomes short term capital  asset on the dat e of transfer 
+i.e.,19.05.2012.  Therefore,  the capital gain on sale of this ass et would 
+constitute short term capital gain.  Accordingly, the assessee was asked 
+to why the premises so transferred  should not be treated  as short term 
+capital gain.  In response , assessee vide letter dated 15.03.2016 
+submitted as under: -  
+“5. During the  year under consideration your assessee had sold 
+the office premises in Bharat Diamond Bourse, Bandra Kurla 
+Complex, Bandra (East), Mumbai -400051 for Rs. 1,93, 00,000/ The 
+Booking of the same was done in the year 1998 -99 for 
+Rs.32,91,000/ - and right to have  office premises was created. There 
+after instalments were paid on  various dates and cost of 
+improvements were done to that right. As the right in the asset was 
+created in the year 1998 -99 and the question arises that weather 
+night to own property is a cap ital asset or not? The answer to this 
+question has been given by Hon'ble Mumbai High court with 
+reference to capital asset as defined u/s. 2( 14) of  the IT Act in the 
+case of CIT v s Tata Teleservice Ltd 1221TR 594 and has held as 
+follows:  
+What is a capital asset is defined i n section 2( 14) of the IT. Act, 1961. 
+Under that provision, a capital asset means property of any kind held 
+by an assessee, whether or not connected with his business or 
+profession. The other sub -clauses which deal with what property is 
+not included in the definition of capital asset are not relevant. Under 
+section 2(47), a transfer in relation to a capital asset is defined as 
+including the sale, exchange or relinquishment of the asset or the 
+astonishment of any night therein or the compul sory acquisition 
+thereof under any law. The word "property", used in section 2(14) 
+of the I.T. Act, is a word of the widest amplitude and the definition4 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+has re -emphasised this by use of the words "of any kind. Thus, any 
+right which can be called properly w ill be included in the definition of 
+"capital asset". A contract for sale of land is capable of specific 
+performance. It is also assignable. (See Hochat Kizhakke Madathil 
+Venkateswara Aivar v. Kallor Illath Raman Nambudhri, AIR 1917 Mad 
+358). Therefore, in  our view, a right to obtain office premises, was 
+clearly "property" as contemplated by section 2(14) of the I.T. Act, 
+1961. Other case law on the same issue favoring the above views of 
+Bombay High Court are as follows  
+1. CIT v . Sterling Investment Corpn. Ltd. [1980) 103 ITR 441 (Bom.).  
+2. ITO v. Smt. Kashmiralien M. Parikh (1993) 66 Taxman 31 (Ahd.) (Mag.  
+3. Tribunal order in ITA No. 3923 (Mum) of 2002 for assessment year 
+1995-96 in the case of Mrs. Manju Agarwal v. Asstt. CIT, Mumbai C 
+Bench order dated 16-9-2004 
+4. Jitendra Mohan v. ITO [2001] 11 SO 1 594 (Dell).  
+5. CIT vs Jindas Parchand Gandhi (2005) 279 ITR 552 (Guj)  
+In our case as allotment letter issued by the BDB in the year 1998 -
+99 gives us the right to obtain office premises so it become an assets 
+under section 2 (14) of the Income Tax Act. 1% 1.  
+Whether Gain on sale of Flat will be short Term or Long Term?  
+An asset which is held for 36 months is a long term asset.  
+Whether it is held for 36 months?  
+Once the right to purchase (ie obtain office  premises) proved to be 
+an asset, it is to be seen when was th is right vested in the purchase.  
+Hon'ble Andhra Pradesh High Court in the case of M. Syamala Rao 
+v. CIT/1998/234 ITR 140 held that registration of a document related 
+back to the day on which the  agreement of sale was executed, 
+hence, when the builder executed the agreement of sale on 7 -8-
+1993, the assessee was to he deemed to be owner of property from 
+that dale and accordingly, the capital gain was to be worked out.  
+The date of allotment is the d ate when the right of conveyance get 
+tested. So if there is difference of 36 months in this date and date of 
+sale, then it can be considered that the said asset was a long term 
+asset and gain on sale of such asset was "Long Term Capital Gains 
+In our case, the allotment year was 1998 -99 and as such on the date 
+of sale, this right was held tor more than 36 months so gain on sale 
+of Flat will be Long term Only.  
+How Indexation is to be done?5 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+The issue gets settled by Mumbai Tribunals decision in case of Suit, 
+Lata G. Rohra v. Deputy  Commissioner of Income -tax, C.C. 39, 
+Mumbai 12008 21 SOT 541 (Mum.) where is the facts of the case 
+were as under  
+FACTS  
+The assessee vi de unregistered agreement with a developer 
+purchased a flat in 1993 which was constructed in the ye ar 1997 and 
+registered in the year 1998. During the relevan t year, the assessee 
+sold said f lat and after claiming the indexed cost at Rs. 18.74 lakhs 
+showed long -term capital gain at Rs. 39.42 lakhs. The Assessing 
+Officer worked out indexed cost of acquisi tion on the basis of 
+purchase price from 1993 and completed the assessment. However, 
+the Commissioner was of the view that the assessee had not tiled 
+any evidence with respect to various payment made towards the 
+purchase price and the indexed cost of acqui sition worked out on the  
+basis of financial year 1993 w as incorrect and, hence, the 
+assessment order was erroneous and prejudicial to the interest of 
+revenue. Accordingly, he initiated revision proceedings under section 
+263. 
+The Commissioner, however, set aside the order of Assessing Officer 
+and directed the Assessing  Officer to compute the correct long -term 
+capital gain by adopting the indexed cost of acquisition  on the basis 
+of the date on which the property was held after registration of the 
+conveyance d eed. 
+In instant appeal, the assessee contended that she was deemed to 
+be owner for property from 7 -8-1993 and accordingly, the capital 
+gain was to be worked out from that date as per Explanation  (Hi) to 
+section 48. and since the asset had been held for the  first time in 
+1993 cost inflation index  of that year was to be applied on the total 
+purchase consideration pavable by the assessee as per  agreement 
+regardless of the dates of the actual amount paid by her . 
+HELD  
+As per sec tion 2(14), read with section 2( 14)(i), the rights in flat, 
+acquired by the assessee on execution of agreement on 7 -8-1993, 
+came within the purview of the term capital asset. From the perusal 
+of language used in Explanation (i) to section 48, which provides for 
+manner of computation of ind exed cost of acquisition, it is apparently 
+clear that it refers only to date of cost of acquisition of the asset and 
+not actual payments made by the assessee. Hence, there was no 
+merit in the contention of the revenue that the benefit of indexation 
+should he gen on the basis of dates of actual pa yments made by the6 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+assessee. Th us, on merits, the issue was covered in favour of 
+assesse e. However, regarding jurisdiction for invoking the provisions 
+of section 263, it was found that the assessee fled necessary de tails 
+before the Assessing Officer and the Assessing Officer had  passed 
+assessment order after t aking into consideration the s ame. Hence, 
+merely for the reason that no specific findings had been given in the 
+assessment order, the same could not be said hav e been passed 
+without application of mind. In h is view of the mutter, the order 
+under section 263 passed by the Commissioner was to be set aside. 
+[Para 9) In the result, the appeal filed by the assessee stood allowed. 
+Para 1 Of  
+So in our case we will take the index of the year in which Assessee 
+receives allotment letter of the Flat ie 2007 -08. In respect of Stamp 
+Duly, Registration Charges, Society Deposits we will take index of 
+the year of payment. If Assessee has incurred any other expenses in 
+respect of Purchase of property in addition to these in respect of 
+those expense also toe take index of the year of expense for 
+calculation of Long Term Capital Gain as what tribunal has staled  
+above is cost of acquisition i.e.  Rs. 42.16 lakh which should be taken 
+to compute the long term capital gains as the word used in 
+Explanation to section 48 mentions "Cost of acquisition and not the 
+actual payments.  
+Here we would also like to refer judgment of Delhi ITAT in the case 
+of Praveen Gupta vs ACITITA No. 2558/Del/2010:  Asst. Year 2007 -
+08 in which Honourable ITAT has taken indexation on the basis of 
+Payment made by the Assessee but since Assessee is based in Muhu 
+so for us ITAT Mumbai Judgment is more relevant and at the same 
+time same is more beneficial to us too.  
+All the relevant documents to prove our contention was filed before 
+your good self kindly take into consideration the above facts and 
+various judgments by Hon'ble high courts and tribunals and allow 
+the long term capital gain and allow the claim of your assesse e.” 
+5. After considering the submissions of the assessee , Assessing Officer 
+rejected the same by observing as under: - 
+“8. To summarize the matter, the assessee had transferred an 
+office and 892 equity shares allotted to it by Bharat Diamond Bourse 
+on 19.5.2012. This office and also the shares were allotted to him by 
+Bharat Diamond Bourse only On 29.7.2010. Although the assess ee 
+has contributed to the funds of Bharat Diamond Bourse against 
+which a provisional allotment of office space was made to it, it must7 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+be borne in mind that no right was created in any office space 
+primarily because no office space was into existence at th e time of 
+contribution of funds by the assessee and secondarily because the 
+office complex so built up by Bharat Diamond Bourse was itself taken 
+on lease by them from MMRDA on 31st March, 2010. Thus, the rights 
+cannot be created in a property which is to b e constructed in future 
+or which is not even owned by the original transferor. The only right 
+which could generate in respect of payment made for such property 
+is the right to receive back the said payment. This right is the 
+personal right of the assessee over the money it advanced to Bharat 
+Diamond Bourse and not the right over any property as such. The 
+assessee's right over the property came on the date of its allotment 
+by Bharat Diamond Bourse, or at best at the time when the complex 
+was leased by MMRDA to Bharat Diamond Bourse. In any event, the 
+sale of the office space and also the sale of Shares BKC were made 
+by the assessee before the lapse of 3 years from their Allotment to 
+the assessee. Hence, the sale consideration thereof would constitute 
+Short Te rm Capital Gain as against the Long Term Capital Gains as 
+held by the assessee. Moreover, it is also seen that two parking 
+spaces and 200 equity shares were also allotted to the assessee as 
+against the contribution paid by it to Bharat Diamond Bourse. Thes e 
+Parking Spaces and corresponding 200 shares were not transferred 
+by the assessee to M/s . Veer Gems. However, at the time of 
+computation of Capital Gain, entire payments made to BKC has been 
+taken as cost of acquisition. Hence, the corresponding cost of 
+parking equivalent to 200 equity shares will not be allowed. This cost 
+would come to (200*5578800/1092=) 10,21,758/ -, which is 
+disallowed from the total cost of acquisition of Rs. 55,78,800/ - as 
+taken by the assessee. Penalty proceeding u/s 271(1)(c) is bei ng 
+initiated separately hereby for concealment of particulars of income 
+and for filing inaccurate particulars of income. ” 
+6. Aggrieved assessee preferred an appeal before the Ld.CIT(A) and 
+before the Ld.CIT(A) assessee filed detailed submissions before him.  For 
+the sake of clarity,  it is reproduced below: -   
+"Your appellant is a partnership firm carrying on the business of 
+manufacturing and trading of cut & polished diamonds during the 
+year under consideration. The appellant filed his return of income 
+declar ing total income of Rs. 1,67,34,250/ - on 28/09/2013. The case 
+was selected for scrutiny unde r CASS Subsequently, Notice 
+u/s.143(2) of the Income Tax Act. 1961 ACIT -19(3), Mumbai 
+(Hereinafter referred as "Assessing Officer") dated 03/09/2014 was8 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+issued and Order under section 143(3) of the Income Tax Act, 1961 
+passed determining the Total Taxable Income at Rs.2.41,72,865/ - 
+on 28/03/2016  
+While completing the assessment, the assessing officer had made 
+addition of Rs. 74,38.617/ -ie.(1.47.42.958 -73,04,341) which  
+constitutes difference in the nature of capital gain from long term to 
+short term on office premises sold during the year under 
+consideration.  
+GROUND NO. 1: ADDITION OF CAPITAL GAIN AMOUNTING TO RS. 
+74,38,617/  
+1) Your appellant is engaged in the manufacturing and trading of cut 
+& polished diamonds during the year under consideration. Your 
+appellant had sold the office premises Bearing No. BC -4021 in Bharat 
+Diamond Bourse. BKC for consideration of Rs. 1,93,00,000/ - to M/s 
+Veer Gems on 19/05/2012  
+2) The addition was made on the basis that your appellant had 
+shown the acquisition of the property in FY 1998 -99 & over the next 
+years has carried out improvements in the property. As per sale 
+agreement pursued the allotment of said premises on 29/07/2010. 
+Therefore, the asset so transferred becomes short term capital asset 
+on the date of its transfer and capital gain on sale of the same asset 
+would constitute short term capital gain.  
+3) Genuineness of the Long Term Capital Gain: The entire relevant 
+document s to prove the genuineness of long term capital gain such 
+as sale agreement, installment ledger, bank statements, 
+computation of Income which shows the working of LTCG were 
+submitted during assessment proceedings.  
+According to the Installment ledger the to tal payment made of 
+Rs.62,78,800/ - from which the payment of Rs. 55,78,800/ - is related 
+to the office premises & Rs 7,00,000/ - is related to the parking area 
+Your appellant takes the indexation cost of acquisition by considering 
+the amount of Rs 55,78.800/ - which is related to the office premises.  
+Now the question aris es as to what else is further required to prove 
+the Long term capital gain in view of the Learned Assessing Officer. 
+There is no tangible material with the income tax department in 
+support of treating such capital gain as short term capital gain 
+instead of long term capital gain.  
+In this regards, the appellant has relied upon the following case laws.9 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+1) Honourable High Court Bombay vide IT Appeal NO. 1459 
+of 2016 in the  case of Pr. Commissioner  of Inc ome Tax 
+V/s. Vembu Vaidyanathan (2019 -LL-0122-55)  
+2) Honourable ITAT Mumbai "C" Bench in the case of Shri 
+Sanjaykumar  Footermal Jain vis. ITO WD 20(3)(2) Wd. 
+20(3)(2), ITA No.4853/Mum/2016.  (2018 -LL-814-8) 
+3) Honourable ITAT Mumbai "D" Bench in the  case of ITO 
+30(2)(3) v/s. Smt. Meeta Bhavesh Ganatra, ITA No. 
+5149/Mum/2017. (419 Taxpundit261)  
+4) Honourable High Court, New Delhi in the case of CIT. Xvi 
+vis. K. Ramakrihnan, ITA No. 114 of 2014 & CMA No. 4959 
+of 214 (2014 -LL-0318 42, 363 ITR 59)  
+4) You r appellant hereby produces several judgments to support the 
+claim of your appellant of allowing the addition made regarding 
+nature of capital gain.  
+a) The decision pronounced by Bombay High Court in the case 
+Pr.Commissioner of Income Tax, Mumbai V/s. Vemb u Vaidyanathan 
+- Income Tax Appeal No.1459 of 2016 [2019 -LL-0122-55] 
+In the given judgment pronounced by the High Court the assessee 
+is an individual. The assessee had filed the retum of income for the 
+assessment year 2009 -10 and claimed long term capital gain arising 
+out of capital asset in the nature of a residential unit. During the 
+course of assessment the Assessing Officer examined this claim and 
+came to the conclusion that the gain arising out of sale of capital 
+asset was a short term capital gain. Th e controversy between the 
+assessee and the revenue revolves around the question as to when 
+the assessee can be stated to have acquired the capital asset. The 
+assessee argued that the residential unit in question was acquired 
+on the date on which the allotm ent letter was issued by the builder 
+which was on 31st December, 2004 The Assessing Officer however 
+contended that the transfer of the asset in favour of the assessee 
+would be complete only on the date of agreement which was 
+executed on 17th May, 2008  
+CIT appeals and the Tribunal held the issue in favour of the assessee 
+relying on various judgments of different High Courts including the 
+judgment of this Court in case of Commissioner of Income Tax, 
+Bombay City | Vs. TATA Services Limited Reliance was also pl aced 
+on CBDT circulars10 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+CBDT in its circular No 471 dated 15th October, 1986 had clarified 
+this position by holding that when an assessee purchases a flat to be 
+constructed by Delhi Development Authority ("D.D.A" for short) for 
+which allotment letter is iss ued, the date of such allotment would be 
+relevant date for the purpose of capital gain tax as a date of 
+acquisition. It was noted that such allotment is final unless it is 
+cancelled or the allottee withdraw from the scheme and such 
+allotment would be cance lled only under exceptional circumstances. 
+It was noted that the allottee gets title to the property on the issue 
+of allotment letter and the payment of installments was only a follow 
+up action and taking the delivery of possession is only a formality.  
+CBDT in its later circular No 672 dated 16th December, 1993. In such 
+circular representations were made to the board that in cases of 
+allotment of flats or houses by cooperative societies or other 
+institutions whose schemes of allotment and consideration are 
+similar to those of D.D.A., similar view should be taken as was done 
+in the board circular dated 15th October, 1986  
+b) The decision pronounced by ITAT, C Bench, Mumbai in case of 
+Sanjaykumar Footermal Jain vs. ITO WD 20(3)(2) Wd. 20(3)(2), 
+Mumbai - ITA No:  4853/Mum/2016 [2018 -LL-814-8] 
+In the given judgment, the assessee Shri Sanjay kumar Footermal 
+Jain is individual filed the return of income for AY 2012 -13 declaring 
+Total Income of Rs. 6,84,760/ - on 17 -06-2012, the sources of income 
+are under Capital gain  and Income from other sources. In the course 
+of scrutiny assessment u/s 143(3), the AO has disallowed claim of 
+long term capital gain on sale of godown of Rs. 5,71,282/ -on the 
+ground that the capital gain arisen out of sale of the original assets 
+ie godow n has not being held for the period more than 36 months.  
+The LD AO has treated entire capital gain on sale of long term capital 
+assets as short term capital gain and added Rs. 86,82,000/ -. 
+CIT(A) confirmed the action of the AO against which assessee is in 
+further appeal before ITAT.  
+The assessee has purchased the long term capital asset being 
+godown as per agreement dt 24 -04-2008. On going through the 
+agreement, it is evident that the assessee has made initial payment 
+of Rs. 1,26,000/ - as against purchase co nsideration of Rs. 
+12,26,000/ - with the promise to make the balance of payment on or 
+before 03 -05-2008, as against the agreement for sale and part 
+payment dt. 24 -04-2008, the transferor has transferred all the right, 
+title and interest in the favour of the  transferee including five shares11 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+under share certificate no. 1/87 bearing distinctive no.11 to 15 
+allotted to transferor by the society  
+In the instant case it is crystal clear that by virtue of agreement for 
+sale dated 24 -04-2008, and making a part paymen t, the assessee 
+has acquired irrevocable tight, title and interest including possession 
+in the house property in the form of Godown. The registration of the 
+property which was done subsequently on 11 -07-2008 was only a 
+formality. And therefore the period o f 36 months of holding of long 
+term capital Assets should be reckoned from 24 -04-2008 and not 
+from 11 -07-2008 as wrongly adopted by the LD AO.  
+The holding period becomes more than 36 months and 
+consequently, the property sold by the assessee would be long term 
+capital asset in the hands of the assessee and the gain on sale of the 
+same would be taxable in the hands of the assessee as Long Term 
+Capital Gain.  
+c) The decision pronounced by ITAT, D Bench, Mumbai in case of 
+ITO 30(2)(3) vs. Smt. Meeta Bhavesh Gan atra, Mumbai ITA No: 
+5149/Mum/2017[419 Taxpundit261]  
+In the given judgment, the assessee purchased 7 Nos. of Industrial 
+Galas at Malad, Mumbai from one Builder viz. Homeland Realtors arid 
+Developers Private Limited in the year 2007 jointly with her husband  
+Mr. Bhavesh Natwarlal Ganatra at an agreed consideration of 
+Rs.53,75,700/ - Homeland Realtors Mid Developers Private Limited 
+issued the Allotment Letters to the assessee in 2007 allotting the 
+specific Galas with specific Galas with corresponding galas mark ed 
+on the floor plan.  
+The assessee sold the said 7 Nos of Galas in FY 2012 -13 for an 
+aggregate consideration of Rs. 2,12,00,000/ - The Id. AO reckoned 
+the date of possession of the said industrial Galas in the hands of the 
+assessee and accordingly determined the holding period of the same 
+to be less than three years and consequently held the gains arising 
+from the sale of said industrial Galas are to be taxed as only short 
+term capital gains.  
+The Id. AO consequently also denied the benefit of indexa tion of the 
+cost claimed by the assessee. Accordingly, the Id. AO determined 
+the short term capital gain of Rs. 75,16,750/ - while computing the 
+assessment.  
+CIT(A) held that the holding period should be considered from the 
+date of allotment of galas on 22/1 0/2007. Since these galas were 
+held for more than 36 months before the sale, the resultant gain is12 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+Long Term Capital Gain. Therefore, the AO is directed to assess the 
+capital gain on sale of 7 nos. of galas by the appellant as Long Term 
+Capital Gain after computing the same as per isE TAX DEPAR law  
+ITAT confirm the stand of Ld. first appellate authority to the extent 
+that the resultant gains were Long -Term Capital Gains in nature. 
+They find that the Id. CIT(A) had rightly granted relief to the 
+assessee in t he facts and circumstances of the case which, in their 
+considered opinion, requires no interference. Accordingly, the 
+grounds raised by the revenue are dismissed.  
+d) The decision pronounced by High Court, New Delhi in case of CIT -
+Xvi v/s. K. Ramakrihnan, I TA No. 114 of 2014 & CMA No. 4959 of 
+214 (2014 LL -0318-42, 363 ITR 59)  
+In the given judgement the Revenue claims to be aggrieved by the 
+order dated May 17, 2013, of the Income -tax Appellate Tribunal 
+(ITAT). The Revenue's appeal questioning the deletion of Rs. 
+55,72,612 by the Commissioner of Income -tax (Appeals) was 
+dismissed. It is urged that the findings of the Tribunal, in effect 
+upholding the assessee's contention that the amount sought to be 
+taxed was in fact a long -term capital gains is not justified.  The 
+learned counsel submitted that the circumstance of the case 
+especially the relevant dates set out in paragraph 7 of the impugned 
+order, it could not be said that the assessee had acquired interest of 
+the kind that can enable him to say that he "held" the asset for more 
+than 36 months to entitle him to the benefit of long -term capital gain.  
+This court is of the opinion that having regard to the findings 
+recorded by the Tribunal, the assessee had acquired the beneficial 
+interest to the property at least 96 per cent. In view of the reasons 
+the courts is satisfied that the Tribunal's impugned In view of the 
+reasons the courts is satisfied that the Tribunal's impugned order 
+does not disclose any error calling for interference.  
+GROUND NO. 2: INITIATION OF PEN ALTY PROCEEDINGS U/S 271 
+(1) (C) OF THE  INCOME TAX ACT, 1961:  
+The Learn ed AO at the time of passing the assessment order levied 
+penalty u/s 271(1)(c) for furnishing inaccurate particulars of income. 
+Our client hereby request you to drop the penalty proceed ings u/s 
+271(1)(c) based on the following judgments pronounced by the ITAT 
+in case of ITAT, E Bench, Mumbai in case of The DCIT 8(3), Mumbai 
+v/s. Tristar Jewellery Exports Private Limited [ITA No: 
+6435/Mum/2013]13 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+In the above mentioned judgment, appeal had been filed by the 
+department against the  order of CIT (A) in deleting the penalty of 
+Rs. 11.94,545/ -. The AO levied the penalty in question qua the 
+addition made. The Learned CIT(A) deleted the penalty, holding that 
+the penalty was not leviable on addition  made on estimation basis 
+and that it did not stand confirmed that the assessee had willfully 
+submitted inaccurate particulars to conceal its income. The Hon'ble 
+ITAT, in the order deleted the addition made, in toto. Therefore, the 
+very basis of the levy o f penalty in question no longer survives. 
+Accordingly, the grievance of the department is rejected and the 
+order of the Ld.CIT(A) deleting the penalty is upheld. In light of the 
+aforesaid facts and all the decided judgments by Hon'ble Supreme 
+Court,  variou s High Courts and Income Tax Appellant Tribunals we 
+hereby humbly pray your  honour to consider the premises as long 
+term capital asset & drop the penalty proceedings initated u/s. 
+271(1)(c) of the Act,”  
+7. After considering the detailed submissions and considering  the 
+Assessment Order and discussing the same in detail by the Ld.CIT(A) in 
+his order, Ld.CIT(A) dismissed the appeal filed by the assessee with the 
+following observations: - 
+“[1.5.3]  Therefore, on the basis of factuality or factual matrix 
+and l egality of the case as per holding period/actual period of 
+Occupancy over the assets being less than 36 months, AO's order is 
+quite justified. Once the impugned assessment order fulfills the both 
+criteria of legality as well as factual matrix of the case, I do not see 
+any reason to apply case laws as relied upon by the assessee.  
+In fact assessee has no where during the assessment proceedings 
+or appellate proceeding has ever disputed the facts pertaining to 
+actual possession of assets being less than 36 mont hs and the case 
+laws relied upon; do not pertain to provisional allotment without 
+specifying the space/carpet area of the office floor applied for. 
+Assessee's contention is based only on rights created by way of 
+provisional allotment in pursuance of its ap plication made to Bharat 
+Diamond Bourse BKC and the said provisional allotment letter did not 
+specify any floor/ carpet area / tower/ parking slot or share to be 
+allotted at a later date. Even the said building of Bharat Diamond 
+Bourse was completed only i n 2009 for which MMRDA Mumbai 
+finalized the lease agreement only on 31.03.2010. Then how can a 
+property be said to be under assessee's physical possession prior to14 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+2010 even when final allotment of shares along with the said space 
+in Tower -B along with pa rking slot got allotted in 29.07.2010 ?. The 
+said property with 200 shares was sold on 19.5.2012 wherein parking 
+lot was not transferred. However, assessee instead of taking 
+proportionate value of purchase consideration took entire purchase 
+value for Capit al Gain computation.  
+In view of facts and circumstances narrated above, assessee's appeal 
+in Gr No 1 fails as assessment order passed u/s 143(3) of the Act for 
+AY 2013 -14 is hereby sustained.”  
+8. Aggrieved assessee is in appeal before us and filed the revised  
+grounds of appeal which is reproduced below: -  
+“1. The learned NFAC erred in denying the Appellant the benefit 
+of indexation on the cost by holding that the capital gains earned by 
+the Appellant from the transfer was not long term capital gains but 
+short term capital gains.  
+2. The Appellant craves leave to add, amend, alter or delete any 
+or all the above grounds of appeal.”  
+9. At the time of hearing, Ld. AR brought to our notice relevant  facts 
+from the order s of the Assessing Officer and Ld.CIT(A) and he sub mitted 
+that no doubt the sale agreement was made on 19.12.2012, h owever, it 
+is relevant  to notice that right on the property  was given in the year 1998.  
+In this regard he brought to our notice Page No. 60 of the paper b ook 
+which is ledger extract of the a ssessee company in the books of the Bharat 
+Diamond Bourse wherein it was clearly brought on record that assessee 
+was given a provisional area allotment of 900 sq.ft and it is clearly given 
+details of amount  collected by them starting from 31.08.1999 onward s 
+and also it clearly indi cated office number as BC4021.15 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+10. Further, with regard to  lease deed registered with MMRD A dated 
+31st March, 2010, he submitted that it is only a renewal of the lease deed . 
+what is relevant is the actual allotment of office space to the assessee 
+which the Bharat Diamond Bourse allotted  the same in the year 1999 and 
+assessee has held the right of occupation from the date of such allotment.  
+The final sanction of occupation of area and allotment of sha res has 
+happened subsequently.  
+11. As far as in the given case what is relevant is the right of the 
+assessee held from the date of provisional  allotment is relevant.  In this 
+regard he submitted that on the similar facts , the Coordinate Bench in the 
+case of M/s. Suresh Brothers v. ACIT in I TA.No. 553/Mum/2016 dated 
+18.10.2019 decided the issue in favour of the assessee and he brought to 
+our notice Para No. 10 of the order.   Copy of the order is placed on record. 
+He further relied  on the order of Coordinate Bench in the case of  
+Anita D. Kanj ani v. ACIT in ITA.No. 2291/Mum/2015 dated 13 .02.2017.  
+12. On the other hand, Ld.DR submitted that the assessee has occupied 
+area and sold the sal eable area to the extent of 892 sq.ft.  However, the 
+ledger extract submitted  by the assessee shows the area as 900 sq.ft.  In16 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+this regard he brought to our notice Page No. 16 of the  Paper Book and 
+he relied on the fin dings of the lower authorities.  
+13. In the rejoinder Ld. AR submitted that the area declared in the 
+ledger extract from  the Bharat Diamond Bourse is only the provisional  
+allotment not the final allotment.  
+14. Considered the rival submissions and material placed on record, we 
+observe from the record that assessee transferred  the office No. BC4021 
+in Bharat Diamond Bourse , Bandr a Kurla Complex, Bandra (E), Mumbai to 
+M/s. Veer Gems on 19.05.2012.  The office which assessee was 
+transferred which belongs to Bharat Diamond Bourse which is a trade 
+body of diamond merchants and Bharat Diamond Bourse has constructed 
+the complex of buildings knowns as Bharat Diamond Bourse at Bandra 
+Kurla Complex .  The assessee being  the member of Bharat Diamond 
+Bourse h as applied for allotment of office space at the above said building  
+complex and Bharat Diamond Bourse allotted  to the assessee by letter of 
+allotment of equity shares and grant of occupancy rights dated 
+29.07 .2010 and dul y registered with the sub -registrar of Assurances, 
+Mumbai Subur ban District  which comprises of block of shares of 892 
+equity shares of ₹.1000 e ach fully paid and office pre mises No. BC402117 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+admeasuring 6 24 sq.ft carpet area equivalent of 892 build -up area on the 
+fourth floor in “B" Tower central wing of the complex  which was 
+constructed in the year 2009 on all that piece and parcel of land situated 
+within the complex.  
+15. The dispute arose  in this case is relating to date of acquisition  of the 
+right over the property by the assessee.  As per the record submitted 
+before us from the books of Bharat Diamond Bourse clearly indicates  that 
+assessee has been allotted  office space and subsequently made several 
+payments commencing from 31.08.1999 as per ledger extract.  It is 
+brought to our notice in the similar facts and grounds of appeal raised in 
+appeal before Coordinate Bench in M/s. Suresh Brothers v. ACIT (supra).   
+The Coordina te Bench has considered and adjudicated exactly similar 
+facts on record and for the sake of clarity it is reproduced below: -  
+“10. We shall now advert to the claim of the revenue that the date 
+of acquisition of the occupancy rights in the property were to  be 
+reckoned from 02.08.2010 i.e the date on which occupation rights 
+were vested with the assessee, vide a registered document. As is 
+discernible from the records, the revenue in order to fortify its 
+aforesaid claim, had observed, that as Bharat Diamond Bo urse itself 
+had acquired the leasehold rights from MMRDA on 31.03.2010, 
+therefore, the date of acquisition of the occupancy rights in the 
+aforesaid property could not be related to a date prior to the same. 
+We are unable to accept the aforesaid misconceive d view of the 
+revenue. Although the „lease deed‟ between Bharat Diamond Bourse 
+and MMRDA was formerly registered on 31.03.2010, but the 
+construction of the property was in progress much before that date. 
+On a perusal of the records, it stands revealed that  Bharat Diamond18 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+Bourse had entered into two lease agreements in the months of 
+March, 1993 and May, 1993 with MMRDA, on the basis of which it 
+had acquired two pieces of the land on lease, on which construction 
+was subsequently carried out. On the basis of t he aforesaid facts, it 
+can safely be concluded, that the A.O is not correct in observing that 
+Bharat Diamond Bourse had acquired the leasehold rights of the land 
+only on 31.03.2010. In the backdrop of the aforesaid facts, the claim 
+of the A.O that Bharat D iamond Bourse had acquired the leasehold 
+rights only on 31.03.2010 falls to ground. As regards the view of the 
+A.O that as equity shares and occupancy rights in relation to the 
+property were allotted in August 2010, therefore, the acquisition of 
+rights in the property were bestowed on the assessee only from the 
+said date, we are afraid does not find favour with us. In our 
+considered view, for determining the holding period of the property, 
+the date on which the valid title of the property was conferred upon  
+the assessee would not be relevant. Admittedly, a valid title towards 
+the aforesaid property was vested with the assessee on the basis of 
+the registered document, dated 02.08.2010, however, the same 
+would not be conclusive for determining the holding peri od of the 
+property under consideration. On the basis of our aforesaid 
+observations, we are unable to persuade ourselves to subscribe to 
+the claim of the revenue that the acquisition of the property under 
+consideration was to be reckoned from 02.08.2010 i.e . the date on 
+which the valid title of the rights in the property got vested with the 
+assessee on the basis of a registered document and equity shares 
+were allotted in its favour.  
+11. As pursuant to the final and binding allotment carried out by 
+lottery s ystem, the assessee vide allotment letter dated 03.12.1999 
+was allotted the property under consideration i.e Office No. EE6011, 
+Bharat Diamond Bourse (built up area of 5,750 sq. ft.), therefore, it 
+can safely be concluded that a right towards the aforesaid  property 
+got vested with the assessee from the said date. Also, as is 
+discernible from the records, the assessee as on the date of allotment 
+had parted with substantial portion of consideration towards the cost 
+of acquisition of the property under conside ration. Our aforesaid 
+view is further fortified from the observation of the CIT(A), wherein 
+he had observed, that a transfer application dated 22.11.2000 filed 
+by a different concern for transfer of its property was allowed by 
+Bharat Diamond Bourse from th e beginning. As such, the aforesaid 
+fact in itself evidences that the said transferor concern on 22.11.200019 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+was vested with a right which could be transferred in favour of a 
+third party. On the basis of our aforesaid deliberations, we are of the 
+considered  view that as the case of the assessee is no different from 
+the aforesaid concern, therefore, it can safely be concluded that 
+pursuant to the final and binding allotment of the office premises i.e 
+EE6011, Bharat Diamond Bourse (built up area of 5,750 sq. f t.) on 
+03.12.1999, the assessee got vested with the ownership of the rights 
+in respect of the property under consideration. Our aforesaid view is 
+supported by the judgment of the Hon’ble High Court of Bombay  
+in the case of PCIT -3, Vs. Vembo Vaidyanathan (2 019) 261 
+taxman 376 (Bom) . Issue raised by the revenue in its appeal before 
+the Hon‟ble High Court was, as to whether the Tribunal was justified 
+in reckoning the acquisition of the property from the date of letter of 
+allotment which though did not lead to creation of any proper and 
+effective right over the capital asset, and not from the date on which 
+the „agreement‟ which spelled out the exact terms and conditions 
+for acquisition was executed. It was observed by the Hon‟ble High 
+Court, that the CBDT vide i ts Circular No. 471, dated 15.10.1996 had 
+clarified that when an assessee purchases a flat to be constructed by 
+Delhi Development Authority (D.D.A) for which allotment letter is 
+issued, date of such allotment would be the relevant date for the 
+purpose of c apital gain tax as the date of acquisition. Further, 
+referring to the clarification issued by the CBDT, vide its Circular No. 
+672, dated 16.12.1993, it was observed by the Hon‟ble High Court, 
+that the Board had clarified that if the terms of the schemes of  
+allotment and construction of flats/houses by the co -operative 
+societies or other institutions were similar to the terms of allotment 
+and construction by D.D.A, then on the same basis the acquisition of 
+the property was to be related to the date on which the allotment 
+letter was issued. On the basis of its aforesaid observations, the 
+Hon’ble High Court had dismissed the appeal of the revenue. In the 
+backdrop of our aforesaid deliberations, we are of the considered 
+view that as no infirmity emerges from the  order of the CIT(A), who 
+we find had rightly concluded that the date of acquisition of the 
+property under consideration was to be reckoned from the date of 
+the allotment letter i.e 03.12.1999, therefore, we uphold his order.”  
+16. Respectfully following the ab ove said decision, since the issue is 
+exactly similar and facts are also identical, we are of the view that date of20 
+ITA NO. 645/MUM/2022 (A.Y: 2013 -14) 
+M/s. Sumit Export  
+ 
+acquisition of the property was to be reckoned from the date of the 
+allotment i.e in the F.Y. 1998 -99.  Respectfully following the ab ove 
+decision , we allow the ground raised by the assessee.  
+17. In the result, appeal filed by the assessee is allowed.  
+Order pronounced in the open court on  10th November, 2022 
+ 
+Sd/-         Sd/-  
+(KULDIP SINGH)      (S. RIFAUR RAHMAN ) 
+JUDICIAL MEMBER      ACCOUNTANT MEMBER  
+Mumbai / Dated 10.11.2022 
+Giridhar, Sr.PS  
+Copy of the Order forwarded to :  
+1. The Appellant  
+2. The Respondent.  
+3. The CIT(A), Mumbai.  
+4. CIT  
+5. DR, ITAT, Mumbai  
+6. Guard file.  
+ 
+//True Copy//  
+BY ORDER  
+ 
+ 
+(Asstt.  Registrar)  
+ITAT, Mum

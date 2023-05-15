@@ -1,0 +1,299 @@
+IN THE INCOME TAX APPELLATE TRIBUNAL   
+BENGALURU “C” BENCH, BENGALURU 
+Before Shri George George K., Judicial Member  
+and 
+Ms. Padmavathy S., Accountant Member
+ITA No. 912/Bang/2019
+ (Assessment Year: 2010-11) 
+M/s. Alpha Elsec Defence & 
+Aerospace Systems Pvt. Ltd. 
+9, Interface, Accolade 
+Service Road, HAL 2nd Stage 
+Bangalore 560008 
+PAN – AAECA7856MvsDCIT, Circle 1(1)(1) 
+2nd Floor, BMTC Building 
+80ft Road, Koramangala 
+Bangalore 560095
+(Appellant) (Respondent) 
+Assessee by: Shri S. Ramasubramanian, CA 
+Revenue by: Ms. Neera Malhotra, CIT-DR 
+Date of hearing:        06.02.2023 
+Date of pronouncement:        08.02.2023 
+O R D E R
+Per: George George K., J.M .  
+This appeal at the instance of the assessee is directed against the order of 
+the CIT(A) -1, Bangalore dated 22.02.2019. The relevant assessment year is 
+2010-11. 
+2. The brief facts of the case are that the assessee is a private limited 
+company engaged in the business of manufacturing, assembly and testing of 
+Opto-Electronic Equipments. For the assessment year 2010-11 the return of 
+income was filed on 27.09.2010 declaring loss of Rs.9,60,93,512/-. The 
+assessment was selected for scrutiny and notice under Section 143(2) of the 
+Income Tax Act, 1961 (the Act) was issued. During the assessment 
+proceedings it was noticed that the assessee company had entered intoITA No. 912/Bang/2019 
+Alpha Elsec Defence & Aerospace Systems Pvt. Ld.2
+international transactions with its associated enterprises (AE’s) and the matter 
+was referred to the Transfer Pricing Officer (TPO) for determining the arm's 
+length price (ALP) of the said international transactions. The TPO passed 
+order under Section 92CA of the Act on 31.10.2014 proposing a transfer 
+pricing adjustment of Rs.12,57,52,333/- to the arm’s length price. Pursuant  to 
+the TPO’s order, draft assessment order under Section 143(3) r.w.s. 144C of 
+the Act was passed on 17.02.2014. The assessee filed its objections before the 
+Dispute Resolution Panel (DRP) against the draft assessment order. The DRP, 
+vide its directions dated 25.11.2014, disposed off the objections of the 
+assessee. The DRP excluded 6 comparables out of the 10 comparables selected 
+by the TPO and confirmed functional comparability of remaining 4 
+comparables. Pursuant to the DRP directions, the final assessment order dated 
+30.12.2014 was passed, wherein the transfer pricing adjustment was reduced 
+to Rs.8.89,42,012/- from Rs.12,57,52,333/- proposed in the draft assessment 
+order.  
+3. Aggrieved by the final assessment order dated 30.12.2014, both 
+Revenue and assessee filed appeals before the Tribunal. The Tribunal vide its 
+order dated 27.11.2015 in IT(TP)A No. 249/Bang/2015 and IT(TP)A No. 
+175/Bang/2015 held that TNMM is the most appropriate method for 
+determining arm’s length price. Further, with regard to the assessee’s 
+objections towards four comparables selected by the TPO and endorsed by the 
+DRP, the Tribunal confirmed one comparable, namely Spel Semiconductor 
+Ltd. as correctly taken and set aside the issue of comparability of three 
+companies to the file of the TPO for verification and decide afresh as per law. 
+The Tribunal also allowed the assessee as well as the TPO to carry out fresh 
+search and bring comparable companies for the purpose of determining the 
+arm’s length price. The Revenue’s appeal regarding comparability of six 
+companies was dismissed by the Tribunal.ITA No. 912/Bang/2019 
+Alpha Elsec Defence & Aerospace Systems Pvt. Ld.3
+4. Subsequent to the Tribunal’s order, the TPO passed order under Section 
+92CA r.w.s. 254 of the Act on 29.09.2016 wherein the TPO selected two 
+companies as final comparables.  One of the comparables was Spel 
+Semiconductor Ltd. which was confirmed by the Tribunal in its order dated 
+27.11.2015. One more comparable, namely Continental Device India Ltd. was 
+selected out of the remaining three comparables and thus the arm’s length 
+price was determined on the basis of two comparables. Pursuant to the order 
+giving effect to the TPO’s order the final assessment order was passed on 
+22.11.2016 u/s. 143(3) r.w.s. 254 of the Act.  
+5. Aggrieved by the final assessment order dated 22.11.2016, the assessee 
+filed an appeal before the first appellate authority. The CIT(A) dismissed the 
+appeal of the assessee vide the impugned order dated 22.02.2019. 
+6. Aggrieved by the order of the CIT(A) assessee has filed the present 
+appeal. The assessee has raised three grounds in its original grounds of appeal 
+and also filed four additional grounds vide its application dated 31.12.2019. 
+The learned A.R., during the course of hearing, submitted that the additional 
+grounds are purely legal grounds and same can be decided on the basis of the 
+facts on record. It was submitted that, since no new or fresh facts are required 
+to be brought on record to decide the additional grounds same may be 
+admitted for adjudication of the issue raised therein. In this context the learned 
+A.R. relied on the judgements of the Hon'ble Apex Court in the case of Jute 
+Corporation of India Ltd. vs. CIT (1991) 187 ITR 688 (SC) and CIT vs. National 
+Thermal Power Corporation 229 ITR 383. 
+7. The learned D.R. submitted that the assessee has not raised the issue 
+agitated in additional ground Nos. 1 & 2 before the CIT(A). Hence the 
+additional grounds should not be admitted. Ground Nos. 1 & 2 raised in the 
+additional grounds read as under: -ITA No. 912/Bang/2019 
+Alpha Elsec Defence & Aerospace Systems Pvt. Ld.4
+“1. That the order of the assessment dt. 22.11.2016 passed by the 
+Assessing Officer is void-ab-initio as the mandatory 
+provisions of Sec. 144C of the Income-tax Act 1961 (Act) have 
+not been complied with. 
+2. That the learned Assessing Officer erred in law and on fact in 
+passing the final assessment order u/s 143(3) without passing 
+a draft assessing order as required u/s 144C of the Act.”  
+8.  We find that the additional grounds raised are purely legal in nature and 
+can be decided based on the facts on record. Therefore, by placing reliance on 
+the judgement of Hon'ble Apex Court in the case of CIT vs. National Thermal 
+Power Corporation and Jute Corporation of India (supra), we admit the above 
+two additional grounds for adjudication. The learned A.R. submitted that since 
+no draft assessment order was passed pursuant to ITAT order, the assessee was 
+precluded from raising objections before the DRP. In such circumstances it 
+was submitted, since the mandatory conditions prescribed under Section 144C 
+of the Act have not been followed, the order of assessment dated 22.11.2016 
+passed by the AO is void ab-initio. In this context the learned A.R. relied on 
+the following judicial pronouncements: - 
+1.Principal Commissioner of Income Tax vs. Andrew Telecommunication 
+Pvt. Ltd. reported (2020) 423 ITR 503 (Bom) 
+2. Principal Commissioner of Income Tax vs. Appollo Tyres Ltd. reported 
+in (2022) 449 ITR 398 (Ker) 
+3.Inatech India Pvt. Ltd. in IT(TP)A No. 214/Bang/2018 order dated 
+30.04.2019 
+4.Fosroc Chemicals (India) Pvt. Ltd. vs. DCIT in IT(TP)A No. 
+87/Bang/20016 order dated 17.10.2016 
+9.  The learned D.R., on the other hand, submitted that the facts of the case 
+cited by the learned A.R. is different from the case in hand since in the 
+referred cases the entire assessment order was set aside by the ITAT whereas 
+in the instant case only certain points were set aside.ITA No. 912/Bang/2019 
+Alpha Elsec Defence & Aerospace Systems Pvt. Ld.5
+10. We have heard the rival contentions and perused the material on record. 
+The issue raised in additional ground Nos. 1 & 2 is that the final assessment 
+order dated 22.11.2016 has been passed in violation of Section 144C(1) of the 
+Act is as much as it was not preceded by the draft assessment order. The above 
+issue is no longer res-integra. The Hon'ble Kerala High Court in the case of 
+PCT vs. Appollo Tyres (supra) has held that requirement of redoing the same 
+procedure under Section 144C of the Act on a remand to the AO is mandatory 
+and an omission in following the procedure was held to be incurable defect. 
+The Hon'ble High Court has placed reliance on the judgement of the Hon'ble 
+Delhi High Court in the case of Nokia India (P.) Ltd. vs. Addl. CIT and the 
+Special Leave Petition filed against the said judgement in SLP (Civil) Diary 
+No. 7302/2018 (Addl. CIT vs. Nokia India P. Ltd. reported in (2018) 405 ITR 
+(St.) 7(SC). The relevant finding of the Hon'ble Kerala  High Court in case of 
+Appollo Tyres (supra) reads as follows: - 
+“10. The requirement of redoing the same procedure upon remand 
+the Assessing Officer under section 144C is held to be mandatory 
+and omission in following the procedure is held to be an incurable 
+defect. The Revenue does not dispute the omissions pointed out in 
+this behalf by the Tribunal. The filing of appeal before the 
+Commissioner of Income-tax (Appeals) cannot be treated as a 
+waiver of an objection available to the assessee in this behalf 
+under section 144C etc. Section 253(1)(d) provides for appeal 
+only when order has been made under section 143(3) read with 
+section 144C of the Act. Annexure E order is an order made under 
+section 143(3) of the Act and not a final revised assessment order 
+made in compliance with the directions issued by the Dispute 
+Resolution Panel. The assessee, hence was justified in moving the 
+Commissioner of Income-tax (Appeals). This court has difficulty 
+in accepting the argument of the Revenue to sustain the order in 
+annexure E. The arguments have been confined to the points 
+considered above and we are of the view that the Tribunal has 
+correctly considered the objections of the assessee against 
+annexure E order and recorded the findings which resulted in the 
+order under appeal. The order of Tribunal is to be understood in the 
+background of what is considered by the Assessing Officer in 
+annexure E and what was not the subject matter before the Assessing 
+Officer, upon the remand in the first round of litigation cannot andITA No. 912/Bang/2019 
+Alpha Elsec Defence & Aerospace Systems Pvt. Ld.6
+could not be understood as made by the Tribunal. We are in 
+agreement with the argument of Mr. Joseph Markos that annexure E 
+is limited only to the issues remitted by the Tribunal in annexure D 
+order dated November 21, 2014.
+11. For the above reasons and the discussion the questions are 
+answered in favour of the assessee and against the Revenue.” 
+11. Similar view has been held by the Hon'ble Bombay High Court in the 
+case of PCIT vs. Andrew Telecommunication Pvt. Ltd. (supra). The relevant 
+findings of the Hon'ble High Court reads as under: - 
+“17. In the case of International Air Transport Association, the 
+Division Bench of this court has held that the order passed by the 
+Assessing Officer without there being any draft assessment order is 
+illegal and without jurisdiction. The same view has been reiterated 
+in the case of Zuari Cement Ltd. v. Asst. CIT W.P . (C) No. 5557 of 
+2012, dated February 21, 2013 (AP) by the Division Bench of the 
+Andhra Pradesh High Court which also held that the failure to 
+pass a draft assessment order under section 144C(1) of the Act 
+would result in rendering the final assessment as one without juris-
+diction. This position of law is settled. 
+18. Now to consider whether after remand, it was necessary to 
+issue a draft assessment order. Firstly, the issuance of a draft 
+assessment order is not an empty formality. When a draft 
+assessment order is passed and copy is given to the assessee, the 
+assessee can raise objections before the Dispute Resolution Panel 
+on any of the proposed variations. There is a right given to the 
+assessee to object, and to have the objections considered not by the 
+Assessing Officer, but by the Dispute Resolution Panel. 
+19.  The Tribunal, by order dated October 1, 2012, set aside the 
+entire exercise and the matter was relegated to the Assessing 
+Officer. Once the matter was sent back to be decided afresh it went 
+back to the stage of section 144C(1) of the Act. Since the Tribunal 
+set aside the proceedings on the ground of violation of principles of 
+natural justice, the first exercise was void and without jurisdiction. 
+Therefore, nothing remained on the record, including the draft 
+assessment order. Therefore, issuance of a draft assessment order 
+was necessary. We do not find from the scheme of section 144C that 
+if the proceedings were to be started afresh on remand, the draft 
+assessment order is not required to be given. Non-issuance of the 
+draft assessment order has thus vitiated the final assessment order.ITA No. 912/Bang/2019 
+Alpha Elsec Defence & Aerospace Systems Pvt. Ld.7
+20. In the case of JCB India, the Division Bench of the Delhi High 
+Court in identical circumstances has held that after the remand on 
+facts, the draft assessment order was necessary.” 
+12. The Bangalore Bench of the Tribunal in the case of Fosroc Chemicals 
+(India) Pvt. Ltd. (supra) and Inatech India Pvt. Ltd. (supra) had also taken a 
+similar view by following the judgement of the Hon'ble Andhra Pradesh High 
+Court in the case of Zuari Cement Ltd. vs. ACIT in Writ Petition (C) No. 5557 
+of 2012 dated 21.02.2013 and the judgement of the Hon'ble Madras High 
+Court in the case of Vijay Television Pvt. Ltd. vs. Dispute Resolution Panel, 
+Chennai reported in 369 ITR 113 (Mad.). The learned D.R. had contended that 
+the above judicial pronouncements cited supra are distinguishable since in the 
+referred cases the entire assessment order was set aside by the ITAT wherein in 
+the instant case only the comparability of three companies has been set aside 
+by the ITAT. We find this contention of the learned D.R. to be factually 
+incorrect. The ITAT in its order of remand dated 27.11.2015 had allowed the 
+AO as well as the TPO to carry out fresh search and bring comparable 
+companies for the purpose of determining the ALP. The relevant findings of 
+the ITAT in this regard reads as follows: - 
+“16. Since most of the comparables which were selected by the 
+TPO are found to be non-comparable and some of the companies 
+are now set aside for fresh verification, therefore, if in remand 
+proceedings the TPO find that original comparables selected by the 
+TPO are not functionally comparable or good comparable for the 
+purpose of ALP , then the assessee as well as the TPO are free to 
+carry out the fresh search and bring the comparables companies for 
+the purpose of determining the ALP .” 
+13. From the above directions of the ITAT it is clear that the entire exercise 
+of determining the ALP of the international transactions has been restored to 
+the TPO. Moreover, in the case of PCIT vs. Appollo Tyres (case considered by 
+the Hon'ble Kerala High Court) ITAT had only allowed the appeal in part and 
+remanded the matter to the AO for statistical purposes for fresh assessment of 
+issues referred to the AO (refer para 3 at page 4 of the High Court judgement).ITA No. 912/Bang/2019 
+Alpha Elsec Defence & Aerospace Systems Pvt. Ld.8
+14. Moreover the Hon'ble Delhi High Court in the case of JCB India Ltd. 
+vs. DCIT reported in (2017) 398 ITR 189 (Del) had rejected the contention of 
+the Revenue that since assessment itself was not cancelled by ITAT or 
+completely set aside, there is no necessity to pass the draft assessment order in 
+the set aside proceedings. The submission of the learned Additional Solicitor 
+General of India before the Hon'ble Delhi High Court (refer para 16) read as 
+follows:  
+“16. In response, Mr. Sanjay Jain, learned Additional Solicitor 
+General of India appearing for the Revenue, submitted that there 
+was an efficacious alternative remedy available to the Petitioner to 
+file appeals against the impugned final assessment order passed by 
+the AO. It is denied that it was mandatory on the part of the AO to 
+pass a draft assessment order since this was a second round before 
+the TPO pursuant to remand by the ITAT. Moreover, it was not as if 
+the ITAT had set aside the entire assessment order of the AO. The 
+setting aside was only in respect of the transfer pricing adjustment 
+and that too with a specific direction to the AO for determining the 
+arm's length price “after considering fresh comparables.” Since 
+the assessment itself was not cancelled by the ITAT or completely 
+set aside, it is the provisions of Section 153(3)(ii) of the Act which 
+would apply. Mr. Jain submitted that the requirement of passing a 
+draft assessment order under Section 144C was only in the first 
+instance and not after the remand by the ITAT.”
+(emphasis supplied) 
+15. The above contention of learned Additional Solicitor General of India 
+(identical to the submission of learned D.R. in this case) was rejected by the 
+Hon'ble Delhi High Court by observing as under: - 
+“17. The Court is unable to agree with the submissions made on 
+behalf of the Revenue by Mr. Jain. Section 144C(1) of the Act is 
+unambiguous. It requires the AO to pass a draft assessment order 
+after receipt of the report from the TPO. There is nothing in the 
+wording of Section 144C(1) which would indicate that this 
+requirement or passing a draft assessment order does not arise 
+where the exercise had been undertaken by the TPO on remand to it, 
+of the said issue, by the ITAT.” 
+16. Therefore the final assessment order dated 22.11.2016 is bad in law 
+since it was not preceded by a draft assessment order. Had a draft assessmentITA No. 912/Bang/2019 
+Alpha Elsec Defence & Aerospace Systems Pvt. Ld.9
+order been passed the assessee would have got an opportunity to file 
+objections before the DRP and in the instant case since draft assessment order 
+has not been passed the assessee was precluded from filing objections before 
+the DRP. Since the final assessment order dated 22.11.2016 has been passed 
+by the AO not in compliance with the mandatory provisions of section 144C 
+of the Act the said order is void ab-initio in light of the judicial 
+pronouncements cited supra. 
+17. Since we have quashed the assessment order dated 22.11.2016 as void 
+ab-initio, the other grounds and the additional grounds are not adjudicated and 
+are left open. It is ordered accordingly. 
+18. In the result, the appeal filed by the assessee is partly allowed. 
+Dictated and pronounced in the open Court on 8th February, 2023. 
+Sd/- Sd/- 
+(Padmavathy S.) (George George K.) 
+Accountant Member Judicial Member 
+Bengaluru, Dated: 8th February, 2023 
+Copy to: 
+1.The Appellant 
+2.The Respondent 
+3.The CIT(A) -1, Bengaluru  
+4.The Pr. CIT - 1, Bengaluru 
+5.The DR, ITAT, Bengaluru 
+6.Guard File 
+                         By Order 
+//True Copy// 
+Assistant Registrar 
+                    ITAT, Bengaluru 
+n.p.

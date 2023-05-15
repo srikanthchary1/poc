@@ -1,0 +1,689 @@
+IN THE INCOME TAX APPELLATE TRIBUNAL  
+“I” BENCH, MUMBAI  
+ 
+BEFORE SHRI  G.S. PANNU , PRESIDENT AND 
+SHRI SANDEEP SINGH KARHAIL, JUDICIAL MEMBER  
+ 
+ITA no. 1855/Mum./2022  
+(Assessment Year : 2017–18)  ITA no. 1856/Mum./2022  
+(Assessment Year : 2018–19) 
+ 
+ 
+PDR Solutions FZC  
+501, 5th Floor, I.T. Building no.3  
+NESCO IT Park, SESCO Building  
+Western Express Highway  
+Goregaon (East), Mumbai 400 063  
+PAN – AAGCP5504K   
+……………. Appellant  
+ 
+v/s 
+ 
+Dy. Commissioner of  Income Tax  
+International Taxation  
+Circle –3(3)(2), Mumbai   
+……………. Respondent  
+ 
+Assessee by  :   Shri Porus Kaka a/w  
+         Shri Divesh Chawla  
+  Revenue by   :   Shri Amit Kumar Soni  
+ 
+Date of Hearing – 21/12/2022   Date of Order – 30/12/2022  
+ 
+O R D E R  
+ 
+PER BENCH  
+ 
+ 
+ The present  appeal s have  been filed by the assessee against  the 
+separate impugned final assessment order s dated 31/05/2022 and 
+23/05/2022 , passed under section 143(3) r/w section 144C(13) of the Income 
+Tax Act, 1961 ( „the Act ‟) by the Assessing Officer (‘ AO‟), pursuant to the 
+separate directions issued by  the learned Dispute Resolution Panel –I, (‘learnedPDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 2  DRP‟), under section 144C(5) of the Act for the assessment year 201 7–18 and 
+2018–19, respectively . 
+ 
+2. Since both appeals pertain to the same assessee and th e issues involved 
+are also  common, therefore, as a matter of convenience, these appeals were 
+heard together and are being disposed off by way of this consolidated order. 
+With the consent of the parties, the assessee’s appeal for the assessment  year 
+2017–18 is taken up as a lead case.  
+ 
+ITA no.1855/Mum./2022  
+Assessee’s Appeal – A.Y. 2017 –18 
+ 
+3. In its appeal, the assessee has raised following grounds: – 
+ 
+“On the facts, and in the circumstances of the case, and in law, the Appellant 
+craves to prefer an appeal agai nst the order dated 31 May 2022 passed by the 
+Deputy Commissioner of Income - tax (Int. Tax) -3(3)(2) (hereinafter referred to 
+as the 'learned AO) under Section 143(3) read with Section 144C(13) of the 
+Income -tax Act, 1961 on the grounds as set out herein:  
+ 
+The following grounds are independent of, and without prejudice to, one 
+another:  
+ 
+GROUND 1: OBJECTION AGAINST ADDITION ON ACCOUNT OF INCOME FROM 
+DOMAIN REGISTRATION SERVICES  
+ 
+On the facts and circumstances of the case and in law, the Assessing Officer 
+(AO) erred in alleging that income from Domain Name Registration services is 
+taxable as 'Royalty' under Section 9(1)(vi) of the Income Tax Act, 1961 (Act') 
+and under the India - UAE treaty (tax treaty"). ). The AO based on his 
+conclusion contended that the Appe llant is the owner of the domain name and   
+is imparting the right to use in respect of a domain name thus erroneously 
+considering it as  a „Trademark ‟. 
+ 
+The Assessing Officer (AO) erred in understanding the fact that the domain 
+name does not lie with the appellant, and accordingly, there is no question of 
+imparting rights for further consideration, thus it cannot be classified as the 
+trademark and cannot be termed as „ Royalty ‟. 
+ 
+GROUND II: OBJECTION AGAINST ADDITION ON ACCOUNT OF INCOME FROM  
+WEB HOSTING SERVICESPDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 3  On the facts and circumstances of the case and in law, the Assessing Officer 
+('AO') erred in proposing that income from web hosting services is ta xable as 
+'Royalty under Section 9(1Xvi) of the Income Tax Act, 1961 (Act') and under 
+the India - UAE treaty (tax treaty') in the absence of any physical access or 
+control or possession or independent right being granted by the appellant to 
+the payer . 
+ 
+The A ssessing Officer (AO) erred in concluding that the income from web 
+hosting is interlinked to income from domain registration services and 
+considered as royalty despite the fact that the said services are mutually 
+exclusive and independent.  
+ 
+GROUND III: OBJ ECTION AGAINST ADDITION ON ACCOUNT OF SPONSORSHIP 
+INCOME  
+ 
+On the facts and circumstances of the case and in law, the Assessing Officer 
+('AO") erred in concluding that the assessee did not provide substantial 
+documents and information regarding the treatmen t of sponsorship and other 
+income, as a business income in computation and alleging that it is clearly 
+evident that assessee is hiding the fact with respect to same and claimed that 
+the same should be added to the income of the assessee.  
+ 
+The Assessing Off icer (AO) erred in ignoring the fact that the assessee had 
+made sufficient disclosures and submitted proper evidence in support of its 
+contention that there shall not be any addition made on account of Sponsorship 
+Income due to the absence of Permanent Est ablishment in India . 
+ 
+The assessing officer (AO) erred in law and in the fact that the income from 
+Sponsorship is taxable as 'Business income' under the India -UAE tax treaty 
+(„tax treaty') treating it as PE in India without giving adequate reasoning  / 
+explanation for treating it as PE in India . 
+ 
+The Appellant craves leave to add to, or alter, by deletion, substitution, 
+modification, or otherwise, the above grounds of appeal, either before or during 
+the hearing of the appeal. ” 
+  
+4. The brief facts of the case are: The assessee is incorporated in United 
+Arab Emirates (‘ UAE‟) and is a tax resident of UAE. The assessee is engaged in 
+the business of web presence, and sale of domain names to global customers 
+through its B2B brands ‘ Logic Boxes ’, ‘Reseller Club ’, and B2C brand ‘ Big Rock ’. 
+The B2B business represents the sale of domain names to domain name 
+resellers, whereas B2C represents the sale of domains to third -party ultimate 
+customers. The business of the assessee also comprises of providing web 
+hosting service s whereby server  spaces are given on lease/hire to clients. ForPDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 4  the year under consideration, the assessee e -filed its return of income on 
+30/11/2017 declaring  a total  income of Rs. 8,10,94,810. The return of income 
+filed by the assessee was selected for s crutiny and statutory notices under the 
+Act were issued. In view of the international transactions entered into by the 
+assessee with its associated enterprises, reference was made to the Transfer 
+Pricing Officer for the determination of arm’s length price in respect of the said 
+international transactions. The Transfer Pricing Officer drew no adverse 
+inference in respect of the international transactions undertaken by the 
+assessee during the year under consideration. During the year,  the assessee 
+received the following income from India:  
+  
+Sr. 
+No. Nature of Revenue  Amount (in INR)  
+1. Licensing of Orderbox platform to a 
+group entity  1,03,05,528/ – 
+2. Licensing of brand and trademark  2,01,16,542/ – 
+3. Receipt for sale of customer list and 
+customer contracts  5,06,72,737/ – 
+4. Date centre income  3,05,20,419/ – 
+5. Domain sale income  27,41,96,969/ – 
+6. Sponsorship income  64,91,659/ – 
+ 
+ 
+The receipts at serial No. 4, 5 , and 6 were considered taxable by the 
+Revenue and thus, the assessee is in appeal before us.  
+ 
+5. The issue arising in ground No.  I, raised in assessee’s appeal, is 
+pertaining to the addition on account of income from domain registration 
+services.PDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 5  6. The brief facts of the case pertaining to this issue are:  During the 
+assessment proceedings, the assessee was asked to show cause as to why the 
+income from domain sale income , inter -alia, should not be treated as royalty. 
+In response thereto the assessee submitted that the domain name is an 
+internet network addr ess that is readable in human language and can be 
+obtained on first -come first -served basis. The assessee further submitted that  
+assessee is not the owner of the domain name and therefore the question of 
+transfer of any right in the said domain name cannot  arise. It was further 
+submitted that  the domain name registration services are provided by 
+Registrars who are accredited by Internet Corporation for Assigned Names and 
+Numbers (‘ ICANN ‟), which is a non-profit organisation authorised by the United 
+States D epartment of Commerce . It was submitted that  the assessee is a 
+Registrar and is merely a facilitator of the domain name registration and not 
+the user of the domain name. By referring to the Uniform Domain Name 
+Dispute Resolution Policy, 1999, the assessee submitted that the Registrar or 
+the Resellers do not own the domain name or  the trademark associated with 
+the domain name and the rights if any vest with the registered domain name 
+holder i.e. registrant and the trademark owner.  Further, the domain name 
+registration  service  is a standard facility , which can be availed by anyone on 
+payment of nominal fees . And, domain registration services are akin to the 
+provision of registration services for registering the name of a Company wit h 
+the Registrar of Companies, or more commonly, registering a motor vehicle 
+with the Regional Transport Authority.  It was further submitted that in the 
+event of trademark infringement suits filed by parties with regard to the use of 
+domain names with mala fide intention, the Registrars/Reseller cannot be suedPDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 6  since they did not have any right in the domain name which was registered by 
+them as  a mere facilitator . 
+ 
+7. The AO vide draft assessment order dated 26/09/2021 passed under 
+section 143(3) of the Act did not agree with the submissions of the assessee 
+and held that domain name registration is taxable in India as royalty because 
+domain name is an ‘intangible asset ’ in the nature of ‘trademark ‟. The AO 
+further held that the assessee is giving the client right to use its domain name 
+for a fix ed period and for a fixed amount of time.  Further, the assessee is not 
+selling the domain name but registering or renewing it, which clearly indicates 
+that the assessee as a domain name services provider is the owner of the 
+domain name and it is only providing the right to use the domain name to its 
+clients. Accordingly , the AO treated the sum of Rs. 27,41,96,969 received by 
+the assessee on account of domain name registration as royalty  under the 
+provisions of the Act as well as the India UAE Double Taxation Avoidance 
+Agreement (‘ DTAA‟ ) and added the same to the total income of the assessee.  
+ 
+8. The assessee filed detailed objections before the learned DRP, inter -alia, 
+against the addition made by the AO. Vide directions dated 07/03/2022 , issued 
+under section 144C(5) of the Act, the learned DRP reject ed the objections filed 
+by the assessee . In conformity with the directions issued by the learned DRP, 
+the AO passed the impugned final assessment order dated 31/05/2022 , and 
+assessed the income from domain name registration as royalty. Being 
+aggrieved, the  assessee is in appeal before us.PDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 7  9. During the hearing,  the learned Sr. Counsel, appearing for the assessee, 
+submitted that  the assessee is a Registrar, who is authorised by ICANN  and 
+acts as an intermediary in the entire process of domain name registration . 
+Learned Sr. Counsel  by referring to the Registrar Accreditation Agreement 
+between the assessee and ICANN as well as the Reseller Master Agreement 
+between the assessee and the reseller submitted that the assessee neither 
+grants domain names nor ha s any ri ght to customer data given to the 
+Registry.  Further,  it was submitted that  the domain name is not an intellectual 
+property right  of the assessee  and the right , of any sort, is only with the 
+customer /registrant . The learned Sr. Counsel submitted that the role of the 
+assessee is merely to check the domain name sought to be registered by the 
+customer in the database maintained by the Registry.  
+ 
+10. On the contrary, the learned Departmental Representative (‘ learned DR‟ ) 
+vehemently relied upon the order passed by the lower authorities.  
+ 
+11. We have considered the rival submissions and perused the material 
+available on record. The issue to be considered is whether the income earned 
+by the assessee, who is a Registrar, from domain name registration will be 
+taxable as  royalty under the provisions of the Act or DTAA.  The domain name 
+is an internet network address that is readable in human language. Domain 
+names are formed by the rules and procedures of the Domain Name System 
+(‘DNS‟). Any name registered in the DNS is a domain name. In general, a 
+domain name represents an Internet Protocol (‘ IP‟) resource.  Computers or 
+any other internet resources communicate by using numbers, called IP 
+addresses, to contact each other. Domain names serve to identify suchPDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 8  internet resourc es with a text base label that is easier to memorise th an the 
+numerical addresses used in the Internet Protocols . Domain names are also 
+used a s simple identification labels to indicate ownership or control of a 
+resource. Organisations can choose a domain n ame that corresponds to their 
+name, helping internet users to reach them easily. Thus, with the domain 
+name, an organisation named ABC can state its website as ‘ abc.com’ instead of 
+123.876.321/abc/.  
+ 
+12. The domain name registration process involves ICANN, Registry, 
+Registrar , and Reseller. The role of each party in this process is as under:  
+ 
+(a) ICANN is an organisation charged with overseeing the name and 
+number systems of the Internet. In addition to ICANN , each Top -Level 
+Domain ( „TLD‟) is maintained and serviced technically by an 
+administrative organisation operating a registry.  
+ 
+(b) The Registry is responsible for maintaining the database of names 
+registered with the TLD it administers. ICANN  manages the TLD with the 
+help of hundreds of domain name Registries spread throughout the 
+world. Each of these Registries is certified by and subject to the direct 
+supervision of ICANN. The role of the Registry operators within the 
+internet ecosystem includes accepting registration request s and keepi ng 
+the master database of all domain names registered in each TLDs. The 
+Registry receives registration information from each domain name 
+Registrar authorised to assign names in the corresponding TLD and 
+publishes the information using a special service.  
+ 
+(c) The Registrar is an entity that offer s domain name registration 
+services to registrants in generic top -level domains.  The relationship 
+between ICANN and every ICANN -accredited Registrar is governed by 
+the Registrar Accreditation Agreements, which  sets out the obligation ofPDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 9  both parties. The Registries and Registrars usually charge an annual fee 
+for the service of delegating a domain name to a user and providing a 
+default set of name servers.  
+ 
+(d) The reseller is a third party company that offers domai n name 
+registration services through a Registrar.  
+ 
+The diagrammatic representation of the domain registration process is as 
+under:  
+ 
+ 
+ 
+ 
+  
+13. In the present case, the assessee provided domain name registration to 
+various customers under the brand name ‘ Logic Boxes ’, ‘Big Rock ’, ‘Reseller 
+Club’, and other categor ies to resellers and retail customers. The assessee 
+functions as the ‘ Registrar‟  in the domain name regist ration process and its 
+group companies act as ‘ Reseller‟  which procures domain registration services 
+from the assessee , as the case may be , and provides it the ultimate 
+customers.  As per the assessee, the customer will access the reseller to check 
+the avai lability of the domain name , which request will be forwarded to the 
+Registry through the Registrar , and then the result shall be communicated to 
+the customer.  If the domain name as requested by the customer is not already 
+registered then upon receipt of pa yment from the customer, the reseller shall 
+liaise with the Registrar/assessee for assistance and registration of the domain 
+name for that specific customer. Thus, it is pertinent to note that prior to 
+registration by the customer  the domain name does not exist in the database . Customer  
+/ Registrant  Reseller  Registrar/
+Assessee  Registry  ICANN  
+(Regulato r)PDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 10  Further, the right in the domain name  came into existence in favour of the 
+customer only upon registration and the same belongs to the customer only 
+during the period of registration , which is generally  for one year. If after the 
+expiry of the period of registration, the customer does not renew the 
+registration then the same domain name would be available to another 
+customer to be registered in its name. Such registration can also be done 
+through a diffe rent Registrar for the same domain name. The purpose of 
+registration of a domain name is primarily to have exclusivity of domain name  
+vis-à-vis the customer during the period of registration  since the internet 
+allows for access to the domain name without a ny geography limitation . Thus, 
+the domain n ame is registered on a first -come -first-serve basis.  However, in 
+this entire process , the only person who can claim the right over the domain 
+name can only be the customer. As the activity of the Registrar does no t result 
+in transferring of any right in the domain name since its scope of activities is 
+restricted only to facilitate the registration of the domain name after checking 
+its availability in the database maintained by the Registry , under the 
+supervision of  ICANN.  
+ 
+14. In the present case, the AO has treated the amount received from 
+domain name registration taxable in India as royalty on the basis that the 
+domain name is an ‘ intangible asset ’ in the nature of ‘ trademark‟ . In order to 
+come to the conclusion, the AO, inter -alia, has placed reliance upon the 
+decision of the Hon’ble Supreme Court in Satyam Infoway Ltd . vs Siffynet 
+Solutions (P) Ltd., (2004) 6 SCC 145. We find that while coming to the 
+conclusion that a domain name may have all the characteristics of aPDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 11  trademark, the Hon’ble Supreme Court , in the peculiar facts of that case took 
+into consideration the factors , namely , the volume of sales, extent of 
+advertisement, misrepresentation by the defendant to the public and likelihood 
+of confusion in the minds o f the public , and accordingly came to the conclusion 
+that the Appellant has been able to establish the goodwill and reputation 
+claimed by it in connection with the trademark. In this regard, it is relevant to 
+note that the Hon’ble Jurisdictional High Court  in People Interactive (India) 
+Private Ltd vs Vivek Pahwa, 2016 SCC OnLine Bom 7351 held that every 
+domain name that incorporates a trademark enjoys the same protection as the 
+mark, neither more nor less.  
+ 
+15. Thus, it is pertinent to note that the particular  name per se  may 
+tantamount to trademark, in certain cases, only with the continuous efforts of  
+an entity . Even in such a case , if another customer approaches the Reseller  / 
+Registrar for registration of  that name as its domain name, the same shall be 
+registered provided the domain name is available in the database maintained 
+by the Registry. In such a situation, the entity having the trademark can 
+initiate ‘ passing off ’ proceedings in respect of the trademark only against the 
+aforesaid  registrant . However, in such an action , no relief can be sought 
+against the Registrar since they do not have any right in the domain name 
+which was registered by them merely as a facilitator. Further, the Registrar  
+also doesn’t have any right in the data sub mitted by the customer for 
+registration of the domain name.  We find that the Hon’ble Jurisdictional High 
+Court in Hindustan Unilever Ltd vs Endurance Domains Technology LLP, 2020 
+SCC OnLine Bom 809, wherein the relief was sought against the Registrar heldPDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 12  that it is entirely unworkable to ask the domain name Registrar to ‘ block 
+access ’ to domain name as the Registrar can only be asked to suspend 
+registration. The Hon’ble High Court further held that the entire process of 
+registration itself is entirely auto mated/machine driven and therefore the 
+notion that the domain name Registrar ha s a person or a team of person 
+scanning and checking every domain name application betrays a whole sale 
+lack of understanding of how domain name registration actually works. Thus , 
+the registration will continue until suspension or expiry.  
+ 
+16. Therefore , from the above , it is evident that apart from acting as an 
+intermediary in the entire process of domain name registration, the Registrar 
+has no other role to play. Thus, it cannot be held that the assessee functioning 
+as a domain name Registrar  had any right in the domain name registered in 
+the name of the customer/registrant, least intellectual property right/intangible 
+asset in the nature of ‘ trade mark’. In the present case, there is  no dispute 
+regarding the fact that the assessee is a resident of UAE  and therefore the 
+assessee is entitled to the provisions of the India UAE DTAA . The Tax 
+Residency Certificate (‘TRC‟) for the year under consideration  also forms part 
+of the paper book filed by the assessee. Under Article 12(3) of the India UAE 
+DTAA, the term „royalty ‟ has been defined as under : 
+ 
+“3. The term "royalties" as used in this Article means payment of any kind 
+received as a consideration for t he use of, or the right to use, any copyright of 
+literary, artistic or scientific work, including cinematography films, or films or 
+tapes used for radio or television broadcasting, any patent, trade mark, design 
+or model, plan, secret formula or process, o r for the use of, or the right to use, 
+industrial, commercial or scientific equipment, or for information concerning 
+industrial, commercial or scientific experience but do not include royalties or 
+other payments in respect of the operation of mines or quar ries or exploitation 
+of petroleum or other natural resources.”PDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 13   
+17. In view of the above, we are of the considered opinion that since the 
+assessee had no right in the domain name, the income received by the 
+assessee from domain name registration does not fall  in the category of 
+royalty as defined under Article 12(3) of the India UAE DTAA.  Further,  once 
+the taxability fails in terms of the treaty provisions, there is no occasion to 
+refer to the provisions of the Act, as in terms of section 90(2)  the provisions of 
+the Act or the DTAA, whichever is more beneficial to the assessee  shall be 
+applicable . We find that the decision of the coordinate bench of the Tribunal in 
+Godaddy.com vs ACIT, (2018) 170 ITD 217 (Delhi -Trib.), relied upon by the 
+AO, is factually distinguishable as in that case the taxpayer did not claim any 
+benefit under the tax treaty. Hence, the AO is directed to delete the addition 
+on account  of income from domain registration services . Accordingly, ground 
+No. I raised in assessee’s a ppeal is allowed.  
+ 
+18. The issue arising in ground No.  II, raised in assessee’s appeal, is 
+pertaining to the addition on account of income from web hosting services.  
+ 
+19. The brief facts of the case pertaining to this issue are:  During the year 
+under consideration , the assessee earned  an income  of Rs.3,05,20,4 19, from 
+providing web hosting services to customers. During the assessment  
+proceedings , the assessee was asked to show cause as to why income from 
+web hosting services should not be treated as royalty . In response thereto the 
+assessee submitted that it is engaged in the business of web presence, 
+including inter -alia, providing web hosting services. It was further submitted 
+that the assessee also manages to procure servers  on lease in respect ofPDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 14  providin g web hosting services to the end customers. Therefore , the assessee 
+provides web space to various customers to host their websites on its third -
+party servers either owned or leased. The assessee further submitted that the 
+consideration paid is for the use  of the server space , and the customers  
+neither  have an independent right to use the server space nor have any 
+physical access to it. Further , there is no right to use the technology platform 
+nor there is any grant of license to use the platform. The AO vi de draft 
+assessment order did not agree with the submissions of the assessee  and held 
+that customers of the assessee are using the server of the assessee and 
+paying the fees for the same. The AO further held that web hosting is 
+interlinked with the domain name and therefore the amount received by the 
+assessee in respect of web hosting/data centre services is in nature of royalty 
+under the Act as well as under the provisions of the India UAE DTAA. 
+Accordingly, the AO made an addition of Rs. 3,05,20,419 to the total income of 
+the assessee.  
+ 
+20. The assessee filed detailed objections before the learned DRP, inter -alia, 
+against the addition made by the AO. Vide directions dated 07/03/2022 , issued 
+under section 144C(5) of the Act, the learned DRP rejected the objections filed 
+by the assessee  and held that web hosting services is a type of internet 
+hosting service that allows individuals and organisation to provide their own 
+website accessibl e via the World Wide Web and the payment is received on 
+account of imparting the right to access the website which is valuable right 
+falling within the purview of royalty under the domestic law of India as well as 
+India UAE DTAA . In conformity with the dir ections issued by the learned DRP,PDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 15  the AO passed the impugned final assessment order dated 31/05/2022 and 
+assessed the income from  web hosting services as royalty. Being aggrieved, 
+the assessee is in appeal before us.  
+ 
+21. During the hearing, the learned Sr. C ounsel submitted that the 
+consideration received by the assessee was only for use of the server space 
+and neither independent right to use the server space nor any physical access 
+was granted to the customer. Therefore, the amount received by the assessee 
+on account of web hosting services is not in the nature of royalty.  
+ 
+22. On the contrary, the learned DR vehemently relied upon the orders 
+passed by the lower authorities.  
+ 
+23. We have considered the rival submissions and perused the material 
+available on record.  Web hosting normally refers to the Web server that stores 
+lots of data files. Web hosting provider normally has  servers and network 
+connection to the end users or the resellers. Web hosts are companies that 
+provide space on a server the y own or lease for u se by the clients as well as 
+providing Internet connectivity, typically a data centre.  As per the assessee, 
+the consideration paid is for use of the server space and the customers neither 
+have an independent right to use the server space nor have physical access to 
+it. Further , there is no right to use the technology platform nor there is any 
+grant of license to use the platform.  We find that the term ‘ royalty‟  is not as 
+widely defined in the India UAE DTAA as the same has been defined under the 
+provisions of the Act.  We further  find that after the insertion of Explanation 5 
+to section 9(1)(vi) of the Act by Finance Act 2012, the possession or control orPDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 16  locatio n of the right, property , or information is not relevant  under the 
+provisions of the Act . However , we find that similar amendment has not been 
+carried out in the provisions of India UAE DTAA. In DIT vs New Skies Satellite 
+BV, [2016] 382 ITR 114 (Delhi) , the Hon’ble Delhi High Court held that unless 
+the DTAA is amended jointly by both parties, Finance Act, 2012 which inserted 
+Explanations 4, 5 and 6 to section 9(1)(vi) by itself would not affect the 
+meaning of term  ‘royalty’ as mentioned in the DTAA . Therefo re, in absence of 
+a grant of any control over the  equipment belonging to the assessee to its 
+customers, the findings of the AO that the amount so received will constitute 
+royalty is not acceptable in view of the provisions of Article 12(3) the India 
+UAE DT AA. Further, we find no basis in linking the taxability of income from 
+web hosting services with income from domain registration services by the AO, 
+as both are  independent and  mutually exclusive.  Hence, the AO is directed to 
+delete the addition  on account  of income from web hosting services.  
+Accordingly, ground No.  II raised in assessee’s appeal is allowed.  
+ 
+24. The issue arising in ground No.  III, raised in assessee’s appeal, is 
+pertaining to the addition on account of sponsorship income.  
+ 
+25. The brief facts of the case pertaining to this issue are:  During the year 
+under consideration, the assessee received sponsorship income of Rs. 
+64,91,659 for conducting two days conference in India. As per the assessee , 
+the event was primarily organised to advertise the asses see’s service offering 
+to potential customers and to educate  its customers. The AO vide draft 
+assessment order did not agree with the submissions of the assessee and  
+added the sponsorship income to the total income of the assessee.PDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 17   
+26. The assessee filed deta iled objections before the learned DRP, inter -alia, 
+against the addition made by the AO. Vide directions dated 07/03/2022 issued 
+under section 144C(5) of the Act, the learned DRP, after noting that the AO 
+has not dealt with the issue of permanent establish ment in India, directed the 
+AO to pass a speaking order with regard to the existence of assessee’s 
+permanent establishment in India. In conformity with the directions issued by 
+the learned DRP, the AO passed the impugned final assessment order dated 
+31/05/ 2022 and held that the assessee  has a permanent establishment in 
+India and income of Rs.64,91,659 , on account of sponsorship income is 
+taxable as business income.  Being aggrieved, the assessee is in appeal before 
+us. 
+ 
+27. During the hearing, the learned Sr. Counsel submitted that the details 
+regarding the sponsorship income were submitted before the AO during the 
+assessment proceedings. The learned Sr. Counsel further submitted that the 
+impugned sponsorship income was earne d by the assessee from the solitary 
+conference of 2 days in India and in the absence of permanent establishment 
+in India such an income cannot be taxed as business income in India under 
+Article 7 of the India UAE DTAA.  
+ 
+28. On the other hand, the learned DR ve hemently relied upon the orders 
+passed by the lower authorities.  
+ 
+29. We have considered the rival submissions and perused the material 
+available on record. The principal business of the assessee is providing web 
+hosting and domain name registration services. The assessee also claims toPDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 18  organise various conferences in India and outside India to advertise its service 
+offering to potential customers. As per the assessee, it uses this forum to 
+educate  its customers and no sale is undertaken during such conferences . 
+Further, during such conferences, the assessee provides space to set up 
+stalls/booths to various third parties to market their brands and products 
+through which it earns income.  During the year, the assessee conducted a 
+conference in India only for 2 day s and from which it earned  sponsorship 
+income, which has been held to be taxable  as business income by the 
+Revenue.  We find that vide its submission dated 09/03/2021, the assessee 
+provided the details of sponsorship to the AO, which  forms part of the paper  
+book on page 69. However, without commenting on the same, the AO made 
+the impugned addition. In further proceedings, the learned DRP directed the 
+AO to pass a speaking order with regard to the existence of assessee’s 
+permanent establishment in India. At the outset, it is pertinent to note that 
+under section 144C (8) of the Act the DRP may confirm, reduce or enhance the 
+variation proposed in the draft assessment order, however, it cannot set aside  
+any proposed variation or issue any direction for further enquiry and passing of 
+the assessment order . Thus, we find that the directions issued by the DRP to 
+the AO to pass a speaking order in respect of the existence of permanent 
+establishment is complet ely contrary to the provisions of section 144C(8) of 
+the Act.  
+ 
+30. Even on merits, we find that  earning sponsorship income from the 
+sponsors was consequential to the advertising event  in the 2 days conference. 
+In the present case, there cannot be any dispute that organising such an eventPDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 19  is not the core business activity of the assessee. Further, under Article 5 of 
+India UAE DTAA, the term ‘permanent establishment’ means of a fixed pla ce of 
+business through which the business of an enterprise is wholly or partly carried 
+on. In the present case, firstly  mere conducting of a conference only for 2 days 
+in India cannot be  said to be a fixed place of business, and secondly, as noted 
+above co nducting a conference is not the core business activity of the 
+assessee. Even if , at all, it can only be considered to be in the nature of the 
+preparatory or auxiliary  activity , which has been specifically excluded from the 
+definition of permanent establis hment under Article  5(3) of the India UAE 
+DTAA. Thus,  in absence of the permanent establishment of assessee in India,  
+the sponsorship income cannot be taxed in India as business income.  
+Accordingly, in view of aforesaid findings, the AO is directed to delete the 
+addition on account of sponsorship income . As a result, ground No.  III raised 
+in assessee’s appeal is allowed.  
+ 
+31. In the result, the appeal by the assessee is allowed.  
+ 
+ITA no.185 6/Mum./2022  
+Assessee’s Appeal – A.Y. 20 18–19 
+ 
+32. In its appeal, the ass essee has raised  the following grounds: – 
+ 
+“On the facts, and in the circumstances of the case, and in law, the Appellant 
+craves to prefer an appeal against the order dated 23 May 2022 passed by the 
+Deputy Commissioner of Income - tax (Int. Tax) -3(3)(2) (hereinafter referred to 
+as the 'learned AO') under Section 144C(13) read with Section 143(3) of the 
+Income -tax Act, 1961 on the grounds as set out herein:  
+ 
+The following grounds are independent of, and without prejudice to, one 
+another:  
+ 
+GROUND I: OBJECTI ON AGAINST ADDITION ON ACCOUNT OF INCOME FROM 
+DOMAIN REGISTRATION SERVICESPDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 20  On the facts and circumstances of the case and in law, the Assessing Officer 
+(AO) erred in alleging that income from Domain Name Registration services is 
+taxable as 'Royalty' under  Section 9(1)(vi) of the Income Tax Act, 1961 (Act') 
+and under the India - UAE treaty (tax treaty"). The AO based on his conclusion 
+contended that the Appellant is the owner of the domain name and is imparting 
+the right to use in respect of a domain name th us erroneously considering it as 
+a „Trademark ‟. 
+ 
+The Assessing Officer (AO') erred in understanding the fact that the domain 
+name does not lie with the appellant, and accordingly, there is no question of 
+imparting rights for further consideration, thus it cannot be classified as the 
+trademark and cannot be termed as "Royalty"  
+ 
+GROUND II: OBJECTION AGAINST ADDITION ON ACCOUNT OF INCOME FROM 
+WEB HOSTING SERVICES  
+ 
+On the facts and circumstances of the case and in law, the Assessing Officer 
+('AO') erred in proposing that income from web hosting services is taxable as 
+'Royalty' under Section 9(1)(vi) of the Income Tax Act, 1961 (Act') and under 
+the India - UAE treaty (tax treaty') in the absence of any physical access or 
+control or possession or independent ri ght being granted by the appellant to 
+the payer . 
+ 
+The Assessing Officer ('AO') erred in concluding that the income from web 
+hosting is interlinked to income from domain registration services and 
+considered as royalty despite the fact that the said services  are mutually 
+exclusive and independent.  
+ 
+GROUND III: OBJECTION AGAINST ADDITION ON ACCOUNT OF SPONSORSHIP 
+INCOME  
+ 
+On the facts and circumstances of the case and in law, the Assessing Officer 
+(AO) erred in concluding that the assessee did not provide subst antial 
+documents and information regarding the treatment of sponsorship and other 
+income, as a business income in computation and alleging that it is clearly 
+evident that assessee is hiding the fact with respect to same and claimed that 
+the same should be added to the income of the assessee.  
+ 
+The Assessing Officer (AO) erred in ignoring the fact that the assessee had 
+made sufficient disclosures and submitted proper evidence in support of its 
+contention that there shall not be any addition made on account of  Sponsorship 
+Income due to the absence of Permanent Establishment in India . 
+ 
+The assessing officer (AO) erred in law and in the fact that the income from 
+Sponsorship is taxable as 'Business income' under the India -UAE tax treaty (tax 
+treaty") treating it a s PE in India without giving adequate 
+reasoning/explanation for treating it as PE in India . 
+ 
+The Appellant craves leave to add to, or alter, by deletion, substitution, 
+modification or otherwise, the above grounds of appeal, either before or during 
+the hear ing of the appeal. ”PDR Solutions FZC  
+ITA no. 1855/Mum./2022  
+ITA no.1856/Mum./2022  
+Page | 21  33. During the hearing, both parties agreed that the facts for the year under 
+consideration are similar to the preceding assessment year.  Since similar 
+issues have been decided in assessee’s appeal being ITA No. 1855/Mum./  
+2022, for the a ssessment year 2017 –18, therefore, our findings/conclusion 
+rendered in the said appeal shall apply mutatis mutandis . Accordingly, all the 
+grounds raised by the assessee in this appeal are allowed.  
+ 
+34. In the result, the appeal by the assessee is allowed.  
+ 
+35. To sum up, both appeals by the assessee are allowed.  
+Order pronounced in the open Court on 30/12/2022  
+ 
+Sd/- 
+G.S. PANNU  
+PRESIDENT   
+ 
+ 
+   Sd/- 
+SANDEEP SINGH KARHAIL  
+JUDICIAL MEMBER  
+MUMBAI,   DATED:    30/12/2022  
+ 
+Copy of the order forwarded to : 
+ 
+(1) The Assessee;  
+(2) The Revenue;  
+(3) The CIT(A);  
+(4) The CIT, Mumbai City concerned;  
+(5) The DR, ITAT, Mumbai;  
+(6) Guard file . 
+                              True Copy  
+                   By Order  
+Pradeep J. Chowdhury  
+Sr. Private Secretary  
+ 
+              Assistant Registrar  
+           ITAT, Mumbai

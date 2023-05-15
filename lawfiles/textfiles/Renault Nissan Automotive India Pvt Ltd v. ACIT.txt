@@ -1,0 +1,523 @@
+आयकर अपीलीय अिधकरण,  ‘डी’ ᭠यायपीठ, चे᳖ई 
+       IN THE INCOME TAX APPELLATE TRIBUNAL 
+       ‘D’ BENCH, CHENNAI 
+         ᮰ी वी दुगाᭅ राव, ᭠याियक सद᭭य  एवं  ᮰ी  जी. मंजुनाथ, लेखा सद᭭य के समᭃ 
+       BEFORE SHRI V. DURGA RAO, HON’BLE JUDICIAL MEMBER AND 
+      SHRI G. MANJUNATHA, HON’BLE ACCOUNTANT MEMBER 
+ 
+आयकर अपील सं./IT(TP)A No.: 38/Chny/2019  
+िनधाᭅरण वषᭅ / Assessment Year: 2013-14 
+ 
+ 
+Renault Nissan Automotive 
+India Private Limited, 
+Plot No. 1, SIPCOT Industrial 
+Park, Mattur Post, 
+Oragadam, Sriperumbudur, 
+Kanchipuram District,  
+Tamil nadu – 602 105. 
+[PAN: AADCR-7965-B]  
+ 
+  
+v. The Assistant Commissioner of 
+Income-tax, 
+Corporate Circle 5(1), 
+Chennai.  
+ 
+(अपीलाथᱮ/Appellant)                             (ᮧ᭜यथᱮ/Respondent) 
+ 
+ 
+अपीलाथᱮ  कᳱ  ओर से/Appellant by     :  Shri. Ajit Tolani, Advocate,  
+        Shri. Darpan Dirpalani, Advocate     
+        & Shri. Shaily Agarwal, CA   
+ᮧ᭜यथᱮ कᳱ ओर से/Respondent by      :  Shri. S. Palani Kumar, CIT    
+ 
+           सुनवाई कᳱ तारीख/Date of Hearing              :   14.12 .2022 
+घोषणा कᳱ तारीख/Date of Pronouncement   :  31.01.2023 
+                                         
+आदेश /O R D E R  
+ 
+PER G. MANJUNATHA, ACCOUNTANT MEMBER:  
+ 
+ 
+This appeal filed by the assessee is directed against the 
+final assessment order passed by the Assessing Officer u/s. 
+143(3) r.w.s. 92CA r.w.s. 144C(1) of the Income-tax Act, 
+1961 (hereinafter referred to as “the Act”), dated 28.02.2019:-2-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+in pursuant to DRP directions issued u/s. 144C(5) of the Act 
+dated 10.01.2019 and pertains to assessment year 2013-14. 
+ 
+ 2. The assessee has raised the following grounds of appeal: 
+“GROUNDS OF APPEAL (Annexure to Form 36)  
+The grounds of appeal listed below are independent and 
+without prejudice to each other.  
+1.  GENERAL GROUND  
+1.1.  The lower authorities have, in the facts and 
+circumstances of the case, erred in passing orders with 
+unwarranted adjustments to the reported income of the 
+Appellant by misapplying the provisions of the Act, by adopting 
+faulty assessment procedures to finalize the adjustment, such 
+as, but not limited to, rejection of (a) transfer pricing study, 
+(b) analysis of the functions carried out by the Appellant and 
+(c) arm's length profit arrived at by Appellant and by not 
+granting appropriate economic adjustments.  
+2.  TRANSFER PRICING ADJUSTMENT  
+2.1.  The lower authorities erred in the facts and 
+circumstances of the case and in law, in making an upward 
+adjustment to the Appellant's international transactions.  
+2.2.  Approach for benchmarking the international  
+transactions:  
+2.2.1. Without prejudice to the above grounds, the lower 
+authorities had erred in the facts and circumstances of the 
+case and in law, in rejecting the 'overseas tested party' 
+approach used to benchmark the international transactions in 
+the Transfer Pricing study maintained by the Appellant and not 
+appreciating that a similar approach for benchmarking the 
+imports was accepted in a previous year by the TPO.  
+2.2.2. The lower authorities erred in observing that appellant 
+has not placed any document to show that overseas tested 
+party perform the least complex functions.  
+2.3. Characterization of the entity  
+2.3.1. The lower authorities erred in the facts and 
+circumstances of the case and in law, in disregarding the:-3-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+functional profile of the Appellant and by arbitrarily re-
+characterizing the Appellant as a contract manufacturer.  
+2.4.  Methodology used for computing arm's length profit  
+2.4.1. The lower authorities erred in facts and circumstance of 
+case and in law, by incorrectly applying the transfer pricing 
+methods, as required under Section 92C of the Act, while 
+determining the arm's length price ('ALP') of the transactions. 
+The lower authorities erred in not identifying any uncontrolled 
+transaction for the determination of ALP and by merely 
+adopting the TP policy in addition to imputing an arbitrary 
+return on capital employed to determine the ALP.  
+2.4.2. Without prejudice to the argument on the above, the Ld. 
+TPO/ AO erred in the facts and circumstances of the case and 
+in law, by not following the directions of Ld. DRP lo compute 
+the return based on average capital employed instead of year-
+end capital employed.  
+2.4.3.  The lower authorities erred in facts and circumstances 
+of the case and in law, in restricting the credit of the 
+Investment Promotion Subsidy ('IPS') incentive to the extent of 
+risk free return on capital employed, without appreciating the 
+fact that IPS incentive is a subsidy in relation to regular 
+business operations of the Appellant.  
+2.4.4.  The lower authorities erred in facts and circumstances 
+of the case and in law, in proposing an adjustment at the 
+entity level, instead of restricting the adjustment to the value 
+of international transactions, without appreciating that the 
+international transactions account for only 48 percent of the 
+total costs.  
+2.5.  Computation of net margins of the Appellant  
+2.5.1. The lower authorities had erred in the facts and 
+circumstances of the case and in law, in treating the IPS 
+incentive as a non-operating item and excluding the same in 
+computing the net operating margins of the Appellant without 
+appreciating the nature of IPS incentive.  
+2.5.2. Without prejudice to other grounds, the lower 
+authorities had erred in the facts and circumstances of the 
+case and in law by considering IPS incentive as non-operating 
+in nature for computation of the net margin of the Appellant, 
+however, the IPS incentive has been offered to tax in the 
+return of income.  
+2.6.  Economic adjustment;:-4-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+2.6.1.  The lower authorities erred in facts and circumstances 
+of the case and in law, by not providing appropriate economic 
+adjustments for differences on account of forex loss, capacity 
+utilization, customs duty and working capital in computing the 
+arm's length price and proposing a TP adjustment.  
+ 
+2.7.  Other grounds:  
+2. 7.1. Without prejudice to the above grounds, the lower 
+authorities erred in the facts and circumstances of the case 
+and in law, in rejecting the 'One economic unit' approach 
+adopted by the Appellant for determining the ALP of its 
+international transactions, without appreciating its business 
+model and other economic aspects of its business.  
+2.7.2. Without prejudice to the above grounds, the lower 
+authorities erred in the facts and circumstances of the case 
+and in law, in rejecting the Indian benchmarking analysis 
+(using Indian comparables) submitted by the Appellant as part 
+of the transfer pricing assessment proceedings.  
+DEDUCTIBILITY OF PROVISION FOR PROVIDENT FUND 
+DEMAND RAISED BY THE AUTHORITIES  
+3.1.  The lower authorities erred in facts and circumstances of 
+the case and in law by not allowing the deduction claimed by 
+the appellant for provision created with respect to the demand 
+raised by the provident fund authorities.  
+3.2.  The lower authorities erred in not allowing deduction 
+under section 37 of the Act for the provision created with 
+respect to the demand raised by the provident fund authorities 
+by stating that the said provision is contingent in nature.  
+3.3.  The lower authorities erred in facts by not appreciating 
+the fact that the provision is not contingent in nature as it has 
+been quantified vide the order issued by the provident fund 
+authorities and accordingly, provision has been created in the 
+books of the appellant including interest.  
+3.4. Further, the lower authorities failed to appreciate the 
+applicability of the principles upheld by courts in the 
+precedents relied on by the Appellant.  
+The Appellant prays that directions be given to grant all such 
+relief arising from the grounds of appeal mentioned supra and 
+all consequential relief thereto.:-5-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+The Appellant craves leave to add to and/or to alter, amend, 
+rescind, modify the grounds herein above or produce further 
+documents before or at the time of hearing of this Appeal.”  
+ 
+3. The assessee had also filed a petition for admission of 
+additional grounds on 12.12.2022 and taken certain legal 
+grounds challenging final assessment order passed by the 
+Assessing Officer contrary to directions issued by the DRP in 
+violation to provisions of section 144C(13) of the Act.  The 
+relevant additional grounds of appeal filed by the assessee are 
+as under: 
+ADDITIONAL GROUNDS OF APPEAL  
+4. FINAL ASSESSMENT ORDER NOT IN CONFORMITY WITH THE 
+DRP DIRECTIONS AND LIABLE TO BE QUASHED  
+4.1 The final assessment order passed by the Learned 
+Assessing Officer ("Ld. AO") is not in conformity with the 
+provisions of section 144C(13) of the Act and hence bad in law, 
+liable to be quashed.  
+4.2  The Ld. AO has grievously erred in law by passing the 
+final assessment order not in accordance with the directions 
+issued by the Hon'ble Dispute Resolution Panel ("Hon'ble DRP") 
+and thereby grossly violating the express mandatory provisions 
+as laid down in section 144C(13) of the Act, and making the 
+final assessment order invalid and void-ab-initio.  
+4.3  The Ld. AO ought to have passed the final assessment 
+order in conformity with the directions issued by the Hon'ble 
+DRP. However, the Ld. AO has just merely incorporated the 
+transfer pricing ("TP") adjustment as-is from the draft 
+assessment order without considering any of the directions 
+issued by the Hon'ble DRP, which have a mandatory binding on 
+the Ld. AO by virtue of the express provisions stipulated in 
+section 144C(5) and 144C(13) of the Act.  
+ANY RECTIFICATION TO AN INVALID ORDER IS ALSO INVALID, 
+BARRED BY LIMITATION OF TIME AND LIABLE TO BE QUASHED  
+5.1  The Ld. AO erred in law by passing a rectification order 
+under section 154 of the Act in respect of an already void-ab-
+initio final assessment order without appreciating that the:-6-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+resultant order would also be rendered void and hence would 
+be liable to be quashed.  
+5.2  The Ld. AO has passed the rectified order under section 
+154 of the Act on 4 April 2019 which is in fact beyond the due 
+date for completion of assessment as per section 144C(13) of 
+the Act and hence is liable to be quashed on the grounds of 
+period of limitation as well.  
+6.  FINAL ASSESSMENT ORDER PASSED UNDER INCORRECT 
+SECTION AND LIABLE TO BE QUASHED  
+6.1  The final assessment order passed under section 143(3) 
+read with section 92CA read with 144C(1) by the Ld. AO is 
+void-ab-initio and liable to be quashed.  
+6.2  The Ld. AO ought to have passed the final assessment 
+order under section 143(3) read with section 92CA read with 
+section 144C(13) of the Act. However the ld. AO has grossly 
+erred in passing under section 143(3) read with section 92CA 
+read with section 144C(1) of the Act which provides for passing 
+of draft assessment order instead of section 144C(13) of the 
+Act and therefore the final assessment order dated 28 
+February 2019 is invalid and liable to be quashed.  
+7.  ECONOMIC ADJUSTMENT TO ELIMINATE DIFFERENCES 
+IN RISK PROFILE  
+7 .1  The Learned Transfer Pricing Officer ("Ld. TPO") erred in 
+facts and circumstances of the case and in law, by providing 
+appropriate economic adjustment to eliminate the differences 
+on account of risk profile of the Appellant while computing the 
+arm's length price and proposing a transfer pricing adjustment.  
+7.2  Without prejudice to any of the other grounds, the ld. 
+TPO while treating the Appellant as a contract manufacturer 
+bearing nil risks ought to have granted risk adjustment to 
+eliminate the differences on account of risk profile of the 
+Appellant. However, the Ld. TPO has computed the arm's 
+length price and imputed a transfer pricing adjustment without 
+factoring the said economic adj ustment (i.e., risk adjustment).  
+The Appellant prays to your Honor's to permit raising the 
+above additional grounds of appeal and claim as part of the 
+appeal filed for AY 2013-14.  
+The Appellant craves leave to add, alter, vary, omit, amend or 
+delete one or more of the above grounds of appeal at any time 
+before, or at the time of. hearing of the appeal, so as to enable 
+the Hon'ble ITAT to decide this appeal according to law.”:-7-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+4. The Ld. Counsel for the assessee, submitted that the 
+additional grounds raised by the assessee challenging validity 
+of assessment order passed by the AO goes to root of the 
+matter, which can be raised any time including proceedings 
+before the Tribunal and thus, prayed for admission of 
+additional grounds. 
+ 
+5. The Ld. DR, on the other hand strongly opposing 
+additional grounds filed by the assessee submitted that 
+petition filed by the assessee should not be admitted at this 
+stage, because the assessee could not able to demonstrate 
+with evidence that facts with regard to legal grounds raised in 
+petition are already on records and further, there is no 
+necessity of getting fresh facts to resolve the issue.  Therefore, 
+the petition filed by the assessee for admission of additional 
+grounds should be rejected. 
+ 
+6. We have heard both the parties and considered relevant 
+contents of petition filed by the assessee for admission of 
+additional grounds and we find that grounds taken by the 
+assessee challenging the validity of final assessment order 
+passed by the AO contrary to provisions of section 144C(13) of:-8-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+the Act, and consequent rectification order passed u/s. 154 of 
+the Act, quo limitation applicable for passing final assessment 
+order and also application of wrong provisions for final 
+assessment order are purely a legal issue which can be taken 
+at any time of proceedings including the proceedings before 
+the Tribunal and thus, by following the decision of Hon’ble 
+Supreme Court in the case of CIT vs Kanpur Coal Syndicate 
+(1964) 53 ITR 225 (SC) and also the decision of Hon’ble 
+Madras High Court in the case of Ramco Cements Ltd (2015) 
+373 ITR 146 (Mad), we admit additional grounds filed by the 
+assessee challenging validity of assessment order passed by 
+the AO and other issues because said grounds are purely a 
+legal grounds which can be admitted at any time of 
+proceedings including proceedings before the Tribunal.  Thus, 
+we admit petition filed by the assessee for admission of 
+additional grounds. 
+ 
+7. The Ld. Counsel for the assessee, referring to ground no. 
+4.1 to 4.3 of additional grounds submitted that the final 
+assessment order passed by the AO is not in conformity with 
+DRP and liable to be quashed.  He further referring to ground 
+no. 5.1 to 5.2 submitted that although, the AO has rectified:-9-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+the said mistake in order passed u/s. 154 of the Act, once final 
+assessment order is void-ab-initio, then resultant rectification 
+order would also be rendered as void and hence would be 
+liable to be quashed.  The Ld. Counsel for the assessee, 
+referring to ground no. 6.1 to 6.2 of the additional grounds 
+submitted that the AO has passed final assessment order u/s. 
+143(3) r.w.s. 92CA r.w.s. 144C(1) of the Act, contrary to 
+provisions of section 144C(13) of the Act.  Therefore, said 
+order becomes void-ab-initio and liable to be quashed.  
+ 
+8. The Ld. DR, on the other hand supporting order of the 
+AO, submitted that although while passing final assessment 
+order, the AO has violated directions given by the DRP in 
+allowing relief to the extent of adjustment restricted to 
+international transactions, but subsequently, an application 
+moved by the assessee has passed an order u/s. 154 of the 
+Act and rectified the final assessment order in conformity with 
+directions given by the DRP and thus, there is no merit in 
+additional ground raised by the assessee. He further, 
+submitted that although the AO has referred section 144C(1) 
+of the Act, in the final assessment order, but said reference is 
+a technical error which does not vitiate the assessment order.:-10-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+Therefore, he submitted that the ground raised by the 
+assessee may be rejected.  
+ 
+9. We have heard both the parties, perused materials 
+available on record and gone through orders of the authorities 
+below.  As regards final assessment order not in conformity 
+with the DRP directions as per the provisions of section 
+144C(13) of the Act, we find that although the AO has initially 
+violated the DRP directions, in respect of relief allowed towards 
+restriction of TP adjustment to international transactions,  but 
+on an application by the assessee, the AO has passed order 
+u/s. 154 of the Act and rectified the final assessment order in 
+conformity with directions given by the DRP and in our 
+considered view, said order is in conformity with provisions of 
+section 144C(13) of the Act.  Therefore, we are of the 
+considered opinion that there is no merit in the grounds taken 
+by the assessee challenging the validity of final assessment 
+order and consequent rectification order in light of limitation 
+provided for passing final assessment order.   In so far as, the 
+second argument of the assessee in light of reference of 
+provisions of section 144C(1) of the Act, instead of provisions 
+of section 144C(13) of the Act, we find that said lapse is only a:-11-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+technical error, which does not vitiate the whole assessment 
+proceedings.  Further, the AO has taken a broader  view and 
+referred to provisions of section 92CA of the Act, which speaks 
+about transfer pricing adjustment and also taken a reference 
+to DRP directions and thus, we are of the considered view that 
+mere mentioning of different section in the final assessment 
+order does not vitiate any assessment proceedings.  Therefore, 
+we reject the ground taken by the assessee. 
+ 
+10. The next issue that came up for our consideration from 
+various grounds of assessee’s appeal is upward adjustment to 
+international transactions of the assessee with its Associate 
+Enterprises (AE).  The Ld. Counsel for the assessee, submitted 
+that the assessee has benchmarked international transactions 
+with its AE by adopting one economic unit approach method 
+and has adopted TNMM as most appropriate method with 
+OP/OC as PLI.  The TPO has rejected TP study conducted by 
+the assessee by adopting TNMM as most appropriate method 
+and has chosen ‘other method’ and has suggested upward 
+adjustment on value added cost @ 3% and also 8.19% return 
+on capital employed without giving any reasons as to how the 
+method selected by the assessee suffered from infirmity.:-12-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+Further, the TPO himself has accepted TNMM as most 
+appropriate method in subsequent assessment years.  
+Therefore, there is no reason for the TPO to adopt ‘any other 
+method’ in the impugned assessment year.  Thus, the ld. 
+Counsel for the assessee, submitted that the matter may be 
+set aside to the file of the TPO to re-examine the method 
+adopted by the assessee to benchmark international 
+transactions with its AE. 
+ 
+11. The Ld. DR, on the other hand submitted that the TPO 
+has given various reasons to reject TP study conducted by the 
+assessee by adopting TNMM as most appropriate method and 
+as per the TPO, the assessee has been classified as a contract 
+manufacturer and in this segment, there are no comparables 
+to examine the transactions of the assessee.  Therefore, as 
+prescribed u/r. 10AB of IT Rules, 1962, the AO has adopted 
+‘any other method’ by taking into account the price which has 
+been charged or paid, which would have been charged or paid, 
+for the same and similar uncontrolled transaction, with or 
+between non-associated enterprises, under similar 
+circumstances, considering all the relevant facts.  Further, the 
+TPO had also stated why he has adopted 3% on value added:-13-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+cost and 8.19% of return on capital employed.  Therefore, 
+there is no reason to set aside the appeal to the file of the TPO 
+to re-examine transactions of the assessee with its AE. 
+ 
+12.  We have heard both the parties, perused materials 
+available on record and gone through orders of the authorities 
+below.  From the impugned assessment year, there is a 
+significant change in functions carried out by the assessee and 
+as noted by the TPO, the assessee is manufacturing cars for 
+Nissan Motors India Ltd and Renault India Private Ltd.  Based 
+on the functions carried out by the assessee, the TPO has 
+classified assessee as a contract manufacturer.  According to 
+the TPO, the assessee do not assume any significant risk which 
+a professional manufacturer of cars assume.  Therefore, he 
+was of the opinion that the assessee cannot be considered as 
+entrepreneur engaged in the business of manufacturing of 
+cars.  We find that although the TPO has classified assessee as 
+a contract manufacturer, for the purpose of benchmarking its 
+international transactions, he has not given any valid reason to 
+come to such a conclusion that the assessee is not assuming 
+any significant risk that of a manufacturer of car is assuming.  
+In our considered view, when the assessee is involved in:-14-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+manufacturing of car, the risk involved and functions 
+performed by the assessee may be or equivalent to functions 
+performed and risk assumed by other manufacturer.  However, 
+in case of contract manufacturer, they assume limited risk 
+going by the industrial standard like, carrying out 
+manufacturing operations and employing required labour, 
+other technology and material required for manufacturing 
+process will be given by the principal.  In this case, the AO had 
+not given any findings as to who is providing necessary 
+material for manufacturing of cars and required technology.  
+Therefore, in our considered view, the TPO has completely 
+erred in classifying assessee as a contract manufacturer for 
+the purpose of benchmarking its international transactions 
+with PE. 
+ 
+ 
+13. Having said so, let us come back to the method followed 
+by the assessee and the TPO.  The assessee has followed 
+TNMM as most appropriate method with OP/OC as PLI.  The 
+TPO has rejected TNMM as most appropriate method and has 
+adopted ‘any other method’ as prescribed u/r. 10AB of the IT 
+Rules, 1962 and has computed 3% on VAC and a routine 
+return of 8.19% on capital employed to be a deemed arm’s:-15-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+length price for the functional profile of the assessee.  The TPO 
+while adopting 3% on value added cost has taken cost plus 
+margin charged in similar case.  However, when it comes to 
+return on capital employed, the TPO has not given any reason 
+as to how 8.19% of return on capital employed is reasonable 
+for the given facts and circumstances of the case.  Further, 
+there is no clarity on how the TPO has arrived at capital 
+employed in the business.  Therefore, we are of the considered 
+view that the method followed by the TPO in terms of Rule 
+10AB of IT Rules, 1962 is not in accordance with law, having 
+regard to facts and circumstances of this case and thus, we 
+reject ‘any other method’ adopted by the TPO. 
+ 
+14. In so far as TNMM method selected by the assessee, the 
+assessee has consistently adopted TNMM as most appropriate 
+method with OP/OC as profit level indicator.  In subsequent 
+assessment years, the TPO himself had accepted TNMM as 
+most appropriate method without there being any significant 
+change in facts, when compared to impugned assessment 
+year.  Since, we have already stated in earlier part of this 
+order that the TPO has not given valid reasons for rejecting 
+TNMM method and adopting any other method, we are of the:-16-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+considered view that, TNMM is most appropriate method in the 
+given facts and circumstances of this case and thus, we direct 
+the TPO to benchmark international transactions with its AE by 
+adopting TNMM as most appropriate method.  The TPO is free 
+to examine basis followed by the assessee, including 
+comparable selected for benchmarking its transactions.  The 
+TPO is also free to examine operating margin computed by the 
+assessee.  Needless to say, the assessee is also free to raise 
+all objections in so far as computation of operating margin by 
+inclusion of certain items of income and expenditure. 
+ 
+15. As regards other grounds taken by the assessee including 
+challenging rejection of one economic unit approach, during 
+the course of hearing, the Ld. Counsel for the assessee fairly 
+agreed that the assessee does not want to press the grounds 
+challenging rejection of one economic unit approach and thus, 
+the ground raised by the assessee has been dismissed as not 
+pressed. 
+ 
+16. The next issue that came up for our consideration from 
+ground no. 3 of assessee’s appeal is disallowance of other 
+provisions u/s. 37 of the Act.  The assessee has debited Rs. 10:-17-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+crores on account of other provisions.  The assessee was 
+called upon to explain the nature of provisions created and in 
+response, the assessee submitted that during the financial 
+year 2012-13 relevant to assessment year 2013-14, the 
+company has made a provision for provident fund payment 
+raised by the PF authorities towards differential amount.  The 
+AO rejected arguments of the assessee and disallowed 
+provisions created for differential provident fund payable on 
+the ground that the said provision is only contingent liability 
+which is not crystallized in the relevant assessment year. 
+ 
+17.     We have heard both the parties, perused materials 
+available on record and gone through orders of the authorities 
+below.  Although, the assessee has submitted details with 
+respect to provisions under the head ‘other provisions’ and 
+explained that it is towards differential amount of provident 
+fund payable to PF authorities, but no details has been given 
+whether the assessee has accepted the payment or preferred 
+an appeal before the appellant authorities.  The AO had also 
+made disallowance towards provisions on the ground that said 
+provision is only a contingent liability without giving any 
+details as to how said liability is contingent in nature.:-18-:                    IT(TP)A. No: 38/Chny/2019  
+ 
+Therefore, we are of the considered view that the issue needs 
+to go back to the file of the Assessing Officer for further 
+verification and thus, we set aside the issue to the file of the 
+AO and direct the AO to re-examine the issue and decide in 
+accordance with law. 
+ 
+18. In the result, appeal filed by the assessee is treated as 
+partly allowed for statistical purposes.        
+Order pronounced in the court on  31st January, 2023 at Chennai. 
+ 
+Sd/- 
+(वी दुगाᭅ राव) 
+(V. DURGA RAO) 
+᭠याियकसद᭭य/Judicial Member  Sd/- 
+(जी. मंजुनाथ) 
+(G. MANJUNATHA ) 
+लेखासद᭭य/Accountant Member  
+चे᳖ई/Chennai, 
+ᳰदनांक/Dated: 31st January, 2023 
+JPV 
+आदेश कᳱ ᮧितिलिप अᮕेिषत/Copy to:    
+1. अपीलाथᱮ/Appellant     2. ᮧ᭜यथᱮ/Respondent             3. आयकर आयुᲦ (अपील)/CIT(A)   
+4.   आयकर आयुᲦ/CIT      5. िवभागीय ᮧितिनिध/DR          6. गाडᭅ फाईल/GF

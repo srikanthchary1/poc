@@ -1,0 +1,825 @@
+IN THE INCOME TAX APPELLATE TRIBUNAL  
+MUMBAI BENCH “D”, MUMBAI  
+ 
+BEFORE SHRI AMIT SHUKLA, JUDICIAL MEMBER AND  
+SHRI S. RIFAUR RAHMAN, ACCOUNTANT MEMBER  
+ 
+ 
+ 
+         Appellant by  : Shri Nimesh Yadav  
+         Respondent by  : Shri Yogesh Thar,  
+   Shri Chaitanya Joshi &  
+   Shri Hardik Nirmal  
+ 
+        Date of Hearing  : 21/06/2022  
+        Date of Pronouncement   :  19/07/2022  
+ 
+O R D E R  
+ 
+PER AMIT SHUKLA, JM  : 
+ 
+ The aforesaid appeal has been filed by the Revenue against 
+the impugned order dated 12.06.2017 passed by the 
+Commissioner of Income Tax (Appeals) -9, Mumbai (in short „ld. 
+CIT(A)‟) for the quantum of assessment passed under Section 
+143(3) of the Income Tax Act, 1961 (in short „the Act‟) for the 
+Assessment Year 2013 -14.   
+    ITA NO. 5683/MUM/2017  : A.Y :  2013 -14 
+   
+Asst. Commissioner of Income 
+Tax – 4(3)(1),  
+Mumbai (Appellant)     Vs. M/s. Reliance Transport & 
+Travels Pvt. Ltd.,  
+6th floor, Nagin Mahal,  
+82, Veer Nariman Road, 
+Churchgate,  
+Mumbai 400  020. 
+PAN : AAACR2380M 
+(Respondent)2 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+2. The Revenue has raised the following grounds in its appeal: - 
+“1. On the facts and in the circumstances of the case and in law, the 
+Ld. CIT(A) erred in directing the AO to delete the disallowance of 
+Rs.26,49,31,101/ - being custom duty paid towards Yacht.  
+2. On the facts & in the circumstance of the case and in law, the 
+Ld.CIT(A) erred in directing AO to tax the profit on transfer of Capital 
+Asset i.e. Helicopter of Rs.19,09,32,707/ - as Long Term Capital Gain 
+as against Short Term Capital Gain as assessed by the AO.”  
+3. Facts in brief qua the issue raised in ground no. 1 are that 
+the assessee -company is engaged in the business of travel agent 
+and chartering of yacht and helicopters, etc.  The Assessing 
+Officer noticed that in the Profit & Loss account , assessee has 
+debited expenses under the head „Custom paid‟ of 
+Rs.32,12,90,245/ -, out of which , Customs duty was 
+Rs.26,49,31,101/ -, and the remaining was in the nature of 
+penalty which was ad ded back by the assessee. The assessee has 
+taken the yacht named as „ Tian‟ on rent from M/s. Ammolite 
+Holding Limited, Channel Island, Jersey. The Assessing Officer 
+has referred to some  report and investigation carried out by the 
+Customs authorities wherei n it was reported that the yacht was 
+purchased for €1,16,40,875 by M/s. Ammolite Holding Limited 
+having its registered office at Temiplar House, Don Road, St. 
+Heller, Jersey JE1, 2TR, Channel Island, which was a foreign 
+based company of the Reliance ADAG G roup, from M/s. Ferretti 
+SPA, Italy in August, 2008. The same was registered at Jersey 
+with British Registry and named the Yacht as „TIAN' with 
+registration No. 741256 , in September, 2008. As per the report, 
+the Yacht was purchased in the name of M/s. Ammo lite Holding 
+Limited with an intention to claim the 'Foreign Flag Vessel' status3 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+in India. As per the report, t he finance for the purchase was 
+made by M/s. Reliance Capital Limited, M/s.  Worldtel Holding 
+Limited and M/s.  Gateway Net Trading Pvt. Ltd., Sing apore, a 
+subsidiary of M/s. Reliance Communications Limited which has 
+made direct payment for purchase of yacht. The yacht was 
+dispatched to India vide Bill of Lading No.2 dated 30.09.2008. 
+The investigations revealed that a letter dated 01.01.2009 was 
+written under the signatures of Shri V.R. Mohan of M/s.  
+Ammolite Holdings Limited issued M/s.Assar  Lines saying that 
+the owners had entered into a Bare Boat Chartering Agreement 
+with the assessee , M/s.  Reliance Transport & Travels Pvt. Ltd. for 
+a period of on e year .   
+4. Further, in the report i t was also alleged that the yacht was 
+used for the personal purposes of Shri Anil Ambani and his 
+family. The yacht was brought to India without paying Customs 
+Duty.  The Assessing Officer has also referred to certain 
+statements recorded by the Customs authorities that how the 
+yacht was purchased and used by Shri Anil Ambani and family 
+for their personal use. The Customs Department had attached 
+the yacht for non -payment  of Customs Duty and the yacht was 
+valued at Rs.86,91,97,421/ -. In the petition filed before the 
+Customs Settlement Commission, the Commission had finally 
+levied Customs Duty of Rs.26,49,31,101/ - and further penalty of 
+Rs.5,63,59,144/ - was imposed . 
+ 
+5. In his order, the Assessing Officer has also referred to the 
+report of the Joint Director of Income Tax (Intelligence & Criminal 
+Investigation) Unit -1, Mumbai that since the yacht was4 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+purchased for personal use, therefore, the payment of Customs 
+Duty canno t be allowed as business expenses in the hands of the 
+assessee -company, i.e. M/s. Reliance Transport & Travels Pvt. 
+Ltd.  From this report, the Assessing Officer deduced that the 
+yacht was purchased for personal use of Shri Anil Ambani and 
+family and the c harter agreement entered into by the assessee -
+company with M/s. Ammolite Holding Limited is nothing but a 
+devise to avoid tax implication, especially Customs Duty by 
+making it „foreign flag vessel‟.  He further held that the Customs 
+Duty is applicable only  if it is paid on revenue items, i.e. stock -in-
+trade which is imported or import of capital asset.  In the case of 
+assessee -company, it is neither stock -in-trade nor capital asset;  
+therefore, the Customs Duty is not applicable on the yacht in the 
+hands of the assessee -company. Insofar as the assessee‟s 
+contention that Customs and Excise Settlement Commission has 
+levied Customs Duty on the assessee and, therefore, the 
+expenses should be allowed, the same he held that it is not 
+tenable because the Settlement Commission has not adjudicated , 
+whether it is applicable on the assessee or M/s. Ammolite 
+Holding Limited or M/s. Reliance Transport & Travels Pvt. Ltd. or 
+the persons who have used the yacht.   
+ 
+6. The Assessing Officer further held that the expenses 
+claimed by the assessee -company cannot be allowed as expenses 
+under Section 37(1) of the Act because it does not satisfy the 
+following conditions : - 
+ 
+(i) It is not incurred during the previous year. The yacht was 
+brought in India in AY 2009 -10 for which the expens es belongs5 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+to whereas the expenses were claimed in the A.Y.2013 -14. The 
+assessee may argue it is customs duty and can be claimed on 
+payment basis u/s.43B of the Act. However, it is to be noted 
+that the assessee has not shown any expenses payable as 
+customs  duty in the A.Y.2009 -10. 
+ 
+(ii) It is not covered under section 30 to 36 of the Act.  
+ 
+(iii) These expenses are not a revenue expense in nature. If it is an 
+expense at all, it is enduring and having impact beyond the 
+year under consideration. It is not recurring.  
+ 
+(iv) The expense is purely personal in nature. As per the findings of 
+the Customs Authorities and the report of the JDIT (I &CI), 
+Mumbai of the Income -tax Department (as discussed above), 
+the yacht was brought to India for personal purposes.  
+ 
+(v) 'Wholly and exclusiv ely' for the purpose of business. This 
+expense is not incurred 'wholly and exclusively' for the purpose 
+of business. The Charter Agreement entered with M/s 
+Ammalite Holding Limited itself contradicts the business 
+purpose. The assessee company carrying out its business in 
+India chartering a yacht with 'foreign flag' which can stay at 
+Indian Shores for a limited and permissible duration and which 
+cannot be used as an Indian Yacht cannot be used as an 
+Indian Yacht for any purpose, how can be used for business in 
+India. An assessee who is neither an importer nor exporter nor 
+does it venture in the coastal trades or offshore operation, if 
+enters in a time charter agreement with a sister concern for a 
+foreign flag vessel, then what business purpose is served, is 
+beyond rationality. When the charter agreement of yacht does 
+not satisfy the condition of wholly and exclusively for the 
+business purpose, how can customs duty based on that charter 
+agreement be wholly and exclusively for the business purpose. 
+In addition t o that, the use of yatch for personal purposes6 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+excludes the criterion of 'wholly and exclusively for business 
+purpose'.  
+ 
+(vi) The SCN alleged in para 49(xxix) while considering the 
+application of Shri Anil D. Ambani that the applicant 
+purchased the Yacht for pe rsonal use with the assistance of 
+Shri Hari Nair, Vice President of M/s. Reliance ADAG, routed 
+the money for the purchase and effected the import of the 
+Yacht with the help of Shri Gautama Dutta and Sh. Sohel 
+Kazani in order to evade applicable customs dut y. In respect of 
+the same, the applicant has submitted that purchasing the 
+Yacht, routing the money for purchasing the Yacht does not 
+amount to any action or omission, attracting liability to 
+confiscation of the Yacht under section 111(m) or (n) and 
+furthe r Bill of Entry in the Customs and therefore, Section 
+111(m) is not applicable as the Yacht was declared properly.  
+From the above, it is seen that the SCN has alleged that the 
+Yacht was purchased for personal purposes only. However, the 
+allegation raised by the SCN was neither answered nor 
+rejected. From the above, it is crystal clear that the Yacht was 
+purchased for personal purposes only.  
+ 
+7. The Assessing Officer also rejected the assessee‟s contention 
+that payment of Customs Duty was commercial expedie ncy for 
+the reason that chartering of foreign flag yacht was not for the 
+purpose of business and chartering of such a yacht was not going 
+to serve any business purpose. If there was no commercial or 
+business purpose in chartering of such yacht, how can pay ment 
+of Customs Duty on it be treated as business exigency ?  Thus, he 
+disallowed the Customs Duty claimed by the assessee of 
+Rs.26,49,31,101/ - and added it back to the income of assessee.7 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+8. Before the ld. CIT(A), detailed submissions were made which 
+has been dealt with and incorporated in the appellate order on 
+pages 5 to 19.  The ld. CIT  (A) after noting down the facts noted 
+that the assessee had submitted that the yacht was used for 
+business purpose insofar as the assessee is concerned and it was 
+under bona fide  belief that the yacht was having foreign flag 
+which was decided to be used in various countries including 
+Europe and India, therefore, Customs Duty is not leviable.  Only 
+due to circumstances beyond the control and that the yacht was 
+seized a s it remained in India, that the assessee agreed to pay the 
+Customs Duty and settle the case so as to use the yacht in India.  
+The Settlement Commission after considering the application had 
+levied Customs Duty on the assessee itself. The order of 
+Settlement Commission was delivered in Assessment Year 2012 -
+13, therefore, same had been claimed in the year under appeal, 
+i.e. Assessment Year 2013 -14.  Insofar as the Assessing Officer‟s 
+allegation that the yacht was used for personal purposes, he held 
+that the Assessing Officer himself has not verified  the fact 
+whether the said yacht is actually used by the assessee for its 
+personal use  or not .  The principal activity of the assessee is to  
+carry on the business of travel and tourist agent and hiring, 
+acquiring and chartering of aircrafts, helicopters, e tc. In the 
+course of its business, the assessee has hired the Yacht from 
+Ammolite for use of its business and actually used the same to 
+provide services to Reliance ADA Group Pvt. Ltd. vide agreement 
+dated 8.10.2008. As per the agreement, the Yacht was use d to 
+provide services to Reliance ADA Group Pvt. Ltd. and the 
+assessee has done the same and provided the services to Reliance8 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+ADA Group Pvt. Ltd. The assessee has produced year -wise ledger 
+accounts of income earned from operation of yacht from 
+1.12.2008 t o 31.3.2013 along  with summary chart of income 
+earned from yacht operation up  to 31.3.2013. Further, a 
+reference was also made to the Profit & loss account of the 
+current year with respect to income earned from yacht operations 
+during the year.  Thus, he he ld that the yacht was used for the 
+purpose of assessee‟s business through providing services to 
+Reliance ADA Group Pvt. Ltd.  
+ 
+9. The ld. CIT  (A) after considering the entire gamut of facts 
+and the submissions of the assessee as well as the finding of the 
+Assessing Officer held that the yacht was not used by the 
+assessee for its own personal use. It has operated the yacht for 
+the benefit and use of companies or entities of Reliance ADA 
+Group for consideration by way of operating fee as per the 
+agreement. The  assessee -company has earned revenue from 
+operating of yacht of Rs.53,16,319/ - and for the period 
+01.12.2008 to 31.03.2013 it has earned revenue of 
+Rs.1,58,45,786/ -.  The assessee has only acquired the chartering 
+rights of the yacht and income has always b een assessed as 
+business income in all the years by the Assessing Officer.  Insofar 
+as the Assessing Officer‟s allegation that Customs Duty is not 
+applicable in the case of assessee, he held that as per the order of 
+Settlement Commission, the assessee alon e was liable for 
+payment of Customs Duty on yacht for using same in the 
+territory of India and accordingly, assessee had paid the Customs 
+Duty.  Further, the assessee has taken the yacht on lease from9 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+M/s. Ammolite Holding Limited and, therefore, it has no t been 
+capitalised or treated as stock -in-trade. For coming to this 
+conclusion, he has referred to the decision of Hon'ble Bombay 
+High Court in the case of National Organic Chemicals Industries 
+Ltd. Vs. CIT, 203 ITR 410  (Bom.) .  Again, insofar as the Asses sing 
+Officer‟s observation that the said expenses ha ve not been 
+incurred during the previous year because the yacht was brought 
+in India in Assessment Year 2009 -10 and, therefore, the 
+expenses cannot be claimed in Assessment Year 2013 -14, he 
+held that sinc e the assessee has paid the Customs Duty in the 
+month of January, 2009 of Rs.25 crores and further payment of 
+Rs.3 crores was made under protest in December, 2009  to 
+provisionally vacate seizure of yacht by the Customs authorities 
+and it is only when the S ettlement Commission vide order dated 
+31.05.2012 had adjudicated the issue and settled the matter of 
+payment on payment of determined Customs Duty upon the 
+assessee, therefore, the liability had crystallized in Assessment 
+Year 2013 -14 and, therefore, it ha s rightly been claimed as 
+deduction in this year.  Final conclusion of the ld. CIT(A) reads as 
+under : - 
+ 
+“I have gone through the contentions of the appellant and AO 
+fully. The contentions of the AO are not found correct and in law. As 
+discussed in the above paras, the said expenditure is not incurred for 
+its personal purpose by the appellant. Further, the ap pellant has 
+incurred the said expenses for its business purpose. Since the liability 
+in respect of the custom duty is crystallized during the year as the 
+order of the Settlement Commission was passed in the current year 
+and the finality of payment of custo m duty liability arises in the 
+current year, it cannot be disallowed on the ground that the same is 
+not related to the year under appeal. The said contention of the10 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+appellant also supported by the various High Courts and Tribunals 
+decisions as discussed ab ove. Accordingly, the Ground Nos. A(1) to 
+A(6) raised in appeal is thus ALLOWED.”  
+ 
+10.   We have heard both the parties at length, perused the 
+relevant finding given in the impugned order as well as the 
+material referred to before us at the time of hearing . The ld. 
+Departmental Representative has referred to various observations 
+of the Assessing Officer and submitted that once it is found that 
+Customs Duty was paid on yacht, which was purely used for the 
+personal purposes of Shri Anil Ambani and family, it cannot be 
+allowed as business expenses. On the other hand, the learned 
+counsel for the assessee submitted that insofar as the assessee -
+company is concerned, it had taken the yacht on rent from a 
+foreign company, M/s. Ammolite Holding Limited and had used i t 
+for earning income from operation of the yacht and showed it as 
+business income, therefore, it cannot be held that the yacht was 
+used for personal purposes of assessee -company.  Insofar as the 
+liability to pay Customs Duty by the assessee -company is 
+concerned, he submitted that once the Settlement Commission 
+had fixed the liability of Customs Duty on the assessee for the 
+yacht, then, it is purely a payment of duty which is allowable as 
+business expenses of the assessee -company.  
+ 
+11. It is an undisputed fa ct that the assessee -company is in the 
+business of travel and tourist agent and also chartering of 
+aircrafts, helicopters, yachts, etc. The revenue earned from 
+operation of yacht/helicopters, etc. has been shown as business 
+income and same has been accepte d by the Assessing Officer in11 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+all the years.  If in the course of its business, assessee has hired 
+a yacht for the use of its business and to provide services to other 
+entities and companies, then, so far as the assessee is concerned, 
+it is purely a busine ss activity.  The ld. CIT(A) has already noted 
+that the revenue earned from operation of yacht over the period 
+of time, which has been accepted by the Assessing Officer.  Even 
+if the company which is hiring the services or individuals who are 
+using the yac ht for their personal purposes, then insofar as the 
+assessee is concerned, it does not automatically become personal 
+use by the assessee -company. If any adverse inference was to be 
+drawn, then, it has to be examined and looked into in their 
+hands or in t he context of the compan ies or persons hiring the 
+yacht or paying charges for usage of the yacht. The yacht was 
+never used for the personal use of the assessee -company, albeit 
+by someone else, for which any claim of deduction of expenses 
+cannot be disallowed  on the ground of personal use  in the hands 
+of the assessee company . Therefore, the ld. CIT  (A) has rightly 
+concluded that the yacht was not used by the assessee for its 
+own personal use as it has operated the yacht for the benefit and 
+use of companies or entities paying operating fee as per the 
+agreement.  
+ 
+12. Insofar as the controversy whether the liability to pay the 
+Customs Duty was of assessee or not and in which year assessee 
+could claim the expenses . As discussed above, the Customs and 
+Excise Settlem ent Commission has categorically held that the 
+liability to pay Customs Duty was on the assessee because the 
+yacht was used in India and, therefore, the assessee alone should12 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+pay the Customs Duty.  Thus, the payment of Customs Duty by 
+the assessee was a st atutory liability of the assessee company 
+which has been dispensed with and accordingly, assessee has 
+rightly claimed the payment of Customs Duty as expenses.   
+ 
+13. Insofar as the year of claim of expenses is concerned, 
+though the assessee had paid the Cu stoms Duty of Rs.28 crores 
+in the year 2009, it was only to release the yacht attached with 
+the Customs authorities and same was done under protest as it 
+was contesting the levy of Customs Duty on the ground that 
+since it is a „foreign flag vessel‟, there was no liability to pay the 
+Customs Duty. Thus, when the Customs and Excise Settlement 
+Commission had fixed the liability and determined the liability in 
+the financial year 2012 -13 relevant to Assessment Year 2013 -14, 
+the liability has definitely crystalli sed in this year only and, 
+therefore, the same has rightly been claimed in this year.  
+Accordingly, the order of the ld. CIT  (A) is confirmed and the 
+grounds raised by the Revenue is dismissed.  
+ 
+14. Insofar as the issue raised in ground no. 2 that the 
+assessee-company had offered Long term capital gains  on sale of 
+helicopter of Rs.19,09,32,707/ -.  The Assessing Officer noted that 
+the helicopter was part of block of assets and was a depreciable 
+asset  and why it should not be treated as Short term capital 
+gains .  
+ 
+ The working of capital gains  as per assessee was as under : -13 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+Particulars  Amount (Rs.)  
+Net block of helicopter as on 01.04.2012  11,19,47,371  
+Less :  Deduction during the year (excluding 
+spare parts of Rs.65,10,284/ - and equipment of 
+R.3,73,438/ -) 30,28,80,078  
+Capital gains as per section 50(2) of the Act  19,09,32,707  
+ 
+15. The helicopter was purchased on 31.10.2006 and the same 
+was sold on 25.03.2013 and, therefore, the period of holding was 
+more than 3 years.  Since the block became Nil, the provisions of 
+Section 50(2) of the Act was attracted and the deeming provision 
+of Section 50 of the Act are applicable with respect to 
+computation of capital gains  and it does not convert the long 
+term capital asset into short term capital asset. However, the 
+Assessing Officer held that in the section 50 of the Act, it is 
+clearly stated the manner of calculation of capital gains on sale of 
+depreciable assets , which is applicable here as it was sale of 
+asset on which depreciation was allowed . In the instant case, the 
+helicopter is a depreciable asset and the assessee has claimed 
+depreciation on the same , therefore, a s per the provisions of 
+section 50 of the Act, incom e received or accruing as a result of 
+such transfer or transfers shall be deemed to be the capital gains 
+arising from the transfer of short -term capital assets. AO further 
+held that a s per provisions of section 2(42B) of the Act wherein 
+the short term capi tal gains has been defined, it is clearly 
+mentioned that "short term capital gain means capital gain 
+arising from the transfer of a short term capital asset". From the 
+above, it is clear that all the depreciable assets are in the nature 
+of short term capit al assets as per provisions of section 50 of the14 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+Act and any capital gains arising out of such transfer is short 
+term capital gain as per provisions of section 2(42B) of the Act. 
+AO further observed that, i f the provisions of section 50 of the Act 
+is read  with the provisions of section 2(42B) of the Act, it is amply 
+clear the capital gains arising out of sale of depreciable assets are 
+short term capital gains only. In the section 50 of the Act which 
+is incorporated for calculation of depreciable assets, it was 
+nowhere mentioned that the capital gains will be calculated as 
+per the holding period of the asset.  He further held that for the 
+purpose of computation of capital gains  on such depreciable 
+asset, the asset become short term and therefore he held it to be 
+Short term capital gains  and levied tax at the rate applicable for 
+Short term capital gains .  
+ 
+16.     The ld. CIT(A) after referring to the judgment of the Hon'ble 
+Supreme Court in the case of V.S. Dempo Co. Ltd. [2016] 74 
+Taxmann.com 15 (SC)  and Hon'b le Bombay High Court in the 
+case of Ace Builders (P.) Ltd. [2005] 144 Taxmann 855 (Bom.)  held 
+that though for the purpose of computation of capital gains  it will 
+be treated as Short term capital gains  under Section 50 of the 
+Act, but for the purpose of app licability of tax rate, it has to be 
+treated as Long term capital gains , if asset is held for more than 
+3 years.  
+ 
+17.    After considering the Revenue‟s submission and on perusal 
+of the impugned order, we find that, the only controversy is 
+whether sale of  a depreciable asset (i.e. helicopter) , which was 
+part of block of assets and held for more than 3 years , is taxable15 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+under Section 50 of the Act as Short term capital gains , then  
+whether the rate of tax would be of Long term capital gains  
+treating it to be  a long term capital asset  or rate of short term 
+capital gain . The Assessing Officer has treated the capital gain on 
+sale of helicopter amounting to Rs.19,09,32,707/ - as Short term 
+capital gains  and taxing the same at normal rate of tax as per the 
+provisio ns of Section 111A(1) of the Act @ 30% ; whereas the ld. 
+CIT(A) has held that for the purpose of rate of tax, same should 
+be treated as Long term capital gains  and, therefore, as per the 
+provisions of Section 112(1) of the Act, the rate of tax should be 
+20%.   
+ 
+18.    It is an undisputed fact that the holding period of the said 
+asset was more than 3 years (i.e. 5 ½ years) and, therefore, same 
+is a long term capital asset as per the provisions of Section 
+2(29A A) of the Act.  Since the asset was a depreciable asset used 
+for the purpose of business, assessee claimed depreciation from 
+the date of its acquisition , i.e., from  31.10.2006.  During the 
+current year, the helicopter was sold for Rs.30,28,80,078/ - which 
+amount was higher than the net block of asset  as on  01.04.2012.  
+The resulting capital gain as per Section 50(2) of the Act was Rs. 
+19,09,32,707/ - which assessee has offered for capital gains  at 
+the tax rate of 2 0%.  As per Section 112 of the Act, the income 
+arising from transfer of a long term capital ass et is chargeable 
+under the head „ Capital gains ‟ @ 20%.  Long term capital gains  
+on capital asset has been defined under Section 2(29A A) of the 
+Act to mean capital asset which is not a short term capital asset.  
+As per Section 2(42A) of the Act, short term capital asset means16 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+capital asset held by the assessee for not more than 36 months 
+immediately preceding the date of transfer.  Section 50 is a special 
+provision for computing the capital gains  in case of a depreciable 
+asset and is not only restricted to pr ovisions of Section 48 and 49 
+of the Act. It is a deeming fiction carved out for treatment of 
+depreciable asset which has limited application for the pur pose of 
+mode of computation of capital gains  contained in Section 48 and 
+49 of the Act . Ergo,  it deals with capital asset which forms part of 
+block of assets in which depreciation has been allowed under this 
+Act and, therefore, the mode of computation of profit under 
+Section 48 and 49 of the Act are applied with certain 
+modifications.  In other wo rds, the fiction created in Section 50 of 
+the Act is only restricted to the mode of computation under 
+Section 48 and 49 of the Act which cannot be extended beyond 
+that.  
+ 
+19.   This issue had come up for consideration before the Hon'ble 
+Bombay High Court ( jurisdictional High Court)  in the case of CIT 
+vs Ace Builders, 281 ITR 210 (Bom.)  wherein the Hon'ble High 
+Court in the context of claim of deduction under Section 54E of 
+the Act in respect of capital gain arising on transfer of a capital 
+asset on which de preciation has been allowed, which is deemed 
+to be Short term capital gains  under Section 50 of the Act, had 
+made the following observation: - 
+ 
+“21. On perusal of the aforesaid provisions, it is seen that Section 
+45 is a charging section and sections 48 and  49 are the 
+machinery sections for computation of capital gains. However, 
+Section 50 carves out an exception in respect of depreciable 
+assets and provides that where depreciation has been claimed17 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+and allowed on the asset, then, the computation of capital g ain 
+on transfer of such asset under sections 48 and 49 shall be as 
+modified under Section 50. In other words, Section 50 provides a 
+different method for computation of capital gain in the case of 
+capital assets on which depreciation has been allowed.  
+ 
+22. Under the machinery sections the capital gains are 
+computed by deducting from the consideration received on 
+transfer of a capital asset, the cost of acquisition, the cost of 
+improvement and the expenditure incurred in connection with the 
+transfer. The mean ing of the expressions „cost of improvement‟ 
+and „cost of acquisition‟ used in sections 48 and 49 are given in 
+section 55. As the depreciable capital assets have also availed 
+depreciation allowance under section 32, section 50 provides for 
+a special proced ure for computation of capital gains in the case of 
+depreciable assets. Section 50(1) deals with the cases where any 
+block of depreciable assets do not cease to exist on account of 
+transfer and Section 50(2) deals with cases where the block of 
+depreciable assets cease to exist in that block on account of 
+transfer during the previous year. In the present case, on transfer 
+of depreciable capital asset the entire block of assets has ceased 
+to exist and, therefore, Section 50(2) is attracted. The effect of 
+Section 50(2) is that where the consideration received on transfer 
+of all the depreciable assets in the block exceeds the written 
+down value of the block, then the excess is taxable as a deemed 
+short term capital gains. In other words, even though the entire 
+block of assets transferred are long term capital assets and the 
+consideration received on such transfer exceeds the written down 
+value, the said excess is liable to be treated as capital gain 
+arising out of a short term capital asset and taxed accordingly.  
+ 
+23. The question required to be considered in the present case 
+is, whether the deeming fiction created under Section 50 is 
+restricted to section 50 only or is it applicable to section 54E of 
+the Income Tax Act as well ?  In other words, the question is, 
+where the long term capital gain arises on transfer of a 
+depreciable long term capital asset, whether the assessee can be 
+denied exemption under section 54E merely because, section 5018 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+provides that the computation of such capital gains should be 
+done as if  arising from the transfer of short term capital asset ?  
+ 
+24. Section 54E of the Income Tax Act grants exemption from 
+payment of capital gains tax, where the whole or part of the net 
+consideration received from the transfer of a long term capital 
+asset is invested or deposited in a specified asset within a period 
+of six months after the date of such transfer. In the present case 
+it is not in dispute that the assessee fulfills all the conditions set 
+out in section 54E to avail exemption, but the exemption is  sought 
+to be denied in view of fiction created under section 50.  
+ 
+25. In our opinion, the assessee cannot be denied exemption 
+under section 54E, because, firstly, there is nothing in section 50 
+to suggest that the fiction created in Section 50 is not only  
+restricted to sections 48 and 49 but also applies to other 
+provisions. On the contrary, Section 50 makes it explicitly clear 
+that the deemed fiction created in sub -section (1) & (2) of section 
+50 is restricted only to the mode of computation of capital ga ins 
+contained in Section 48 and 49. Secondly, it is well established 
+in law that a fiction created by the legislature has to be confined 
+to the purpose for which it is created. In this connection, we may 
+refer to the decision of the Apex Court in the case of State Bank 
+of India V/s. D. Hanumantha Rao reported in 1998 (6) S.C.C.183. 
+In that case, the Service Rules framed by the bank provided for 
+granting extention of service to those appointed prior to 
+19/7/1969. The respondent therein who had joined the ban k on 
+1/7/1972 claimed extention of service because he was deemed 
+to be appointed in the bank with effect from 26/10/1965 for the 
+purpose of seniority, pay and pension on account of his past 
+service in the army as Short Service Commissioned Officer. In 
+that context, the Apex Court has held that the legal fiction created 
+for the limited purpose of seniority, pay and pension cannot be 
+extended for other purposes. Applying the ratio of the said 
+Judgment, we are of the opinion, that the fiction created under 
+section 50 is confined to the computation of capital gains only 
+and cannot be extended beyond that. Thirdly, section 54E does 
+not make any distinction between depreciable asset and non 
+depreciable asset and, therefore, the exemption available to the19 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+depreciab le asset under section 54E cannot be denied by 
+referring to the fiction created under section 50. Section 54E 
+specifically provides that where capital gain arising on transfer of 
+a long term capital asset is invested or deposited (whole or any 
+part of the net consideration) in the specified assets, the 
+assessee shall not be charged to capital gains. Therefore, the 
+exemption under section 54E of the I.T.Act cannot be denied to 
+the assessee on account of the fiction created in section 50.  
+ 
+26. It is true that  section 50 is enacted with the object of 
+denying multiple benefits to the owners of depreciable assets. 
+However, that restriction is limited to the computation of capital 
+gains and not to the exemption provisions. In other words, where 
+the long term capit al asset has availed depreciation, then the 
+capital gain has to be computed in the manner prescribed under 
+Section 50 and the capital gains tax will be charged as if such 
+capital gain has arisen out of a short term capital asset but if 
+such capital gain is  invested in the manner prescribed in Section 
+54E, then the capital gain shall not be charged under Section 45 
+of the Income Tax Act. To put it simply, the benefit of section 54E 
+will be available to the assessee irrespective of the fact that the 
+computati on of capital gains is done either under sections 48 & 
+49 or under section 50. The contention of the revenue that by 
+amendment to section 50 the long term capital asset has been 
+converted into to short term capital asset is also without any 
+merit. As state d hereinabove, the legal fiction created by the 
+statute is to deem the capital gain as short term capital gain and 
+not to deem the asset as short term capital asset. Therefore, it 
+cannot be said that section 50 converts long term capital asset 
+into a short  term capital asset.”  
+ 
+20. Thus, sequitur of aforesaid judgment is that the fiction 
+created by the legislature in Section 50 of the Act has to be 
+confined to the purp ose for which it is created.  Section 50 of the 
+Act was enacted with the object of denying multiple benefits to 
+the owners of a depreciable asset, however, that restriction is 
+limited to the computation of capital gains  and not to the20 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+exemption provision.  If depreciation  has been availed on long 
+term capital asset, then, the capital gains  has to be computed in 
+the manner prescribed under Section 50 of the Act and the 
+capital gains  tax will be charged as if such capital gain is arising 
+out of short term ca pital asset. In that case, the capital gains  was 
+invested in the manner prescribed in Section 54E of the Act 
+wherein exemption is provided on transfer of a long term capital 
+asset then Long term capital gains  was subject to deduction .  
+There also, the asse t was a depreciable asset, however, while 
+granting exemption under Section 54E of the Act, which is 
+applicable for Long term capital gains , the jurisdictional High 
+Court has held that for the purpose of exemption under Section 
+54E of the Act, it has to be treated as Long term capital gains .  
+Later on, the same principle was reiterated by the Hon'ble 
+Bombay High Court in the case of CIT vs Parrys (Easter n) (P) 
+Ltd., 384 ITR 264 (Bom.)  wherein the Hon'ble High Court has 
+held that if deemed Short term capital gains  is arising on account 
+of sale of a depreciable asset that was held for a period to which 
+Long term capital gains  will apply, then, said gain would be set -
+off against brought forward Long Term Capital Loss and 
+unabsorbed depreciation. Further , in case  CIT vs Manali 
+Investment s [2013] 219 Taxman 113 (Bom.)  again the same 
+principle was reiterated by the Hon'ble Bombay High Court.  
+Later on, the Hon'ble Supreme Court in the case of CIT V.S. 
+Dempo  Co. Ltd. Civil Appeal No(s). 4797/2008  vide order  dated  
+15.09.2016  had the occasion to examine the eligibility of assessee 
+to claim exemption under Section 54E of the Act in respect of 
+capital gains  arising on transfer of a capital asset on which21 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+depreciation has been allowed. The Hon'ble Apex Court reiterated  
+and affirmed the judgment of Hon'ble Bombay High Court in the 
+case of Ace Builders (P.) Ltd. (supra) . In the said appeal before 
+Supreme Court, in the income -tax return filed by the  
+respondent/assessee for the A.Y. 1989 -90, the assessee had 
+disclosed that it had sold its loading platform M.V. Priyadarshni 
+for a sum of Rs. 1,37,25,000/ - on which it had earned some 
+capital gains. On the said capital gains the assessee had also 
+claimed that it was entitled for exemption under Section 54E of 
+the Act. Admittedly , the asset was purchased in the year 1972 
+and sold sometime in the year 1989. Thus, the asset was almost 
+17 years old. Going by the definition of long term capital asset 
+contained in Section 2(29B) of the Act, it was admittedly a long -
+term capital asset. Further the Assessing Officer rejected the 
+claim for exemption under Section 54E of the Act on the ground 
+that the assessee had claimed depreciation on this asset and, 
+therefore, provisions of Section 50 were applicable. Though this 
+was upheld by the CIT ( Appeals), the ITAT allowed the appeal of 
+the assessee herein holding that the assessee shall be entitled for 
+exemption under Section 54E of the Act. The Bombay High Court 
+confirmed the view of the CIT (Appeals) and dismissed the appeal 
+of the Revenue. Whil e doing so the High Court relied upon its 
+own judgment in the case of CIT, Mumbai City -II, Mumbai vs. 
+ACE Builders Pvt. Ltd. [(2005) 3 Bom CR 598]. The High Court 
+observed that Section 50 of the Act which is a special provision 
+for computing the capital ga ins in the case of depreciable assets 
+is not only restricted for the purposes of Section 48 or Section 49 
+of the Act as specifically stated therein and the said fiction22 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+created in sub -section (1) & (2) of Section 50 of the Act has 
+limited application only in the context of mode of computation of 
+capital gains contained in Sections 48 and 49 of the Act and 
+would have nothing to do with the exemption that is provided in 
+a totally different provision i.e. Section 54E of the Act. Section 48 
+of the Act deals wit h the mode of computation and Section 49 of 
+the Act relates to cost with reference to certain mode of 
+acquisition. This aspect is analysed in the judgment of the 
+Bombay High Court in the case of CIT, Mumbai City -II, Mumbai 
+vs. ACE Builders Pvt. Ltd.(supra) , in the following manner:  
+ “In our opinion, the assessee cannot be denied 
+exemption under Section 54E, because, firstly, there is 
+nothing i n Section 50 to suggest that the fiction 
+created in Section 50 is not only restricted to Sections 
+48 and 49 but also applies to other provisions. On the 
+contrary, Section 50 makes it explicitly clear that the 
+deemed fiction created in sub -section (1) & (2)  of 
+Section 50 is restricted only to the mode of 
+computation of capital gains contained in Section 48 
+and 49. Secondly, it is well established in law that a 
+fiction created by the legislature has to be confined to 
+the purpose for which it is created. In th is connection, 
+we may refer to the decision of the Apex Court in the 
+case of State Bank of India vs. D. Hanumantha Rao 
+reported in 1998 (6) SCC 183. In that case, the Service 
+Rules framed by the bank provided for granting 
+extension of service to those appo inted prior to 
+19.07.1969. The respondent therein who had joined the23 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+bank on 1.7.1972 claimed extension of service because 
+he was deemed to be appointed in the bank with effect 
+from 26.10.1965 for the purpose of seniority, pay and 
+pension on account of his  past service in the army as 
+Short Service Commissioned Officer. In that context, 
+the Apex Court has held that the legal fiction created 
+for the limited purpose of seniority, pay and pension 
+cannot be extended for other purposes. Applying the 
+ratio of the said judgment, we are of the opinion, that 
+the fiction created under Section 50 is confined to the 
+computation of capital gains only and cannot be 
+extended beyond that. Thirdly, Section 54E does not 
+make any distinction between depreciable asset and 
+non-depreciable asset and, therefore, the exemption 
+available to the depreciable asset under Section 54E 
+cannot be denied by referring to the fiction created 
+under Section 50. Section 54E specifically provides 
+that where capital gain arising on transfer of a lon g 
+term capital asset is invested or deposited (whole or 
+any part of the net consideration) in the specified 
+assets, the assessee shall not be charged to capital 
+gains. Therefore, the exemption under Section 54E of 
+the I.T. Act cannot be denied to the asses see on account 
+of the fiction created in Section 50.”  
+ 
+Their Lordships  dismissing the appeal filed by the Revenue held 
+that we are in agreement with the aforesaid view taken by the 
+Mumbai High Court. The Gujarat High Court as well as Guahati24 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+High Court hav e also taken the same view in the following cases, 
+against these judgments no appeal has been filed:  
+1. CIT vs. Polestar Industries [2013 SCC online Gu j 5517]  
+2. CIT vs. Assam Petroleum Industries (P.) Ltd. [(2003) 262  ITR 
+587].  
+ 
+21.  The Special Bench of ITAT, Mumbai also in ITO vs United 
+Marine Academy  [2011] 10 Taxmann.com 320 (Mum. -Trib)  
+has explained the deeming fiction of section 50 as per which the 
+said section only modifies the term "cost of acquisition" used in 
+sections 48 for the purpose of computing the capital gains arising 
+from transfer of depreciable assets.   
+ 
+22.    Thus , the applicability of section 50 is for the limited 
+purpose of working out the cost of acquisition u/s.48 and 49 of 
+the depreciable asset sold and the app licability of section 50 is 
+restricted for that purpose only and for the purpose of other 
+provisions of the Act, the capital gain has to be treated as long 
+term capital gain if the period of holding is more than 3 years.  
+The ratio and the principle as cul led out from the aforesaid 
+judgment s are that, the legal fiction created in Section 50 of the 
+Act deems capital gains  as short term capital gains  but does not 
+deem the asset as short term capital asset and, therefore, it 
+cannot be said that Section 50 of t he Act converts long term 
+capital asset into short term capital asset.  Thus, if we apply the 
+same ratio and principle here then, a s per Section 112 of the Act, 
+the tax on long term capital gains  on transfer of a long term 
+capital asset is @ 20% and, theref ore, even if the capital gains  is25 ITA No. 5683/Mum/2017  
+Reliance Transport & Travels Pvt. Ltd.  
+ 
+deemed as short term capital gains  in terms of Section 50 of the 
+Act, but for all other purposes including for the purpose of 
+Section 112 , the deeming fiction cannot be extended for rate of 
+taxes and, therefore, the rate of tax has to be as per Section 112 
+of the Act, i.e. 20%. Accordingly, the order of ld. CIT  (A) is 
+confirmed and ground no. 2 is dismissed.  
+ 
+23. In the result, appeal of the Revenue is dismissed.  
+ 
+ Order pronounced in the open court on 19th July, 2022.  
+ 
+ 
+                          Sd/-                          Sd/- 
+(S. RIFAUR RAHMAN ) 
+ACCOUNTANT MEMBER                        (AMIT SHUKLA)  
+                  JUDICIAL MEMBER  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mumbai, Date :  19.07.2022  
+ 
+*SSL*  
+ 
+ 
+ 
+ 
+ 
+Copy to :  
+ 
+ 
+1) The Appellant  
+2) The Respondent  
+3) The CIT(A) concerned  
+4) The CIT concerned  
+5) The D.R, “D” Bench, Mumbai  
+6) Guard file                    
+           By Order  
+ 
+ 
+Asstt. Registrar/Sr. Private Secretary  
+                 I.T.A.T, Mumbai

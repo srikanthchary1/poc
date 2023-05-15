@@ -1,0 +1,409 @@
+। आयकर अपीलीय अिधकरण  Ɋायपीठ, कोलकाता  । 
+IN THE INCOME TAX APPELLATE TRIBUNAL 
+“A” BENCH, KOLKATA 
+BEFORE SHRI SANJAY GARG, HON’BLE JUDICIAL MEMBER 
+& 
+SHRI GIRISH AGRAWAL, HON’BLE ACCOUNTANT MEMBER 
+ 
+ ITA No. 600/Kol/2020 
+Assessment Years: 2015-16 
+ 
+Assistant Commissioner of 
+Income-tax, Circle-3(2), 
+Gangtok  Vs. 
+ M/s. Rodic Sikkim Project Pvt. Ltd.  
+Shanti Nagar, Singtam 
+East Sikkim - 737134 
+(PAN: AAHCR1752J) 
+         (Appellant)  (Respondent) 
+ 
+Assessee by  : Shri Manish Tiwari, FCA  
+Revenue by  : Shri Vijay Kumar, Addl. CIT   
+   
+              सुनवाई की तारीख/Date of Hearing             :       24/11/2022 
+              घोषणा की तारीख/Date of Pronouncement :        20/01/2023      
+ 
+O R D E R 
+ 
+PER GIRISH AGRAWAL, ACCOUNTANT MEMBER:  
+ 
+ This appeal by the revenue is directed against the order passed by the Ld. 
+CIT(A)- Siliguri vide Appeal no. – 62/CIT(A)/SLG/2017-18 dated 24/09/2020 
+for A.Y. 2015-16 against the assessment order passed u/s 143(3) of the Income-
+tax Act, 1961 (hereinafter referred to as ‘the Act’) passed by DCIT, Circle – 3(2), 
+Gangtok, dated 30/12/2017.  
+2. The grounds taken by the revenue are reproduced as under:- 
+“1. Whether on the facts and in the circumstances of the case the 
+Commissioner of Income Tax (appeals) was justified in law and in fact in stating 
+that Rule 11 UA of the I.T Rules. 1962, applies to valuation of market value of 
+unquoted equity shares and not to redeemable preference shares whether such 
+conclusion is otherwise unreasonable and perverse? 
+2.  Whether on the facts and circumstances of the case the Ld.CIT(A) was 
+justified in ignoring the fact that as per section 56(2)(vii)(b) there is no differenceITA No. 600/Kol/2020 
+Assessment Years: 2015-16 
+M/s. Rodic Sikkim Project Pvt. Ltd. 
+ 2 
+between preferential shares or equity shares and that the language of the section 
+uses the word 'Shares" which would also include preference shares. 
+3.  Whether on the facts and circumstances of the case the Ld. CIT(A) was 
+justified in assuming that Rule 11UA is not applicable in cases other than equity 
+shares whereas the said Rule 11UA is applicable in all kinds of shares under 
+Rules 11UA (1)(c)(c) of the IT Rules which is applicable for section 56 and lays 
+down the procedure for determination of market value of property including 
+valuation of shares and security. 
+4. Whether on the facts and circumstances of the case the Ld. CIT(A) had 
+erroneously concluded that the provisions of sec 56 (2)(vii)(b) and Rule 11UA 
+are not applicable in the case of the assessee whereas the facts and circumstances 
+shows that the said provisions of the Act and Rules are applicable in the case of 
+the assessee. 
+5. That the applicant craves leave to add, amend or alter the grounds of 
+appeal, if any.” 
+3. From the perusal of the above grounds, the moot point in the present 
+appeal relates to application of Rule 11UA of the Income-tax Rules, 1962 
+(hereinafter referred to as “the Rules”) to the valuation of FMV of redeemable 
+preference shares for making addition u/s 56(2)(viib) of the Act. 
+ 
+4. Brief facts of the case as culled out from the record are that assessee is a 
+Private Limited Company engaged in the business of manufacturing and 
+supply of stone chips. Return of income was filed on 29/09/2015 reporting a 
+loss of Rs.38,19,183/-. Case of the assessee was selected for limited scrutiny on 
+the issue of “ Large share premium received during the year (verify applicability of Sec 
+56(2)(viib))”.  The statutory notices were issue and served upon the assessee 
+which were duly complied with in the course of assessment proceedings. In the 
+course of assessment, assessee submitted its memorandum of association, audit 
+report and bank statements including other documents and explanations called 
+for by the ld. Assessing Officer. Ld. Assessing Officer noted that assessee had 
+issued, subscribed and paid up capital of Rs.24,50,000/- and security premiumITA No. 600/Kol/2020 
+Assessment Years: 2015-16 
+M/s. Rodic Sikkim Project Pvt. Ltd. 
+ 3 
+of Rs.2,64,50,000/-. The details of capital raised by the assessee is tabulated as 
+under:- 
+“List of Equity Share Holder. 
+Name of 
+Share 
+Applicant 
+(A)  No. of Equity 
+Share issued 
+(B) Nominal 
+Price per 
+Equity 
+Share € Nominal 
+Value of 
+Equity 
+Share (D) Share 
+Premium Per 
+Equity Share 
+€ Total 
+Equity 
+Share 
+Premium 
+(F) Total 
+Value of 
+Equity 
+Capital 
+Share 
+(G)[D+F] 
+1. Dhruba 
+Tewari 75,000 10 7,50,000 26.33 19,74,000 27,24,000 
+2. Reena 
+Chhetri 1,60,000 10 16,00,000 26.33 42,12,800 58,12,800 
+3. Remuna 
+Chhetri 10,000 10 1,00,000 26.33 2,63,200 3,63,200 
+Total (A)  2,45,000  24,50,000   64,50,000 89,00,000  
+ 
+List of Preference Share Holder. 
+Name of Share 
+Applicant (A)  No. of 
+Share 
+issued (B) Nominal 
+Price per 
+Preference 
+Share € Nominal 
+Value of 
+Preference 
+Share (D) Share 
+Premium Per 
+Preference 
+Share € Total 
+Preference 
+Share 
+Premium 
+(F) Total 
+Value of 
+Preference 
+Capital 
+Share (G) 
+[D+F] 
+Raghuvansh 
+Agrofarms 
+Limited 4,00,000 10 40,00,000 50 2,00,00,000 2,40,00,000  
+Total (B)  4,00,000  40,00,000   2,00,00,000  2,40,00,000  
+ 
+Total Capital 
+Raised (A+B)   64,50,000   2,64,50,000  3,29,00,000  
+             
+5. Ld. Assessing Officer called for explanation in respect of the issue of 
+cumulative redeemable preference shares issued by the assessee at a premium 
+of Rs.50/- per share. Notice u/s 133(6) of the Act was issued to the shareholder 
+M/s. Raghuvansh Agrofarms Limited, who had subscribed for the cumulative 
+redeemable preference shares. Ld. Assessing Officer in para 6 of the impugned 
+order noted that M/s. Raghuvansh Agrofarms Limited, has confirmed that they 
+have subscribed a total of 4,00,000 shares at a premium of Rs.50/- per share. InITA No. 600/Kol/2020 
+Assessment Years: 2015-16 
+M/s. Rodic Sikkim Project Pvt. Ltd. 
+ 4 
+their reply in response to notice u/s 133(6) of the Act, copy of the share 
+certificate duly signed by the Director of the assessee company and its bank 
+statements were also furnished. Ld. Assessing Officer showcaused the assessee 
+for calculation of fair market value (FMV) of the cumulative redeemable 
+preference share as per Rule 11U and Rule 11UA of the Rules. 
+5.1. Ld. Assessing Officer arrived at a value of (-)5.91/- as the FMV of the said 
+shares and considered it as Rs. Nil. By considering the FMV as Nil of these 
+preference shares, ld. Assessing Officer again showcaused the assessee to 
+explain why the difference between the FMV and the share premium received 
+amounting to Rs.3,29,00,000/- be added as income from other sources u/s 
+56(2)(viib) of the Act. Assessee made its submissions and contended that Rule 
+11UA(1)(c) of the Rules stipulates valuation method in case of issue of shares 
+other than equity shares for which the FMV shall be estimated to be the price 
+fetched if sold in the open market on the valuation date and for this the assessee 
+may obtain a report from a merchant banker or an accountant for such 
+valuation. Ld. Assessing Officer concluded the assessment by making addition 
+of Rs. 3,29,00,000/- by treating it as income from other sources u/s 56(2)(viib) of 
+the Act read with Rule 11UA of the Rules, by observing that the assessee has 
+failed to provide the FMV as per Rule 11U & Rule 11UA of the Rules and 
+submitting a valuation report thereon.  
+ 
+6. Aggrieved, assessee went in appeal before the ld. CIT(A). Before the ld. 
+CIT(A), assessee made detailed submission on which remand report was called 
+from the ld. Assessing Officer. In the remand report, ld. Assessing Officer did 
+not address the contention of the assessee in respect of non-applicability of Rule 
+11UA of the Rules read with Section 56(2)(viib) of the Act on the valuation of 
+cumulative redeemable preference shares. Assessee submitted its rejoinder to 
+the remand report and reiterated its submission that Rule 11UA of the RulesITA No. 600/Kol/2020 
+Assessment Years: 2015-16 
+M/s. Rodic Sikkim Project Pvt. Ltd. 
+ 5 
+does not apply to the valuation of preference shares but only for the valuation 
+of equity shares. 
+6.1. Ld. CIT(A) after considering the submissions placed on record, observed 
+that Rule 11UA of the Rules applies to valuation of FMV of unquoted equity 
+shares and not to redeemable preference shares. He also observed that 
+preference shareholders are not entitled to receive dividends out of the profits 
+of the company and are also not entitled to participate in the management of 
+the company and are on different footing as compared to the equity 
+shareholders and thus, allowed the appeal of the assessee. 
+ 
+7. Aggrieved, assessee is in appeal before the Tribunal. 
+8. Before us, Shri Manish Tiwari, FCA, represented the assessee and Shri 
+Vijay Kumar, Addl. CIT, represented the department. 
+9. Before us, ld. Sr. D/R contended that assessee did not get the valuation 
+done from the merchant banker or the Chartered Accountant as required under 
+Rule 11UA of the Rules and thus, ld. Assessing Officer has rightly made the 
+addition. He further submitted that the impugned year is the first year of 
+operation of the assessee and does not justify charging of such a high share 
+premium. He thus submitted that, ld. CIT(A) has wrongly concluded on the 
+applicability of Rule 11UA of the Rules which ought to be reversed. 
+10. Per contra, ld. Counsel for the assessee reiterated the facts narrated above 
+which are not repeated for the sake of brevity. Ld. Counsel for the assessee 
+submitted that ld. Assessing Officer has failed to appreciate the difference 
+between the equity shares and preference shares and has mechanically applied 
+the provisions of Rule 11UA of the Rules for resorting to the addition made in 
+the present case.ITA No. 600/Kol/2020 
+Assessment Years: 2015-16 
+M/s. Rodic Sikkim Project Pvt. Ltd. 
+ 6 
+11. Before adverting on the issue, let us apprise ourselves with the relevant 
+provisions of the Act and the Rules. The relevant provisions of Section 56 of the 
+Act are reproduced as under:- 
+“56.     (1) ********************** 
+ 
+(2) In particular, and without prejudice to the generality of the provisions of 
+sub-section (1), the following incomes, shall be chargeable to income-tax under 
+the head "Income from other sources", namely :— 
+ 
+(viib)   where a company, not being a company in which the public are 
+substantially interested, receives, in any previous year, from any person being a 
+resident, any consideration for issue of shares that exceeds the face value of such 
+shares, the aggregate consideration received for such shares as exceeds the fair 
+market value of the shares: 
+  Provided that this clause shall not apply where the consideration for 
+issue of shares is received— 
+(i)   by a venture capital undertaking from a venture capital company 
+or a venture capital fund [or a specified fund]; or 
+(ii)   by a company from a class or classes of persons as may be 
+notifiedby the Central Government in this behalf: 
+ 
+   [Provided further  that where the provisions of this clause have not been 
+applied to a company on account of fulfilment of conditions specified in the 
+notification issued under clause (ii) of the first proviso and such company fails to 
+comply with any of those conditions, then, any consideration received for issue of 
+share that exceeds the fair market value of such share shall be deemed to be the 
+income of that company chargeable to income-tax for the previous year in which 
+such failure has taken place and, it shall also be deemed that the company has 
+under reported the said income in consequence of the misreporting referred to in 
+sub-section (8) and sub-section (9) of section 270A  for the said previous year.] 
+   Explanation.—For the purposes of this clause,— 
+(a)   the fair market value of the shares shall be the value— 
+(i)   as may be determined in accordance with such 
+method as may be prescribed; or 
+(ii)   as may be substantiated by the company to the 
+satisfaction of the Assessing Officer, based on the value, on the 
+date of issue of shares, of its assets, including intangible assets 
+being goodwill, know-how, patents, copyrights, trademarks, 
+licences, franchises or any other business or commercial rights 
+of similar nature,  whichever is higher; 
+ 
+[(aa)   "specified fund" means a fund established or incorporated 
+in India in the form of a trust or a company or a limited liability 
+partnership or a body corporate which has been granted a certificate of 
+registration as a Category I or a Category II Alternative InvestmentITA No. 600/Kol/2020 
+Assessment Years: 2015-16 
+M/s. Rodic Sikkim Project Pvt. Ltd. 
+ 7 
+Fund and is regulated under the Securities and Exchange Board of India 
+(Alternative Investment Fund) Regulations, 2012 made under the 
+Securities and Exchange Board of India Act, 1992 (15 of 1992) [or 
+regulated under the International Financial Services Centres Authority 
+Act, 2019 (50 of 2019) ]; 
+(ab)   "trust" means a trust established under the Indian Trusts 
+Act, 1882 (2 of 1882) or under any other law for the time being in force;] 
+(b)   "venture capital company", "venture capital fund" and 
+"venture capital undertaking" shall have the meanings respectively 
+assigned to them in clause (a), clause (b) and clause (c) of [Explanation] 
+to clause (23FB) of section 10 ;] 
+ 
+ 
+11.1. From the above provision, we note that the explanation refers to FMV of 
+the shares which may be determined in accordance with such method as 
+prescribed. The method prescribed are under Rules 11U & 11UA of the Rules.  
+ 
+12. Rule 11UA(2) relevant in the present case is extracted as under:- 
+“(2) Notwithstanding anything contained in sub-clause (b) of clause (c) of sub-
+rule (1), the fair market value of unquoted equity shares for the purposes of sub-
+clause (i) of clause (a) of Explanation to clause (viib) of sub-section (2) of section 
+56 shall be the value, on the valuation date, of such unquoted equity shares as 
+determined in the following manner under clause (a) or clause (b), at the option 
+of the assessee, namely:— 
+ 
+(a) the fair market value of unquoted equity shares = (A–L) × (PV), 
+  (PE)  
+   where, 
+ 
+A =    book value of the assets in the balance sheet as reduced by 
+any amount of tax paid as deduction or collection at source or as advance tax 
+payment as reduced by the amount of tax claimed as refund under the Income-
+tax Act and any amount shown in the balance sheet as asset including the 
+unamortised amount of deferred expenditure which does not represent the 
+value of any asset; 
+L =    book value of liabilities shown in the balance sheet, but 
+not including the following amounts, namely:— 
+(i)   the paid-up capital in respect of equity shares; 
+(ii)   the amount set apart for payment of dividends on 
+preference shares and equity shares where such dividends have not 
+been declared before the date of transfer at a general body meeting of 
+the company; 
+(iii)   reserves and surplus, by whatever name called, 
+even if the resulting figure is negative, other than those set apart 
+towards depreciation;ITA No. 600/Kol/2020 
+Assessment Years: 2015-16 
+M/s. Rodic Sikkim Project Pvt. Ltd. 
+ 8 
+(iv)   any amount representing provision for taxation, 
+other than amount of tax paid as deduction or collection at source or 
+as advance tax payment as reduced by the amount of tax claimed as 
+refund under the Income-tax Act, to the extent of the excess over the 
+tax payable with reference to the book profits in accordance with the 
+law applicable thereto; 
+(v)   any amount representing provisions made for 
+meeting liabilities, other than ascertained liabilities; 
+(vi)   any amount representing contingent liabilities 
+other than arrears of dividends payable in respect of cumulative 
+preference shares; 
+PE =   total amount of paid-up equity share capital as shown in 
+the balance sheet; 
+PV =    the paid-up value of such equity shares; or 
+ 
+(b)   the fair market value of the unquoted equity shares determined by a 
+merchant banker 34[***] as per the Discounted Free Cash Flow method.] 
+ 
+12.1. From perusal of the above Rule, it is noted that it deals with the valuation 
+of unquoted equity shares both in Clause (a) as well as in Clause (b).  
+13. Further, the relevant extract of Rule 11UA(1)(c)(c) are as under:- 
+“[(1)] For the purposes of section 56 of the Act, the fair market value of a property, 
+other than immovable property, shall be determined in the following manner, 
+namely,— 
+(a) ******************************************* 
+(b) ******************************************* 
+(c)**************************************** 
+ 
+(c)  the fair market value of unquoted shares and securities other 
+than equity shares in a company which are not listed in any recognized 
+stock exchange shall be estimated to be price it would fetch if sold in the 
+open market on the valuation date and the assessee may obtain a report 
+from a merchant banker or an accountant in respect of such valuation.]” 
+ 
+13.1. This above sub-clause (c) deals with the valuation of unquoted shares 
+and securities other than equity shares which is based on a report from the 
+merchant banker or an accountant.  
+14. We note that Ld. Assessing Officer had called for a valuation report in the 
+course of assessment proceedings which the assessee could not produce, 
+leading to adverse view by the ld. Assessing Officer. However, the same was 
+produced before the ld. CIT(A) who took cognizance of the same and called forITA No. 600/Kol/2020 
+Assessment Years: 2015-16 
+M/s. Rodic Sikkim Project Pvt. Ltd. 
+ 9 
+a remand report from the ld. Assessing Officer who did not deal with it for 
+expression of his views on the same. Before us, ld. Counsel for the assessee 
+referred to the valuation report issued by Pallavi Prasad & Associates, 
+Chartered Accountants, dtd. 04/04/2014, wherein, valuation of preference 
+shares has been arrived at a value of Rs.60.21. The relevant extract from the 
+valuation report is reproduced as under:- 
+  
+14.1.  From the perusal of documents placed on record and the applicable 
+provisions of the Act and the relevant Rules, we note that sub-Rule (2) of Rule 
+11UA deals valuation in respect of unquoted equity shares only and does not 
+refer to valuation of preference shares in any manner, whatsoever. The sub-
+Clause (c) of Rule 11UA(1), deals with the valuation of unquoted shares and 
+securities other than equity shares which is based on a report from a merchantITA No. 600/Kol/2020 
+Assessment Years: 2015-16 
+M/s. Rodic Sikkim Project Pvt. Ltd. 
+ 10 
+banker or an accountant. In compliance to this sub-clause, a valuation report 
+has been furnished by the assesse which justifies the premium charged by the 
+assessee on the issue of cumulative redeemable preference shares and 
+accordingly, no addition is called for under Section 56(2)(viib) of the Act by 
+treating it as income from other sources. The valuation arrived at by the ld. 
+Assessing Officer is a negative figure of Rs. (-)5.91/- and thereby considering 
+the FMV is at Nil, is not in accordance with the relevant provisions of the Act 
+and the Rules stated above. Accordingly, we uphold the findings of the ld. 
+CIT(A) and set aside the addition made by the ld. Assessing Officer. 
+Accordingly, grounds taken by the revenue in this respect are dismissed. 
+ 
+15. In the result, appeal of the revenue is dismissed. 
+ 
+Order pronounced in the open court on 20.01.2023. 
+ 
+             Sd/-   Sd/-    
+  (SANJAY GARG)                                                   (GIRISH AGRAWAL) 
+JUDICIAL MEMBER                                               ACCOUNTANT MEMBER 
+ 
+Kolkata, Dated:  20.01.2023  
+SC. Sr. P.S.ITA No. 600/Kol/2020 
+Assessment Years: 2015-16 
+M/s. Rodic Sikkim Project Pvt. Ltd. 
+ 11 
+Copy to:   
+1. The Appellant:   
+2. Respondent :  
+3. The CIT(A)-      Kolkata 
+4. The CIT ,    Kolkata.  
+5. The DR ITAT, Kolkata.                  
+   
+ 
+       //True Copy// 
+                                                                                By Order 
+ 
+                                                                                                                             
+                                                                                      Assistant Registrar 
+                                                          ITAT, Kolkata Benches, Kolkata

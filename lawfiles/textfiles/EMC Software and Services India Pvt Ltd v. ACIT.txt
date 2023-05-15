@@ -1,0 +1,2370 @@
+IN THE INCOME TAX APPELLATE TRIBUNAL  
+“B’’ BENCH: BANGALORE 
+ 
+BEFORE SMT. BEENA PILLAI, JUDICIAL MEMBER 
+AND  
+SHRI LAXMI PRASAD SAHU, ACCOUNTANT MEMBER 
+ 
+  IT (TP) A No .191 /Bang/20 21 
+  Assessment  Year  : 20 16-17  
+ 
+M/s EMC Software and Services India Pvt. 
+Ltd., 
+Bagmane Developers Pvt. Ltd., 
+SEZ – Marathahalli Ring Road, 
+Doddanekundi Village Road, 
+Bangalore-560 037. 
+ 
+PAN: AABCT 0199 B  Vs.  The  Asst. Commissioner of 
+Income-tax,   
+Special Range-2,  
+Bangalore. 
+  
+ 
+APPELLANT          RESPONDENT 
+ 
+Appellant  by  : Sm t. Tanmayee Rajkumar, Advocate  
+Respondent by  : Shri Manjunath Karkihalli, CIT (D.R) 
+ 
+Date of Hearing  :        03.01.20 23 
+Date of Pronouncement  :        27 .03.20 23 
+ 
+O R D E R  
+ 
+PER LAXMI PRASAD SAHU, ACCOUNTANT MEMBER:  
+ 
+ This is an appeal filed by the assessee against the  assessment 
+order passed by the AO dated 25-03-2021 with the foll owing 
+grounds of appeal :- 
+ 
+“The grounds mentioned herein by the Appellant are without prejudice 
+to one another. 
+1.  That the order of the Assistant Commissioner of Inc ome-tax, Special 
+Range-2, Bangalore (the Assessing Officer' or the ' Learned AO') 
+dated March 25, 2021, passed under Section 143(3) r ead with 
+section 144C(13) of the Income Tax Act 1961 ('the A ct'), pursuantIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 2 of 61 
+to the directions of the Learned Dispute Resolution  Panel- 1, 
+Bangalore (the 'Learned Panel') to the extent preju dicial to the 
+Appellant, is bad in law and liable to be quashed. 
+ 
+2.  That on the facts and in the circumstances of the c ase, the Learned 
+AO and the Deputy Commissioner of Income-tax (Trans fer Pricing) - 
+1(2)(1), Bangalore (the 'Learned Transfer Pricing O fficer' or the 
+'Learned TPO') erred in not conforming with the dir ections of the 
+Learned Panel in entirety and making an adjustment to the transfer 
+price of the Appellant. 
+ 
+ 
+3.  That on the facts and in the circumstances of the c ase, the Learned 
+Panel and the Learned AO erred in upholding the Lea rned TPO's 
+approach of determining the arm's length price for the provision of 
+software development services ('SWD') and provision  of 
+information technology enabled services ('ITeS') se gments of the 
+Appellant by: 
+ 
+3.1.  Rejecting the value of international transaction of  provision of 
+SWD and provision of ITeS, as recorded in the books  of account, 
+as the arm's length price. 
+ 
+3.2.  Rejecting the Transfer Pricing ('TP') documentation  maintained 
+by the Appellant under Section 92D of the Act, in g ood faith and 
+with due diligence. 
+ 
+3.3.  Applying the provisions of Rule 10B()  read with Rule 10CA(2) 
+and Rule 10CA(4) of the Income-tax Rules, 1962 ('th e Rules') 
+while undertaking the fresh benchmarking analysis. 
+ 
+3.4.  Conducting a fresh comparability analysis by reject ing certain 
+filters applied by Appellant in the TP documentatio n and 
+applying additional / modified filters. The Learned  AO and the 
+Learned Panel further erred in: 
+ 
+• Accepting companies without considering the turno ver and size of 
+the Appellant vis-à-vis, comparable companies; 
+ 
+• Rejecting companies having different financial ye ar ending or data 
+of the company not falling within the 12 month peri od although 
+being functionally comparable with the Appellant; 
+ 
+• Not applying related party transaction filter of 15% on sales while 
+accepting/ rejecting comparables companies; andIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 3 of 61 
+• Rejecting companies by applying persistent loss f ilter wherein the 
+comparable companies had losses only in two out of latest three 
+years. 
+ 
+3.5.  Using data, which was not contemporaneous and which  was not 
+available in the public domain at the time of prepa ring the TP 
+documentation. 
+ 
+3.6.  Using information under section 133(6) of the Act, which 
+tantamount to choosing secret comparable companies whose 
+information was not available in public domain whil e preparing 
+the TP documentation for the relevant financial yea r. 
+ 
+3.7    Application of related party transaction fil ter by applying an 
+inappropriate interpretation of computing the filte r and 
+thereby accepting Persistent Systems Ltd and Aspire  Systems 
+(India) Pvt. Ltd. as comparable companies to the pr ovision SWD 
+Segment of the Appellant. 
+ 
+SWD Segment: 
+ 
+3.8. Including the following companies even though such companies 
+are functionally different (such as engaged in R&D activities, 
+presence of intangibles, significant onsite revenue , etc.) from the 
+Appellant: 
+ 
+• R S Software (India) Limited 
+• Larsen & Toubro Infotech Ltd. 
+•   Nihilent Limited 
+•   Inteq Software Pvt. Ltd.  
+• Persistent Systems Ltd. Infobeans Technologies Lt d. 
+• Thirdware Solution Ltd. 
+• Infosys Ltd. 
+• Aspire Systems (India) Pvt. Ltd. 
+• Cybage Software Pvt. Ltd. 
+ 
+3.9. The Learned TPO erred in excluding the followi ng companies even 
+though the same are functionally comparable to the Appellant, and 
+the Learned Panel further erred in upholding their exclusion on the 
+ground that the companies not having featured in th e search matrix 
+of the TPO, their inclusion would amount to cherry picking: 
+ 
+Akshay Software Technologies Ltd 
+Sasken Communication Technologies Ltd. - Software S ervices segment 
+ITeS Segment: 
+ 
+3.10. Including the following companies even though  such companies 
+are functionally different (such as - engaged in KP O activities,IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 4 of 61 
+diversified activities with no segmentation, extra ordinary event, 
+etc.) from the Appellant: 
+ 
+• Tech Mahindra Business Services Ltd. 
+• Infosys BPM Ltd. 
+• SPI Technologies India Pvt. Ltd. 
+• Eclerx Services Ltd. 
+ 
+3.11. Excluding the following companies even though  the same are 
+functionally comparable to the Appellant: 
+• Microgenetics Systems Ltd 
+• Ace BPO Services Pvt. Ltd. 
+ 
+Suprawin Technologies Ltd. 
+ 
+3.12. The Learned Panel erred in upholding the excl usion of Suprawin 
+Technologies Ltd. on the ground that the company no t having 
+featured in the search matrix of the TPO, its inclu sion would amount 
+to cherry picking. 
+ 
+3.13. Not providing working capital adjustment for determining the 
+arm's length price while relying on the judicial pr ecedents based on 
+a fact pattern, which is not applicable to the Appe llant 
+ 
+3.14. Not providing suitable adjustment to account for differences in 
+the risk profile of the Appellant vis-à-vis the com parable companies. 
+ 
+3.15. The Learned Panel grossly erred in observing that (i) decisions of 
+this Hon'ble Tribunal cannot be relied upon while a djudicating the 
+comparability of certain companies and (ii) compani es cannot be 
+rejected for non-availability of segment informatio n. 
+ 
+4. That on the facts and in the circumstances of th e case, the Learned 
+AU and the Learned TPO erred in not conforming with  the directions 
+of the Learned Panel while computing the operating mark-up on 
+cost of certain comparable companies. 
+ 
+5. That on the facts and in the circumstances of th e case, the Learned 
+AU erred in not granting deduction under section 8o G of the Act 
+amounting to INR 54,16,090 while computing the tax payable. 
+ 
+6. That on the facts and in the circumstances of th e case, the Learned 
+AU erred in not granting consequential relief in th e computation of 
+interest under section 234B of the Act while comput ing the tax 
+payable. 
+ 
+7. That on facts and in the circumstances of the ca se, the Learned AU 
+has erred in serving notice under section 271(1)(c)  of the Act andIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 5 of 61 
+initiating penalty proceedings for concealment of i ncome and for 
+furnishing inaccurate particulars of such income. 
+ 
+That the Appellant craves leave to add to and/or to  alter, amend, 
+rescind, modify the grounds herein below or produce  further 
+documents before or at the time of hearing of this appeal.” 
+     
+ 
+2. The brief facts of the case are that the assesse e is a 
+subsidiary of EMC Corporation, USA. and is engaged in the business 
+of rendering contract SWD and ITE services to the EMC  Group 
+companies. For the year under consideration, the App ellant, inter 
+alia,  provided contract SWD services to its AEs for a cons ideration 
+of Rs. 5,44,88,09,165/- and ITeS for a consideration of Rs. 
+9,78,84,20,470/-.  The assessee filed revised return of income 
+electronically for the assessment year 2016-17 on 2 9/11/2016 
+declaring income of Rs.114,58,13,730/- after claimin g a deduction 
+under Chapter VI-A of Rs.54,16,090/-.  The case was selected for 
+scrutiny through CASS for complete scrutiny.  Accor dingly, 
+statutory notices were issued to the assessee and va rious details 
+were called for.  In response to notice issued, the assessee 
+company submitted details from time to time which wer e 
+examined from documents submitted.  It was noted that  the 
+company had international transaction exceeding Rs.1 0 crores, 
+therefore, the case was referred to the TPO u/s 92CA  of the Act for 
+determination of arms length price for international  transactions,  
+the reference was made with prior approval from the competent 
+authority.  The ld.TPO after receipt of reference, c alled for 
+documents maintained u/s 92D(3) of the Act.  From the  documents 
+submitted, the ld.TPO noticed that the assessee comp any isIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 6 of 61 
+engaged in developing, delivering and supporting the in formation 
+technology.   
+ 
+2.1 On perusal documents submitted by the assessee, t he 
+functional profile was observed by the TPO as under:-  
+“2. FUNCTIONAL ANALYSIS OF THE TAXPAYER 
+2.1. EMC Corporation headquartered in Massachusetts  was 
+incorporated develops, delivers and support the inf ormation 
+technology industry's broad information infrastruct ure and virtual 
+infrastructure technologies, solution and designed to help individual 
+and organizations handle their digital information need. EMC Group 
+helps individual and organization to store, manage,  protect, secure , 
+move and share information to collaborate, solve pr oblems, save 
+money, exploit new opportunities, comply with regul ations and 
+policies and improve operational result from a know n strategy as 
+information lifecycle management ('ILM'). As of Dec ember 31,2015, 
+EMC Group employed approximately 72000 people world wide. The 
+group is represented by approximately 400 sale offi ces and score of 
+partners in 86 countries around the world. EMC Corp oration 
+operates primarily in three businesses. 
+• EMC Information Infrastructure; 
+• VMware Virtual Infrastructure business; and  
+• Pivotal business. 
+ 
+2.2 Further, it was noticed from the Form No.3ECB t hat the 
+following international transactions were done by t he assessee.   
+ 
+  The financial results of the assessee is as under: -IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 7 of 61 
+ 
+ 
+    
+The segmental financials applied by the TPO is as un der:-IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 8 of 61 
+ 
+ 
+ 
+2.3 During the course of analysis of the transfer p ricing study 
+report, the ld.TPO observed some defects on the filte rs applied 
+by the assessee for selection of the comparables.  Accordingly, 
+he rejected the TP study report and he started fresh  search after 
+adoption of appropriate filters as under:- 
+ 
+Step  Description  
+1.  Companies whose data is not available for FY 2015-1 6 - excluded. 
+2.  Companies having different financial year ending (i .e., not March 31 2016) 
+or data of the company does not fall within 12 mont h period i.e., 01-04-
+2015 to 31-03-2016 - excluded. 
+3.  Companies whose income was less than Rs. 1 Crore - excluded.  
+4.  Companies whose software development  service income is less than 75%IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 9 of 61 
+of the total operating revenues - excluded. 
+5.  Companies which have more than 25% related party tr ansactions of the 
+sales or expenses - excluded. 
+6.  Companies which have export service income less tha n 75% of the sales - 
+excluded. 
+7.  Companies with employee cost less than 25% of turno ver - excluded. 
+8.  Companies having negative net worth 
+9.  Companies having persistent losses for any 2 out of  3 years 
+ 
+2.4 After applying the above filters selected by the  assessee 
+from 9 comparable companies in respect of software 
+development services, only 2 companies named C.G Vak 
+Software and Exports Ltd., and Cigniti Technologies Lt d., were 
+accepted.  Further, the assessee had selected 12 co mpanies as 
+comparable companies for ITES segment and all the 12  
+companies were rejected by the TPO.  The ld. TPO afte r 
+applying certain filters noted above,  selected 15 co mpanies and 
+calculated median at 25.64% for the SWD  segment an d in the 
+case of ITES segments, 10 companies were selected by  the TPO 
+and  calculated median at 23.92%.  The assessee was i ssued 
+show cause notice and the assessee filed objections for both the 
+segments.  The ld. TPO also relied on some judgments .  Finally 
+in the case of SWD segment, 13 comparables were sel ected by 
+the TPO and median was calculated at 28.20% and appli ed 
+TNMM method and computed arms length price as under:-IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 10 of 61 
+ 
+   
+2.5 The ld.TPO in the case of ITeS segment, finally selected six 
+companies and calculated median at 23.44% after apply ing the 
+TNMM method as at arms length price was calculated as  under:- 
+ 
+ 
+2.6 The ld.TPO also observed that delayed receivables a re 
+reflected at Rs.3595.44 Million. However, no intere st was 
+charged by the taxpayer on delayed receivable. Therefo re, vide 
+show cause notice dated 28/05/2019, the taxpayer wasIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 11 of 61 
+requested to furnish invoice wise aging details of o utstanding 
+receivables, in respect of all invoices raised durin g the F.Y. 
+2015-16 as well as the invoices which were raised in  previous 
+year but remained unpaid on the opening day of curre nt F.Y. 
+2015-16 is-a-vis credit period as per the service agr eement 
+with the AEs . The above information was called  fr om the 
+taxpayer to calculate the interest chargeable on de layed 
+receivables  as the delayed receipts are proposed to be treated 
+as 'unsecured loans'. In response to that the taxpa yer vide reply 
+dated 30/09/2019 has contested that it's a debt free co mpany 
+and has not incurred any interest expenditure, accord ingly, no 
+notional  adjustment can be made on account of intere st on any 
+delayed payment if any, for collection of receivable from its AEs.  
+To raise the above argument, the taxpayer has relie d on 
+judgment – Pr.CIT-2 Vs. M/s Bechtel India Pvt. Ltd.-(C C No(s) 
+4956/2017) Supreme Court – A.Y 2010-11, dated 21/07/2 017. 
+ 
+2.7 The assessee is debt free company and no adjustmen t can 
+be made.  After considering the submission of the as sessee and 
+relying on some case law, no adjustment was made tow ards the 
+interest on delayed trade receivables.  Accordingly, the ld. TPO 
+proposed to adjustment for arms length price of 
+Rs.145,80,20,000/- for SWD & ITeS segments and passe d order.  
+The AO after receipt of the TPO’s order passed order u/s 
+92CA(3) of the Act. He proceeded to complete the draf t 
+assessment order.  The AO added the adjustment propose d byIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 12 of 61 
+the TPO and  assessed income at Rs. 260,38,33,730/- a nd 
+passed order on 07/12/2019. 
+ 
+2.8 Aggrieved from the above order, the assessee fil ed 
+objections before the ld. DRP and raised various obje ctions.  
+After considering the submissions of the assessee, t he ld.DRP 
+without granting any relief passed order on 18/02/202 1. 
+ 
+2.9 The AO after receipt of the order of the DRP,  p assed final 
+assessment order on 25/03/2021. 
+ 
+2.10 Aggrieved from the order of the AO, the assesse e filed 
+appeal before the  ITAT. 
+  
+2.11 The ld.AR of the assessee filed written synopsis , which is 
+as under:- 
+C.  APPELLANT’S SUBMISSIONS: 
+Ground No. 3.8:  
+Vide this ground, the Appellant is seeking exclusio n of R S Software (India) Ltd., 
+Larsen & Toubro Infotech Ltd., Nihilent Ltd., Inteq  Software Pvt. Ltd., Persistent 
+Systems Ltd., Infobeans Technologies Ltd., Thirdwar e Solution Ltd., Infosys Ltd., 
+Aspire Systems (India) Pvt. Ltd. and Cybage Softwar e Pvt. Ltd. 
+a)  R S software (India) Ltd.-  
+Functionally different: 
+The company is engaged in diversified activities wh ich are not similar to the 
+services rendered by the Appellant. The company ren ders custom application 
+development, quality assurance and testing, applica tion maintenance and 
+support, strategic consulting, in respect of which diverse services, segmental 
+details are unavailable.  
+ 
+The company is engaged in development of platform s ervices and is 
+rendering data analytics services, which are differ ent from the routine SWD 
+services rendered by the Appellant. The data analyt ics services rendered by theIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 13 of 61 
+company will fall within the definition of KPO serv ices, which are 
+incomparable to the services rendered by the Appell ant.  
+ 
+The company also owns stock in trade 
+ 
+Significant research and development activities: 
+ 
+It is submitted that the company conducts research and development work 
+in the areas of real time analytics, MDM, proximity , payments, digital 
+commerce, mobile payments, testing, automation, per sonalised loyalty in 
+payments and merchant management in payments labora tory.  
+ 
+Significant related party transactions: 
+It is submitted that during the year under consider ation, the company has 
+related party transactions in excess of 15%. In vie w of presence of significant 
+related party transactions, the company’s transacti on cannot be termed as an 
+uncontrolled transaction, and therefore the company  ought to be excluded 
+from the final list of comparables.  
+ 
+Wide fluctuation in margin: 
+It is submitted that the company, during the FY 201 3-14 and 2014-15 had a 
+turnover of Rs. 351.88 crores and 345.51 crores, an d profit margin of 24.14% 
+and 32.75%, respectively. However, during the FY 20 15-16, the company 
+realised a turnover of Rs. 171.41 crores, leading t o loss of -2.09%. It is 
+submitted that there is an apparent wide fluctuatio n in the margin of the 
+company. The relevant details as computed by the TP O is provided hereunder: 
+ 
+*figures in crores  FY 2015-16 FY 2014-15 FY 2013-14 
+Operating 
+revenue 171.41 345.50 351.89 
+Operating cost 175.07 260.26 283.47 
+Operating profit -3.66 85.24 68.42 
+OP/OC -2.09% 32.75% 24.14% 
+  
+The reason for decline in margin is attributable to  the strategic shift 
+made by the company as it is making substantial inv estments in a) 
+developing tools and platforms and b) sales and mar keting to enhance its 
+customer base. Further, there is a significant drop  in revenue (51 percent) 
+vis-à-vis the previous year. Further, the company r ecognizes that this shift 
+has impact on the margin of the company. In view of  the same, the company 
+ought to be excluded.  
+Presence of intangibles.  
+It is submitted that the company owns significant i ntangible assets. 
+The company is also developing further intangible a ssets. The total value of 
+intangible  assets as a percentage of fixed assets is 17.3%, which is 
+significantly higher than the intangible assets own ed by the Appellant, whichIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 14 of 61 
+is 0.04% of its fixed assets. Further, the company also owns stock in trade, 
+unlike the Appellant.  
+Significant foreign branch expenses. 
+It is submitted that the company has significant on site operations. The 
+company incurred expenses in respect of its foreign  branch of 81.64% of 
+operating cost during the FY 2013-14, 68.82% during  the FY 2014-15 and 
+57.41% during the FY 2015-16, which demonstrates th at the company 
+operates in a different business model.   
+Detailed submissions in this regard are placed at p ages 39-50 and 
+479-496 of the paperbook. 
+As regards application of RPT filter at 15%, relian ce is placed on the 
+decision of this Hon’ble Tribunal in the case of 24/7 Customer.Com (P.) Ltd. 
+v. DCIT  reported in [2012] 28 taxmann.com 258 (Bangalore).  As regards 
+functional comparability, reliance is placed on the  decision of this Hon’ble 
+Tribunal in Arm Embedded Technologies Pvt. Ltd. v. DCIT  (order dated 
+30.08.2022 passed in IT(TP)A No. 235/Bang/2021) for  assessment year 
+2016-17. 
+b)  Larsen & Toubro Infotech Ltd. (‘L&T’)– 
+Functionally different: 
+It is submitted that the company is engaged in dive rsified business which 
+are not comparable to that of the Appellant. Furthe r, segmental details as 
+regards the same are not available.  
+ 
+Further, the company owns proprietary software prod ucts which are 
+developed in-house. Accordingly, it is submitted th at L&T is a product 
+company and is thus not comparable to captive SWD s ervice providers such 
+as the Appellant.  
+ 
+Significant brand value and intangible assets: 
+The company is a market leader and thus enjoys sign ificant benefits on 
+account of high brand value, ownership of marketing  intangibles, 
+intellectual property rights and business rights. A s a result of high brand 
+value, the company enjoys a high bargaining power i n the market.  
+ 
+The company also undertakes R&D activities.  
+Significant expenses in foreign currency: 
+ 
+The company incurred significant overseas cost and office expenses of 
+46.90%, 47.92% and 47.01% of its total expenditure during the FYs 2013-14, 
+2014-15 and 2015-16, respectively, which suggests t hat is engaged in 
+provision of onsite services. Hence, it operates on  a business model different 
+from that of the Appellant and is thus incomparable  to it.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 15 of 61 
+Peculiar economic circumstances: 
+ 
+The company suffers from peculiar economic circumst ance during the FYs 
+2013-14, 2014-15 and 2015-16. During the FY 2015-16 , pursuant to the 
+amalgamation of GDA Technologies Ltd., and Informat ion Systems Resource 
+Centre Pvt. Ltd. into the company, the entire busin ess, assets, liabilities, 
+duties and obligations stood vested in the company.  During the FY 2014-15, 
+the company had acquired Information Systems Resour ce Centre Pvt. Ltd., 
+which was completed during the FY 2015-16. During t he FY 2013-14, the 
+company transferred its Product Engineering Service s business to L&T 
+Technology Services Ltd. and wound up its subsidiar y GDA Technologies Inc. 
+Detailed submissions are placed at pages 50-59 and 437-451 of the 
+paperbook.  
+It is submitted that this company is consistently e xcluded from the final 
+list of comparables in cases of assessee’s placed s imilar to the Appellant. 
+Reliance is placed on the decision of this Hon’ble Tribunal in the Appellant’s 
+own case for the assessment year (‘AY’) 2014-15. Fu rther reliance is placed on 
+the decisions of this Hon’ble Tribunal in Arm Embedded Technologies Pvt. 
+Ltd. v. DCIT  (order dated 30.08.2022 passed in IT(TP)A No. 235/ Bang/2021), 
+SanDisk India Device Design Centre Pvt. Ltd. v. JCI T  (order dated 
+30.06.2022 passed in IT(TP)A No. 288/Bang/2021) and  OLF (India) 
+Software Pvt. Ltd.  (order dated 28.09.2021 passed by this Hon’ble Tri bunal 
+in IT(TP)A No. 182/Bang/2021) for AY 2016-17, the d ecision of the Hon’ble 
+High Court of Delhi in the case of PCIT v. Saxo India P. Ltd.  (reported in 
+(2016) 74 taxmann.com 88)) for AY 2011-12, the deci sion of the Hyderabad 
+Bench of the Hon’ble Tribunal in ADP Pvt. Ltd. v. DCIT (order dated 
+03.02.2022 passed in ITA Nos. 227&228/Hyd/2021), th e decision of the Delhi 
+Bench of the Hon’ble Tribunal in GlobalLogic India (P.) Ltd. V. DCIT  
+(reported in [2022] 134 taxmann.com 35)) for AY 201 6-17. 
+Thus, the Appellant submits that L&T ought to be ex cluded from the final 
+list of comparables. 
+c)  Nihilent Ltd. (‘Nihilent’)  – 
+ 
+Functionally different: 
+It is submitted that the company is engaged in dive rsified activities. 
+Nihilent renders services in the nature of consulti ng, software development 
+and product development, provision of business cons ulting in the area of the 
+enterprise transformation, change and performance m anagement, digital 
+transformation, business intelligence and data scie nce services and also 
+providing related IT services. The services rendere d by the company are wide 
+in range and diversified. It is submitted that soft ware-consulting services 
+include end-to-end solutions, onsite management and  IT functions, and 
+planning & system designing, which are in no way co mparable to the captive 
+software development activities as provided by the Appellant.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 16 of 61 
+The company undertakes R&D activities.  
+Significant marketing expenses: 
+The company has incurred marketing expenses of 2.11 % (of total sales) 
+during the FY 2013-14, 1.65% during the FY 2014-15 and 0.69% during the 
+FY 2015-16. On the contrary the Appellant’s marketi ng expenses are 
+marginal (0.13%) 
+Significant expenses in foreign currency: 
+The company has incurred significant expenses in fo reign currency of 
+37.68%, 33.27% and 37.47% of its total expenditure during the FYs 2015-16, 
+2014-15 and 2013-14, respectively, which suggests t hat is engaged in 
+provision of onsite services. Hence, it operates on  a business model different 
+from that of the Appellant and is thus incomparable  to it.  
+Peculiar economic circumstances: 
+It is submitted that during the FY 2015-16, Nihilen t had acquired GNet 
+Group LLC - a business intelligence and analytical company, and Intellect 
+Bizware Services Pvt. Ltd. specialising in ERP and enterprise innovation. The 
+acquisitions are bound to have a significant impact  on the financials of the 
+company, and thus it cannot be considered for the c omparability analysis.  
+Detailed submissions are placed at pages 64-71 and 452-464 of the 
+paperbook. 
+Reliance in this regard is placed on the decisions of this Hon’ble Tribunal 
+in Arm Embedded Technologies Pvt. Ltd. v. DCIT  (order dated 30.08.2022 
+passed in IT(TP)A No. 235/Bang/2021) and in SanDisk India Device Design 
+Centre Pvt. Ltd. v. JCIT  (order dated 30.06.2022 passed in IT(TP)A No. 
+288/Bang/2021); and the decision of the Mumbai Benc h of this Hon’ble 
+Tribunal in Red Hat India Pvt. Ltd. v. NFAC  (order dated 25.02.2022 passed 
+in ITA No. 1379/Mum/2021) for AY 2016-17. 
+In view of the above, it is submitted that Nihilent  ought to be excluded 
+from the final list of comparables. 
+d)  Inteq Software Pvt. Ltd. (‘Inteq’)- 
+ 
+Functionally different: 
+It is submitted that the company is engaged in outs ourced product 
+development for small, medium corporation and emerg ing technology 
+businesses. The company undertakes all the process of product development 
+life cycles, which is a high end product developmen t, which is incomparable 
+to the SWD services rendered by the Appellant. As p er the website of the 
+company, the company renders data warehousing servi ces, consulting 
+services, EI and EDI services, testing services hea lthcare BPO services, and in 
+respect of the diverse services, no segmental detai ls are available.  
+ 
+Significant related party transactions:IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 17 of 61 
+The company’s related party transactions (sales) fo r the FY 2013-14 
+stand at 79.49% of sales, and therefore the company  ought to be excluded. 
+While the DRP had directed exclusion of the margin of the company for the 
+financial year 2013-14, the TPO did not give effect  to the same.  
+ 
+Wide fluctuation in the margin: 
+It is submitted that the company’s margin fluctuate  widely, suggesting 
+that there exists a peculiar economic circumstance.  For the FY 2013-14, the 
+company’s margin stood at 47.21%, for the FY 2014-1 5 32.14% and for the 
+FY 2015-16 7.56%.  
+Detailed submissions in this regard are placed at p ages 419-436 of the 
+paperbook.  
+In view of the above, it is submitted that Inteq ou ght to be excluded from 
+the final list of comparables. 
+Reliance is placed on the decision of this Hon’ble Tribunal in Arm 
+Embedded Technologies Pvt. Ltd. v. DCIT  (order dated 30.08.2022 passed 
+in IT(TP)A No. 235/Bang/2021) and the decision of t he Delhi Bench of the 
+Hon’ble Tribunal in GlobalLogic India (P.) Ltd. V. DCIT  (reported in [2022] 
+134 taxmann.com 35)) for AY 2016-17. 
+ 
+e)  Persistent Systems Ltd. (‘Persistent’) – 
+Functionally different: 
+It is submitted that the company is engaged in lice nsing and sale of 
+products and also earns royalty income. The company  is engaged in 
+development of proprietary software products under ‘Accelerite’, ‘Penlist’, 
+‘PSEnsure’ and ‘PSEnquire’ brands. However, segment al details as regards its 
+diverse services are unavailable. Even going by the  company’s reply to the 
+TPO’s notice under Section 133(6) of the Act, the c ompany is predominantly 
+engaged in the business of providing outsourced pro duct development 
+services, which are vastly different from the servi ces rendered by the 
+Appellant.  
+ 
+Further, it is submitted that the company undertake s significant 
+R&D activities and has established ‘Persistent Labs ’ to focus on 
+R&D activities.  
+Significant intangibles:  
+The company also owns significant intangibles of 5. 99%, 6.42% and 
+5.01% of net block of assets during the FYs 2013-14 , 2014-15 and 2015-16, 
+respectively.  
+Significant foreign currency expenses : 
+The company has also incurred significant expenses in foreign currency, 
+demonstrating that it renders significant onsite se rvices, which business 
+model is different from that of the Appellant’s. Th e expenses incurred by the 
+company as a percentage of its total sales is 13.41 %, 15.03% and 18.40% for 
+the FYs 2013-14, 2014-15, and 2015-16, respectively .  
+Significant related party transactions:IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 18 of 61 
+The RPT sales of the company as a percentage of tot al sales stand at 
+19.48% for the FY 2014-15 and 17.29% for the FY 201 5-16. Further the RPT 
+expenses as a percentage of operating expenses stan d at 15.46% for the FY 
+2014-15 and 19.07% for the FY 2015-16.   
+ 
+Marketing expenses: 
+The company has incurred significant amounts of mar keting expenses in 
+the nature of advertisement and sponsorship fees, a s opposed to the 
+Appellant which incurred marginal expenses.  
+ 
+Peculiar economic circumstances:  
+The company suffers from peculiar economic circumst ances in as much as 
+during the FY 2015-16, the company has acquired the  assets of Aepona IoT 
+platform from Intel and the CloudPlatform assets fr om Citrix. As a part of the 
+acquisition, the company acquired development centr es in Belfast, UK and 
+Srilanka. This acquisition is bound to have an effe ct on the margin of the 
+company, in respect of which no reasonably accurate  adjustments can be 
+made to eliminate the material effects thereof.  
+ 
+Detailed submissions are placed at pages 72-81 and 465-478 of the 
+paperbook. 
+This company is consistently excluded from the fina l list of comparables in 
+cases of similarly placed assessees. Reliance is pl aced on the decision of this 
+Hon’ble Tribunal in the Appellant’s own case for th e AY 2014-15. Further 
+reliance is placed on the decision of Hon’ble Delhi  Court in the case of PCIT v. 
+Cashedge India Pvt. Ltd.  (Order dated 04.05.2016 passed in ITA No. 
+279/2016) for AY 2010-11, the decisions of this Hon ’ble Tribunal in Arm 
+Embedded Technologies Pvt. Ltd. v. DCIT  (order dated 30.08.2022 passed 
+in IT(TP)A No. 235/Bang/2021), SanDisk India Device Design Centre Pvt. 
+Ltd. v. JCIT  (order dated 30.06.2022 passed in IT(TP)A No. 288/ Bang/2021) 
+and OLF (India) Software Pvt. Ltd.  (order dated 28.09.2021 passed in 
+IT(TP)A No. 182/Bang/2021), the decisions of the Hy derabad Bench of the 
+Hon’ble Tribunal in ADP Pvt. Ltd. v. DCIT  (order dated 03.02.2022 passed in 
+ITA Nos. 227&228/Hyd/2021) and Infor (India) Pvt. Ltd. v. DCIT  (order 
+dated 06.10.2021 passed in IT(TP)A No. 198/Hyd/2021 ) for AY 2016-17. 
+Therefore, it is submitted that this company ought to be excluded from the 
+final list of comparables. 
+f)  Infobeans Technologies Ltd. (‘Infobeans’) - 
+Functionally different: 
+The company is engaged in providing software engine ering services 
+primarily in Custom application development, Conten t Management 
+Systems, Enterprise Mobility, big data analytics. T hough the annual 
+report of the company mentions that the company is earning 100% 
+revenues from sale of software services, such servi ces are in the nature ofIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 19 of 61 
+CAD,CMS etc., which are in the nature of KPO servic es. The above services 
+rendered by the company are vastly different from t he SWD services 
+rendered by the Appellant, and therefore the compan y ought to be 
+excluded as being functionally different. Further, the segmental details for 
+these diverse services are not available and theref ore the company cannot 
+be selected as a comparable.  
+Significant intangible assets: 
+During the FYs 2013-14 to 2015-16, the company owne d intangible assets 
+representing around 7% of the total fixed assets he ld by the company.  
+Expenses in foreign currency: 
+It also incurred significant expenditure in foreign  currency, in the nature 
+of onsite activities representing around 1.5% of th e total sales.  
+Abnormal increase in revenue: The revenue increased from Rs. 35 crore 
+(FY 2014-15) to Rs. 62 crore (FY 2015-16) in a peri od of 1 year (76%).  
+Also, the company’s profitability increased by 147% .  
+Detailed submissions in this regard are placed at p ages 81-89 and 360-
+395 of the paperbook. 
+Reliance in this regard is placed on the decisions of this Hon'ble 
+Tribunal in Arm Embedded Technologies Pvt. Ltd. v. DCIT  (order dated 
+30.08.2022 passed in IT(TP)A No. 235/Bang/2021) and  in SanDisk India 
+Device Design Centre Pvt. Ltd. v. JCIT  (order dated 30.06.2022 passed in 
+IT(TP)A No. 288/Bang/2021); the decision of the Hyd erabad Bench of this 
+Hon’ble Tribunal in ADP Pvt. Ltd. v. DCIT (order dated 03.02.2022 passed in 
+ITA Nos. 227&228/Hyd/2021); the decision of the Del hi Bench of the Hon’ble 
+Tribunal in GlobalLogic India (P.) Ltd. V. DCIT  (reported in [2022] 134 
+taxmann.com 35)); and the decision of the Mumbai Be nch of this Hon’ble 
+Tribunal in Red Hat India Pvt. Ltd. v. NFAC  (order dated 25.02.2022 passed 
+in ITA No. 1379/Mum/2021) for AY 2016-17, wherein, in the case of similarly 
+placed assessees, the Hon’ble Tribunal directed exc lusion of Infobeans from 
+the list of comparables for AY 2016-17. 
+Thus, it is submitted that Infobeans ought to be ex cluded from the final 
+list of comparables.  
+ 
+g)  Thirdware Solution Ltd. (‘Thirdware’) – 
+Functionally different: 
+The company is engaged in development of software p roducts and 
+earns revenues from sale of user licenses for softw are applications apart 
+from rendering software development services, imple mentation services, 
+application management services and other related s ervices. These 
+diverse services are reported under one segment wit hout any details being 
+available as regards these services. The company al so purchased stock-in-IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 20 of 61 
+trade during the year under consideration. The comp any also owns 
+intangibles. 
+Significant related party transactions greater than  25% i.e 
+25.34% for FY 2015-16 
+Significant expenses in foreign currency of 16.98% of the total 
+sales for the FY 2015-16.  
+ 
+Fluctuation in margin : The margins of the company fluctuate on a 
+year-on-year basis due to the different revenue rec ognition model that 
+the company follows.  
+The company earned super normal profits .  
+Detailed submissions are placed at pages 89-95 and 510-525 of the 
+paperbook. 
+This company is consistently excluded from the fina l list of comparables in 
+cases of similarly placed assessees. Reliance is pl aced on the decision of this 
+Hon’ble Tribunal in the Appellant’s own case for th e AY 2014-15. Further 
+reliance is placed on the decisions of this Hon’ble  Tribunal in Arm Embedded 
+Technologies Pvt. Ltd. v. DCIT  (order dated 30.08.2022 passed in IT(TP)A 
+No. 235/Bang/2021), SanDisk India Device Design Centre Pvt. Ltd. v. JCI T  
+(order dated 30.06.2022 passed in IT(TP)A No. 288/B ang/2021) and OLF 
+(India) Software Pvt. Ltd.  (order dated 28.09.2021 passed in IT(TP)A No. 
+182/Bang/2021); the decisions of the Hyderabad Benc h of this Hon’ble 
+Tribunal in ADP Pvt. Ltd. v. DCIT (order dated 03.02.2022 passed in ITA Nos. 
+227&228/Hyd/2021) and Infor (India) Pvt. Ltd. v. DCIT  (order dated 
+06.10.2021 passed in IT(TP)A No. 198/Hyd/2021); the  decision of the Delhi 
+Bench of the Hon’ble Tribunal in GlobalLogic India (P.) Ltd. V. DCIT  
+(reported in [2022] 134 taxmann.com 35)) for AY 201 6-17.  
+Therefore, it is submitted that the company ought t o be excluded from the 
+final list of comparables. 
+ 
+h)  Infosys Ltd. (‘Infosys’) – 
+ 
+Functionally different : 
+The company earns income from both rendering softwa re services and 
+development of products. The company provides end-t o-end business 
+solutions like business consulting, technology, eng ineering and outsourcing 
+services. In addition, the company offers software products and platforms. 
+Despite rendering diverse services, there are no se gmental details in respect 
+of the services rendered. Further, the services ren dered by the company are 
+not functionally comparable to the routine SWD serv ices rendered by the 
+Appellant. The company also invests in products whi ch helped the company 
+establish itself as a credible IP Owner. The compan y owns several Edge 
+products/platforms and six other product based solu tions.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 21 of 61 
+Also, the company owns non-routine intangibles  which are different from 
+the intangibles owned by the Appellant.  
+The company also heavily focuses on research and development activity  
+and incurs significant expenditure for this account .  
+Brand value : 
+The company owns significant brand value and focuse s on immense brand 
+building. For this purpose, it incurs significant b rand building expenses, which 
+goes to help the company have a premium pricing for  its services. The 
+company incurred expenses of 77 crores during the F Y 2013-14, 94 crores 
+during the FY 2014-15 and 178 crores during the FY 2015-16. The company 
+also incurred significant selling and marketing exp enses.  
+The company also incurs significant subcontracting charges , which 
+suggests that the business model of the company is different from that of the 
+Appellant’s. 
+Onsite expenses: 
+The company has significant onsite revenue amountin g to 51.10%, 50.40% 
+and 52.70% of the total sales for the FYs 2013-14, 2014-15, and 2015-16, 
+respectively. Further, owing to the size, stature, reputation and IPs, Infosys 
+earned abnormally high margins for the said years, as represented below:  
+ 
+ 
+Detailed submissions are placed at pages 95-111 and  396-418 of the 
+paperbook. 
+It is submitted that this company is consistently e xcluded from the final list 
+of comparables in cases of assessees placed similar  to the Appellant. Reliance 
+is placed on the decision of this Hon’ble Tribunal in the Appellant’s own case 
+for the AY 2014-15. Further reliance is placed on t he decisions of this Hon’ble 
+Tribunal in Arm Embedded Technologies Pvt. Ltd. v. DCIT  (order dated 
+30.08.2022 passed in IT(TP)A No. 235/Bang/2021), in  SanDisk India Device 
+Design Centre Pvt. Ltd. v. JCIT  (order dated 30.06.2022 passed in IT(TP)A No. 
+288/Bang/2021) and in OLF (India) Software Pvt. Ltd. v. ACIT  (order dated 
+28.09.2021 passed in IT(TP)A No. 182/Bang/2021) and  for AY 2016-17; the 
+decision of the Hon’ble Delhi High Court in the cas e of CIT v. Agnity India 
+Technologies P. Ltd . (reported in (2013) 36 taxmann.com 289 (Delhi)) f or AY 
+2006-07 and on the decision of the Hyderabad Bench of this Hon’ble Tribunal 
+in ADP Pvt. Ltd. v. DCIT (order dated 03.02.2022 passed in ITA Nos. 
+227&228/Hyd/2021). Particulars FY 2013-14 FY 2014-15 FY 2015-16 
+OP/ OC  36.28 41.30 38.22IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 22 of 61 
+Therefore, it is submitted that the company ought t o be excluded from the 
+final list of comparables. 
+i)  Aspire Systems (India) Pvt. Ltd. (‘Aspire’) – 
+Functionally different : 
+The company is engaged in diversified business acti vities of providing 
+integration platform services using its platforms i n addition to software 
+development services. It also provides services in the nature of product 
+engineering, enterprise solutions, independent test ing services, engineering 
+services, infrastructure & application support serv ices, business intelligence & 
+analytics, etc and is also into IT infrastructure s upport services, and 
+outsourced technology services. 
+Significant intangible assets: 
+It is submitted that Aspire owns non-routine intang ible assets such as 
+trademarks, customer contracts and goodwill which c annot be compared to 
+the Appellant. The company also incurred significan t expenses in relation to 
+onsite services of approximately 20 percent of its total revenue.  
+Significant related party transactions: 
+Further, the company fails the RPT filter applied b y the TPO. The 
+computation of related party transactions is given below: 
+Nature of the Transaction FY 2013-14 FY 2014-15 FY 2015-16 
+Rendering of services  223,417,070  298,621,389  544,052,341  
+Purchase of services 188,253,217  214,308,033  283,206,248  
+Expenses Reimbursed 9,650,786  26,519,375  25,773,664  
+Remuneration to KMP 61,447,016  83,854,419  95,990,266  
+Reimbursement of Income   2,224,914  
+Electricity Charges Paid   9,462,212  
+Total RPT 482,768,179  623,303,216  960,709,645  
+Total Sales 1,565,292,158  1,791,127,395  2,308,061,232  
+RPT  30.84%  34.80%  41.62%  
+Source Note.31 of AR  Note.31 of AR Pg.195 of AR 
+ 
+Peculiar economic circumstance: 
+It is also submitted that the company has entered i nto amalgamations 
+during the relevant FY. The extra ordinary event of  the company will have an 
+impact on its profitability as the revenue of the a malgamated company is 
+now included in the revenue of Aspire.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 23 of 61 
+Detailed submissions are placed at pages 111-121 an d 323-326 of the 
+paperbook. Reliance in this regard is placed on the  decisions of this Hon’ble 
+Tribunal in Arm Embedded Technologies Pvt. Ltd. v. DCIT  (order dated 
+30.08.2022 passed in IT(TP)A No. 235/Bang/2021) and  in SanDisk India 
+Device Design Centre Pvt. Ltd. v. JCIT  (order dated 30.06.2022 passed in 
+IT(TP)A No. 288/Bang/2021); the decisions of the Hy derabad Bench of this 
+Hon’ble Tribunal in ADP Pvt. Ltd. v. DCIT (order dated 03.02.2022 in ITA 
+Nos. 227&228/Hyd/2021) and Infor (India) Pvt. Ltd. v. DCIT  (order dated 
+06.10.2021 passed by this Hon’ble Tribunal in IT(TP )A No. 198/Hyd/2021) 
+for AY 2016-17. 
+In view of the above, it is submitted that the Comp any is functionally not 
+comparable to the Appellant and ought to be exclude d from the final list of 
+comparables. 
+ 
+j)  Cybage Software Pvt. Ltd. (‘Cybage’) – 
+Functionally different: 
+It is submitted that Cybage is engaged in the provi sion of diversified 
+services which include product engineering, testing  & quality assurance 
+services, specialized services, support services, e tc. Further from the website 
+of Cybage, it is evident that it is engaged in prod uct development and has 
+developed a product called ‘excelshore’ apart from providing spectrum of 
+services including ITeS and BPO services. The finan cials of Cybage do not 
+provide for segmental information in respect of the  diverse business functions 
+undertaken by the company. Moreover, the company re nders diverse range of 
+marketing services like content marketing, creative  production and 
+marketing operations.   
+The company earns significant onsite revenue. 
+Super normal profits: 
+The company is making super normal profits (details  of which are as under) 
+and the same is not reflective of the performance o f the industry in which the 
+assessee operates.  
+ 
+Particulars FY 2013-14 FY 2014-15 FY 2015-16 
+OP/OC  62.82% 68.68% 62.90% 
+ 
+Detailed submissions are placed at pages 121-130 an d 362-380 of the 
+paper book.   
+Reliance in this regard is placed on decision of th is Hon’ble Tribunal in Arm 
+Embedded Technologies Pvt. Ltd. v. DCIT  (order dated 30.08.2022 passed in 
+IT(TP)A No. 235/Bang/2021) and the decision of the Hyderabad Bench of the 
+Hon’ble Tribunal in Infor (India) Pvt. Ltd. v. DCIT  (order dated 06.10.2021 
+passed by this Hon’ble Tribunal in IT(TP)A No. 198/ Hyd/2021) for AY 2016-17.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 24 of 61 
+In view of the above, it is submitted that the Cyba ge ought to be excluded 
+from the final list of comparables. 
+ 
+2.13 The ld. AR of the assessee also filed additional w ritten 
+synopsys in case of Inteq Software Pvt. Ltd. & Infob eans 
+Technologies Ltd which is as under:- 
+ 
+Inteq Software Pvt Ltd . (“Inteq”) : 
+The company is engaged in the business of computer programming, consultancy 
+and related activities (page 1545 of the annual report compilation – vol I ) . Thus, 
+it is submitted that the company is not a pure soft ware development company like 
+the Appellant. The presence of assets such as data processing equipment and 
+electrical installations denote the diversified bus iness segments of the company 
+(page 1569 of the annual report compilation – vol I ) . 
+It is submitted that the company earns revenue from  software development services 
+and service charges and the same is shown in the an nual report of the company in 
+a composite manner with no segmental profitability and therefore, it is submitted 
+that the company is not comparable to a routine sof tware development service 
+provider (page 1565 of the annual report compilation – vol I ) .  
+The TPO has relied on the information received unde r Section 133(6) of the 
+Income tax Act, 1961 (“the Act”) for the assessment  year 2015-16 on the ground 
+that no response was received from the company to t he notice issued under Section 
+133(6) of the Act for AY 2016-17. It is submitted t hat in the absence of response to 
+notice by the Company for AY 2016-17, the TPO erred  in considering the 
+information received for AY 2015-16 and holding tha t the company is functional 
+comparable for the assessment year in question when  the details available in the 
+public domain illustrate otherwise. 
+It is submitted that in the case of Barracuda Netwo rks India Pvt. Ltd., the Tribunal 
+upheld the inclusion of the aforesaid company on th e ground that the Company 
+cannot be excluded basis non receipt of response to  the notice issued under Section 
+133(6) of the Act. In this regard, it is submitted that the Appellant herein is seeking 
+exclusion of the aforesaid company on the basis of its functional dissimilarity and 
+not for the reason that no response was received fr om the company under Section 
+133(6) of the Act. In fact, in Barracuda/BORQS, thi s Hon’ble Tribunal proceeded 
+on the basis that the Assessee therein had not plac ed material to doubt the 
+functional comparability of the company whereas, th e submissions above in the 
+instant case clearly show that the Company is not s imilar coupled with the website 
+extracts (placed at pages 420-426 of the paperbook) , it is evident that the company 
+is not a pure software developer. It is submitted t hat annual report of Inteq for AY 
+2016-17 clearly shows that the company is engaged i n consultancy services and 
+therefore is not into pure software development ser vices like the Appellant.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 25 of 61 
+Detailed submissions are available at pages 419-436  of the paperbook.  
+ 
+Reliance is placed on the decision of this Hon’ble Tribunal in the case of Arm 
+Embedded Technologies Pvt. Ltd. v. DCIT  (Order dated 30.08.2022 passed by 
+this Hon’ble Tribunal in IT(TP)A No. 235/Bang/2021] ) at paras 16-18 for AY 
+2016-17 and the decision of the Delhi Bench of the Hon’ble Tribunal in 
+GlobalLogic India (P.) Ltd. V. DCIT  (reported in [2022] 134 taxmann.com 35)) 
+at paras 46-47 for AY 2016-17. 
+ 
+Infobeans Technologies Ltd. (“Infobeans”):  
+It is submitted that the company is primarily engag ed in software engineering 
+services in Custom application development, Content  Management Systems, 
+Enterprise Mobility, big data analytics (page 1899 of the annual report 
+compilation – vol III) . It is submitted that the services rendered by the  Company is 
+vastly different from that of the Appellant and thu s, it is not comparable to the 
+Appellant. 
+The annual report of the company at Note 33 (page 1913  of the annual report 
+compilation – vol III) under the head earnings in foreign currency shows e xport of 
+goods/services calculated on F.O.B basis, which ind icate that the Company has 
+product sales as well. In the absence of segmental details, the company cannot be 
+selected as a comparable. Further, it is submitted that the company has incurred 
+significant brand promotion expenses during FY 2014 -15 and FY 2015-16 which 
+effects the profitability of the company (page 1912 of the annual report 
+compilation – vol III) . 
+During the FYs 2013-14 to 2015-16, the company owne d intangible assets 
+representing around 7% of the total fixed assets he ld by the company (page 1907  
+of the annual report compilation – vol III) . 
+The DRP has proceeded to reject the contention of t he Appellant relying on 
+information received under Section 133(6) of the Ac t that the Company renders 
+software development services, whereas the annual r eport is reflecting a contrary 
+position. It is now settled that a response to Sect ion 133(6) notice cannot take 
+precedence over the annual report. 
+In the present case, as stated above, the annual re port clearly reflects that the 
+Company renders diverse services which are high end  and not comparable to the 
+software development services rendered by the Appel lant. In Airlinq  Technology 
+Pvt. Ltd. v. DCIT  (Order dated 28.07.2022 passed by this Hon’ble Trib unal in 
+IT(TP)A No. 231/Bang/2021)  at para 15 , infact, this Hon’ble Tribunal has 
+distinguished BORQS for this precise reason. Theref ore, it is submitted that 
+Infobeans ought to be excluded from the final list of comparables. 
+Detailed submissions are made at pages 380-395 of t he paperbook.  
+Reliance is placed on the following decisions where  the company was directed to 
+be excluded on functional comparability.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 26 of 61 
+1.  Airlinq Technology Pvt. Ltd. v. DCIT  (Order dated 28.07.2022 passed by 
+this Hon’ble Tribunal in IT(TP)A No. 231/Bang/2021)  at paras 13-15 for AY 2016-
+17; 
+2.  Arm Embedded Technologies Pvt. Ltd. v. DCIT  (Order dated 30.08.2022 
+passed by this Hon’ble Tribunal in IT(TP)A No. 235/ Bang/2021]) at paras 16-18 
+for AY 2016-17; 
+3.   SanDisk India Device Design Centre Pvt. Ltd. v. JCI T (order dated 
+30.06.2022 passed in IT(TP)A No. 288/Bang/2021) at paras 17.9-17.10 for AY 
+2016-17; 
+4.  ADP Pvt. Ltd. v. DCIT [Order dated 03.02.2022 in IT A Nos. 
+227&228/Hyd/2021 at para 7]  for AY 2016-17; 
+5.  GlobalLogic India (P.) Ltd. V. DCIT  (reported in [2022] 134 
+taxmann.com 35)) at paras 44-45 for AY 2016-17. 
+ 
+3. The ld. DR relied on the order of the lower authori ties & 
+submitted that the Inteq Software Pvt. Ltd. & Infobea ns 
+Technologies ltd has been considered by the Co-ordinate  bench of 
+the Tribunal in the case of BORQS has held that the se companies 
+are engaged in the business of Software Development Services and 
+very much comparable with the assessee company. The refore the 
+order of co-ordinate bench should be followed, 
+4.    We heard the rival contentions and perused the material on 
+record. The learned Authorised Representative submitt ed that the 
+assessee has two segments (i) Software Development Services 
+segment and (ii) ITES segment. We shall deal with the  exclusion of 
+comparables as submitted during the course of hearin g by the 
+learned Authorised Representative in Software Devel opment 
+Services segment. T ld. AR of the assessee has conte sted for 
+exclusion of the above companies from the final set  of comparable 
+as raised in ground No. 3.8. We noted from the writte n 
+submissions above the ld. AR of the assessee has tri ed to contest 
+on different grounds that these companies are not com parableIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 27 of 61 
+companies. We further noted that from the submissio ns of the AR 
+that in case of Arm Embeded Technologies Pvt. Ltd. Vs.  DCIT in 
+IT(TP)A No. 235/Bang/2021 order dated 30.08.2022 in w hich it 
+has been held that  in case of captive software deve lopment service 
+the following companies can not be considered as comp arable. The 
+assessee is also providing the same functions as rel ied by the ld. 
+AR. The observations of the co-ordinate bench are as  under:- 
+11. Ground No.2.10: is raised by the assessee seeki ng exclusion of following 
+comparables for functional dissimilarities:  
+• RS Software (India) Ltd.,  
+• Larsen & Toubro Infotech Ltd.,  
+• Nihilent Ltd.,  
+• Inteq Software Pvt. Ltd. 
+•  Persistent Systems Ltd., 
+ • Infobeans Technologies Ltd.,  
+• Thirdware Solution Ltd., 
+ • Infosys Ltd.,  
+• Aspire Systems (India) Pvt. Ltd. and  
+• Cybage Software Pvt. Ltd.  
+12. Inteq Software Pvt. Ltd .: It is submitted that this company is functionall y 
+dissimilar to the assessee on various counts and th erefore deserves to be rejected. 
+The Ld.AR submitted that, this comparable is functi onally not similar with that of 
+assessee, and that, the segmental data is not avail able in respect of diverse activities 
+carried on by it. He relied on pages 1334, 1341 of the annual report paper book. He 
+thus preyed for this comparable to be excluded from  the final list due to lack of 
+segmental data.  
+13. Larsen and Toubro Infotech Ltd .: It is submitted that this company is 
+functionally dissimilar to the assessee on various counts and therefore deserves to be 
+rejected. The Ld.AR submitted that, this comparable  is functionally not similar with 
+that of assessee, as it renders application develop ment maintenance, enterprise 
+solutions, testing and validation, digital solution s, infrastructure managementIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 28 of 61 
+services, platform-based service which cannot be eq uated to the routine software 
+service provider like the assessee. The Ld.AR submi tted that this company is also 
+engaged in activities such as cloud computing, infr astructure management, analytics 
+& information management, etc., and that No segment al details are available.  
+       The Ld.AR submitted that this company is als o engaged in trading IT related 
+products has cost of brought out items and has won awards and recognitions for 
+innovative products. He relied on pages 969, 979, 9 22, 986 of the annual report 
+paper book in support. The Ld.AR submitted that thi s company is a market leader 
+and enjoys significant benefits on account of owner ship of marketing intangibles, 
+intellectual property rights and business rights an d brand value. As a result of this 
+high brand value, the company enjoys a high bargain ing power in the market. He 
+relied on pages 943, 946, 920, 1011 of the annual r eport paper book in support. 
+Referring to page 1023, 1015 the Ld.AR submitted th at this company has significant 
+onsite activities. Further, he submitted that durin g the year under consideration, this 
+company has extraordinary event, whereby Informatio n Systems Resources Centre 
+Private Limited amalgamated with the Company. He th us prayed for exclusion of this 
+company from the final list.  
+14. Infobeans Technologies Ltd .: It is submitted that this company is functionall y 
+dissimilar to the assessee on various counts and th erefore deserves to be rejected. 
+The Ld.AR submitted that, this comparable is functi onally not similar with that of 
+assessee, as it is specialised in business applicat ions development for web and mobile. 
+This company provides software engineering services  primarily in Custom 
+Application Development, Content Management Systems , Enterprise Mobility, Big 
+Data Analytics. He placed reliance on page 1668 of annual report paper book. The 
+services rendered by this company are different fro m the routine low end software 
+development services rendered by the assessee as a captive service provider to its AE. 
+The Ld.AR further submitted that, segmental details  of such diverse activities carried 
+on by this company are not available. He thus praye d for exclusion of this company 
+from the final list.  
+15. Thirdware Solutions Limited  It is submitted that this company is functionally 
+dissimilar to the assessee on various counts and th erefore deserves to be rejected. 
+The Ld.AR submitted that, this comparable is functi onally not similar with that of 
+assessee, as it is engaged software and consultancy . The Ld.AR submitted that this 
+company has significant competencies in transaction  systems, Analytics and Cloud 
+applications. Further, the company has earned reven ue from software development, 
+implementation services, application management ser vices, and other related 
+services and from sale the sale of license and subs cription for software application, 
+which are not akin to the captive services rendered  by the assessee. He placed 
+reliance on page 1825, 1834, 1857 of annual report paper book. The Ld.AR 
+submitted that this company deals in product also a nd segmental details of diverse 
+services are not available. He relied on page 2508 of annual report paper book. He 
+thus prayed for exclusion of this company from the final list. It is submitted by the 
+Ld.AR that, Inteq Software Pvt.Ltd, L&T Infotech Lt d., Infobean Technologies Ltd., 
+Thirdware Solutions Ltd. excluded by Hon’ble Delhi Tribunal in case of Global Logic 
+India Ltd., reported in (2022) 134 taxmann.com 35 f or functional dissimilarities.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 29 of 61 
+        On the contrary, the Ld.DR relied on the or ders passed by the authorities below.  
+           We have perused the submissions advanced  by both sides in light of records 
+placed before us.  
+16.       We note that the decision of Hon’ble Delh i Tribunal in case of Global Logic 
+India Ltd.,(supra) considered these comparables for  assessment year 2016-17 and 
+has held them to be functionally not similar with a  captive service provider like that 
+of the assessee before us. Further The assessee in Global Logic India Ltd.,(supra) is 
+also as captive service provider as observed by Hon ’ble Delhi Tribunal therein. 
+Hon’ble Tribunal observed as under:  
+COMPARABLE COMPANIES SOUGHTTO BE EXCLUDED BY THE TA XPAYER LARSEN 
+& TOUBRO INFOTECH LTD. (L&T)  
+14.   The taxpayer sought to exclude L&T from the f inal set of comparables chosen by 
+the ld. TPO for the purpose of benchmarking its int ernational transactions qua SDS 
+on the grounds inter alia that it is functionally d issimilar; that its segmental data is 
+not available; that L&T is a huge brand with owners hip of intangibles and on 
+account of extra ordinary event; and on the ground that this company was rejected 
+in taxpayer's own case in Global Logic India Ltd. v . Dy. CIT [2020] 117 taxmann.com 
+39 (Delhi - Trib.).  
+15.       However, on the other hand, ld. DR for th e Revenue opposed the contentions 
+raised by the taxpayer to exclude L&T as a comparab le on the grounds inter alia that 
+this comparable was chosen by the taxpayer itself a nd in case of TNMM applied for 
+benchmarking the international transactions minor d issimilarities are not to be 
+taken into account; that the taxpayer cannot be tak en as a captive entity as its 
+spectrum is much more and it is also a global brand  having presence in many 
+countries and relied upon the order passed by the l d. TPO/ld. DRP.  
+16.      When we examine profile of L&T from its fi nancials, available at pages 6, 7 & 
+11 of the paper book, it is into providing applicat ion development and maintenance 
+services providing digital solutions such as big da ta analytics, enterprise computing, 
+cognitive computing, infrastructure management serv ices and enterprise solutions. 
+It has also been awarded and recognized by various forums for providing such niche 
+services in the field of innovation in information technology category, analytics 
+solutions/services etc., explained at page 11 of th e paper book.  
+17.       When we examine Notes forming Parts of Ac counts at page 116 of the paper 
+book, it is evident that L&T is having two segment accounts, namely, (i) Services 
+Cluster Segment which includes Banking and Financia l Services, Insurance, Media & 
+Entertainment, Travel & Logistics and Healthcare, a nd (ii) Industrial Cluster 
+Segments which consists of Hi Tech and Consumer Ele ctronics, Consumer Retail & 
+Pharma, Energy & Process, Automobile & Aerospace, P lant Equipment & Industrial 
+Machinery, Utilities and E&C. But aforesaid various  segments do not indicate profit 
+earned from provisions of SDS. Apart from it, L&T i s a huge brand having ownership 
+of significant intangibles to the tune of Rs. 7.42 millions, as is evident from its 
+financials at pages 8 and 103 of the paper book.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 30 of 61 
+18.     Co-ordinate Bench of the Tribunal rejected L&T in taxpayer's own case for AY 
+2014-15 (supra), available at pages 61 to 63 of the  case law paper book, by 
+returning following findings :—  
+  "6.6 The next objection of the assessee is regard ing multiple segments. 
+From segment reporting on page S-1258 of the Annual  Report (page 129 
+of PB-2), we find that the assessee has reported th ree business segments. 
+The first segment is service cluster which includes  banking, financial 
+services, insurance, media and entertainment, trave l and logistics and 
+healthcare. The second segment industry cluster whi ch includes Hi Tech 
+and consumer electronics, consumer, retail and Phar ma, energy and 
+process, auto Mobile and aerospace, plant equipment  and industrial 
+machinery, utilities and E &C. The third segment, i s telecom segment 
+which refers to product engineering services (PES) which has been 
+discontinued in this year. Regarding the PES, in Di rector's report, 
+(available on page S-1225 of the Annual Report or p age 96 of PB-2), it is 
+reported as under :  
+"TRANSFER OF PRODUCT ENGINEERING SERVICES (PES) BUS INESS TO 
+L&T TECHNOLOGY SERVICES LIMITED (LTTSL) AND WINDING  UP OF 
+GDA TECHNOLOGIES INC. (GDA INC.) As part of busines s restructuring 
+undertaken within L&T Group, it was decided to cons olidate the 
+engineering services business under a separate subs idiary of L&T, L&T 
+Technology Services Ltd. (LTTSL). Pursuant to this,  the Company initiated 
+and completed transfer of its Product Engineering S ervices (PES) Business 
+Unit to LTTSL effective January 1, 2014, PES Busine ss Unit was 
+transferred by way of slump sale for total sales co nsideration of Rs. 489.53 
+crs based on ITA No. 4740/Del./2018 fair valuation,  GDA Technologies 
+Inc., USA (GDA Inc.), a wholly owned subsidiary of the Company was part 
+of PES business with synergy in terms of the end cu stomers they serve, 
+primarily the semiconductor companies. Over last fe w years, the 
+performance of GDA Inc. was adversely affected resu lting in falling 
+revenues and operational losses. Consequent to the transfer of PES 
+business, certain IPs (Intellectual Properties) own ed by GDA Inc. were 
+transferred to LTTSL, the Company was wound up duri ng the year."  
+ 6.7 In view of the above reporting, it is clear th at under the telecom 
+segment, the assessee was engaged in providing engi neering services, 
+which is distinct from the services of the software  development. Thus, at 
+entity level, the company cannot be considered func tionally similar to the 
+assessee. The company cannot be considered comparab le at the segment 
+level also because of there are expenses of Rs. 205 ,80,17,445/- ( page 129 
+of PB-2) , which has not been allocated into three segments, and thus the 
+segmental result are distorted.  
+6.8 During the year, the extraordinary event of dem erger of product 
+engineering service business (PES) has occurred wit h effect from 
+01/01/2014, which has also impacted the profit of t he company at theIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 31 of 61 
+entity level. In the decision of the Tribunal in ca se of Xchanging 
+Technology Service India Private Limited (ITA No. 1 897/Del./2004), 
+which has been approved the Hon'ble High Court in I TA No. 813/2015 , 
+the company is held to be not valid comparable on a ccount of 
+extraordinary events. Thus, In view of the extraord inary event in the year 
+under consideration also, this company is liable to  be excluded from the 
+set of the comparable."  
+19. In taxpayer's own case in Global Logic India (P .) Ltd. v. DCIT [IT 
+Appeal No. 8726 (Delhi) of 2019, dated 29-6-2020] L &T was 
+excluded by the coordinate Bench of the Tribunal by  returning 
+following findings :—  
+"20. The Tribunal in assessee's own case in ITA No.  4740/Del/2018 
+relating to Assessment Year 2014-15 vide order date d 1-5-2020 has 
+directed the exclusion of the said concern from the  final list of 
+comparables while benchmarking the ALP of the inter national 
+transaction by the assessee with its AE. Before par ting, we may also 
+refer to an extraordinary event under which Larsen & Toubro 
+Infotech Ltd. initiated and completed transfer of i ts Product 
+Engineering Services Business (PES) Unit to L&T Tec hnology 
+Services Ltd. w.e.f. January 1, 2014 as part of the  business 
+restructuring undertaken within the Larsen & Toubro  group. 
+Though the initiation started from 1-1-2014 but the  whole effect of 
+the transaction was during the year under considera tion. Further, 
+Larsen & Toubro Infotech Ltd. during the year under  consideration 
+acquired Information Systems Resource Centre Privat e limited 
+("ISRC") thereby making it wholly owned subsidiary and because of 
+such extraordinary event of acquisition, the said c oncern cannot be 
+held to be a valid comparable and thus has to be ex cluded from the 
+final set of comparable. Accordingly, we hold so."  
+20. In view of the facts inter alia that L&T is int o various segments 
+having no segmental financials, having huge brand v alue and 
+intangibles is not a suitable comparable vis-à-vis taxpayer which 
+was working as a captive entity and that contention  raised by the 
+ld. DR that under TNMM minor dissimilarities do not  affect the 
+overall comparability is not sustainable because th ough it is a 
+taxpayer's own comparable but there being no estopp el against 
+statute and that taxpayer can rectify its mistake a t any stage of the 
+proceedings. Secondly, it is not a case of minor di ssimilarities rather 
+it is a case of functional dissimilarity and non-av ailability of 
+segmental financials to provide the clear picture q ua profit earned 
+by the company from provisions of SDS. L&T is a big  brand having 
+ownership of huge intangibles which ought to provid e competitive 
+advantage to the taxpayer in the form of premium pr icing and huge 
+volume of business ultimately leading to the higher  profitability. So,IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 32 of 61 
+we are of the considered view that L&T is not a sui table comparable 
+vis-à-vis the taxpayer, hence ordered to be exclude d . 
+ THIRDWARE SOLUTION LTD. (THIRDWARE)  
+40.       The taxpayer sought exclusion of Thirdwar e on the ground that it is 
+functionally dissimilar vis-à-vis the taxpayer. How ever, on the other hand, ld. 
+DR for the Revenue relied upon the orders passed by  the ld. TPO/ld. DRP to 
+retain this comparable.  
+41.     Perusal of Notes - Additional Information a nd Profit & Loss account, 
+available at page 570 of the annual reports paper b ook, shows that it has 
+income earned from sale of licence and provision of  training services also 
+under the head 'software services from local unit',  'export of software 
+services', 'revenue from subscription & training' a nd 'sale of licence' to the 
+tune of Rs. 2809.62 lakhs, Rs. 19285.11 lakhs, Rs. 32.59 lakhs & Rs. 8.77 lakhs 
+respectively. The taxpayer has also brought on reco rd website of the 
+company, available at pages 71 to 73 of the appeal memo, which shows that 
+Thirdware is having competency in providing service s in most advanced and 
+niche area of technologies such as Robotic Process Automation, Big Data 
+Analytics& Cloud Computing.  
+42.   From the profile of Thirdware it has come on record that Thirdware is 
+functionally dissimilar vis-à-vis the taxpayer as i t has been deriving income 
+from sale of licence and software services export f rom SEZ unit and revenue 
+from subscription and training etc. and it is also into sale of licence and its 
+segmental financials are not available.  
+43.    Thirdware has been ordered to be excluded by  the coordinate Bench of 
+the Tribunal in case of Fiserve India (P.) Ltd. v. ITO [2015] 60 taxmann.com 
+48 (Delhi - Trib.) on ground of dissimilarity to ro utine software development 
+service provider which has been affirmed by Hon'ble  Delhi High Court in ITA 
+17/2016 order dated 6-1-2016. So, we order to exclu de Thirdware from the 
+final set of comparables.  
+INFOBEANS TECHNOLOGIES LTD. (INFOBEANS)  
+ 44.    The taxpayer sought exclusion of Infobeans as a comparable again on 
+ground of functional dissimilarity, it also being i nto providing services viz. 
+software engineering services primarily in Custom A pplication Development 
+(CAD), Content Management Systems, Enterprise Mobil ity, Big Data Analytics, 
+UX & UI, Automation Engineering Services, as is evi dent from its financials, 
+available on page 123 of the annual report paper bo ok.  
+45.     The taxpayer also brought on record profile  of the Infobeans at pages 
+58 to 60 of the appeal memo wherein it is claimed b y the Infobeans that it is 
+providing wide range of services under four vertica ls i.e. services, automation, 
+enterprise and industries and under the automation services verticals, the 
+company is providing advanced robotic process autom ation services. SinceIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 33 of 61 
+Infobeans is into diversified activities it cannot be a suitable comparable vis-
+àvis the taxpayer which is a routine software devel opment services provider. 
+Infobeans has been excluded as a comparable on acco unt of functional 
+dissimilarity vis-à-vis routine software developmen t service provider by the 
+coordinate Bench of the Tribunal in case of Pub Mat ic India (P.) Ltd. (supra). 
+So, in view of the matter, we order to exclude Info beans from the final set of 
+comparables.  
+INTEQ SOFTWARE LTD. (INTEQ) 
+ 46.    The taxpayer sought exclusion of Inteq agai n on account of functional 
+dissimilarity being into providing outsourced produ ct development services 
+and Healthcare BPO services to its customers as per  website extracted at 
+pages 83 to 85 of the appeal memo set. It being a p rivate limited company its 
+financials are not available in the public domain. Its annual report made 
+available at pages 848 to 909 of the annual reports  paper book does not 
+provide segmental profitability earned from softwar e development services, 
+outsourced product development services and Healthc are BPO services.  
+47.     When we examine profit & loss account at pa ge 873 of the annual 
+report paper book, software development and service  charges are shown in 
+composite manner with no segmental profitability. I n these circumstances, 
+we are of the considered view that Inteq is not a s uitable comparable vis-à-vis 
+the taxpayer which is a routine software developmen t service provider 
+working on cost-plus mark up model, hence ordered t o be excluded from the 
+final set of comparables.  
+17.     We note that the assessee in Global Logic I ndia Ltd. (supra) was a captive 
+service provider to its AE for assessment year 2016 -17. Nothing has been placed by 
+the Revenue to deviate from the above view taken by  the coordinate bench of this 
+Tribunal in Global Logic India Ltd. (supra).  
+18. Respectfully following the view taken by the co ordinate bench of this Tribunal in 
+Global Logic India Ltd. (supra), we direct Ld. AO/T PO to exclude Inteq Software 
+Pvt.Ltd, L&T Infotech Ltd., Infobean Technologies L td., Thirdware Solutions Ltd. from 
+the final list of comparable for SWD segment.  
+19. Persistent Systems Ltd . : It is submitted that this company is functional ly 
+dissimilar to the assessee on various counts and th erefore deserves to be rejected. 
+The Ld.AR submitted that, this comparable is functi onally not similar with that of 
+assessee, as it is engaged in, rendering Enterprise  Digital Transformation, product 
+engineering and solutioning for Internet of Things (IoT), product engineering and 
+professional services to ISVs and enterprises, IP p roducts, services, development of 
+software products and offers complete product life cycle services without there being 
+separate segmental information disclosed in its Ann ual Report for such activities . He 
+placed reliance on page 1421, 1592, 1608, 1641 of t he annual report paper book. It is 
+submitted that Persistent Systems made significant investments towards research 
+and development activities in the relevant previous  year. Persistent has collaborated 
+with researchers from IGIB, JNU, IISER-Pune and NCL  to develop SanGeniX - an DNAIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 34 of 61 
+sequencing using Next Generation Sequencing (NGS) t echnology), eSkIN-will help 
+discovery of new pharmaceutical and cosmetic produc ts to empower 
+pharmaceuticals and cosmetic companies to predict t he effects of their products on 
+human skin). He placed reliance on page 1421 of the  annual report paper book. 
+Persistent has established “persistent labs” which focuses on latest technologies viz., 
+gesture computing, machine learning etc. Using the innovations of Persistent labs. 
+The Ld.AR further submitted that this company partn ered with IBM and have added 
+an engineering team that is building products and t ools for continuous lifecycle 
+management and for digital transformation and has p artnerships with various 
+leading platform providers in Analytics, Big Data, Cloud, Mobile, Machine Learning, 
+and IoT. He placed reliance on page 1420, 1421, 142 2, 1391 of the annual report 
+paper book. The Ld.AR submitted that as a part of A epona acquisition, this company 
+acquired development centers in Belfast, UK and in Colombo, Sri Lanka during the 
+year under consideration. He placed reliance on pag e 1420, 1421 of the annual 
+report paper book. He thus prayed for exclusion of this company from the final list. 
+The Ld.AR submitted thus submitted that Persistant Systems Ltd, is not functionally 
+similar with that of assessee who is a captive serv ice provider to its AE. 
+ 20. Infosys Ltd.:  It is submitted that this company is functionally dissimilar to the 
+assessee on various counts, and therefore, it ought  to be rejected from the final list of 
+comparables. It is submitted that the Ld.TPO erred rejected contentions of the 
+assessee and upheld the inclusion of the company in  the final list of comparables. It is 
+submitted that this company renders services like b usiness IT services comprising of 
+application development and maintenance, independen t validation, infrastructure 
+management, engineering services comprising product  engineering and life cycle 
+solutions and business process management; Consulti ng and systems integration 
+services comprising consulting, enterprise solution s, systems integration and 
+advanced technologies; Products, business platforms  and solutions to accelerate 
+intellectual property-led innovation including Fina ncial, and banking solution; and 
+offerings in the areas of Analytics, Cloud, and Dig ital Transformation He placed 
+reliance on page 1901, 1903, 1949, 2013 of annual r eport paper book. It is submitted 
+that this company is a full-fledged risk bearing en trepreneur who cannot be 
+compared to the assessee that renders routine softw are services. It is submitted that 
+the company owns seven Edge products/platforms and six other product based 
+solutions. The Ld.AR submitted that, this company d oes not have segmental data in 
+respect of rendering software services and developm ent of products. It is submitted 
+that this company has significant intangibles as a part of its fixed assets in the 
+nature of intellectual property. He placed reliance  on 1904, 1944, 1984 of annual 
+report paper book. The company owns significant bra nd value and focuses 
+immensely on brand building. The Ld.AR submitted th at, this company heavily 
+focuses on research and development activity and in curs significant expenditure for 
+this account and for the financial year relevant to  assessment year under 
+consideration, the company incurred research and de velopment expenses of Rs. 415 
+crores. He placed reliance on page 1942 of annual r eport paper book. The Ld.AR 
+submitted that, this company for the year under con sideration has earned 
+abnormally high profit with margin of 38.61%, which  makes it incomparable with 
+the assessee.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 35 of 61 
+       The Ld.AR submitted thus submitted that this  company is not functionally similar 
+with that of assessee who is a captive service prov ider to its AE.  
+It is also submitted that these comparables are not  functionally similar with that of 
+the assessee as has been observed by Coordinate Ben ch of this Tribunal in following 
+cases:  
+1. Decision of Hon’ble Mumbai Tribunal in case of R ed Hat India Pvt. Ltd. vs. 
+Addl. CIT reported in (2022) 136 taxmann.com 52. 
+ 2. Decision of coordinate bench of this Tribunal i n case of OLF India Software 
+Pvt.Ltd. vs. ACIT in IT(TP)A No.182/2021 by order d ated 28/09/2022 for A.Y. 
+2016-17. 
+ 3. Decision of Hon’ble Hyderabad Tribunal in case of Infor (India) Pvt. Ltd. vs. 
+DCIT in ITA-TP.No. 198/Hyd/2021 by order dated 06.1 0.2021 for A.Y. 2016- 
+17 On the contrary, the Ld.CIT.DR placed reliance o n orders passed by 
+authorities below.  
+  We have perused the submissions advanced by both sides in the light of records 
+placed before us.  
+21.        Before us, the Ld.DR has not been able t o place anything on record contrary 
+to the above submissions by the Ld.AR. We of the vi ew that with such varied 
+functions, these companies cannot be compared with assessee before us, which is a 
+captive service provider. We accordingly direct the  Ld.AO/TPO to exclude Persistent 
+Systems Ltd., and Infosys Ltd. from the final list.   
+22. Aspire Systems (India) Pvt.  
+         It is submitted that, this company is func tionally not comparable with the 
+assessee as it earns income from power generation. The Ld.AR placed reliance on 
+page 127 of Annual Report. The Ld.AR submitted that , the company owns significant 
+intangibles in form of goodwill, customer contracts . He placed reliance on page 2077 
+& 2087 of annual report paper book in support. It i s submitted that Applied 
+Development Software (India) Pvt.Ltd., and Pure App s Consulting Services Pvt. Ltd., 
+amalgamated with the company that lead to acquisiti on of assets. He placed reliance 
+on page 2056 of annual report paper book. The Ld.AR  placed reliance on following 
+decisions in support:  
+        Decision of Hon’ble Mumbai Tribunal in case  of Red Hat India Pvt. Ltd. vs. Addl. 
+CIT reported in (2022) 136 taxmann.com 52  
+        Decision of Hon’ble Hydrabad Tribunal in ca se of Infor India Pvt. Ltd. in IT(TP)A 
+No. 198/Hyd/2021 by order dated 06.10.2021 for A.Y.  2016-17. 
+       Decision of Hon’ble Punjab & Haryana in Equa nt Solutions India (P.) Ltd. 
+reported in (2020) 113 taxmann.com 517IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 36 of 61 
+       Coordinate bench of this Tribunal in case of  ARM Embedded Technologies (P.) 
+Ltd. reported in (2021) 129 taxmann.com 263  
+      Coordinate bench of this Tribunal in case of Yahoo Software Development India 
+Pvt. Ltd. reported in TS-191-ITAT-2020(Bang)  
+        On the contrary, the Ld.DR relied on the or ders passed by the authorities below.  
+         We have perused the submissions of both si des in light of records placed before 
+us. We note that this company earns its revenue fro m power generation and it has 
+nothing to do with the rendering of software develo pment service. In fact, we note 
+that this company is a full fledged entrepreneur in  the business of power generation 
+and therefore is not comparable functionally with a  captive software service 
+provider like assessee. Nothing is been placed by t he Revenue contrary to the above 
+observation. We therefore respectfully following th e above view, direct the 
+Ld.AO/TPO to exclude Aspire System India Pvt. Ltd. from the final list.  
+23. Nihilent Technologies Limited   
+          It is submitted that, this company is fun ctionally dissimilar to the assessee and 
+therefore ought to be rejected from the final list of comparables. It is submitted that, 
+services rendered by this company are wide in range  and diversified. The Ld.AR 
+submitted that, the company is engaged in diversifi ed activities. It is submitted that, 
+it renders services in the nature of consulting, so ftware development and product 
+development, provision of business consulting in th e area of the enterprise 
+transformation, change and performance management, digital transformation, 
+business intelligence and data science services and  also providing related IT services. 
+The Ld.AR submitted that, software-consulting servi ces include end-to-end solutions, 
+onsite management and IT functions, and planning & system designing, which are in 
+no way comparable to the captive software developme nt activities as provided by the 
+assessee.  
+         The Ld.AR further submitted that, this com pany has incurred significant 
+expenses in foreign currency of 37.68%, 33.27% and 37.47% of its total expenditure 
+during the FYs 2015-16, 2014-15 and 2013-14, respec tively, which suggests that is 
+engaged in provision of onsite services. And that, during the FY relevant to 
+assessment year under consideration, this company a cquired GNet Group LLC, a 
+business intelligence and analytical company, and I ntellect Bizware Services Pvt. 
+Ltd., specialising in ERP and enterprise innovation . The Ld.AR submitted that, these 
+acquisitions are bound to have a significant impact  on the financials of the company. 
+The Ld.AR thus submitted that, for all the above re asons this company cannot be 
+considered to be comparable with. He relied on the decision of Hon’ble Mumbai 
+Tribunal in case of Red Hat India Pvt. Ltd. v. ACIT  (supra)  
+       On the contrary, the Ld.DR relied on the ord ers passed by the authorities below.  
+         We have perused the submissions of both si des in light of records placed before 
+us.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 37 of 61 
+          The assessee sought exclusion of Nihilent  on ground of its functional 
+dissimilarity vis-à-vis assessee. We have examined the website information of 
+Nihilent, made available by the assessee at page No . 405 of the paper book, 
+wherein it is mentioned that it is engaged in provi ding advanced analytics, 
+artificial intelligence, blockchain, business intel ligence, data science, cloud 
+services etc.  
+45.      Perusal of the disclosure of enterprise's reportable segment 
+explanatory available at page No. A406 of the paper  book shows that Nihilent 
+is engaged in software development and consultancy,  engineering services, 
+web development and hosting and subsequently divers ified itself into the 
+domain of business analytics and business process o utsourcing and financials 
+of Nihilent available at page No. A304, A405-A406 o f the paper book shows 
+that Page 33 of 51 IT(TP)A No. 235/Bang/2021 Nihile nt has only one 
+business segment and in the absence of segmental fi nancials, as it is into 
+diversified business, this company cannot be a vali d comparable vis-à-vis 
+assessee, who is a low risk entity working on cost + markup model. Hence, 
+Nihilent is ordered to be excluded as a comparable.  Nihilent Ltd.  
+46.      The assessee sought exclusion of Nihilent Ltd. as a comparable on the 
+ground that it is functionally dissimilar vis-à-vis  assessee. This objection was 
+also raised before the Ld. DRP but rejected. The as sessee relied upon website 
+of the company which is made available at page A 41 2 of the paper book 
+wherein Nihilent Ltd. is shown to be engaged in pro viding advanced analytics, 
+artificial intelligence, blockchain, business intel ligence, data signs, cloud 
+services etc. The annual financials of this company  available at page A412 & 
+A413 of the paper book shows that it is rendering E nterprise transformation 
+and change management, Digital transformation servi ces and Enterprise IT 
+services but segmental financials are not available  as is apparent from its 
+financials available at page A305, A412 & A413 of t he paper book. When this 
+company is into various segments but segmental fina ncials are not available 
+it cannot be a valid comparable vis-à-vis assessee which is a routine software 
+development service provider working on cost + mark up model, hence 
+ordered to be excluded.  
+       We note that the assessee in Red Hat India P vt. Ltd. v. ACIT (supra) was a captive 
+service provider to its AE for assessment year 2016 - 17. Nothing has been placed by 
+the Revenue to deviate from the above view taken by  the coordinate bench of this 
+Tribunal in Red Hat India Pvt. Ltd. v. ACIT (supra) . We are of the view that, based on 
+the functions performed by this company as submitte d by the Ld.AR and the 
+observations of Hon’ble Mumbai Tribunal, this compa rable deserves to be excluded 
+from the final list. We therefore respectfully foll owing the above view, direct the 
+Ld.AO/TPO to exclude Nihilent Technologies Ltd from  the final list.  
+24.   Cybage Software Pvt.Ltd . 
+        It is submitted that this company is engage d in the provision of diversified 
+services which include product engineering, testing  & quality assurance services,IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 38 of 61 
+specialized services, support services, etc. It is submitted that this company is 
+engaged in product development and has developed a product called ‘excelshore’ 
+apart from providing spectrum of services including  ITeS and BPO services and that 
+segmental information of the diverse business funct ions undertaken by the company 
+is not available.  
+       The Ld.AR submitted that this company is mak ing super normal profits and that 
+it is not reflective of the performance of the indu stry in which it operates.  
+Particulars  FY 2013-14  FY 2014-15   FY 2015-16 
+ OP/OC  68.82%   67.75%   62.04%  
+       Reliance in this regard is placed on the dec ision of the Hon’ble Hyderabad 
+Tribunal in Infor (India) Pvt. Ltd. v. DCIT (supra) . On the contrary, the Ld.DR relied 
+on the orders passed by the authorities below.  
+We have perused the submissions of both sides in li ght of records placed before us.  
+        Primarily we note that this company is a pr oduct company and has diversified 
+business segments. We note that this company is a f ull fledged entrepreneur and 
+assumes all the risks attributable to the various b usiness segments for which details 
+are not available. In our view, under such circumst ances, this company cannot be 
+held tobe functionally comparable with that of asse ssee which is a captive service 
+provider that caters only to its AE.  
+        Respectfully following the above view, we d irect the Ld.AO/TPO to exclude 
+Cybage Software Pvt.Ltd., from the final list. 
+ 25. R.S Software (I) Pvt.Ltd :  
+          It is submitted that, this company is eng aged in diversified activities, which are 
+not similar to the services rendered by the assesse e. The company is into custom 
+application development, quality assurance and test ing, application maintenance 
+and support, strategic consulting, in respect of wh ich, segmental details are 
+unavailable. The company is engaged in development of platform services and is 
+rendering data analytics services, which are differ ent from the routine SWD services 
+rendered by the assessee. The data analytics servic es rendered by the company will 
+fall within the definition of KPO services, which a re incomparable to the services 
+rendered by the assessee.  
+            It is submitted that this company condu cts research and development work in 
+the areas of real time analytics, MDM, proximity, p ayments, digital commerce, 
+mobile payments, testing, automation, personalised loyalty in payments and 
+merchant management in payments laboratory. 
+           On the contrary, the Ld.DR relied on the  orders passed by the authorities 
+below.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 39 of 61 
+          We have perused the submissions of both s ides in light of records placed before 
+us.  
+          We note that this company is a full fledg ed entrepreneur and assumes all the 
+risks attributable to the various business segments  for which details are not 
+available. In our view, under such circumstances, t his company cannot be held to be 
+functionally comparable with that of assessee which  is a captive service provider 
+that caters only to its AE.  
+       We therefore direct the Ld.AO/TPO to exclude  R.S Software (I) Pvt.Ltd, from the 
+final list.  
+Accordingly this ground raised by the assesse stand s allowed. 
+4.1     Respectfully following the judgment of  co-o rdinate bench of 
+the Tribunal cited supra all the above ten companie s noted supra are 
+to be excluded for computation of ALP in the final s et of comparables. 
+Accordingly this ground No. 3.8raised by the assessee  stands allowed 
+in above terms . 
+Ground No. 3.9:   
+5. Vide this ground, the Appellant is seeking the inc lusion of 
+Akshay Software Technologies Ltd.  (‘Akshay’) and Sasken 
+Communication Technologies Pvt. Ltd. (‘Sasken’)  even though the 
+company is functionally comparable. 
+ 
+5.1 In regards to Akshay Software Technologies Ltd, it is 
+submitted that the TPO rejected this company on the g round that it is 
+functionally different from the Appellant. The DRP u pheld its rejection 
+on the ground that the company did not feature in the  search matrix of 
+the TPO which is incorrect.  
+5.2 In this regard, the ld, AR submitted that a peru sal of the 
+functions of the company listed in its annual report  shows that theIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 40 of 61 
+company is functionally similar to the Appellant. T he website of the 
+company states that the company is engaged in render ing IT services, 
+which are in the nature of SWD. Further, it is subm itted that the 
+income from SWD services is 96.5% of total sales an d the income from 
+sale of software licenses constitutes a meagre 3.4%  of the total 
+revenue and therefore the same would not have any imp act on the 
+profitability of the company. Further the company p asses all the filters 
+applied by the TPO. Details submissions in this rega rd are placed at 
+pages 131-133 and 526-529 of the paperbook. Relianc e is placed on 
+the decisions of this Hon’ble Tribunal in the Appell ant’s own case for 
+the AY 2014-15 and in Arm Embedded Technologies Pvt. Ltd. v. DCIT  
+(order dated 30.08.2022 passed in IT(TP)A No. 235/Ban g/2021) for 
+AY 2016-17, where in the company came to be remanded.   
+5.3 In  regard to  Sasken Communication Technologies Pvt. Ltd.  
+the TPO rejected the company on the ground that the segmental 
+details are unavailable. The DRP upheld its rejection  on the ground 
+that the company did not feature in the search matrix  of the TPO. The 
+ld, AR submitted that the segmental details of the co mpany are 
+available and furnished before the lower authorities (refer page 134 of 
+the paperbook). Further, it is submitted that the co mpany is 
+functionally comparable to the Appellant and passes all the filters 
+applied by the TPO. Submissions in this regard are pl aced at pages 
+134-136 and 533-539 of the paperbook. Reliance is p laced on the 
+decisions of this Hon’ble Tribunal in the Appellant’ s own case for the 
+AY 2014-15 and in Arm Embedded Technologies Pvt. Ltd. v. DCIT  
+(order dated 30.08.2022 passed in IT(TP)A No. 235/Ban g/2021) for 
+AY 2016-17, wherein the company came to be remanded. FurtherIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 41 of 61 
+reliance is placed on the decision of the Hyderabad Be nch of the 
+Hon’ble Tribunal in Infor (India) Pvt. Ltd. v. DCIT  (order dated 
+06.10.2021 passed by in IT(TP)A No. 198/HYD/2021), wherein the 
+company was included. 
+6. The ld. DR. relied on the order of the lower author ities. 
+7. Considering the rival submissions, both the compa nies have 
+been considered by the co-ordinate bench of the Tribun al in the case 
+of Arm Embedded Technologies Pvt. Ltd. Vs. DCIT in IT( TP)A No. 
+235/Bang/2021 order dated 30.08.2022 in which these c omparable 
+companies have been sent back to the AO/TPO for a f resh 
+consideration by observing as under:- 
+ 26. Ground No. 2.11: That the Ld.TPO erred in exclu ding Akshay Software 
+Technologies Ltd, Sasken Communication Technologies  Ltd. and Evoke Technologies 
+Pvt. Ltd., even though the same are functionally co mparable to the assessee.  
+          It is submitted that this company is enga ged in providing software development 
+services. It is submitted that these comparables we re not considered by the Ld.TPO 
+as they did not appear in the search matrix carried  out by him, which has been 
+upheld by the DRP. He placed reliance on the decisi ons of coordinate bench of this 
+Hon’ble Tribunal in the case of Prism Networks Pvt.  Ltd. reported in (2022) 141 
+taxmann.com 163.  
+        On the contrary, the Ld.DR relied on the or ders passed by the authorities below.  
+         We have perused the submissions of both si des in light of records placed before 
+us. 
+         We note that this Tribunal in case of Pris m Networks Pvt. Ltd.(supra) observed 
+and held as under:  
+18.    We heard the rival submissions. It is clear from the order of the DRP that the 
+DRP has not considered the plea of the Assessee in proper perspective. The fact that 
+the TPO rejected the TP study of the Assessee canno t be the basis not to consider the 
+claim of the Assessee for inclusion of comparable c ompanies. The TPO excluded these 
+companies only on the ground that information relat ed to these companies was not 
+available in the public domain and this fact was sh own to be an incorrect 
+assumption by the Assessee in the submissions befor e the DRP. In such circumstances, 
+it was incumbent on the part of the DRP to have adj udicated the question of 
+inclusion of these companies as comparable companie s. The fact that theseIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 42 of 61 
+companies do not figure in the search matrix of the  TPO is not and cannot be a 
+ground not to consider inclusion of these companies  as comparable companies. Since 
+the DRP has failed to do so, we are of the view tha t the issue regarding inclusion of 
+the aforesaid companies as comparable companies sho uld be set aside to AO/TPO for 
+fresh consideration in the light of the information  available in public domain. Thus 
+ground No. 7 is treated as allowed for statistical purposes.  
+          Respectfully following the above view, we  remit the comparables back o the 
+Ld.AO/TPO for fresh consideration in the light of i nformation available in public 
+domain. Accordingly this ground stands allowed for statistical purposes. 
+7.1 Respectfully following the above view, we remit  the comparable 
+back to the Ld.AO/TPO for fresh consideration in the light of 
+information available in public domain in above term s. Accordingly 
+this ground No, 3.9 stands allowed for statistical pur poses 
+Ground No.4 :   
+8. Vide this ground, the Appellant is seeking the re-
+computation of margins of CG-VAK Software & Exports  Ltd. and 
+Kals Information Systems Pvt. Ltd. Further, without prejudice to 
+the above submissions, the margins of Inteq Softwar e Pvt. Ltd, and 
+Aspire Systems (India) Pvt. Ltd. also ought to be rec tified.  
+- CG VAK: It is submitted that the correct weighted ave rage 
+margin of the company is 12.03% and not 18.50% as 
+adopted by the TPO (refer submission at page 38 of th e 
+paperbook);  
+- Kals: It is submitted that the correct weighted ave rage 
+margin of the company is 8.11% and not 8.60% as adopt ed 
+by the TPO (refer submission at page 37 of the pape r book); 
+- Inteq: It is submitted that the correct weighted aver age 
+margin of the company is 20.05% and not 28.20% as 
+adopted by the TPO (refer submission at page 71 of th e 
+paperbook);IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 43 of 61 
+- Aspire: It is submitted that the correct weighted a verage 
+margin of the company is 32.97% and not 39.28% as 
+adopted by the TPO (refer submission at pages 120-121  of 
+the paperbook); 
+9. Considering the above submission of the assessee and findings 
+recorded by the ld. DRP we also giving direction to th e AO/TPO for 
+computation of correct margin in the line of the di rection given  by the 
+Ld. DRP. Accordingly this ground is allowed for stati stical purpose.  
+ITeS SEGMENT  
+Ground No. 3.10  –  
+10. The assessee raised issue that the TPO erred in  including Tech 
+Mahindra Business Services Ltd., Infosys BPM Ltd., S PI Technologies 
+India Pvt. Ltd., and Eclerx Services Ltd. which ought to be excluded 
+from the final list of comparable as the companies are functionally 
+dissimilar to the Appellant . In this regard the appe llant has submitted 
+as under:- 
+a)  Infosys BPM Ltd. (‘Infosys BPO’)–  
+Functionally different: 
+Infosys BPO provides integrated IT and end-to-end b usiness process outsourcing 
+solutions across a variety of verticals and horizon tals. The company caters to 
+industry segment comprising of customers relating t o financial services and 
+insurance (FSI), manufacturing (MFG), enterprises i n energy, utilities and 
+telecommunication services (ECS) and retail, logist ics, consumer product group, life 
+sciences and health care enterprises (RCL). The hor izontals solutions comprise of 
+Sourcing and Procurement (S&P), Customer Service (C S), Finance & Accounting 
+(F&A), Legal Process Outsourcing (LPO), Sales & Ful fillment (S&F), Analytics (AT), 
+Business Platform(BP), Business Transformation Serv ices (BTS), Human resources 
+Outsourcing (HRO), Technology Solution Optimization  (TSO), while Vertical 
+(Industry) solutions include FSI (Financial Service s & Insurance), MFG 
+(Manufacturing), ECS (Energy, Utilities, Communicat ion and Services) and RCL 
+(Retail, Consumer packaged goods, Logistics and Lif e Sciences). These services 
+cannot be compared to the routine back-office servi ces provided by the Appellant.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 44 of 61 
+The company focuses of delivering solutions to its clients which goes beyond 
+rendering routine ITe services. From the above, it is evident that Infosys BPO is 
+engaged in rendering business solutions and consult ancy to its customers which is 
+different from the Appellant’s functional profile. 
+Brand value: 
+Infosys BPO enjoys huge brand value and has also ma de significant investments 
+in creating intangibles and owns significant intang ible assets. In view of its 
+substantial brand value, the company enjoys an adva ntage in the market and has 
+high bargaining power. As a result of the brand val ue, the company receives a 
+premium in the market. 
+Outsourcing costs: 
+Further, the company has incurred significant expen ses towards subcontracting 
+charges, which demonstrates that the business model  followed by the company is 
+different from that of the Appellant. It is, theref ore, submitted that Infosys BPO is not 
+comparable to the Appellant.  
+Significant related party transactions: 
+The company entered into related party transactions  of exceeding 15% i.e. 
+18.42% over sales during FY 2013-14, 20.88% during the FY 2014-15, 20.42% 
+during the FY 2015-16. Therefore the company ought to be excluded from the final 
+list of comparables.  
+Submissions in this regard are placed at pages 142- 151 and 570-583 of the 
+paperbook.  
+It is submitted that this company is consistently e xcluded from the final list 
+of comparables in cases of similarly placed assesse es. Reliance is placed on the 
+decisions of this Hon’ble Tribunal in the Appellant ’s own case for the AY 2014-15 
+and in NTT Data Information Processing Services Pvt. Ltd. v. DCIT (order 
+dated 07.07.2022 passed in IT(TP)A No. 297/Bang/202 1) for AY 2016-17. 
+Further reliance is placed on the order dated 03.01 .2018 of the Hon’ble High 
+Court of Delhi in PCIT v. H & S Software Development and Knowledge 
+Management Centre Pvt. Ltd . (ITA No.912/2017 at internal page 2 of the 
+order) upholding its exclusion, and on decision of the Hyderabad Bench of this 
+Hon’ble Tribunal in ADP Pvt. Ltd. v. DCIT (order dated 03.02.2022 passed in ITA 
+Nos. 227&228/Hyd/2021). 
+Thus, Infosys BPO is liable to be excluded from the  list of comparables. 
+b)  Eclerx Services Ltd.(‘Eclerx’) –  
+Functionally different: 
+       It is submitted that the company ought to be  excluded as it is engaged in 
+providing high end Knowledge Process Outsourcing se rvices, which cannot be 
+compared to routine ITeS rendered by the Appellant.  The company provides dataIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 45 of 61 
+management, analytics solutions and process outsour cing services, which are not 
+comparable to the services rendered by the Appellan t.  
+Significant intangibles: 
+The company is engaged in developing its own intang ible assets. During the 
+assessment year under consideration, the company ha s recognized as amount of Rs. 
+56.31 million as ‘computer software’.  
+Peculiar economic circumstances: 
+During the year under consideration, the company ac quired a European based 
+company which significantly contributed to its cust omers and revenue base. It is 
+submitted that this acquisition is a peculiar econo mic circumstance, which is bound 
+to have an impact on the margin of the company. In the absence of any reasonably 
+accurate adjustments capable of being made to mitig ate the impact, the company 
+ought to be excluded from the final list of compara ble.  
+Abnormal profits:  
+The company has shown abnormal growth patterns from  FY 2005-06 to FY 2014-
+15, and has grown inorganically. The operating prof it of the company during the 
+aforesaid years fluctuates between 41 crores to 408  crores, demonstrating that the 
+company is growing rather inorganically and therefo re cannot be selected as a 
+comparable.  
+Significant related party transactions: 
+The company had related party transactions (expense s) of 27.80% of total 
+operating expenses during the FY 2013-14, 27.18% du ring the FY 2014-15, 23.26% 
+during the FY 2015-16.  
+Submissions in this regard are placed at pages 151- 163 and 593-610 of the 
+paperbook.  
+It is submitted that this company is consistently e xcluded from the final list 
+of comparables in cases of similarly placed assesse es. Reliance is placed on the 
+decisions of this Hon’ble Tribunal in the Appellant ’s own case for the AY 2014-15 
+and in NTT Data Information Processing Services Pvt. Ltd. v. DCIT (order 
+dated 07.07.2022 passed in IT(TP)A No. 297/Bang/202 1) for AY 2016-17. 
+Further reliance is placed on the decisions of the Hon’ble High Court of Bombay 
+in PCIT v. PTC Software (I) (P.) Ltd.  (reported in [2019] 101 taxmann.com 117 
+(Bombay)) and PCIT v. BNY Mellon International Operations (India)  (P.) 
+Ltd.  (reported in [2018] 93 taxmann.com 363 (Bombay)), and decision of the 
+Hyderabad Bench of this Hon’ble Tribunal in ADP Pvt. Ltd. v. DCIT (order dated 
+03.02.2022 passed in ITA Nos. 227&228/Hyd/2021). In  view of the above, it is 
+submitted that this company ought to be excluded fr om the final list of 
+comparables.  
+Thus, Eclerx Solutions Ltd. is liable to be exclude d from the list of 
+comparables.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 46 of 61 
+ 
+11. The ld. DR. relied on the order of the lower authoriti es.  
+12. Considering the rival submissions we noted that t he above 
+two companies Infosys BPM Ltd. & Eclerx Services ltd.  Have been 
+excluded by the co-ordinate bench of the Tribunal in the assesse’s 
+own case for the AY 2014-15 in IT(TP)A No. 3375.Ban g/2018 
+order dated 18.12.2019 by observing as under:- 
+(i)  Infosys BPO Limited - The comparable is functionall y dissimilar as it 
+is engaged in provision of Integrated IT and end to  end business 
+process, outsourcing solutions and has high brand v alue and also 
+made significant investment creating intangibles an d made several 
+IPs. The comparable also engaged in cloud based ser vices as e-
+dictionary. The learned Authorised Representative s upported his 
+stand relying on the decisions of CGI Information S ystems & 
+Management 25 IT(TP)A No.3375/Bang/2018 Consultants  (P) Ltd. 
+Vs. ACIT 94 taxman.com 97 and PCIT Vs. Saxo India P . Ltd. on the 
+constitution. We found that the co-ordinate Bench o f Tribunal in the 
+case of Ocwen Financial Solutions Pvt. Ltd. Vs. JCI T (2019) 108 
+taxman.com 306 where at paras 7 to 7.41 and dealt o n comparable 
+Infosys BPO Ltd. at para 7.4.1 and held as under : 
+7.  Infosys BPO Ltd., ('Infosys') 
+7.1  This company 'Infosys' was selected as a comparabl e company by the 
+TPO. The assessee objected to its inclusion both be fore the TPO as 
+well as the DRP, but both the authorities below rej ected the assessee's 
+objections to its inclusion. 
+7.2.1  Before us, the assessee objected to the inclusion of this company, 
+'Infosys' on the following grounds:— 
+I Functionally Different 
+  It is engaged in diversified activities and provide s services 
+in the area of Analytics, Legal process outsourcing , 
+etc., unlike the assessee in the case on hand which  
+provides low end ITES. 
+   It provides business process management services, 
+consultancy and management services and end -to -IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 47 of 61 
+end outsourcing, as can be seen from pages 5, 14 an d 
+33 of its Annual Report. 
+  It is engaged in research and development. 
+II Ownership of intangible assets 
+This company, Infosys, owns intangible assets worth  Rs. 19 Crores during 
+the year as can be seen from pages 16, 47 and 58 of  its Annual 
+Report; whereas the assessee does not possess any i ntangible asset. 
+III Brand Value 
+'Infosys' has brand value; having incurred Rs. 5 Cr ores for its brand 
+building and advertisement, as can be seen from pag es 24, 29, 47, 58 
+and 64 of its Annual Report; whereas the assessee d oes not have any 
+brand. 
+IV Sub-contracting 
+Infosys operates on a different business model as i t has incurred Rs. 157 
+Crores towards cost of technical sub-contractors. 
+7.2.2  In support of the assessee's contentions, the lear ned AR submitted 
+and took us through the relevant pages of the Annua l Report of 
+'Infosys'. It was submitted that for the reasons gi ven above, it has 
+been consistently held by various benches of the Tr ibunal over the 
+years that this company cannot be considered as a c omparable to 
+companies leading ITES. In this regard, the learned  AR placed 
+reliance on the following decisions:— 
+   CGI Information Systems & Management Consultants (P .) 
+Ltd. v. Asstt. CIT [2018] 94 taxmann.com 97 (Bang. -  
+Trib.) . 
+  Mobily Infotech India (P.) Ltd. v. Dy. CIT [2018] 97 
+taxmann.com 2 (Bang. - Trib.) . 
+7.3  Per contra, the learned DR for Revenue supported t he orders of the 
+authorities below. 
+7.4.1  We have considered the rival contentions/submissio ns and perused 
+the material on record; including the judicial deci sions cited. We find 
+from a perusal of the Annual Report at page 14 ther eof, under the 
+head 'Managements Discussion and Analysis', it has been stated that 
+this company provides services to both horizontal a nd vertical focus 
+areas. The Horizontal focus areas are Sourcing and Procurement (S & 
+P), Customer Services (CS), Finance and Accounting (F & A), Legal 
+Process Outsourcing (LPO), Sales and Fulfillment (S  & F), Analytics 
+(AT), Business Platform (BP), Business Transformati on Services 
+(BTS), Human Resources Outsourcing (HRO) and Techno logy 
+Solution Optimization (TSO). The Vertical focus are as of services are 
+Financial Services & Insurance (FSI) Manufacturing (MFG), Energy, 
+Utilities Communication & Services (ECS) and Retail , Consumer 
+Packaged Foods, Logistics & Life Services (RCL). Fr om the above, it is 
+clear that 'Infosys' offers a gamut of different an d diversified servicesIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 48 of 61 
+which cannot be compared with routine back office s ervices provided 
+by the assessee. In fact, it is mentioned at page 1 4 of the Annual 
+Report that the company 'Infosys' provides business  process 
+management services which are different from routin e back office 
+services. It is also seen that this company enjoys significant brand 
+value and owns intangible assets which clearly esta blish that Infosys 
+is different from the assessee in the case on hand.  
+7.4.1  We also further observe that this company, 'Infosy s' has 
+consistently been rejected as a comparable to compa nies rendering 
+routine back office services in various judicial pr onouncements of the 
+Tribunal; including the two decisions cited by the assessee (supra). In 
+the case of CGI Informaiton Systems & Management Co nsultants (P.) 
+Ltd. (supra) cited by the assessee, this company 'I nfosys' has been 
+excluded from the list of comparables for the reaso n that it has brand 
+value which had an impact on its pricing and margin s. As the facts of 
+the year under consideration are similar, the decis ion rendered in the 
+earlier year would apply to the year under consider ation as well. In 
+this factual view of the matter, we hold that Infos ys BPO Ltd., stands 
+on a totally different footing from a company engag ed in rendering 
+routine back office ITES; being both functionally d ifferent and having 
+brand value and therefore is to be excluded from th e final set of 
+comparables. We hold and direct accordingly. 
+(ii)  E-Clerx Services Limited has a margin of 70.26% and  engaged in both 
+rendering KPO and BPO services and no segmental inf ormation is 
+available and the company has acquired entire share  holding of 
+Agilyst Inc. The company was excluded for the Asses sment Year 2014-
+15 in the case of Hyundai Motor India Engineering P vt. Ltd. Vs. ACIT 
+109 taxmann.com 429 at para 32 which read as under :  
+32.  Thus, on a comparison of the functions of the asse ssee and other companies 
+reproduced above, we find that E-Clerx Ltd is not o nly into ITeS services, but is 
+also rendering KPO services and therefore, it canno t be compared to the 
+assessee. In the decisions of the ITAT where it has  been held to be a comparable 
+to the assessee, we find that ITAT has held that th e services provided by the 
+assessee company and E-Clerx Ltd are similar and th at the extra-ordinary event 
+of winding up of the subsidiary company has not bee n proved to have any 
+bearing on the assessee's profits and that super no rmal profit may not be a basis 
+for exclusion of this company. However, we find tha t the Coordinate Benches of 
+the Tribunal nor the Revenue Officers have not brou ght out functions which are 
+similar to both the companies. The decision of the ITAT for year AY 2011-12 was 
+followed in the AY 2012-13. Therefore, we are of th e opinion that these decisions 
+cannot exactly be binding on this Tribunal for the relevant AY, where the 
+AO/TPO have considered the assessee as an ITeS serv ice provider and not as a 
+KPO. Further, as pointed out by the ld Counsel for the assessee, The TPO has 
+himself has not taken E-Clerx Ltd as a comparable f or the AY 2013-14. 
+Therefore, we direct the TPO/AO to exclude this com pany from the final list of 
+comparables to the assessee.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 49 of 61 
+We found the decision of the co-ordinate Bench of T ribunal where the said 
+comparable is in KPO services and accordingly we di rect the TPO to exclude 
+the comparable from the final list of comparables f or determination of ALP. 
+Respectfully following the decision of the co-ordin ate bench of the Tribunal we 
+direct to the AO/TPO for exclusion of these two com panies from the- list of the 
+comparable.  
+12.1 We find the judicial decisions, applicable for t he Assessment 
+Year 2014-15 and based on the observations of the co -ordinate 
+Bench, we consider the company Infosys BPO Limited & E-Clerx 
+Services Ltd. comparable has to be excluded and accordin gly direct 
+the TPO to exclude this company form the final list of comparable. 
+ 
+c)  SPI Technologies India Pvt. Ltd. (‘SPI Technologies’) –  
+Functionally different: 
+13. The ld. AR. submitted that this company is funct ionally not 
+comparable to the Appellant. The company is engaged  in data 
+processing and related services, primarily in the ty pesetting business, 
+including transformation of unedited manuscripts int o final print-
+ready files, supply of structured data for electronic publishing and 
+providing end to end project management services. T he services of the 
+company as described on the website are content solu tions data 
+processing, customer relationship management, KPO s ervices, etc., 
+which are not entirely comparable to the services o f the Appellant. 
+Segmental details as regards the varied services render ed by the 
+company are not available, and therefore the company  ought to be 
+excluded from the final list of comparables.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 50 of 61 
+Peculiar economic circumstances: 
+13.1  Further, during the FY 2014-15, the Hon’ble M adras High 
+Court passed the order confirming the amalgamation of  SPI 
+Technologies India Private Limited and Laserwords Pri vate Limited, a 
+wholly owned subsidiary of SPI Technologies. This con stitutes a 
+peculiar economic circumstance which has an impact on the margin of 
+the company, in respect of which no reasonably accu rate adjustments 
+can be made to mitigate such impact.  
+Abnormal growth patterns: 
+13.2 It is also submitted that the company had abnorm al growth 
+patterns - during FY 2015-16 32.97% and during the FY 2014-15 
+66.64%, which is not in line with the average indust ry growth rate of 
+11-12%.  
+Substantial intangibles: 
+13.3 The company owned intangibles representing 27.1 1% of the 
+total fixed assets for the FY 2015-16, 10.16% in th e FY 2014-15 and 
+11.56% in the FY 2013-14.  
+Related party transactions: 
+13.4 The company entered into substantial related par ty transactions 
+exceeding 15% i.e. 16.46% during the FY 2014-15 and 1 7.03% during 
+the FY 2015-16.  
+Submissions in this regard are placed at pages 151-15 4 and 584-
+592 of the paper book.  
+13.5 Reliance is placed on the decision of this Hon’ ble Tribunal in 
+NTT Data Information Processing Services Pvt. Ltd. v.  DCIT (orderIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 51 of 61 
+dated 07.07.2022 passed in IT(TP)A No. 297/Bang/2021) for AY 
+2016-17. 
+In view of the above, SPI Technologies is liable to  be excluded 
+from the list of comparables. 
+ 
+14. The ld. DR relied on the order of the lower autho rities. 
+ 
+15. Considering the rival submissions we noted that t he co-ordinate 
+bench has excluded this company in the case of NTT Data 
+Information Processing Services Pvt. Ltd. v. DCIT (order dated 
+07.07.2022 passed in IT(TP)A No. 297/Bang/2021) for  AY 2016-
+17.The relevant part of the order is as under:- 
+(c) SPI Technologies India Pvt. Ltd. 
+Functionally dissimilar 
+9.  As per the annual report of the company, the compa ny is engaged in 
+typesetting business, including transformation of u nedited manuscripts 
+into final print-ready files, supply of structured data for electronic 
+publishing and providing end-to-end project managem ent services. 
+These services are not comparable to the services r endered by the 
+Assessee. 
+9.1  Further, the learned TPO in the order has rejected  MPS Limited which 
+is engaged in "the business of providing publishing  solutions viz., type 
+setting and data digitization services for overseas  publishers and supports 
+international publishers through every stage of the  author-to-reader 
+publishing process and provides a digital-first str ategy for publishers 
+across content production, enhancement and transfor mation, delivery 
+and customer support. 
+MPS Limited has been rejected basis functional inco mparability. 
+KPO service company basis response received u/s 133 (6) 
+9.2  Basis the response received u/s 133(6) of the Act from SPI 
+Technologies, the company has claimed that it is "o perating in knowledge 
+process outsourcing..". Considering that SPI techno logy provides 
+KPO services, the same is uncomparable to the Asses see's business of 
+routine BPO services. 
+Sub-contracting cost 
+9.3  The company incurs subcontracting charges which in dicates it 
+outsources part of its activity. The cost of such s ubcontracting charges isIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 52 of 61 
+INR 20.88 crores for FY 2015-16 hence, SPI's busine ss model is different 
+from NTT Data IPS as it does not outsource its work . 
+Presence of inventories 
+9.4  SPI has inventories for INR 68.69 crores (which wo rks out as 20.43% 
+of turnover) in its Balance Sheet unlike the Assess ee that is a 
+pure service provider with no inventories. 
+Judicial precedents relied upon: 
+High-end KPO service uncomparable- 
+Rampgreen Solutions (P.) Ltd. (supra) 
+10.  The Ld. D.R. submitted that for functional differe nces, the assessee has 
+relied on the website extract of this company. The discussion on the 
+comparability should be based on the Annual Report of the company for 
+the relevant financial year. As For example, in the  present case, we are 
+considering the Annual Report of 2015-16 whereas wh en the submission 
+is made by the assessee before the TPO in FY 2019-2 0, the web site extract 
+will show the functionality of the company in the r elevant financial 
+year i.e., 19-20 which may be much different than t he FY 15-16 which is 
+actually under consideration. Having said that, the  functionality of the 
+company is analysed with reference to the annual re port for F.Y. 2015-16. 
+It is reported in page Nos. 119 &120 of the annual report that "the 
+company is engaged in data processing and related s ervices primarily in 
+the typesetting business, including transformation of unedited 
+manuscripts into final print ready files, supply of  structured (data for 
+electronic publishing and providing end-to-end proj ect 
+management services", all these activities are in t he nature of ITeS and 
+hence, is held to be functionally comparable. Furth er, the company is in 
+single segment of ITeS as per ITC 4 digit code repo rted in the Annual 
+Report at page no. 1. Accordingly, the company is F unctionally 
+comparable. 
+10.1  The assessee contended based on the information co llected under 
+section 133(6) of. the Act by the TPO that this com pany is involved in 
+provision of diversified KPO services and hence can not he considered as 
+ITES comparable. There is a thin line of difference  between BPO and 
+KPO services. KPO is termed as an upward shift of. the BPO industry in the 
+value chain. Thus, BPO trying to upgrade itself as KPO is likely to render 
+both BPO as well as KPO services in the process of evolution and therefore, 
+such an entity cannot be considered strictly as eit her BPO or KPO. In view 
+of the above, ITeS services cannot be further class ified as BPO and 
+KPO services for the purpose of comparability analy sis. Under the TNMM, 
+functional similarity is more relevant than product  similarity. 
+10.2  As discussed by the TPO, the company in response t o the notice u/s 
+133. (6) of the Act, has stated that the company an d Lambda tent Pvt 1,1d 
+had entered into a scheme of amalgamation with effe ct from 1 September 
+2017. This amalgamation also does not pertain to th is year and do not 
+have any impact on the profits of the company. 
+10.3  The company is engaged in providing, only data 
+processing services and hence the margin is complet ely at the entity level.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 53 of 61 
+On page 163 of the Annual report, the company has, disclosed that the 
+entire revenue is from data processing and related services only. 
+10.4  Therefore, all these objections are to be rejected  and this company is 
+to be a comparable. 
+11.  We have heard the rival submissions and perused th e materials 
+available on record. The main contention of the Ld.  A.R. is that TPO 
+rejected the NPS Ltd. which is engaged in the busin ess of providing 
+publishing solutions namely typesetting, data digit isation commission for 
+overseas publisher and support international publis her through every 
+stage of the author to reader publishing process an d provides the digital 
+first strategy for publishing contents, production and transformation, 
+delivery and customer support. Thus, NPS Ltd. Has b een rejected based on 
+functional incomparability. Hence, on the same logi c SPI 
+Technologies Ltd. to be excluded. 
+ 
+15.1 Respectfully following the above judgement we also 
+direct to the AO/TPO for exclusion of SPI Technologies Ltd. 
+From the final list of the comparables. 
+ 
+d)  Tech Mahindra Business Services Ltd. (‘Tech Mahindra’) – 
+Functionally different: 
+16. The ld. AR submitted that Tech Mahindra is a Busi ness Process 
+Outsourcing service provider delivering high end diver sified support 
+services across various industries, unlike the Appe llant which is 
+engaged in rendering captive ITeS to its AE. Further,  segmental details 
+as regards the varied services are unavailable.  
+16.1 The company owns significant intangibles  16% during the FY 
+2015-16 and 32% during the FY 2014-15, as opposed to the Appellant 
+which has marginal intangible assets.  
+Significant expenses in foreign currency: 
+16.2 Further, considering its expenses in foreign cu rrency towards 
+onsite operations, it is evident that Tech Mahindra has a differentIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 54 of 61 
+business model, wherein the delivery of the services is undertaken 
+from its Indian as well as overseas offices. 
+Peculiar economic circumstances: 
+16.3 During the FY 2014-15, Tech Mahindra had starte d operations in 
+Waterford, Ireland. It is submitted that Tech Mahindra  was involved in 
+extraordinary events of amalgamation and acquisition  in one of the 
+years under consideration i.e., FY 2014-15 and as a re sult, the 
+company reaps benefits of the acquired company whic h in-turn leads 
+to higher revenue and profits. It is submitted that t his acquisition is 
+likely to have a material impact on the margin of t he company, in 
+respect of which no reasonably accurate adjustments  can be made to 
+mitigate the impact thereof.  
+16.4 The detailed submissions are placed at pages 139 -142 and 550-
+556 of the paper book, which is placed on record. Th us, Tech Mahindra 
+is liable to be excluded from the list of comparable s. 
+17. The Ld. DR relied on the order of the lower author ities. 
+ 
+18. Since the assessee has relied in the judgment of co-ordinate 
+bench in the case of NTT Data Information Processing Services Pvt. 
+Ltd. v. DCIT (order dated 07.07.2022 passed in IT(TP)A No. 
+297/Bang/2021) for AY 2016-17 which is engaged in th e  ITeS and SPI  
+Technologies Ltd  has not been considered as compara ble company 
+whereas TechMahindra Business Services Ltd . has been 
+considered comparable company at para No. 20 it is observed as 
+under:-IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 55 of 61 
+20. On acceptance of the afore-mentioned submission s, the final list of 
+comparables would be as follows : 
+(a)    Bhilwara Infotechnology Limited  
+(b)    One touch Solutions India Private Limited  
+(c)    TechMahindraBusinessServicesLtd. 
+(d)    Hartron Communications Limited 
+(e)    Ace Software Exports Ltd 
+(f)    Sundaram BusinessServices Limited 
+(g)    Informed Technologies India Limited 
+(h)    B N R Udyog Ltd 
+ 
+20.1  Since the Assessee's margin would be within the ar m's length range of 
+remaining comparables, the international transactio n of provision of IT 
+enabled services by the Assessee to its AEs would b e at arm's length. 
+ 
+20.2  The argument of Ld. D.R. is that the assessee has not produced the physical 
+copy of annual report and hence it has not been con sidered by the lower 
+authorities. 
+ 
+20.3  We have heard the rival submissions and perused th e materials available 
+on record. In our opinion, if all the filters are s atisfied, these comparables to be 
+included. Accordingly, this issue is remitted back to the file of the AO/TPO with a 
+direction to the assessee to furnish the copy of th e annual report and if 
+furnished, the AO/TPO to apply the filters at segme ntal level to decide 
+accordingly. Accordingly, these comparables are rem itted to file of AO/TPO for 
+fresh consideration 
+ 
+18.1 Respectfully following the above judgment, we a re remitting 
+Tech Mahindra Business Services Ltd ., to the file of ld.AO/TPO to 
+consider in the above terms cited in para No.18 in th e case of NTT 
+Data Information Processing Services Pvt. Ltd. v. DCI T .IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 56 of 61 
+18.2 To sum up the Ground No. 3.10 is partly allowed for 
+statistical purpose,  
+ 
+ 
+Ground No. 3.11: 
+19. In this   ground, the assessee  seeks  inclusion of Microgene tic 
+Systems Ltd., Ace BPO Services Pvt. Ltd, and Suprawi n 
+Technologies Ltd.  
+Microgenetic Systems Ltd.  - 
+19.1 The ld. AR submitted that the ld.TPO rejected thi s company for 
+the reason that the financial data is not available in the public domain. 
+The DRP upheld its exclusion on the basis that the c ompany filed the 
+different FY filter and that its data was not availabl e.  
+19.2 As regards non-availability of data , it is submitted that as per 
+Rule 10B(5)(i) of the Income Tax Rules, 1962 read wi th second 
+proviso to Rule 10CA(2), in case of a comparable co mpany for which 
+data relating to the current year is unavailable, th en for the purpose of 
+comparability analysis, the data for the immediately preceding two 
+financial years preceding to the current year shall  be adopted for the 
+purpose of comparability. Accordingly, the data for AY 2015-16 and AY 
+2014-15 of Microgenetics ought to be considered for its comparability 
+study. Further, as regards the DRP’s finding that the  company files the 
+different FY ending filter, it is submitted that the f inding is erroneous 
+in as much as the company follows the year ending on  31 st  March.  
+19.3 The assessee submits that Microgenetic is enga ged in providing 
+ITeS which are in the nature of medical transcripti on services. TheIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 57 of 61 
+said services would fall under the category of ITeS a nd, therefore, it is 
+submitted that Microgenetic is comparable to the fun ctional profile of 
+ITeS rendered by the assessee.  
+19.4 Submissions in this regard are placed at pages nos.164-166 and 
+650-654 of the paper book. It is submitted that the company qualifies 
+all the quantitative filters applied by the TPO.  
+19.5 Pertinently, this company was included in the fi nal list of 
+comparables by the TPO in the Assessee’s own case f or the AY 2014-
+15.  
+19.6 In view of the above, the company ought to be included in 
+the final list of comparables.  
+ 
+Ace BPO Services Pvt. Ltd: 
+20. The ld. AR submitted that the company was excluded by the 
+TPO on the ground that it is suffering from persist ent losses. The 
+DRP upheld the company’s exclusion on the ground tha t it was not 
+possible to ascertain the functions performed by th e company.  
+ 
+20.1 In this regard, it is submitted that the margin  of the company 
+for the 3 financial years under consideration are as  under: 
+ 
+FY 2013-14: 0.95%,  
+FY 2014-15: 1.99%,  
+FY 2015-16: -0.27%.  
+ 
+20.2 It is clear that the company is not making per sistent losses.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 58 of 61 
+ 
+20.3 As regards its functional comparability, it is submitted that 
+the company is rendering health care, call centre, management 
+service and transcription, which are in the nature o f ITeS. Under 
+the healthcare services, the company provides insura nce eligibility, 
+demographics, medical coding, charge posting, quality  audits, 
+claims transmission, payment posting, accounts rece ivables 
+analysis, collection follow up and monthly reconcil iation 
+statement. Under the call centre services, the compa ny renders 
+insurance coverage verification, benefits verificat ion, insurance 
+follow ups, denials management, credit balance resol ution, 
+appointment scheduling etc. Under management servic es, the 
+company provides collection services, trend analysis  and process 
+improvement. All the services rendered by the compan ies are 
+comparable to the services rendered by the assessee. Further, the 
+company passes all the filters applied by the TPO.  
+ 
+20.4 Submissions in this regard are placed at pages 1 67-170 and 
+655-659 of the paper book.  Reliance in this regard  is placed on the 
+decision of the Hyderabad Bench of the Hon’ble Tribuna l in Infor 
+(India) Pvt. Ltd. v. DCIT  (order dated 06.10.2021 passed by this 
+Hon’ble Tribunal in IT(TP)A No. 198/HYD/2021). Ther efore the 
+company ought to be included in the final list of com parables.  
+Suprawin Technologies Ltd.:  
+ 
+20.5 The ld. AR submitted that this company was reje cted by the 
+TPO on the ground that it is functionally dissimilar . The DRPIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 59 of 61 
+upheld its inclusion on the ground that the company did not 
+feature in the search matrix of the TPO, which is i ncorrect.  
+ 
+20.6 In this regard, it is submitted that the company  is rendering 
+business process outsourcing services, which are si milar to the 
+services rendered by the assessee. Further, the compa ny passes all 
+the filters applied by the TPO. Submissions in this regard are 
+placed at pages 663-666 of the paper book. Therefor e the company 
+ought to be included in the final list of comparable s.  
+ 
+21. The ld. DR relied on the order of the lower autho rities. 
+ 
+22. Considering the submission of the assessee, we r emit the 
+comparables back to the Ld.AO/TPO as sought by the a ssesee for 
+inclusion and fresh consideration in the light of inf ormation available 
+in public domain in above terms. Accordingly, this g round No.3.11 
+stands allowed for statistical purposes. 
+Ground No. 5 :  
+23. The ld. AR of the assessee  submitted that during  the year 
+under consideration, the assessee made various donatio ns 
+amounting to           Rs.99,93,586/-, which was el igible for 
+deduction under Section 80G of the Act. Accordingly, the assessee 
+claimed  deduction of Rs. 54,16,090/-.  
+23.1 During the course of assessment proceedings, th e assessee 
+filed its submissions along with the details of the donations in 
+respect of which, it had claimed the deduction. The det ails are 
+placed at pages 713-739 of the paper book, which is placed onIT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 60 of 61 
+record. However, the Assessing Officer did not allow the same 
+while computing the total income without any reason . It is 
+submitted that the deduction was rightly claimed by th e assessee 
+and ought to be allowed.  
+23.2 In this regard, we direct to the AO for giving deduction after 
+verifying the documents as per law. Accordingly, thi s ground is 
+allowed for statistical purpose. 
+23.3  We have decided only those grounds which were argued by 
+the ld.AR of the assessee. 
+24. In the result, the appeal of the assessee is pa rtly allowed for 
+statistical purposes as per the terms mentioned abo ve.  
+Order pronounced in the  court on 27 th  March, 2023. 
+                    
+             Sd/-          
+  (Beena Pillai)               
+ Judicial Member                               
+                                Sd/- 
+           (Laxmi Prasad Sahu) 
+           Accountant Member 
+  
+Bangalore,  
+Dated : 27 th   March, 2023 
+Vms 
+ 
+Copy to:  
+ 
+1.  The Applicant  
+2.  The Respondent  
+3.  The CIT  
+4.  The CIT(A) 
+5.  The DR, ITAT, Bangalore.  
+6.  Guard file  
+                   By order 
+ 
+       Asst. Registrar, ITAT, Bangalore.IT(TP)A No.191/Bang/2021 
+ 
+ 
+Page 61 of 61 
+ 
+ 
+ 
+1. Date of Dictation ……………………………………… 
+ 
+2. Date on which the typed draft is placed  
+before the dictating Member ……………………. 
+ 
+3. Date on which the approved draft comes to Sr. P.  S 
+.……………………………. 
+ 
+4. Date on which the fair order is placed  
+before the dictating Member ……………….. 
+ 
+5. Date on which the fair order comes back to the S r. P.S. 
+………………….. 
+ 
+6. Date of uploading the order on website………………………… ….. 
+ 
+ 
+7. If not uploaded, furnish the reason for doing so  
+………………………….. 
+ 
+8. Date on which the file goes to the Bench Clerk … ………………..  
+ 
+ 
+9.  
+Date on which order goes for Xerox & 
+endorsement…………………………………… 
+ 
+10. Date on which the file goes to the Head Clerk 
+……………………. 
+ 
+11.   The date on which the file goes to the Assistant Re gistrar 
+for signature on the order ………………………………. 
+ 
+12. The date on which the file goes to dispatch sec tion for 
+dispatch of the Tribunal Order …………………………. 
+ 
+13. Date of Despatch of Order.  ……………………………………………..  
+14.     Dictation note enclosed………………………… …………

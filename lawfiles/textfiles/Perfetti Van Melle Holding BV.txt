@@ -1,0 +1,918 @@
+Page 1of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.BEFORE THE AUTHORITY FOR ADVANCE RULINGS, (NCR BENCH)
+NEW DELHI
+21stDay of June, 2019
+A.A.R. No. 869 of 2010
+Justice (Mrs.) Ranjana P. Desai, Chairperson
+Mr. Narendra Prasad Sinha, Member (Revenue)
+Mr. Ramayan Yadav, Member (Law)
+Name & address of the Applicant : Perfetti Van Melle Holding B.V.
+ZoeteInval 20,
+4815 HK Breda,
+The Netherlands.
+Present for the Applicant : Mr. Deepak Chopra, Advocate
+Mr. Rohan Khare, Advocate
+Mr. Anmol Anand, Advocate
+Ms. Deepika Kalsi, CA
+Mr. Manish Bansal, CA
+Mr. Venkatesan P.
+Present for the Department : Mr. Satpal Gulati, CIT, DR
+Mr. S.R. Kaushik, Addl. CIT, DR
+Mr. Parikshit Singh, JCIT
+RULING
+(By Narendra P Sinha)
+The Applicant Perfetti Van Melle Holding B.V. (Perfetti) is a company resident in
+Netherlands and is engaged in the business of manufacturing and sales of sugar confectionary
+and gum. It had entered into a Service Agreement with its group company, Perfetti Van Melle
+India Pvt. Ltd. (Perfetti India), effective from 1.4.2010 for providing various operational and
+support services. The Applicant had preferred an Application seeking a ruling from the
+Authority for Advance Rulings (“ AAR ”) in respect of taxability of payments to be made by
+Perfetti India for the costs to be allocated by the Applicant under the Service Agreement.
+The question of taxability was raised in context of the Double Taxation AvoidancePage 2of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.Agreement between India and The Netherlands (“ DTAA ”). The Applicant had relied on the
+provisions of Article 12(5)(b) of the DTAA to canvass that in the absence of “make
+available” condition, the payments would not partake the character of “fees for technical
+services” and further in the absence of any Permanent Establishment (PE) (in terms of Article
+5 of the DTAA) of the Applicant, such payments would not be taxable in India. The
+Authority, vide ruling dated 09.12.2011 had ruled on the taxability of the payments to be
+made by Perfetti India to the Applicant and had held that such payments would partake the
+character of “fees for technical services” within the meaning of the term as contained in
+Article 12(5)(a) of the DTAA. The questions raised by the applicant and the Ruling thereon
+were as under:
+Ques.
+No.Question raised by the Applicant Ruling thereon
+1. On the facts and circumstances of the case whether
+the payment to be made by Perfetti Van Melle India
+Private Limited (‘Perfetti India’) for the cost to be
+allocated by Perfetti Van Melle Holding BV (‘the
+Applicant’) will not be taxable in India in the hands
+of the Applicant as per the provisions of the Double
+Taxation Avoidance Agreement (‘DTAA’) entered
+into between India and the Netherlands?The payment to be made by
+Perfetti India for the cost to
+be allocated by the applicant
+is taxable under Article
+12.5(a) and as also under
+Article 12.5(b) of the DTAC
+between India and the
+Netherlands.
+2. If the answer to the question 1 is negative, on the
+facts and circumstances of the case whether the cost
+to be allocated by the Applicant on Perfetti India
+will not be in nature of income and not chargeable
+to tax in India?As the answer to question
+No.1 is in affirmative, the
+payment made by Perfetti
+India would be chargeable to
+tax in India.
+3. On the facts and circumstances of the case, if the
+Applicant is not taxable in India for the costs to be
+allocated to Perfetti India, whether Perfetti India
+will not be liable to withhold taxes under sectionPerfetti India is liable to
+withhold taxes under section
+195 of the Act on the
+payments to be madePage 3of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.195 of the Act on the payments to be made by
+Perfetti India towards the cost to be allocated by the
+Applicant?towards the costs to be
+allocated by the applicant.
+4. Assuming that the Applicant has no other taxable
+income in India, on the facts and circumstances of
+the case;
+a.Whether the Applicant will be absolved from
+filing a tax return under the provisions of the
+Act; and
+b.Whether the transfer pricing provisions of
+section 92 to section 92F will be applicable to
+the Applicant in respect of the payment to be
+made by Perfetti India?As the applicant is liable to
+tax in India, it is required to
+file a tax return under the
+provisions of the Act and the
+transfer pricing provisions of
+section 92 to 92F would be
+applicable in respect of the
+payment to be made by
+Perfetti India.
+2. Thereafter, the applicant had filed a writ petition against the Ruling dated 9.12.2011
+and the Hon’ble Delhi High Court vide order dated 30.09.2014 set aside the Ruling and
+remitted the matter to the Authority for Advance Rulings to consider the matter afresh. The
+order of the Hon’ble Court is as under:-
+“This writ petition is directed against the ruling dated 09.12.2011 in
+AARNo.869/2010 given by the Authority for Advance Rulings. One of the
+pleas raised by the petitioner was that the said authority had not
+considered the Double Taxation Avoidance Agreement between India and
+Portugal which is an OECD country. The learned counsel for the
+petitioner submitted that any agreement between India and anOECD
+country could be looked into while construing the Indo-Netherlands
+Double Taxation Avoidance Convention. The learned counsel for the
+petitioner had also raised the plea that the memorandum of
+understanding concerning fees for includedservices referred in Article
+12(4) of the Indo-USA DTAA concerning the expression “make available”
+was also not considered by the Authority for Advance Rulings. It wasPage 4of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.submitted that the said Authority refused to look into the Indo-Portugese
+DTAA or the Indo-USA DTAA and memorandum of understanding
+between India and USA on the ground that only the Indo-Netherlands
+DTAC needed to be looked into.
+The learned counsel for the respondent states that the Authority for
+Advance Rulings was correct in not looking into the Indo-Portuguese
+DTAA, but insofar as the Indo-USA DTAA is concerned, a provision
+similar to that DTAA has been incorporated in the Indo-Netherlands
+DTAC by virtue of paragraph 5 of Article 12 of the same, whereby the
+very same “make available” clause, which is to be found in the DTAA
+between India and USA read with the memorandum of understanding
+connected therewith has been incorporated into Indo-Netherlands
+convention by way of amendment on 30.08.1999, by notification No. S.O.
+693 (E) [reported in (1999) 239 ITR (Stat) 56]. It is evident that the
+Authority for Advance Rulings had not considered the said amendment.
+In these circumstances, the impugned Ruling cannot stand. The
+same is set aside and the matter is remitted to the Authority for Advance
+Rulings to consider the entire matter afresh uninfluenced by any
+observations made in the impugned Ruling.”
+3. The matter was heard afresh and it was submitted by the Applicant that as per the
+direction of the Hon’ble Court the applicability of the MOU along with the DTAA between
+India and USA has to be referred to while interpreting the terms contained in Article 12 of the
+India – Netherlands DTAA. It was submitted that while the Applicant’s reliance on the
+provisions of the said MOU were in respect of the interpretation of the term “make
+available”, however, since this Authority in its ruling dated 09.12.2011 had ruled that the
+payments made to the Applicant were in the nature of “fees for technical services” as
+envisaged in Article 12(5)(a) of the DTAA, the provisions of the MOU along with the Double
+Taxation Avoidance Agreement between India and USA would have to be equally referred/Page 5of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.relied upon since the MOU explains the scope of the term “ancillary and subsidiary to the
+application or enjoyment of the right ….”.
+Relevant facts relating to the transaction
+4. Before we deal with the submissions made on merit, it would be appropriate to
+recapitulate the facts of the case, which are as under:
+a.Perfetti Van Melle S. P. A. Italy (hereinafter referred to “Perfetti SPA”), is the mother
+company of the Perfetti Van Melle (PVM) Group, worldwide manufacturer of
+confectionary products and was licenced owner of the right to use the various
+trademarks. Perfetti SPA also had a license to manufacture confectionery namely
+candies, chewing gums, bubble gums, jelly candies, lollipops under those trademarks
+in a few territories which included India.
+b.Perfetti Van Melle Holding BV, (the Applicant) is a company based in Netherlands
+and is primarily engaged in the business of managing of manufacture and sale of
+sugar confectionery and gum and provision of operational and other support services
+for the benefit of companies in the Perfetti Van Melle group situated in various
+countries.
+c.A Technology and Trademarks License Agreement (“ TTLA ”) dated 01.07.2005 was
+entered into between Perfetti SPA and Perfetti India (a subsidiary of the Applicant), as
+per which licence was granted to Perfetti India to manufacture and sell various kinds
+of confectionery and also allowed use of its technology and know-how in manufacture
+of the products. Clause 12 of the said TTLA provided that Perfetti India would pay
+royalty to the Perfetti SPA subject to the ceiling of 5% on domestic sales and 8% on
+export sales. The royalty payable was to be mutually agreed between the parties on
+year to year basis subject to the overall cap of 5% on domestic sales and 8% on exportPage 6of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.sales. The actual royalty paid was at the rate of 2.5% on domestic sales and 2% on
+export sales.
+d.In the year 2010, Perfetti India entered into two fresh Technology, Trademark and
+Know-how License Agreement (“TTKLA” ) one with Perfetti SPA and another with
+Perfetti Benelux and the Applicant. It was explained that this change emanated from
+the fact that Perfetti India had discontinued manufacturing of a few products which
+were part of the original agreement dated 01.07.2005 between Perfetti SPA and
+Perfetti India. In the new agreements the brands and products were grouped into three
+categories namely Global Brands, Regional Brands and Local Brands and new royalty
+rates were agreed with Perfetti India for each of such categories, which were at the
+rate of 2.5%, 2% and 1.5% respectively.
+e.With effect from 01.04.2010, a Service Agreement was also entered into between the
+Applicant and Perfetti India, as per which the Applicant agreed to provide the
+following specific operational support services to Perfetti India:
+i. Accounting Services;
+ii. Budgeting and Reporting Services;
+iii. Forex Management;
+iv. Global Credit Facility Administration and coordination of Global Funding;
+v. Organisation of International Finance Manager’s meetings;
+vi. Human Resource Management Services;
+vii. Support and coordination of local strategy;
+viii. Support in financial controlling;
+ix. Corporate, Secretarial and Legal Support;
+x. Environmental health and safety;
+xi. Support on Risk Management.
+f.As regarding royalty payment there is no dispute in respect of its taxability. The
+questions raised in the present application pertain to this new service agreementPage 7of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.effective from 01.04.2010 and are in respect of the service charge payments as per
+clause 4.2 of the said agreement.
+Submission of the Applicant
+5. The Applicant submitted that the provisions of Article 12(5) of the DTAA between
+India & USA have no applicability in the present case. Our attention was drawn to the said
+Article which becomes applicable only in the case of technical or consultancy services. It was
+stated that managerial services are not covered under the said Article and the applicant
+contended that given the nature of services rendered under the Services Agreement, they were
+nothing but “managerial services”. Hence, there was no applicability of the provisions of
+Article 12(5) of the DTAA. The applicant relied upon the following decisions in this context:
+(i)Steria (India) Ltd. Vs. CIT (2016) (386 ITR 390) (Del.HC)
+(ii)Measurement Technology Ltd. In Re (2015) 376 ITR 0461 (AAR),
+(iii) Cummins Limited., In Re (2016) 381 ITR 44 (AAR) and
+(iv)Koninklijke Philips Electronics N.V. Vs. DCIT (ITA No. 1889/Kol/2012, order
+dated 25.10.2018)
+6. The Applicant has drawn our attention to the fact that in the original ruling dated
+09.12.2011 the payments under the Services Agreement were treated to be in the nature of
+“Fee for Technical Services” under Article 12(5)(a) of DTAA since the services provided
+under the Services Agreement were inextricably linked with the right to use the Trademark,
+Technology and Know-how under the TTKLA dated 01.04.2010 and as such the payments
+made under the Services Agreement fell within the scope of Article 12(5)(a). The Applicant
+contended that the services rendered under the Services Agreement were not at all linked with
+the TTKLA and hence there was no question of the applicability of Article 12(5)(a) of the
+DTAA. It was explained that Clause 3 of the Preamble of TTKLA provides that the Applicant
+can fully provide extensive support in :-Page 8of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.a) Marketing activity through the support of specialised Brand Teams;
+b) Research and Development/ New Product Development and Process
+Engineering;
+c) Food Law products assessment;
+d) Legal support in IP and other commercial and business law issue, Trademark,
+Design and Patent application, registration and Enforcement.
+It was clarified that all these services were different and distinct from the nature of services to
+be provided under the service agreement. It was also contended that to determine whether any
+of the services rendered under the Services Agreement were inextricably linked to the rights
+vested under the TTKLA, the onus was on the Revenue to establish that the services under
+the Services Agreement were rendered in connection with the license to use the technology,
+technical marketing and commercial know-how in the manufacturing, sales, advertisement
+and promotion of the products. It would only be then, that the provisions of Article 12(5)(a)
+would come into play. In the absence of such onus having being discharged and in the
+absence of it being shown as to how the general support services as rendered under the
+Services Agreement relate to the application and enjoyment of such rights as vested under the
+TTKLA, there was no question of the payments made under the Services Agreement being
+characterised as “Fee for Technical Services” in terms of Article 12(5)(a) of the Indian
+Netherlands DTAA.
+7. The applicant further submitted that none of the services rendered under the Services
+Agreement by the Applicant assist Perfetti India in the manufacturing, sales, advertising and
+promotion of the products or in solving any technological or commercial problems which
+would have arisen during the manufacturing and sale of the products.
+8. The applicant also submitted that as per order of the Hon’ble Delhi High Court dated
+30.09.2014, the contents of the MOU of the India-USA DTAA would have to be referred to
+even for determination of the scope of Article 12(5)(a), sought to be invoked in the presentPage 9of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.case. Our attention was drawn to the examples in the said MOU and it was contended that for
+services to be characterised as “Fees for Included Services” under Article 12(4)(a) of the
+India-USA DTAA, the payments allocable to such services should not form a substantial part
+of the total consideration payable under the contractual arrangement/s. It was brought to
+notice that for Assessment Year 2011-12, the payment of Royalty under the TTKLA was INR
+2.37 crores whereas the payments under the Service Agreement were to the tune of INR 9.48
+crores. Thus, the payment under the Services Agreement was substantial in comparison with
+the Royalty under the TTKLA. Further that the services must necessarily be related to the
+application or the enjoyment of the intangible. Further that if the services were related to
+improving the effectiveness of processes, only then they would fall within the scope of
+Article 12(5)(a) of the Netherlands DTAA, which was not the case here.
+9. The applicant relied on the Tribunal judgement rendered by the Bombay Bench of the
+Income Tax Appellate Tribunal in the case of Spencer Stuart International BV Vs. ACIT
+[ITA No. 1696/Mum/2015, order dated 01.06.2018], which dealt with the provisions of the
+India Netherlands DTAA and the scope of Article 12(5)(a).
+10. The applicant also contended that the minute examination of the scope of the services
+rendered under the Services Agreement establishes that the services rendered under the
+Services Agreement were not connected, much less “ancillary and subsidiary”, to the
+application or enjoyment of the rights vested in Perfetti India under the TTKLA.
+11. The applicant submitted that the services to be rendered by the Applicant under the
+Service Agreement were routine operational/ managerial services, intended to improve the
+operational efficiency of the business. They do not involve making available of any
+technology, technical know-how, skill to Perfetti India in a manner so as to enable PerfettiPage 10of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.India to apply such technology, technical know-how, skill without the assistance of the
+Applicant.
+12. The Applicant, drew our attention to the protocol in India – Netherlands DTAA which
+contains a most favoured nation clause in respect of fees for technical services under Article
+12(5) as per which the Applicant is entitled to take the benefit of a double taxation avoidance
+agreement that India has entered into with another country after July 13, 1988, wherein a
+lower rate on “fees for technical services” is provided for or wherein the scope and meaning
+of “fees for technical services” is narrower than the rate or scope as provided for in India –
+Netherlands DTAA. It was submitted that as per the Double Taxation Avoidance Agreement
+between India and Portugal (signed on September 11, 1988), fees for technical services is
+narrower in scope than the definition of “fees for technical services” under the India –
+Netherlands DTAA, in as much as, it is clarificatory of the fact that making available of
+technology while rendition of services necessarily should enable the person acquiring such
+services to apply the technology contained therein. It was stated that the said definition under
+the India – Portugal Double Taxation Avoidance Agreement was in sync with the MOU
+along with India – USA DTAA. The Applicant, therefore, stated that it is entitled to take the
+benefit of India – Portugal Double Taxation Avoidance Agreement and the restricted scope of
+the phrase “fees for technical services” contained therein. It was submitted that such
+entitlement was upheld by the Hon’ble High Court of Karnataka in the case of CIT Vs. De
+Beers India Minerals Pvt. Ltd. (2012) 346 ITR 467. Furthermore, in the said case, the
+Hon’ble High Court, while dealing with the phrase “make available” as contained in Article
+12(5)(b) of the India – Netherlands DTAA observed that “ the test is whether the recipient of
+the service is equipped to carry on his business without reference to the service provider, if
+he is able to carry on his business in future without the technical service of the service
+provider in respect of services rendered then, it would be said that technical knowledge isPage 11of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.made available.” It was submitted that identical view was taken by the Hon’ble Delhi High
+Court in the case of DIT Vs. Guy Carpenter & Co. Ltd. For the purposes of Article 12(5)(b)
+to trigger, it is necessary that the recipient of the service should be in a position to derive an
+enduring benefit and be in a position to utilize the knowledge or know-how in future on his
+own [Shell India Markets (P.) Ltd., In re [2012] 205 Taxman 288 (AAR-New Delhi)].
+However, since in the facts of the present case, the Applicant does not render any technical
+service under the Service Agreement, wherein any technology is transferred, there does not
+arise the question of making available the said technology which could enable Perfetti India
+to utilize the same in future on its own. Therefore, Article 12(5)(b) of the India –
+Netherlands DTAA also does not have any applicability to the facts of the present case.
+13. When enquired about the need for entering into this service agreement, the Applicant
+filed an Affidavit dated 13.04.2016, by Mr. Venkatesan P, Head (Taxation) of Perfetti India,
+stating that even prior to the execution of the Service Agreement in 2010, the Applicant was
+rendering similar services to Perfetti India and other group entities, but no costs were being
+charged to Perfetti India. The affidavit further states that it was during the years 2008/2009,
+that the Dutch tax authorities exercised transfer pricing audit and advised the Applicant to
+recover such charges from the operating companies from whom it was not recovered. It was
+for these reasons that a formal agreement was entered into by the Applicant and Perfetti
+India.
+14. It was also clarified, on further enquiry, that the Applicant was providing these
+operational support services only to the Perfetti Van Melle Group entities and such services
+were not provided to any third parties.
+Submission of the Revenue
+15. The Revenue while admitting that managerial services are not covered in Article12(5)
+of DTTA between India and Netherland, submitted that the services rendered by the applicantPage 12of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.were in the nature of technical / consultancy services. Relying upon the Memorandum of
+Understanding dated 15.05.2089 to the Indo-US DTTA, it was clarified the consultancy
+services included any advisory services. The Revenue also placed reliance on the following
+decisions in support of the contention that services rendered were in the nature of the
+technical and consultancy services.
+(i) Shell India Marketing Private Limited (AAR) 2012-LL-0117-28
+(ii) Intertek Testing Services: (AAR)
+(iii) US Technology Resources Private Limited (Cochin ITAT) 2013-LL-0927-130:
+(iv) GVK Industries (SC) 54 taxmann.com 347.
+(v) Continental construction (SC) 195 ITR 81 (SC)
+(vi) Central Board of Direct Taxes vsOberoi Hotels (India) (P.) Ltd 231 ITR 148.
+(vii) International Hotel & Licensing Co (AAR) In re AAR 158 Taxman 231 (AAR)
+(viii) Andaman Sea Food Pvt Ltd vs CIT (SLP no 36385/2014).
+It was also submitted that the decisions relied upon by the Applicant were distinct and
+different on facts. Therefore, the ratio of those decisions may not be applied in the present
+case.
+16. It was further contended that the services were not only technical and consultancy in
+nature but were also ancillary and subsidiary to the application or enjoyment of the right or
+property or information for which royalty was being paid by the applicant as per TTLA.
+17. The Revenue also submitted that earlier there was only one TTLA dated 01.07.2005.
+However, with effect from 01.04.2010 two separate TTKLA arrangements were made. The
+terms and clauses of the present TTKLA were similar to that of earlier TTLA. It was
+contended that the pre-dominant purpose of the service agreement was enjoyment of the right
+/information as per TTKLA and, therefore, the services were ancillary and subsidiary to the
+main agreement as per which royalty was being paid. It was pointed out that even after the
+separate services agreement the total payment to the applicant as percentage of turnover hadPage 13of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.remained the same which was about 2.3% of the turnover. In support, the following statistics
+was provided:-
+F. Yr Turnover
+(Rs.Crore)Royalty
+(Rs.Crore)Service Fee
+(Rs.Crore)Total
+Payment%age of
+turnover
+2007 -08 670.67 15.59 NIL 15.59 2.32%
+2008 -09 824.65 19.12 NIL 19.12 2.31%
+2009 -10 1018.8 23.48 NIL 23.48 2.3%
+2010 -11 1284.89 21.05 9.78 30.83 2.3%
+2011 -12 1536.6 24.51 10.59 35.10 2.28%
+2012 -13 1637.19 25.76 11.21 36.97 2.26%
+The Revenue contended that considering the fact that the total outgo on account of royalty
+and service fee had remained identical to the payment of royalty prior to the service
+agreement, the applicant had converted a part royalty payment into service payment which
+was a colourable device to avoid payment of taxes in India or to pay less tax in India.
+18. The revenue also pointed out that the services as per TTLA and the service agreement
+was either common or complementary to each other, to achieve the common goal of
+efficiency in production and to improve sales.
+19. The Revenue also contended that the “make available” test is also fulfilled as the
+services enable the employee of Preffiti India to gain from technical knowledge and resolve
+the issues in future independently. It was submitted that even if the services provided are
+continuous, the knowledge and expertise also gets updated on continuous basis.
+20. In the rejoinder to the revenue’s contention on commonality of services between the
+two agreements, the applicant clarified that the legal services contemplated under the TTKLA
+had no bearing or connection with the Corporate Secretarial and Legal Services as envisaged
+under the Services Agreement. The Services which were rendered under the Service
+Agreement were general operational services and the use of the rights contained in the
+TTKLA was in no way dependent on these services. Thus, the payments under the ServicePage 14of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.Agreement cannot partake the character of “fees for technical services” in terms of Article
+12(5)(a) of the DTAA between India and Netherlands. The applicant reiterated that the
+services under the Service Agreement between the Applicant and Perfetti India were not
+ancillary and subsidiary to the application of enjoyment of the rights, property or information
+vesting on Perfetti India under the TTKLA and, therefore, the payments made under the
+Service Agreement do not constitute ‘fees for technical services’ under Article 12(5)(a) of the
+DTAA between India and Netherlands.
+Findings and Ruling
+21. We have carefully considered the facts of the case and the submissions of the
+applicant. One of the reasons for remitting the matter by the Hon’ble High Court was that the
+Authority had not considered the amendment made to Indo-Netherlands DTAC vide
+Notification No. S.O. 693(E) dated 30.08.1999. It was explained in the said Notification that
+after signing the Convention with Netherlands, India had subsequently signed Convention
+with Germany, Sweden, Swiss-Confederation and USA which were members of OECD and
+which had limited the taxation at source on dividend, interest, royalty fees for technical
+services or payments for the use of equipment to a rate lower or a scope more restricted than
+the rate or scope as provided in the Convention between India and Netherlands, on these
+items of income. Therefore, the original Convention effective from 21.09.1989 was modified
+vide Notification dated 30.09.1999 in order to align with the other Conventions and make it
+less restrictive. The Article 12(5) in respect “fees for technical services” (FTS) as per this
+Notification was as under:
+5. For purposes of this article, “fees for technical services” means payments of
+any kind to any person in consideration for the rendering of any technical or
+consultancy services (including through the provision of services of technical or
+other personnel) if such services:Page 15of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.(a) are ancillary and subsidiary to the application or enjoyment of the right,
+property or information for which a payment described in paragraph 4 of this
+article is received; or
+(b) make available technical knowledge, experience, skill, know-how or
+processes or consist of the development and transfer of a technical plan or
+technical design.
+In the Indo-USA Convention there was clause for “fees for included services”, the scope
+which was defined in Article 12(4) of the Convention as under:
+4. For purposes of this article “fees for included services” means payments of any
+kind to any person in consideration for the rendering of any technical or
+consultancy service (including through the provision of services of technical or
+other personnel) if such services:
+(a) are ancillary and subsidiary to the application or enjoyment of the right,
+property or information for which a payment described in paragraph 3 of this
+article is received; or
+(b) make available technical knowledge, experience, skill, know-how or
+processes or consist of the development and transfer of a technical plan or
+technical design.
+In the Indo-Portuguese Convention, the ‘fees for included services’ was defined in Article
+12(4), which was as under: -
+4. For purposes of this article “fees for included services” means payments of any
+kind other than those mentioned in Article 14 and 15 of this Convention, to any
+person in consideration for the rendering of any technical or consultancy service
+(including through the provision of services of technical or other personnel) if
+such services:
+(a) are ancillary and subsidiary to the application or
+enjoyment of the right, property or information for which a
+payment described in paragraph 3 is received, orPage 16of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.(b) make available technical knowledge, experience, skill,
+know-how or processes or consists of the development and
+transfer of a technical plan or technical design which
+enables the person acquiring the services to apply the
+technology contained therein.
+22. The Explanation-2 to Section-9(1)(vii) of the Income Tax Act defines FTS as under:
+Explanation 2. —For the purposes of this clause, "fees for technical services"
+means any consideration (including any lump sum consideration) for the
+rendering of any managerial, technical or consultancy services (including
+the provision of services of technical or other personnel) but does not
+include consideration for any construction, assembly, mining or like
+project undertaken by the recipient or consideration which would be
+income of the recipient chargeable under the head "Salaries".
+Thus, as per the provisions of the Act the technical services include any managerial, technical
+or consultancy services (including the provision of services of technical or other personnel).
+However, the Conventions referred above exclude “managerial services” from the scope of
+FTS. Therefore, a conjoint reading of all the Conventions referred above lead to the
+conclusion that in order to reply to the questions raised in this application we have to examine
+the following two aspects of the transactions:
+1.Whether the payment made to the Applicant under the service agreement is to render
+any technical or consultancy services “including through the provision of services of
+technical or other personnel”?
+2.(a) Whether the services rendered are ancillary and subsidiary to the application or
+enjoyment of the right, property or information for which royalty is being paid? orPage 17of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.(b) Whether the services make available technical knowledge, experience, skill,
+knowhow or processes or consist of the development and transfer of a technical plan
+or technical design (which enables the persons acquiring services to apply the
+technology contained therein, [as per Indo-Portuguese Convention])?
+The fulfilment of all the above conditions is not cumulative. While the first condition is
+mandatory, fulfilment of any of the two conditions listed at 2(a) or 2(b) above will make the
+payment in the nature of FTS under Article 12(5) of Indo-Netherlands convention.
+23. The Applicant has contended that the services rendered as per the service agreement
+were not technical or consultancy services but were managerial in nature. However, it has not
+been demonstrated as to how the services rendered are managerial and not technical or
+consultancy services. In fact the service agreement does not stipulate for payment of any
+'management fee' so as to advance the argument that services rendered were managerial in
+nature. The Applicant has provided operational support services and other support services,
+which are not equivalent to services of managerial nature.
+24. The MoU to the Indo-USA DTAA explains that technical services means services
+requiring expertise in the technology whereas the consultancy services means advisory
+services and that the two services might be overlapping. Further, the technical or consultancy
+services will be considered “included services” to the extent:
+(a)They are ancillary and subsidiary to the application or enjoyment of a right, property
+or information for which the royalty payment is made, or;
+(b)They make available technical knowledge, experience, skill, knowhow or processes
+or consist of the development and transfer of a technical plan or a technical design.Page 18of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.The consultancy services which are not of a technical nature cannot be included service under
+the clause (b) above. The MoU further clarifies that in order for a service fee to be considered
+“ancillary and subsidiary”, the service must be related to the application or enjoyment of the
+right, property or information. Thus, the pre-dominant purpose of the arrangement under
+which the payment of service fees is made must be the application or enjoyment of the right,
+property or information for which royalty is being paid. It further prescribes that whether the
+pre-dominant purpose of the arrangement was application or enjoyment of right, property or
+information must be determined by reference to the facts and circumstances of each case.
+The factors which may be relevant for such determination are enlisted in the MoU as under: -
+(a)The extent to which the services in question facilitate the effective application or
+enjoyment of the right, property or information;
+(b)The extent to which such services are customarily provided in the ordinary course of
+business arrangement involving royalties;
+(c)Whether the amount paid for the services was an insubstantial portion of the
+combined payments?
+(d)Whether the payments made for the services and royalty was made under a single
+contract or a set of related contracts?
+(e)Whether the person performing the services is a same person as, or a related person
+to, the person receiving the royalties?
+25. If we examine the facts of the present case vis-a-vis the above yardsticks, it is found
+that the service agreement is in the nature of support services being provided by the holding
+company to a group entity specific to confectionary industry and is not general in nature. The
+service agreement specifically recognises the existence of proprietary knowledge and
+processes belonging to PVM Group and that the specified services were required to bePage 19of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.rendered to use such proprietary knowledge and processes on a continuous basis. Thus, the
+support services are required in connection with TTKLA through which the consideration in
+the form of royalty is flowing. More the efficiency in application in the manufacturing,
+quality control, costing, finance, marketing, sales etc.; larger is the enjoyment of the rights
+conferred through TTKLA. Thus one agreement gives the right to manufacture while the
+other agreement brings the efficiency in the system. The recipient has applied the specified
+services to optimise services to give maximum royalty which is based on sales turnover. It is
+thus crystal clear that the applicant is providing services in connection with an overall
+arrangement which facilitates the effective application or enjoyment of the right, property or
+information for which royalty is being paid.
+26. In fact the services being provided under TTKLA and the service agreement are found
+to be overlapping. It is seen that under the TTKLA it is agreed between the parties that the
+applicant will provide the following to Perfetti India:
+a) Licence to manufacture and sell various kinds of confectionary products;
+b) Licence to use technological, technical marketing and commercial know-how in the
+manufacturing, sales, advertisement and promotion of the products;
+c) Offer technicians, marketers, salesman, in-house legal counsel and any other of the
+experienced employees to assist in the activities mentioned above and in solving any
+technological and commercial problem.
+Under the Service Agreement following services are being rendered by the applicant:
+a. Specified services requiring the use of proprietary knowledge and processes
+belonging to Perfetti Group,Page 20of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.b. Specified services are: Accounting, budgeting, sales, marketing, forex
+management, loans, HR, legal support etc.
+c. Specified services are to be provided on continuous basis.
+It is thus found that some of the services under the two agreements are overlapping. There
+already is a provision to provide marketers, salesman, in-house legal counsel and other
+experienced employees to carry out activities of sales, marketing, legal support to Perfetti
+India in the TTKLA. There is further provision in TTKLA to use commercial know-how in
+the area of manufacturing, sales, advertisement and product promotion which ordinarily
+should cover accounting, budgeting, forex management, loans etc. Thus, the service
+agreement has largely not brought out anything specifically which is not covered in the broad
+parameters of TTKLA.
+27. Exhibit A to the Service Agreement delves into the details of the services, which is as
+under:
+S.
+No.Functions/Activities
+performedDescription of Services
+1 Accounting Services Assistance in setting- up and maintaining
+accounting policies and procedures in line
+with the group requirements.
+Provide detailed accounting policy manual.
+Review of accounting policies and
+procedures and providing guidance in
+respect of same whenever required.
+2 Budgeting and reporting Service Review of financial plans prepared by the
+recipient to check the commercial
+acceptability and accuracy of reporting.
+Regular review of reports to compare the
+actual and budgeted figures.Page 21of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.Monitoring monthly reports of the Group
+entities with the aim to increase saving
+through cash management and reviewing
+working capital forecast.
+Provide on regular basis the data on cost of
+production, sales & marketing and other
+overhead cost of sister companies. This
+helps to benchmark the cost and bring in
+efficiency in operations.
+3 Forex management Forex management at Group level which
+broadly includes monitoring, management
+and reporting of forex to hedge against the
+foreign exchange fluctuations.
+Hedging of currency risk at global level so
+that the Group companies are not impacted
+by the foreign exchange fluctuation risk and
+do not have to incur separate cost for same.
+As a result of centralized hedging obtaining
+better terms in respect of economies of
+scale.
+Follow forex market in order to provide the
+recipient with the best exchange rates.
+Provide parodic exchange rates statements.
+4 Global Credit facility
+administration and coordination
+of global fundingArranging guarantee and providing letter of
+comfort at global level for obtaining
+finance by Group companies at cheaper
+rates. As result of the corporate guarantee,
+Recipient is in a position to obtain finance
+and maintain relations with banks and
+financial institutions at better terms. This
+also saves Recipient’s cost in providing
+guarantees to bank deposit margins andPage 22of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.helps obtain loans at cheaper rates.
+Assist recipient’s finance managers in
+financing the businesses.
+5 Organisation of International
+Finance Managers MeetingsEnables recipients finance manager to
+interact with the international colleagues
+and to understand best practices at a Group
+level. Corporate to facilitate and take care
+of accommodation and the complete
+programme like guest speakers etc.
+6 Human resource management
+serviceGlobal review of HP policies.
+Setting up of global bonus scheme for the
+sales personnel and global performance
+management system.
+Assistance in setting up the benchmarks for
+the performance standards amongst the
+Group and defining the code of ethics for
+the recipient.
+Assistance in facilitating the personnel
+mobility within the Group and associated
+contractual support.
+Assistance in tasks related to labour
+conditions.
+Support and assistance in personnel related
+contractual disputes and negotiations.
+Enable Recipient’s international colleagues.
+Provision of the accommodation and
+facilitating the complete program like guest
+speaker etc.
+7 Support in coordination of local
+strategyAdvice and support local General and
+Finance Managers on operational issues
+Undertaking market studies and
+disseminating InformationPage 23of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.Review of business plans and advising on
+marketing and sales strategy.
+Updating on market and global business
+trends.
+8 Support in financial controlling Help the Recipient’s finance manager by
+advising on matters like corporate
+governance, realization budget, proper
+accounting working capital control,
+investment and financing
+Assistance in coordinating & collating
+required documents/information for the
+purpose of transfer pricing requirement.
+9 Corporate Secretarial and Legal
+SupportCentralized Assistance in relation to
+coordinating and collating status on
+litigation matters, assistance with
+commercial contract format etc.
+Guidelines in relation to governance
+policies, Group’s authorization and
+delegation policies
+Support in relation to contract review and
+assistance in business risk evaluation.
+10 Environment Health & Safety Provide guidelines for relevant safety,
+health and security support to employees on
+travel.
+Assistance in relation to global policies and
+framework on environmental health and
+safety support.
+11 Support on Risk Management Provide Recipient with assistance on
+managing risks in relation to fire and other
+perils to which recipient is exposed to.Page 24of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.The details under each head clearly show that the service is in the nature of assistance to the
+team of the Perfetti India. Under some heads the Applicant will review the work of Perfetti
+India and assist in maintaining standards as per group requirements. In some cases, there will
+be provision of guidelines/manual to Perfetti India. Hence the services are largely carried out
+by the Applicant to enable Perfetti India to be able to carry out its day-to-day tasks better.
+28. These services were customarily provided in the ordinary course of business
+arrangements as per TTLA dated 01.07.2005 as per which royalty was also being paid. As
+explained by the Applicant no service fees was being separately charged as per the said
+TTLA. It is only pursuant to the TTLKA dated 01.04.2010 that a separate service agreement
+was entered into. The agreement for payment of royalty vide TTKLA dated 01.04.2010 and
+the service agreement also dated 01.04.2010 are thus a set of related contracts. The person
+performing the service is the same, who is also receiving the royalty in this case. The
+contention of the applicant that the amount paid for services was not an insubstantial portion
+of the combined payment is found to be misplaced. As pointed out by the revenue the total
+outgo on account of royalty and service charge has remained almost the same in terms of
+percentage of turnover, as compared to the payment of royalty prior to the service agreement.
+As admitted by the applicant these services were being provided even prior to the present
+service agreement but were not being separately charged. As per the arrangements made a
+part of the royalty payment has been transferred to service payment and, therefore, the
+quantum of payment for service charge becomes inconsequential. In fact the basis of royalty
+on domestic and export sales in the earlier contract was also tweaked in the subsequent
+contract and was made dependant on brands viz. global, regional and local. Further, not much
+weightage can be given to this factor when all other conditions as mentioned in the MOU are
+found to be against the Applicant. It is also found that the nature of services is tailor-made for
+Perfetti Group Companies. As clarified by the Applicant, it is not providing such services toPage 25of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.any third parties but only to PVM Group entities. This clearly establishes that the services
+rendered are ancillary and subsidiary to the enjoyment of right, property or information under
+the TTKLA.
+29. The meaning and scope of the term technical and consultancy services was considered
+by this Authority in the case of Intertek Trading Services India (P) Ltd. in re (2008) (307 ITR
+418), and held that the expression “technical services” cannot be construed in a narrow sense.
+It has been observed therein that the term “technical” ought not to be confined only to
+technology relating to engineering, manufacturing or other applied sciences. Professional
+service imbued with expertise could be regarded as technical service. To reproduce from the
+order:
+What is meant by the expression 'technical'? Should it be confined only to
+technology relating to engineering, manufacturing or other applied
+sciences? We do not think so. The expression 'technical' ought not to be
+construed in a narrow sense. It has received a wide interpretation in tune
+with its dictionary meaning in several cases.
+InContinental Construction Ltd. v.CIT[1992] 195 ITR 81 the Supreme Court
+observed that "the expression 'technical services' has a very broad
+connotation and it has been used elsewhere in the Statute also so widely
+as to comprehend professional services: vide section 9(1) ( vii) ". The
+relevant meanings of the word 'technical' given in the New Shorter Oxford
+Dictionary (Thumb Index Edition) are 1. Of a person : having knowledge of
+or expertise in a particular art, science, or other subject. 2. pertaining to,
+involving, or characteristic of a particular art, science, profession, or
+occupation, or the applied arts and sciences generally. In CBDT v.Oberoi
+Hotels India (P.) Ltd. [1998] 97 Taxman 453, the Supreme Court reiterated
+the view that the term 'technical services' included professional services.
+In the case of Dean, Goa Medical College v.Dr. Sudhir Kumar Solanki [2001] 7
+SCC 645, the question was whether the expression technical institutions'
+takes within its fold the medical colleges. The Supreme Court observed
+that "the dictionary meaning of the word "technical" is also "professional"
+and is used in contradistinction with pure sciences to prepare the
+professionals in applied sciences". However, we would like to observePage 26of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.that it is not any or every professional service that amounts to technical
+service. Professionalism and an element of expertise should be at the back
+of such services.
+There is a decision of Andhra Pradesh High Court in which the ambit of
+expression 'technical service' was considered. In G.V.K. Industries
+Ltd. v.ITO [1997] 228 ITR 564 (AP), SSM Quadri, J. speaking for the
+Division Bench rejected the argument of the assessee's counsel 'that the
+NRC did not render any technical or consultancy service to the petitioner-
+company and that it merely rendered advice in connection with the
+procurement of loans by it, which does not amount to rendering technical
+or consultancy service within the contemplation of the said clause and
+that the technical or consultancy service should relate to the core of the
+business of the petitioner-company'. It was observed. In our view advice
+given to procure loan to strengthen finances would be as much a technical
+or consultancy service as it would be with regard to management,
+generation of power or plant and machinery. From the above discussion it
+follows that 'success fees' fall in line with any other technical services
+within the ambit of section 9(1) ( vii) (b) .
+10.7 The other expression used in clause ( c) of Article 13.4 [as well as
+section 9(1) ( vii) of the Income-tax Act] is 'Consultancy services'.
+Consultancy services could also be technical in nature. These two
+expressions are not to be treated as water-tight compartments. However,
+advisory services which merely involve discussion and advice of routine
+nature or exchange of informations cannot appropriately be classified as
+'Consultancy services' under the Article. An element of expertise or
+special knowledge on the part of the consultant is implicit in the
+consultancy services contemplated by Article 13.4( c).
+30. We must appreciate the law in the light of the facts before us. When we apply the
+yardstick given in the above ruling, these services giving knowledge and experience of the
+confectionary industry to Perfetti India is found to be technical in nature. They are also
+ancillary and subsidiary in nature in view of the fact that the Agreement clearly brings out the
+intention of the parties to assist Perfetti India by applying the experience of its sister concerns
+and group companies. The services rendered in setting-up and maintaining accounting
+policies and procedures, the provision of detailed accounting policy manual, review ofPage 27of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.financial plans, benchmarking cost of production, sales & marketing and other overhead cost,
+forex management and hedging of currency risk at global level, obtaining finance at cheaper
+rates, corporate guarantee, setting up of global bonus scheme for the sales personnel and
+global performance management system, benchmarking the performance standards and
+defining the code of ethics for the recipient, providing guidelines for safety, health and
+security support, global policies and framework on environmental health and safety support,
+managing risks in relation to fire and other perils etc. are all technical services which cannot
+be provided without the domain knowledge of the relevant field. Thus, the majority of the
+services are technical in nature and the remaining one are in the area of consultancy.
+Therefore, we cannot agree with the submission that they are not technical or consultancy in
+nature. As already demonstrated earlier, these services are also ancillary and subsidiary to the
+enjoyment of right, property or information under the TTKLA as such services are provided
+to group companies only, with whom TTKLA is entered into, and not to any third party. The
+services provided under service agreement are all specialized services and the Applicant
+could have provided these services to any entity. However, the Applicant has not done so for
+the precise reason that these specialized services are only ancillary and subsidiary to the
+production process and could be provided only to those with whom TTKLA is made.
+31. The applicant has placed reliance on the decision of the Delhi High Court in the case
+of Steria (India) Ltd. (supra) in support of contention that the services rendered as per the
+service agreement were not technical or consultancy services but were managerial in nature.
+It is found that in that case a management service agreement was entered into, as per which
+services provided were corporate communication services, group marketing services,
+development services, information system services, legal services, human relation services
+etc. Thus, the nature of service rendered in the case of Steria (India) Ltd. was totally different
+from the nature of services rendered in the present case. Further the question to be decided inPage 28of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.that case was whether managerial service was taxable as per Indo-France DTAA, considering
+that Indo-UK DTAA expressly excluded fees for managerial services from FTS. Thus, the
+basic question in this case as well as the facts of the case was different. Therefore, the
+reliance placed by the Applicant on this decision is misplaced.
+32. The applicant has also relied upon the decision of AAR in the case of Measurement
+Technology Limited (supra). It is found that the nature of services rendered in this case were
+strategy and direction of business development of MTL India; attendance in person or by
+phone at regular operational meetings to discuss progress of activities, both financial and
+operational; management of personnel including conducting staff interviews, setting
+individual targets and carrying out performance appraisals and any other related service;
+which were held as routine managerial activities. It was observed in the ruling that though
+some of the services may have the trappings of technical and consultancy service, looking at
+the nature and the pre-dominant nature of services, they were primarily held as managerial
+services. In the case of Cummins Ltd. (supra) also the nature of services rendered was totally
+different as under:-
+Finalization of supplier prices from UK and US suppliers and ensuring market-
+competitive pricing from supplies;
+Ensuring that the approved suppliers have the necessary manufacturing
+capacities and Infrastructure to provide for the raw material requirements;
+Assisting in ensuring on-time delivery of components by the suppliers to Cummins
+India as well as resolution of delivery performance issues with suppliers, if any;
+processes and support in obtaining response from suppliers to any quality control
+violation issue; and
+Performance review of the supplier will be held by Cummins UK at least annually
+wherein Cummins UK will perform the regular product and process audits to
+check that the supplier process and controls meet the requirements.Page 29of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.As the nature of services rendered in this case were much restricted and totally different than
+the present case the Applicant cannot derive any benefit therefrom. In the case of Koninklijke
+Philips Electronics N.V. (supra) the nature of services rendered under management support
+service agreement were in areas of commercial, accounting, auditing, financing and legal
+matters which were held as managerial in nature by the ITAT. However, the facts of this
+case are also found to be different, as in this case receipt under Management Support Service
+Agreement was held as cost sharing arrangement and not as royalty or FTS. The Tribunal has
+not discussed the exact nature of services rendered nor has given any detailed reason as to
+why they are treated as managerial service. Further, the requirement of ‘make available’ was
+also not found fulfilled in this case. Under the circumstances, this cannot be treated as a
+binding precedent as the facts of the case are totally different. The facts of the case of
+Spencer Stuart International BV (supra) relied upon by the appellant are also found to be
+different as issue of search fee and licence fee was involved in that case and no reason was
+given by the Department that could lead to the conclusion that search fee was ancillary in
+nature to the licence fee.
+33. On the other hand the Revenue has placed reliance on the case of Shell India
+Marketing Private Limited (AAR) 2012-LL-0117-28. In that case Shell India was receiving
+General Business Support Services from Shell International Petroleum Company Limited, a
+UK company under cost contribution arrangement. The services rendered were in the form of
+general finance advice, taxation advice, legal advice, advice on Information Technology,
+media advice, assistance in contract and procurement and assistance in marketing, which
+were held as consultancy services. The decision of the AP High Court in the case of GVK
+Industries has already been referred earlier wherein it was held that the advice given to
+procure loan to strengthen finances would be as much a technical or consultancy service, as it
+would be with regard to management, generation of power or plant and machinery. The saidPage 30of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.decision of the High Court was upheld by the Supreme Court (GVK Industries (SC) 54
+taxmann.com 347)(2015). The Apex court upheld the judgment explaining the ‘source rule’
+and the definition of ‘consultancy’ and held as under:
+“As the factual matrix in the case at hand, would exposit the NRC had acted as a
+consultant. It had the skill, acumen and knowledge in the specialized field i.e.
+preparation of a scheme for required finances and to tie-up required loans. The
+nature of activities undertaken by the NRC has earlier been referred to by us. The
+nature of service referred by the NRC, can be said with certainty would come
+within the ambit and sweep of the term ‘consultancy service’ and, therefore, it has
+been rightly held that the tax at source should have been deducted as the amount
+paid as fee could be taxable under the head ‘fee for technical service’. Once the tax
+is payable/paid the grant of ‘No Objection Certificate’ was not legally permissible.
+Ergo, the judgment and order passed by the High Court are absolutely
+impregnable.”
+The decision of the Apex Court in the case of Continental Construction Ltd and Oberoi
+Hotels (India) (P.) Ltd (231 ITR 148) was already referreed in the decision of Intertek
+Trading Services India (P) Ltd., discussed earlier. In the case of Andaman Sea Food Pvt Ltd
+vs CIT (SLP no 36385/2014), the Supreme Court dismissed the SLP against Calcutta High
+Court judgment wherein it was had held that payment of consultancy fees to Singaporean
+company for forex derivative transaction services was taxable as 'Fees for technical
+services'(‘FTS’). In the case of International Hotel & Licensing Co (AAR) in re AAR 158
+Taxman 231 (AAR), this authority had held that the services of marketing and promotion
+were consultancy services and in the nature of fees for technical services.
+34. In view of the above facts, findings, discussions and the relevant judicial precedents,
+we are of the opinion that services rendered under the Service Agreement when read with
+TTKLA, fall within the purview of Article 12.5(a) of the DTAC as such services “are
+ancillary and subsidiary to the application or enjoyment of the right, property or information
+for which a payment described in paragraph 4 of this Article is received” by the Applicant.Page 31of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.This leaves us to examine whether the services also ‘make available’ technical knowledge,
+experience, skill, knowhow or processes or consist of the development and transfer of a
+technical plan or technical design, which enables the persons acquiring services to apply the
+technology contained therein.
+35. The Applicant has contended that as it does not render any technical service under the
+Service Agreement, wherein any technology is transferred, there does not arise the question
+of making available the said technology which could enable Perfetti India to utilize the same
+in future on its own. Therefore, Article 12(5)(b) of the India – Netherlands DTAA does not
+have any applicability to the facts of the present case. The technical services do not include
+only transfer of technology. The development and transfer of a technical plan or a technical
+design is only one aspect of technical service. The professional services having expertise in
+the relevant field are also technical in nature. On the other hand, the consultancy services
+which are not of a technical nature cannot be considered as ‘included service’ as they do not
+make available any technical knowledge, experience, skill, knowhow or process. However,
+all the services as per service agreement are not consultancy services. Rather, as discussed
+earlier, the majority of them are technical in nature which do make available the requisite
+skill to the recipient and equip them to carry on his business without reference to the service
+provider. The consultancy services which are merely advisory in nature and which merely
+involve discussion and advice of routine nature or exchange of information, however, do not
+fulfil this requirement.
+36. The exercise to segregate the services which ‘make available’ the technical
+knowledge, experience, skill, knowhow, processes etc. and enable the recipient to apply the
+same without reference to the service provider and the advisory services which fail to fulfil
+this yardstick, will only be an academic exercise. As already mentioned earlier the servicePage 32of32
+AAR/869/2010
+Perfetti Van Melle Holding B.V.charge received by the Applicant is taxable under Article 12.5(a) of the DTAC between India
+and The Netherlands and it is not necessary that the clause of Article 12.5(b) should also be
+simultaneously satisfied. The exercise to identify the services which satisfy the ‘make
+available’ clause would have been relevant, if the Article 12.5(a) would not have been found
+to be applicable.
+37. In view of the foregoing, the questions posed to us for a Ruling are answered as
+under:
+Que.1 The payment to be made by Perfetti India for the cost to be allocated by the
+applicant is taxable under Article 12.5(a) of the DTAC between India and The
+Netherlands. Though some of the services are also taxable Article 12.5(b) of the
+DTAC, such services are not segregated as they are already taxable under Article
+12.5(a).
+Que.2 As the answer to question No.1 is in affirmative, the payment made by Perfetti
+India would be chargeable to tax in India.
+Que.3 Perfetti India is liable to withhold taxes under section 195 of the Act on the
+payments to be made towards the costs to be allocated by the applicant.
+Que.4 As the applicant is liable to tax in India, it is required to file a tax return under
+the provisions of the Act and the transfer pricing provisions of section 92 to 92F
+would be applicable in respect of the payment to be made by Perfetti India.
+Accordingly, the ruling is given and pronounced on this the 21st day of June, 2019.
+(Narendra Prasad Sinha) (Ranjana P. Desai) (Ramayan Yadav)
+Member (Revenue) Chairperson Member (Law)
