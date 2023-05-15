@@ -1,7 +1,7 @@
 # Turning PDfs into Text
 import PyPDF2
 import os
-folder_path = "lawfiles/textfiles"
+folder_path =" Mian"
 for filename in os.listdir(folder_path):
     if filename.endswith('.pdf'):
         pdf_file = open(folder_path + filename, 'rb')
@@ -10,14 +10,14 @@ for filename in os.listdir(folder_path):
         for i in range(len(pdf_reader.pages)):
             text += pdf_reader.pages[i].extract_text().strip()
         name = filename.replace('.pdf','')
-        txt_path = lawfiles/textfiles.txt'
+        txt_path = 'lawfiles\\textfiles\\{name}.txt'
     with open(txt_path,'w',encoding = 'utf8') as taxfile:
         taxfile.write(text)
 
 
 from langchain.document_loaders import TextLoader
 from langchain.document_loaders import DirectoryLoader
-loader = DirectoryLoader('lawfiles/textfiles', glob="**/*.txt",show_progress=True)
+loader = DirectoryLoader('lawfiles\\textfiles\\', glob="**/*.txt",show_progress=True)
 from langchain.indexes import VectorstoreIndexCreator
 
 
