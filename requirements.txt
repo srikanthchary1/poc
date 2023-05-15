@@ -1,5 +1,0 @@
-streamlit
-PyPDF2
-os
-numpy
-pandas
